@@ -3,7 +3,7 @@ main = "worker.mjs"
 compatibility_date = "2026-05-12"
 
 [vars]
-ORIGIN_BASE = "https://YOUR_GITHUB_USERNAME.github.io/YOUR_REPO"
+ORIGIN_BASE = "https://Laurenceli13.github.io/cf-sub-auto"
 
 # set secret by:
 # wrangler secret put SUB_TOKEN
