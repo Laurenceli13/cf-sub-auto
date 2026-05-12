@@ -14,7 +14,7 @@
       "fingerprint": "chrome",
       "alive": false,
       "score": -1,
-      "tcp_ms": 350.88140000061685,
+      "tcp_ms": null,
       "tls_ms": null
     },
     {
@@ -30,7 +30,7 @@
       "fingerprint": "chrome",
       "alive": false,
       "score": -1,
-      "tcp_ms": 248.6638000000312,
+      "tcp_ms": null,
       "tls_ms": null
     }
   ]
