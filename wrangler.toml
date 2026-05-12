@@ -1,0 +1,9 @@
+﻿name = "sub-gateway"
+main = "worker.mjs"
+compatibility_date = "2026-05-12"
+
+[vars]
+ORIGIN_BASE = "https://YOUR_GITHUB_USERNAME.github.io/YOUR_REPO"
+
+# set secret by:
+# wrangler secret put SUB_TOKEN
