@@ -2,7 +2,7 @@ name: cf-speed-test
 
 on:
   schedule:
-    - cron: "37 3 * * 0"  # Weekly on Sunday 03:37 UTC (off-peak)
+    - cron: "37 3 * * *"  # Daily at 03:37 UTC (off-peak)
   workflow_dispatch:
 
 permissions:
