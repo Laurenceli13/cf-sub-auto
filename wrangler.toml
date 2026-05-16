@@ -1,6 +1,7 @@
 name = "sub-gateway"
 main = "worker.mjs"
 compatibility_date = "2026-05-12"
+workers_dev = true
 
 [vars]
 SUBNAME = "优选订阅生成器"
@@ -32,6 +33,10 @@ PS = ""
 NOTIFY_URL = ""
 # Alert threshold percentage
 ALERT_THRESHOLD = "30"
+
+[[routes]]
+pattern = "sub.tamovpn.top/*"
+zone_name = "tamovpn.top"
 
 # set secrets by:
 # wrangler secret put SUB_TOKEN

@@ -476,16 +476,23 @@ ${avatarTag ? `.logo { margin-bottom: 12px; } .logo img { width: 72px; height: 7
   </div>
 
   <div class="card" id="quickLinks">
-    <h2><span class="dot"></span>快速订阅入口</h2>
+    <h2><span class="dot"></span>扫码导入订阅</h2>
+    <div class="qrcode-section" style="text-align:center;padding:20px 0;">
+      <div id="mainQRCode" style="display:inline-block;"></div>
+      <p style="color:#94a3b8;font-size:0.85rem;margin-top:12px;">用客户端扫描二维码即可导入</p>
+      <input type="text" id="mainToken" placeholder="输入你的TOKEN"
+        style="width:100%;max-width:300px;padding:8px 12px;border-radius:6px;background:#0f172a;border:1px solid #334155;color:#e2e8f0;font-size:0.85rem;text-align:center;margin-top:8px;"
+        oninput="updateMainQR()">
+    </div>
     <div class="links-section">
-      <h3>你的专属订阅地址（在客户端中导入）</h3>
+      <h3>订阅地址（手动复制）</h3>
       <div class="link-row">
-        <code>https://${new URL(request.url).host}/sub.txt?token=你的TOKEN</code>
-        <button class="btn" onclick="copyText('https://${new URL(request.url).host}/sub.txt?token=你的TOKEN')">复制</button>
+        <code id="subUrlDisplay">https://${new URL(request.url).host}/sub.txt?token=TOKEN</code>
+        <button class="btn" onclick="copyText(document.getElementById('subUrlDisplay').textContent)">复制</button>
       </div>
       <div class="link-row">
-        <code>https://${new URL(request.url).host}/sub.txt?token=TOKEN&format=clash</code>
-        <button class="btn" onclick="copyText('https://${new URL(request.url).host}/sub.txt?token=TOKEN&format=clash')">复制</button>
+        <code id="clashUrlDisplay">https://${new URL(request.url).host}/sub.txt?token=TOKEN&format=clash</code>
+        <button class="btn" onclick="copyText(document.getElementById('clashUrlDisplay').textContent)">复制</button>
       </div>
       <div class="link-row">
         <code>https://${new URL(request.url).host}/health</code>
@@ -567,11 +574,25 @@ function showToast(msg) {
 }
 
 // Quick access links: fill in the user's domain
-document.addEventListener('DOMContentLoaded', () => {
+let mainQR = null;
+function updateMainQR() {
+  const token = document.getElementById('mainToken').value.trim();
   const host = location.host;
-  document.querySelectorAll('.link-row code').forEach(el => {
-    el.textContent = el.textContent.replace('你的TOKEN', 'YOUR_TOKEN');
-  });
+  const url = token
+    ? 'https://' + host + '/sub.txt?token=' + token
+    : 'https://' + host + '/sub.txt?token=TOKEN';
+
+  // Update display URLs
+  document.getElementById('subUrlDisplay').textContent = url;
+  document.getElementById('clashUrlDisplay').textContent = 'https://' + host + '/sub.txt?token=' + (token || 'TOKEN') + '&format=clash';
+
+  // Update QR
+  const qrDiv = document.getElementById('mainQRCode');
+  qrDiv.innerHTML = '';
+  new QRCode(qrDiv, { text: url, width: 200, height: 200, colorDark: '#38bdf8', colorLight: '#1e293b' });
+}
+document.addEventListener('DOMContentLoaded', () => {
+  updateMainQR();
 });
 </script>
 </body>
@@ -666,22 +687,20 @@ export default {
                 return new Response('Worker not configured (ORIGIN_BASE missing)', { status: 500 });
             }
 
-            // Check if requesting Clash/Sing-box format
+            // Check if requesting Clash/Sing-box format — fetch pre-built files
             if (format === 'clash' || format === 'singbox') {
-                // Fetch plain subscription first
-                const upstream = `${origin}/sub_v2ray.txt`;
+                const file = format === 'clash' ? 'sub_clash.yaml' : 'sub_singbox.json';
+                const upstream = `${origin}/${file}`;
                 const res = await fetch(upstream, {
                     headers: { 'User-Agent': 'sub-gateway/2.0' },
-                    cf: { cacheTtl: 60, cacheEverything: true }
+                    cf: { cacheTtl: 120, cacheEverything: true }
                 });
                 if (!res.ok) return new Response(`Upstream error: ${res.status}`, { status: 502 });
-                const plainB64 = await res.text();
-                const converted = await convertFormat(plainB64, format, scvDefault, request);
-                return new Response(converted, {
+                return new Response(await res.text(), {
                     status: 200,
                     headers: {
                         'content-type': format === 'clash' ? 'text/yaml; charset=utf-8' : 'application/json; charset=utf-8',
-                        'cache-control': 'public, max-age=60'
+                        'cache-control': 'public, max-age=120'
                     }
                 });
             }
