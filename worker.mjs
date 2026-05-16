@@ -23,7 +23,7 @@ export default {
       return new Response("Worker not configured", { status: 500 });
     }
 
-    const upstream = `${origin}/public/sub.txt`;
+    const upstream = `${origin}/public/sub_v2ray.txt`;
     const res = await fetch(upstream, {
       headers: {
         "User-Agent": "sub-gateway/1.0"
