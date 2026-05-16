@@ -308,8 +308,9 @@ async function tgNotify(msg, clientIP, detail) {
 
 // ─── Subscription Conversion (Clash/Sing-box) ──────────────────────
 
-async function convertFormat(plainB64, format, scv) {
-    const subUrl = `https://${new URL(request.url).host}/sub?dummy=1`; // placeholder
+async function convertFormat(plainB64, format, scv, request) {
+    const host = request ? new URL(request.url).host : 'localhost';
+    const subUrl = `https://${host}/sub?dummy=1`; // placeholder for converter
     // Encode the plain subscription as a data URL for the converter
     const encodedUrl = encodeURIComponent(`data:text/plain;base64,${plainB64}`);
     const finalScv = scv || scvDefault;
@@ -332,7 +333,7 @@ async function convertFormat(plainB64, format, scv) {
 
 // ─── Web UI HTML ───────────────────────────────────────────────────
 
-function renderUI() {
+function renderUI(request) {
     const bgStyle = siteBackground ? `background-image: url('${siteBackground}'); background-size: cover;` : '';
     const iconTag = siteIcon ? `<link rel="icon" href="${siteIcon}">` : '';
     const avatarTag = siteAvatar ? `<div class="logo"><img src="${siteAvatar}" alt="logo"></div>` : '';
@@ -675,7 +676,7 @@ export default {
                 });
                 if (!res.ok) return new Response(`Upstream error: ${res.status}`, { status: 502 });
                 const plainB64 = await res.text();
-                const converted = await convertFormat(plainB64, format, scvDefault);
+                const converted = await convertFormat(plainB64, format, scvDefault, request);
                 return new Response(converted, {
                     status: 200,
                     headers: {
@@ -739,7 +740,7 @@ export default {
 
             // Clash/Sing-box conversion
             if (format === 'clash' || format === 'singbox') {
-                const converted = await convertFormat(subB64, format, scv);
+                const converted = await convertFormat(subB64, format, scv, request);
                 return new Response(converted, {
                     status: 200,
                     headers: {
@@ -805,7 +806,7 @@ export default {
             );
 
             if (format === 'clash' || format === 'singbox') {
-                const converted = await convertFormat(subB64, format, scv);
+                const converted = await convertFormat(subB64, format, scv, request);
                 return new Response(converted, {
                     headers: {
                         'content-type': format === 'clash' ? 'text/yaml' : 'application/json',
@@ -848,7 +849,7 @@ export default {
                     return fetch(new Request(randomItem(urls), request));
                 }
             }
-            return new Response(renderUI(), {
+            return new Response(renderUI(request), {
                 headers: { 'Content-Type': 'text/html; charset=UTF-8' }
             });
         }
