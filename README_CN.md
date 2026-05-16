@@ -193,9 +193,18 @@ Worker 环境变量说明见 [wrangler.toml](wrangler.toml)。
 
 ### 国内无法访问 GitHub Pages 怎么办？
 
-1. **方案一**：使用 Cloudflare Worker 作为前置网关（推荐）
-2. **方案二**：在 Cloudflare DNS 中开启 CDN 代理（橙色云朵）
-3. **方案三**：使用国内 DNS（如 DNSPod）并将记录指向 Cloudflare 边缘 IP
+我们已配置**多线路访问方案**，确保国内正常使用：
+
+1. **主线路（Cloudflare Worker）**: `https://sub.tamovpn.top/sub.txt?token=xxx`
+   - Cloudflare 边缘网络，国内大部分地区可直接访问
+2. **备用线路（jsDelivr CDN）**: 
+   - Base64 订阅: `https://cdn.jsdelivr.net/gh/Laurenceli13/cf-sub-auto@main/public/sub_v2ray.txt`
+   - Clash YAML: `https://cdn.jsdelivr.net/gh/Laurenceli13/cf-sub-auto@main/public/sub_clash.yaml`
+   - jsDelivr 在中国大陆有 CDN 节点，访问稳定
+3. **客户端下载加速（ghproxy）**:
+   - 将 GitHub Release 链接前的 `https://github.com` 替换为 `https://ghproxy.com/https://github.com`
+   - 示例: `https://ghproxy.com/https://github.com/2dust/v2rayNG/releases`
+4. **自部署 Worker**：Fork 项目后在 Cloudflare 绑定自己的域名
 
 ### 订阅更新失败 / 节点全是离线？
 

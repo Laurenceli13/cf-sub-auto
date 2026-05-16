@@ -651,24 +651,41 @@ export default {
         // ── /health ──
         if (url.pathname === '/health') {
             const origin = (env.ORIGIN_BASE || '').replace(/\/$/, '');
-            let upstreamOk = false, upstreamStatus = 0;
+            const fallbackOrigin = origin.replace(
+                'raw.githubusercontent.com/Laurenceli13/cf-sub-auto/main',
+                'cdn.jsdelivr.net/gh/Laurenceli13/cf-sub-auto@main'
+            );
+            let primaryOk = false, primaryStatus = 0;
+            let fallbackOk = false, fallbackStatus = 0;
             if (origin) {
                 try {
                     const check = await fetch(`${origin}/sub_v2ray.txt`, {
                         headers: { 'User-Agent': 'sub-gateway/2.0' },
                         cf: { cacheTtl: 30 }
                     });
-                    upstreamStatus = check.status;
-                    upstreamOk = check.ok;
+                    primaryStatus = check.status;
+                    primaryOk = check.ok;
+                } catch {}
+                try {
+                    const check = await fetch(`${fallbackOrigin}/sub_v2ray.txt`, {
+                        headers: { 'User-Agent': 'sub-gateway/2.0' },
+                        cf: { cacheTtl: 30 }
+                    });
+                    fallbackStatus = check.status;
+                    fallbackOk = check.ok;
                 } catch {}
             }
+            const upstreamOk = primaryOk || fallbackOk;
             return new Response(JSON.stringify({
                 ok: !!origin && upstreamOk,
                 service: 'sub-gateway',
                 time: new Date().toISOString(),
                 configured: !!(env.ORIGIN_BASE || env.SUB_TOKEN),
                 upstreamOk,
-                upstreamStatus
+                origins: {
+                    primary: { ok: primaryOk, status: primaryStatus },
+                    fallback: { ok: fallbackOk, status: fallbackStatus, url: fallbackOrigin }
+                }
             }, null, 2), {
                 status: upstreamOk ? 200 : 503,
                 headers: { 'content-type': 'application/json; charset=utf-8', 'cache-control': 'no-store' }
@@ -683,43 +700,64 @@ export default {
             }
 
             const origin = (env.ORIGIN_BASE || '').replace(/\/$/, '');
+            // jsDelivr CDN mirror for China accessibility
+            const fallbackOrigin = origin.replace(
+                'raw.githubusercontent.com/Laurenceli13/cf-sub-auto/main',
+                'cdn.jsdelivr.net/gh/Laurenceli13/cf-sub-auto@main'
+            );
             if (!origin) {
                 return new Response('Worker not configured (ORIGIN_BASE missing)', { status: 500 });
+            }
+
+            // Helper: fetch from origin with fallback to jsDelivr CDN
+            async function fetchWithFallback(filePath, ttl) {
+                const origins = [origin, fallbackOrigin];
+                let lastError = null;
+                for (const src of origins) {
+                    try {
+                        const res = await fetch(`${src}/${filePath}`, {
+                            headers: { 'User-Agent': 'sub-gateway/2.0' },
+                            cf: { cacheTtl: ttl, cacheEverything: true }
+                        });
+                        if (res.ok) return res;
+                        lastError = res.status;
+                    } catch (e) {
+                        lastError = e.message;
+                    }
+                }
+                throw new Error(`All origins failed. Last error: ${lastError}`);
             }
 
             // Check if requesting Clash/Sing-box format — fetch pre-built files
             if (format === 'clash' || format === 'singbox') {
                 const file = format === 'clash' ? 'sub_clash.yaml' : 'sub_singbox.json';
-                const upstream = `${origin}/${file}`;
-                const res = await fetch(upstream, {
-                    headers: { 'User-Agent': 'sub-gateway/2.0' },
-                    cf: { cacheTtl: 120, cacheEverything: true }
-                });
-                if (!res.ok) return new Response(`Upstream error: ${res.status}`, { status: 502 });
+                try {
+                    const res = await fetchWithFallback(file, 120);
+                    return new Response(await res.text(), {
+                        status: 200,
+                        headers: {
+                            'content-type': format === 'clash' ? 'text/yaml; charset=utf-8' : 'application/json; charset=utf-8',
+                            'cache-control': 'public, max-age=120'
+                        }
+                    });
+                } catch (e) {
+                    return new Response(`Upstream error: ${e.message}`, { status: 502 });
+                }
+            }
+
+            // Default: return plain subscription (proxy from origin with fallback)
+            try {
+                const res = await fetchWithFallback('sub_v2ray.txt', 60);
                 return new Response(await res.text(), {
                     status: 200,
                     headers: {
-                        'content-type': format === 'clash' ? 'text/yaml; charset=utf-8' : 'application/json; charset=utf-8',
-                        'cache-control': 'public, max-age=120'
+                        'content-type': 'text/plain; charset=utf-8',
+                        'cache-control': 'public, max-age=60'
                     }
                 });
+            } catch (e) {
+                return new Response(`Upstream error: ${e.message}`, { status: 502 });
             }
-
-            // Default: return plain subscription (direct GitHub raw fetch)
-            const upstream = `${origin}/sub_v2ray.txt`;
-            const res = await fetch(upstream, {
-                headers: { 'User-Agent': 'sub-gateway/2.0' },
-                cf: { cacheTtl: 60, cacheEverything: true }
-            });
-            if (!res.ok) return new Response(`Upstream error: ${res.status}`, { status: 502 });
-
-            return new Response(await res.text(), {
-                status: 200,
-                headers: {
-                    'content-type': 'text/plain; charset=utf-8',
-                    'cache-control': 'public, max-age=60'
-                }
-            });
         }
 
         // ── /sub (parametric subscription generation) ──
