@@ -13,6 +13,8 @@
 - `scripts/fetch_free_subscriptions.py`：抓取 GitHub 免费订阅源并去重
 - `public/sub.txt`：最终订阅输出（Base64）
 - `public/sub_raw.txt`：明文节点链接（调试用）
+- `public/sub_v2ray.txt`：仅保留 V2Ray 常见协议（Base64）
+- `public/sub_v2ray_raw.txt`：仅保留 V2Ray 常见协议（明文）
 - `.github/workflows/update-subscription.yml`：定时自动更新
 
 ## 1) 准备
