@@ -9,6 +9,57 @@
 export default {
   async fetch(request, env) {
     const url = new URL(request.url);
+    const origin = (env.ORIGIN_BASE || "").replace(/\/$/, "");
+
+    if (url.pathname === "/health") {
+      const upstream = origin ? `${origin}/public/sub_v2ray.txt` : "";
+      let upstreamOk = false;
+      let upstreamStatus = 0;
+      let upstreamLength = null;
+      let error = null;
+
+      if (upstream) {
+        try {
+          const check = await fetch(upstream, {
+            headers: { "User-Agent": "sub-gateway/1.0" },
+            cf: { cacheTtl: 30, cacheEverything: false }
+          });
+          upstreamStatus = check.status;
+          upstreamOk = check.ok;
+          upstreamLength = check.headers.get("content-length");
+        } catch (e) {
+          error = e instanceof Error ? e.message : String(e);
+        }
+      }
+
+      return new Response(
+        JSON.stringify(
+          {
+            ok: Boolean(origin) && upstreamOk,
+            service: "sub-gateway",
+            time: new Date().toISOString(),
+            configured: Boolean(origin) && Boolean(env.SUB_TOKEN),
+            originConfigured: Boolean(origin),
+            tokenConfigured: Boolean(env.SUB_TOKEN),
+            upstream,
+            upstreamOk,
+            upstreamStatus,
+            upstreamLength,
+            error
+          },
+          null,
+          2
+        ),
+        {
+          status: upstreamOk ? 200 : 503,
+          headers: {
+            "content-type": "application/json; charset=utf-8",
+            "cache-control": "no-store"
+          }
+        }
+      );
+    }
+
     if (url.pathname !== "/sub.txt") {
       return new Response("Not Found", { status: 404 });
     }
@@ -18,7 +69,6 @@ export default {
       return new Response("Forbidden", { status: 403 });
     }
 
-    const origin = (env.ORIGIN_BASE || "").replace(/\/$/, "");
     if (!origin) {
       return new Response("Worker not configured", { status: 500 });
     }

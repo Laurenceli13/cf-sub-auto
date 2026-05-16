@@ -38,6 +38,9 @@
 你的订阅地址：
 - `https://sub.yourdomain.com/sub.txt?token=你的SUBSCRIPTION_TOKEN`
 
+健康检查地址（无需 token）：
+- `https://sub.yourdomain.com/health`
+
 在 v2ray 客户端里添加订阅地址并更新即可。
 
 ## 5) 关于“优选纯净 IP”
