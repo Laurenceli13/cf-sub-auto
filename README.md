@@ -10,10 +10,9 @@
 仅用于你本人合法网络访问与安全加固测试。请遵守当地法律法规与平台条款。
 
 ## 目录
-- `nodes/nodes.json`：节点池（手动维护）
-- `scripts/select_best.py`：自动优选
-- `scripts/build_subscription.py`：生成订阅
+- `scripts/fetch_free_subscriptions.py`：抓取 GitHub 免费订阅源并去重
 - `public/sub.txt`：最终订阅输出（Base64）
+- `public/sub_raw.txt`：明文节点链接（调试用）
 - `.github/workflows/update-subscription.yml`：定时自动更新
 
 ## 1) 准备
@@ -23,15 +22,14 @@
 3. 开启 GitHub Pages（Deploy from branch: `main` / `/ (root)`）。
 4. 在 Cloudflare 上将 `sub.yourdomain.com` CNAME 到 `<your-github-username>.github.io`。
 
-## 2) 维护节点
-编辑 `nodes/nodes.json`，每条记录一个节点（当前模板支持 `vless+ws+tls`）。
+## 2) 节点来源
+当前自动从公开 GitHub 订阅源抓取并聚合（去重后输出），无需手动维护 `nodes/nodes.json`。
 
 ## 3) 自动任务
-工作流每 30 分钟运行一次，也可手动触发：
-- 读取节点
-- TCP/TLS 打分
-- 选择 Top N
-- 生成 `public/sub.txt`
+工作流每 6 小时运行一次，也可手动触发：
+- 拉取多个 GitHub 免费订阅源
+- 自动识别并解码 Base64 订阅
+- 去重后生成 `public/sub_raw.txt` 与 `public/sub.txt`
 - 提交回仓库
 
 ## 4) 手机端导入

@@ -1,8 +1,8 @@
-﻿name: update-subscription
+name: update-subscription
 
 on:
   schedule:
-    - cron: "*/30 * * * *"
+    - cron: "15 */6 * * *"
   workflow_dispatch:
 
 permissions:
@@ -20,18 +20,13 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Run selection
-        run: python scripts/select_best.py
-
-      - name: Build subscription
-        env:
-          SUBSCRIPTION_TOKEN: ${{ secrets.SUBSCRIPTION_TOKEN }}
-        run: python scripts/build_subscription.py
+      - name: Fetch free subscriptions
+        run: python scripts/fetch_free_subscriptions.py
 
       - name: Commit updates
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add nodes/selected.json public/sub.txt
-          git diff --cached --quiet || git commit -m "chore: refresh best nodes and subscription"
+          git add public/sub.txt public/sub_raw.txt
+          git diff --cached --quiet || git commit -m "chore: refresh free subscription nodes"
           git push
