@@ -1,6 +1,1 @@
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-us-005.fastervpn.world:443?insecure=1&sni=vpn-us-005.fastervpn.world#%F0%9F%87%BA%F0%9F%87%B8US_3%7C1.1MB%2Fs
-trojan://8r<[9'l6hAO#8ZQi@147.224.58.153:443?sni=Koma-YT.PAGeS.Dev&allowInsecure=1&type=ws&path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&host=Koma-YT.PAGeS.Dev#%F0%9F%87%BA%F0%9F%87%B8US_4%7C1.1MB%2Fs
-trojan://8r<[9'l6hAO#8ZQi@154.17.8.126:2053?sni=Koma-YT.PAGeS.Dev&type=ws&path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&host=Koma-YT.PAGeS.Dev#%F0%9F%87%BA%F0%9F%87%B8US_5%7C1.4MB%2Fs
-trojan://8r<[9'l6hAO#8ZQi@188.241.241.32:8443?sni=Koma-YT.PAGeS.Dev&type=ws&path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&host=Koma-YT.PAGeS.Dev#%F0%9F%87%BA%F0%9F%87%B8US_6%7C2.6MB%2Fs
-vless://04969b01-ac6a-4056-b5cd-852ccf45f100@104.16.63.239:80?security=none&type=ws&path=%2F%3Fed%3D2048&host=netherlands.vipserver14.workers.dev#%F0%9F%87%BA%F0%9F%87%B8US_2%7C2.3MB%2Fs
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@102.177.189.30:8880?security=none&type=ws&path=%2F&host=vms.lifetime29.workers.dev&encryption=none#%F0%9F%87%BA%F0%9F%87%B8US_1%7C1.4MB%2Fs
+ss://bm9uZTpjODhiMmM0Ni0xNGMzLTRhZDgtOTE1Ny1kOWI0YzU2MzE0NTA=@shopify.com:443/?plugin=v2ray-plugin%3Bobfs%3Dwebsocket%3Bmode%3Dwebsocket%3Bobfs-host%3Dcfp.freen2.de5.net%3Bhost%3Dcfp.freen2.de5.net%3Bpath%3D%2Fc88b2c46-14c3-4ad8-9157-d9b4c5631450%2F%3Fed%3D2560%3Btls%3Bmux%3D0#%F0%9F%87%BA%F0%9F%87%B8US_3%7C1.3MB%2Fs

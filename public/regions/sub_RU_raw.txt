@@ -1,1 +1,2 @@
+hysteria2://10550754-cf62-3d3b-ba6a-50be27a275d7@195.133.53.33:443?sni=s516.okgfw.top#%F0%9F%87%B7%F0%9F%87%BARU_1%7C1.6MB%2Fs
 vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@r1.mizulina.top:22231?security=tls&flow=xtls-rprx-vision#俄罗斯联邦/Russia
