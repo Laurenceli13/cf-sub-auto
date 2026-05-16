@@ -1,0 +1,133 @@
+{
+  "updated": "2026-05-16T11:04:26Z",
+  "total_nodes": 94,
+  "v2ray_nodes": 87,
+  "hysteria_nodes": 7,
+  "regions": {
+    "DE": {
+      "name": "德国",
+      "emoji": "🇩🇪",
+      "count": 21
+    },
+    "OTHER": {
+      "name": "其他",
+      "emoji": "🌐",
+      "count": 14
+    },
+    "NL": {
+      "name": "荷兰",
+      "emoji": "🇳🇱",
+      "count": 7
+    },
+    "SG": {
+      "name": "新加坡",
+      "emoji": "🇸🇬",
+      "count": 6
+    },
+    "US": {
+      "name": "美国",
+      "emoji": "🇺🇸",
+      "count": 6
+    },
+    "SE": {
+      "name": "瑞典",
+      "emoji": "🇸🇪",
+      "count": 6
+    },
+    "KR": {
+      "name": "韩国",
+      "emoji": "🇰🇷",
+      "count": 4
+    },
+    "FR": {
+      "name": "法国",
+      "emoji": "🇫🇷",
+      "count": 4
+    },
+    "JP": {
+      "name": "日本",
+      "emoji": "🇯🇵",
+      "count": 4
+    },
+    "CN": {
+      "name": "中国",
+      "emoji": "🇨🇳",
+      "count": 3
+    },
+    "CA": {
+      "name": "加拿大",
+      "emoji": "🇨🇦",
+      "count": 3
+    },
+    "FI": {
+      "name": "芬兰",
+      "emoji": "🇫🇮",
+      "count": 2
+    },
+    "TW": {
+      "name": "台湾",
+      "emoji": "🇹🇼",
+      "count": 2
+    },
+    "IN": {
+      "name": "印度",
+      "emoji": "🇮🇳",
+      "count": 1
+    },
+    "IT": {
+      "name": "意大利",
+      "emoji": "🇮🇹",
+      "count": 1
+    },
+    "MD": {
+      "name": "摩尔多瓦",
+      "emoji": "🇲🇩",
+      "count": 1
+    },
+    "MA": {
+      "name": "摩洛哥",
+      "emoji": "🇲🇦",
+      "count": 1
+    },
+    "IE": {
+      "name": "爱尔兰",
+      "emoji": "🇮🇪",
+      "count": 1
+    },
+    "GB": {
+      "name": "英国",
+      "emoji": "🇬🇧",
+      "count": 1
+    },
+    "CH": {
+      "name": "瑞士",
+      "emoji": "🇨🇭",
+      "count": 1
+    },
+    "RO": {
+      "name": "罗马尼亚",
+      "emoji": "🇷🇴",
+      "count": 1
+    },
+    "HU": {
+      "name": "匈牙利",
+      "emoji": "🇭🇺",
+      "count": 1
+    },
+    "AT": {
+      "name": "奥地利",
+      "emoji": "🇦🇹",
+      "count": 1
+    },
+    "HK": {
+      "name": "香港",
+      "emoji": "🇭🇰",
+      "count": 1
+    },
+    "RU": {
+      "name": "俄罗斯",
+      "emoji": "🇷🇺",
+      "count": 1
+    }
+  }
+}
