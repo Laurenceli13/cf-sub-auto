@@ -1,0 +1,325 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>优选订阅状态面板</title>
+<style>
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Microsoft YaHei", sans-serif;
+  background: #0f172a; color: #e2e8f0; min-height: 100vh;
+}
+.container { max-width: 1000px; margin: 0 auto; padding: 20px; }
+.header {
+  text-align: center; padding: 40px 0 20px;
+  border-bottom: 1px solid #1e293b; margin-bottom: 24px;
+}
+.header h1 { font-size: 1.8rem; color: #38bdf8; margin-bottom: 6px; }
+.header p { color: #64748b; font-size: 0.9rem; }
+.header .update-time { color: #475569; font-size: 0.8rem; margin-top: 4px; }
+
+/* Stats cards */
+.stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 16px; margin-bottom: 24px; }
+.stat-card {
+  background: #1e293b; border-radius: 12px; padding: 20px;
+  border: 1px solid #334155; text-align: center;
+}
+.stat-card .value { font-size: 2rem; font-weight: 700; }
+.stat-card .label { font-size: 0.85rem; color: #94a3b8; margin-top: 4px; }
+.stat-card.green .value { color: #22c55e; }
+.stat-card.red .value { color: #ef4444; }
+.stat-card.blue .value { color: #38bdf8; }
+.stat-card.yellow .value { color: #f59e0b; }
+
+/* Tabs */
+.tabs { display: flex; gap: 8px; margin-bottom: 20px; flex-wrap: wrap; }
+.tab {
+  padding: 8px 16px; border-radius: 8px; font-size: 0.85rem;
+  cursor: pointer; border: 1px solid #334155; background: transparent; color: #94a3b8;
+  transition: all 0.2s; white-space: nowrap;
+}
+.tab:hover { border-color: #38bdf8; color: #e2e8f0; }
+.tab.active { background: #38bdf8; color: #0f172a; border-color: #38bdf8; }
+
+/* Table */
+.table-wrap { overflow-x: auto; background: #1e293b; border-radius: 12px; border: 1px solid #334155; }
+table { width: 100%; border-collapse: collapse; font-size: 0.9rem; }
+th, td { padding: 10px 14px; text-align: left; border-bottom: 1px solid #334155; }
+th { background: #0f172a; color: #94a3b8; font-weight: 600; font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.5px; cursor: pointer; user-select: none; }
+th:hover { color: #38bdf8; }
+tr:hover td { background: #0f172a40; }
+td { white-space: nowrap; }
+.badge {
+  display: inline-block; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: 600;
+}
+.badge.alive { background: #22c55e20; color: #22c55e; }
+.badge.dead { background: #ef444420; color: #ef4444; }
+.latency-bar {
+  display: inline-block; height: 6px; border-radius: 3px; margin-right: 6px; vertical-align: middle;
+}
+.sort-arrow { font-size: 0.7rem; margin-left: 2px; opacity: 0.5; }
+.sort-arrow.active { opacity: 1; color: #38bdf8; }
+
+/* Quick links */
+.quick-links {
+  display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 12px; margin-bottom: 24px;
+}
+.link-card {
+  background: #1e293b; border-radius: 10px; padding: 14px 18px;
+  border: 1px solid #334155; display: flex; align-items: center; justify-content: space-between;
+  gap: 10px;
+}
+.link-card .info { flex: 1; min-width: 0; }
+.link-card .info .name { font-size: 0.85rem; color: #e2e8f0; margin-bottom: 2px; }
+.link-card .info .url { font-size: 0.75rem; color: #38bdf8; word-break: break-all; font-family: monospace; }
+.link-card .btn {
+  padding: 6px 14px; border-radius: 6px; background: #38bdf8; color: #0f172a;
+  border: none; font-size: 0.8rem; font-weight: 600; cursor: pointer; white-space: nowrap;
+  transition: opacity 0.2s;
+}
+.link-card .btn:hover { opacity: 0.8; }
+
+/* Loading / Error */
+.loading { text-align: center; padding: 60px; color: #64748b; }
+.error { text-align: center; padding: 60px; color: #ef4444; }
+.spinner {
+  width: 40px; height: 40px; border: 3px solid #334155;
+  border-top-color: #38bdf8; border-radius: 50%; animation: spin 0.8s linear infinite;
+  margin: 0 auto 12px;
+}
+@keyframes spin { to { transform: rotate(360deg); } }
+
+/* Region cards */
+.region-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(140px, 1fr)); gap: 10px; margin-bottom: 20px; }
+.region-chip {
+  background: #1e293b; border: 1px solid #334155; border-radius: 8px;
+  padding: 10px 14px; text-align: center; cursor: pointer; transition: all 0.2s;
+}
+.region-chip:hover { border-color: #38bdf8; }
+.region-chip .flag { font-size: 1.5rem; }
+.region-chip .rcount { font-size: 1.2rem; font-weight: 700; color: #e2e8f0; }
+.region-chip .rname { font-size: 0.75rem; color: #94a3b8; }
+
+.toast {
+  position: fixed; top: 20px; left: 50%; transform: translateX(-50%);
+  background: #22c55e; color: #fff; padding: 10px 24px; border-radius: 8px;
+  font-size: 0.9rem; z-index: 1000; opacity: 0; transition: opacity 0.3s;
+}
+.toast.show { opacity: 1; }
+
+.footer { text-align: center; padding: 30px 20px; color: #475569; font-size: 0.8rem; }
+.footer a { color: #38bdf8; text-decoration: none; }
+
+@media (max-width: 600px) {
+  .container { padding: 12px; }
+  .header { padding: 24px 0 12px; }
+  .header h1 { font-size: 1.4rem; }
+  .stat-card .value { font-size: 1.5rem; }
+}
+</style>
+</head>
+<body>
+<div class="container">
+  <div class="header">
+    <h1>🌐 优选订阅状态面板</h1>
+    <p>实时监控节点健康度 · Cloudflare 优选 IP 加速</p>
+    <div class="update-time" id="updateTime">加载中...</div>
+  </div>
+
+  <div class="stats" id="stats"></div>
+
+  <div class="quick-links" id="quickLinks"></div>
+
+  <div class="tabs" id="regionTabs">
+    <button class="tab active" onclick="filterRegion('ALL')">全部</button>
+  </div>
+  <div class="region-grid" id="regionGrid" style="display:none;"></div>
+
+  <div class="table-wrap">
+    <table>
+      <thead>
+        <tr>
+          <th onclick="sortBy('alive')">状态 <span class="sort-arrow">↕</span></th>
+          <th onclick="sortBy('latency_ms')">延迟 <span class="sort-arrow">↕</span></th>
+          <th onclick="sortBy('host')">地址 <span class="sort-arrow">↕</span></th>
+          <th onclick="sortBy('port')">端口</th>
+          <th onclick="sortBy('protocol')">协议</th>
+          <th onclick="sortBy('country')">地区</th>
+          <th>节点名</th>
+        </tr>
+      </thead>
+      <tbody id="nodeTable"></tbody>
+    </table>
+  </div>
+
+  <div class="footer">
+    <p>Powered by <a href="https://github.com/Laurenceli13/cf-sub-auto" target="_blank">cf-sub-auto</a> · 每6小时自动更新</p>
+    <p style="margin-top:4px;">本项目仅用于合法网络访问与安全测试</p>
+  </div>
+
+  <div class="toast" id="toast"></div>
+</div>
+
+<script>
+let allNodes = [];
+let currentSort = { field: 'latency_ms', asc: true };
+let currentRegion = 'ALL';
+
+async function loadData() {
+  try {
+    const resp = await fetch('nodes_status.json');
+    const data = await resp.json();
+    allNodes = data.nodes || [];
+    document.getElementById('updateTime').textContent = '最后更新: ' + new Date(data.updated).toLocaleString('zh-CN');
+    renderStats(data);
+    renderRegions(data);
+    renderQuickLinks();
+    renderTable();
+  } catch (e) {
+    document.getElementById('nodeTable').innerHTML = '<tr><td colspan="7" style="text-align:center;padding:40px;color:#ef4444;">⚠️ 无法加载节点数据 — 请确认 nodes_status.json 已生成</td></tr>';
+    document.getElementById('updateTime').textContent = '数据不可用';
+    renderStats(null);
+  }
+}
+
+function renderStats(data) {
+  const stats = document.getElementById('stats');
+  if (!data) {
+    stats.innerHTML = '<div class="stat-card red"><div class="value">—</div><div class="label">数据加载失败</div></div>';
+    return;
+  }
+  const aliveRate = data.alive_rate || 0;
+  const color = aliveRate > 60 ? 'green' : (aliveRate > 30 ? 'yellow' : 'red');
+  stats.innerHTML = `
+    <div class="stat-card green"><div class="value">${data.total || 0}</div><div class="label">节点总数</div></div>
+    <div class="stat-card ${color}"><div class="value">${data.alive || 0}</div><div class="label">存活节点 (${aliveRate}%)</div></div>
+    <div class="stat-card blue"><div class="value">${data.avg_latency_ms || '—'} ms</div><div class="label">平均延迟</div></div>
+    <div class="stat-card yellow"><div class="value">${data.cf_ips_count || 0}</div><div class="label">优选 CF IP</div></div>
+  `;
+
+  document.getElementById('quickLinks').innerHTML = `
+    <div class="link-card">
+      <div class="info"><div class="name">V2Ray 订阅 (Base64)</div><div class="url" id="v2rayUrl">sub_v2ray.txt</div></div>
+      <button class="btn" onclick="copyFile('sub_v2ray.txt')">复制链接</button>
+    </div>
+    <div class="link-card">
+      <div class="info"><div class="name">Hysteria2 订阅</div><div class="url" id="hy2Url">sub_hysteria.txt</div></div>
+      <button class="btn" onclick="copyFile('sub_hysteria.txt')">复制链接</button>
+    </div>
+    <div class="link-card">
+      <div class="info"><div class="name">Clash Meta 订阅</div><div class="url" id="clashUrl">sub_clash.yaml</div></div>
+      <button class="btn" onclick="copyFile('sub_clash.yaml')">复制链接</button>
+    </div>
+    <div class="link-card">
+      <div class="info"><div class="name">Sing-Box 订阅</div><div class="url" id="singboxUrl">sub_singbox.json</div></div>
+      <button class="btn" onclick="copyFile('sub_singbox.json')">复制链接</button>
+    </div>
+  `;
+
+  // Set real URLs
+  const base = location.href.replace(/\/[^/]*$/, '/');
+  ['v2rayUrl','hy2Url','clashUrl','singboxUrl'].forEach(id => {
+    const el = document.getElementById(id);
+    if (el) {
+      const file = el.textContent;
+      el.textContent = base + file;
+    }
+  });
+}
+
+function renderRegions(data) {
+  if (!data) return;
+  // Count by country
+  const counts = {};
+  (data.nodes || []).forEach(n => {
+    const c = n.country || 'OTHER';
+    counts[c] = (counts[c] || 0) + 1;
+  });
+
+  const names = {JP:'日本',US:'美国',SG:'新加坡',KR:'韩国',HK:'香港',TW:'台湾',DE:'德国',GB:'英国',FR:'法国',NL:'荷兰',CA:'加拿大',AU:'澳大利亚',IN:'印度',OTHER:'其他'};
+  const flags = {JP:'🇯🇵',US:'🇺🇸',SG:'🇸🇬',KR:'🇰🇷',HK:'🇭🇰',TW:'🇹🇼',DE:'🇩🇪',GB:'🇬🇧',FR:'🇫🇷',NL:'🇳🇱',CA:'🇨🇦',AU:'🇦🇺',IN:'🇮🇳',OTHER:'🌐'};
+
+  const tabs = document.getElementById('regionTabs');
+  tabs.innerHTML = '<button class="tab active" onclick="filterRegion(\'ALL\')">全部</button>';
+  const sorted = Object.entries(counts).sort((a,b) => b[1] - a[1]);
+  sorted.forEach(([code, count]) => {
+    tabs.innerHTML += `<button class="tab" onclick="filterRegion('${code}')">${flags[code]||''} ${names[code]||code} (${count})</button>`;
+  });
+}
+
+function renderQuickLinks() {
+  // Already rendered in renderStats
+}
+
+function renderTable() {
+  let nodes = [...allNodes];
+  if (currentRegion !== 'ALL') {
+    nodes = nodes.filter(n => (n.country || 'OTHER') === currentRegion);
+  }
+  // Sort
+  nodes.sort((a, b) => {
+    const f = currentSort.field;
+    let va = a[f], vb = b[f];
+    if (f === 'alive') { va = va ? 0 : 1; vb = vb ? 0 : 1; }
+    if (va == null) va = f === 'latency_ms' ? 9999 : '';
+    if (vb == null) vb = f === 'latency_ms' ? 9999 : '';
+    if (va < vb) return currentSort.asc ? -1 : 1;
+    if (va > vb) return currentSort.asc ? 1 : -1;
+    return 0;
+  });
+
+  const tbody = document.getElementById('nodeTable');
+  if (!nodes.length) {
+    tbody.innerHTML = '<tr><td colspan="7" style="text-align:center;padding:40px;color:#64748b;">暂无节点数据</td></tr>';
+    return;
+  }
+  tbody.innerHTML = nodes.map(n => {
+    const latency = n.latency_ms != null ? n.latency_ms.toFixed(0) : '—';
+    const barWidth = n.latency_ms != null ? Math.max(2, 100 - Math.min(n.latency_ms / 5, 98)) : 0;
+    const barColor = n.latency_ms < 100 ? '#22c55e' : (n.latency_ms < 300 ? '#f59e0b' : '#ef4444');
+    const name = n.link ? (n.link.split('#')[1] || n.host) : n.host;
+    return `<tr>
+      <td><span class="badge ${n.alive ? 'alive' : 'dead'}">${n.alive ? '在线' : '离线'}</span></td>
+      <td>${n.alive ? `<span class="latency-bar" style="width:${barWidth}px;background:${barColor}"></span>${latency} ms` : '—'}</td>
+      <td style="font-family:monospace;">${n.host}</td>
+      <td>${n.port}</td>
+      <td>${n.protocol || '—'}</td>
+      <td>${n.country || '—'}</td>
+      <td style="max-width:200px;overflow:hidden;text-overflow:ellipsis;" title="${name}">${name}</td>
+    </tr>`;
+  }).join('');
+}
+
+function filterRegion(region) {
+  currentRegion = region;
+  document.querySelectorAll('#regionTabs .tab').forEach(t => t.classList.remove('active'));
+  event?.target?.classList.add('active');
+  renderTable();
+}
+
+function sortBy(field) {
+  if (currentSort.field === field) {
+    currentSort.asc = !currentSort.asc;
+  } else {
+    currentSort.field = field;
+    currentSort.asc = field === 'latency_ms' || field === 'port';
+  }
+  renderTable();
+}
+
+function copyFile(filename) {
+  const url = location.href.replace(/\/[^/]*$/, '/') + filename;
+  navigator.clipboard.writeText(url).then(() => showToast('链接已复制！'));
+}
+
+function showToast(msg) {
+  const t = document.getElementById('toast');
+  t.textContent = msg; t.classList.add('show');
+  setTimeout(() => t.classList.remove('show'), 2000);
+}
+
+loadData();
+</script>
+</body>
+</html>

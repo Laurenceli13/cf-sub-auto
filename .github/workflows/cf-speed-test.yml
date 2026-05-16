@@ -1,0 +1,53 @@
+name: cf-speed-test
+
+on:
+  schedule:
+    - cron: "37 3 * * 0"  # Weekly on Sunday 03:37 UTC (off-peak)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  speedtest:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Download CloudflareSpeedTest
+        run: |
+          mkdir -p /tmp/cfst
+          curl -sL "https://github.com/XIU2/CloudflareSpeedTest/releases/download/v2.2.5/CloudflareST_linux_amd64.tar.gz" -o /tmp/cfst/cfst.tar.gz
+          tar -xzf /tmp/cfst/cfst.tar.gz -C /tmp/cfst
+          chmod +x /tmp/cfst/CloudflareST
+
+      - name: Download latest CF IP ranges
+        run: |
+          curl -sL "https://www.cloudflare.com/ips-v4" -o /tmp/cfst/ip.txt
+          curl -sL "https://www.cloudflare.com/ips-v6" >> /tmp/cfst/ip.txt
+
+      - name: Run CloudflareSpeedTest
+        run: |
+          cd /tmp/cfst
+          # Test top 200 fastest IPs on port 443, output CSV
+          ./CloudflareST -n 200 -t 4 -dn 10 -url https://cloudflare.cdn.openbsd.org/pub/OpenBSD/README -f ip.txt -o cf_result.csv -dd
+          # Parse result to simplified CSV: IP,Port,Speed(MB/s)
+          echo "IP,Port,Speed_MB" > $GITHUB_WORKSPACE/public/cf_ip_result.csv
+          tail -n +2 cf_result.csv | awk -F',' '{printf "%s,%s,%.2f\n", $1, "443", $5/1024/1024}' >> $GITHUB_WORKSPACE/public/cf_ip_result.csv
+
+      - name: Test additional CF ports
+        run: |
+          cd /tmp/cfst
+          for port in 2053 2083 2087 2096 8443; do
+            ./CloudflareST -n 20 -t 2 -dn 5 -tp $port -url https://cloudflare.cdn.openbsd.org/pub/OpenBSD/README -f ip.txt -o cf_port_${port}.csv -dd 2>/dev/null || true
+            tail -n +2 cf_port_${port}.csv | awk -F',' -v p=$port '{printf "%s,%s,%.2f\n", $1, p, $5/1024/1024}' >> $GITHUB_WORKSPACE/public/cf_ip_result.csv
+          done
+
+      - name: Commit CF speed results
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add public/cf_ip_result.csv
+          git diff --cached --quiet || git commit -m "chore: update CF preferred IPs"
+          git push

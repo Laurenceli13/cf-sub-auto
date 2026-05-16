@@ -1,47 +1,60 @@
-﻿# Cloudflare + GitHub 自动优选订阅（V2Ray）
+﻿# Cloudflare + GitHub Auto Subscription Generator
 
-该项目用于：
-- 维护多节点池（你自己的 VPS 出口）
-- 定时健康检测并打分
-- 自动生成手机端可导入的 V2Ray 订阅
-- 通过 GitHub Pages + Cloudflare 自定义域名分发订阅
+> [中文文档 (Chinese README)](README_CN.md)
 
-## 合规说明
-仅用于你本人合法网络访问与安全加固测试。请遵守当地法律法规与平台条款。
+Auto-aggregates proxy nodes, tests latency, and serves multi-format subscriptions via GitHub Pages + Cloudflare Worker.
 
-## 目录
-- `scripts/fetch_free_subscriptions.py`：抓取 GitHub 免费订阅源并去重
-- `public/sub.txt`：最终订阅输出（Base64）
-- `public/sub_raw.txt`：明文节点链接（调试用）
-- `public/sub_v2ray.txt`：仅保留 V2Ray 常见协议（Base64）
-- `public/sub_v2ray_raw.txt`：仅保留 V2Ray 常见协议（明文）
-- `.github/workflows/update-subscription.yml`：定时自动更新
+## Features
 
-## 1) 准备
-1. 创建 GitHub 仓库并上传本项目。
-2. 在仓库 `Settings -> Secrets and variables -> Actions` 添加：
-   - `SUBSCRIPTION_TOKEN`：任意强随机字符串（用于保护订阅地址）。
-3. 开启 GitHub Pages（Deploy from branch: `main` / `/ (root)`）。
-4. 在 Cloudflare 上将 `sub.yourdomain.com` CNAME 到 `<your-github-username>.github.io`。
+- **Auto-fetch** free nodes from GitHub sources every 6 hours
+- **TCP latency testing** filters slow/dead nodes
+- **Multi-format output**: Base64 (V2Ray), Clash Meta YAML, Sing-Box JSON
+- **Region-classified**: US, Japan, Singapore, Hong Kong, etc.
+- **Web dashboard** (`public/index.html`) — live node status, latency ranking, QR codes
+- **Cloudflare Worker gateway** — token auth, preferred IP routing, Web UI for custom subs
+- **Hysteria2 protocol** supported alongside vmess/vless/trojan/ss/ssr
 
-## 2) 节点来源
-当前自动从公开 GitHub 订阅源抓取并聚合（去重后输出），无需手动维护 `nodes/nodes.json`。
+## Quick Start
 
-## 3) 自动任务
-工作流每 6 小时运行一次，也可手动触发：
-- 拉取多个 GitHub 免费订阅源
-- 自动识别并解码 Base64 订阅
-- 去重后生成 `public/sub_raw.txt` 与 `public/sub.txt`
-- 提交回仓库
+1. Fork this repo
+2. Add `SUBSCRIPTION_TOKEN` secret in `Settings → Secrets and variables → Actions`
+3. Enable GitHub Pages (`main` branch, `/ (root)`)
+4. (Recommended) Point your Cloudflare domain to `<user>.github.io`
 
-## 4) 手机端导入
-你的订阅地址：
-- `https://sub.yourdomain.com/sub.txt?token=你的SUBSCRIPTION_TOKEN`
+### Subscription URL
 
-健康检查地址（无需 token）：
-- `https://sub.yourdomain.com/health`
+```
+https://sub.yourdomain.com/sub.txt?token=YOUR_SUBSCRIPTION_TOKEN
+```
 
-在 v2ray 客户端里添加订阅地址并更新即可。
+### Health Check
 
-## 5) 关于“优选纯净 IP”
-这个模板可以自动筛掉高延迟/握手异常节点，但“TikTok 可用性”受地区策略与平台风控动态影响，无法百分百保证。建议维持 3-5 个不同 ASN 的出口，持续轮换。
+```
+https://sub.yourdomain.com/health
+```
+
+### Web Dashboard
+
+```
+https://sub.yourdomain.com/
+```
+
+## Output Files
+
+| File | Format | Description |
+|------|--------|-------------|
+| `sub.txt` | Base64 | All protocols |
+| `sub_v2ray.txt` | Base64 | V2Ray protocols only |
+| `sub_hysteria.txt` | Base64 | Hysteria2 only |
+| `sub_clash.yaml` | YAML | Clash Meta format |
+| `sub_singbox.json` | JSON | Sing-Box format |
+| `regions/sub_US.txt` | Base64 | US region nodes |
+| `regions/sub_JP.txt` | Base64 | Japan region nodes |
+
+## Compliance
+
+For legal network access and security testing only. Comply with local laws and platform terms. Maintain 3-5 private exit nodes across different ASNs for reliability.
+
+## License
+
+MIT

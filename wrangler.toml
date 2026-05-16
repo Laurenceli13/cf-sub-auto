@@ -1,9 +1,40 @@
-﻿name = "sub-gateway"
+name = "sub-gateway"
 main = "worker.mjs"
 compatibility_date = "2026-05-12"
 
 [vars]
-ORIGIN_BASE = "https://Laurenceli13.github.io/cf-sub-auto"
+SUBNAME = "优选订阅生成器"
+# GitHub raw URL prefix for subscription files (no trailing slash)
+ORIGIN_BASE = "https://raw.githubusercontent.com/Laurenceli13/cf-sub-auto/main/public"
+# Static preferred Cloudflare addresses (TLS)
+ADD = "icook.tw:2053#优选域名,cloudflare.cdn.openbsd.org:443#优选域名"
+# Remote preferred IP list URL (TLS)
+ADDAPI = ""
+# Static non-TLS addresses
+ADDNOTLS = ""
+# Remote non-TLS IP list URL
+ADDNOTLSAPI = ""
+# CSV speed test result URL for filtering
+ADDCSV = "https://raw.githubusercontent.com/Laurenceli13/cf-sub-auto/main/public/cf_ip_result.csv"
+# Minimum download speed threshold for CSV filtering
+DLS = "4"
+# Default proxy IP (for CDN-fronting)
+PROXYIP = ""
+# Subscription converter backend
+SUBAPI = "SUBAPI.cmliussss.net"
+# ACL4SSR config for Clash
+SUBCONFIG = "https://raw.githubusercontent.com/cmliu/ACL4SSR/main/Clash/config/ACL4SSR_Online_Full_MultiMode.ini"
+# SOCKS5 proxy pool data URL
+SOCKS5DATA = ""
+# Node remark suffix
+PS = ""
+# Notification webhook (Bark/ServerChan)
+NOTIFY_URL = ""
+# Alert threshold percentage
+ALERT_THRESHOLD = "30"
 
-# set secret by:
+# set secrets by:
 # wrangler secret put SUB_TOKEN
+# wrangler secret put TGTOKEN
+# wrangler secret put TGID
+# wrangler secret put KEY
