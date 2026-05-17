@@ -1,2 +1,4 @@
-vless://b6b2c827-4ac1-4e2c-af28-dfa7edbfeb81@35.182.252.92:51072?allowInsecure=0&sni=www.sony.com&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#13%7CCA_speednode_0005
 vless://57d94cf7-ca36-4c2a-bec5-90cf38588cda@15.223.121.250:41087?allowInsecure=0&sni=www.tesla.com&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#13%7CCA_speednode_0006
+vless://bafacd98-136a-4530-838d-4e5c51838dac@129.159.119.161:443?encryption=none&security=tls&sni=juzi8186.qea.ccwu.cc&fp=chrome&insecure=0&allowInsecure=0&ech=encryptedsni.com+https://dns.alidns.com/dns-query&type=ws&host=juzi8186.qea.ccwu.cc&path=/zh-cn/juzibaipiao?ed=2560#CA%20VLESS-102%20%7C%20free-nodes
+vless://b6b2c827-4ac1-4e2c-af28-dfa7edbfeb81@35.182.252.92:51072?allowInsecure=0&sni=www.sony.com&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#13%7CCA_speednode_0005
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@121.191.33.84:30303?&security=tls&sni=sni.111000.v6.army&type=ws&headerType=none&host=sni.111000.v6.army&path=%2F%3Fed%3D2560#CA%20VLESS-80%20%7C%20free-nodes
