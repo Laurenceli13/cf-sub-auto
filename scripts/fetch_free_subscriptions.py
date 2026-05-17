@@ -2,6 +2,7 @@ import base64
 import json
 import re
 import urllib.request
+from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -21,7 +22,27 @@ SOURCES = [
     "https://raw.githubusercontent.com/awesome-vpn/awesome-vpn/master/all",
     "https://raw.githubusercontent.com/shaoyouvip/free/refs/heads/main/base64.txt",
     "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub",
+    "https://tamoai.ccwu.cc/sub?token=3b4fd2f272f4dfaab37fa71f993f7619",
+    "https://proxy.v2gh.com/https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub",
+    "https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/list.txt",
+    "https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/list.txt",
 ]
+
+
+def get_free_nodes_sources() -> list[str]:
+    """Generate URLs for free-nodes/v2rayfree daily batch files.
+
+    The repo publishes 2 batches per day named vYYYYMMDD1, vYYYYMMDD2.
+    We fetch today + yesterday to ensure coverage across timezones.
+    """
+    base = "https://raw.githubusercontent.com/free-nodes/v2rayfree/main"
+    today = datetime.now(timezone.utc)
+    dates = [today, today - timedelta(days=1)]
+    urls = []
+    for d in dates:
+        for batch in (1, 2):
+            urls.append(f"{base}/v{d.strftime('%Y%m%d')}{batch}")
+    return urls
 
 LINK_RE = re.compile(r"(?im)^(?:vmess|vless|trojan|ss|ssr|hy2|hysteria2|hysteria)://\S+$")
 V2RAY_SCHEMES = {"vmess", "vless", "trojan", "ss", "ssr", "hysteria2", "hy2", "hysteria"}
@@ -183,12 +204,19 @@ def detect_country(link: str) -> str | None:
 
 def main() -> None:
     all_links: list[str] = []
-    for url in SOURCES:
-        content = fetch_text(url)
-        decoded = maybe_base64_decode(content)
-        links = extract_links(decoded)
-        all_links.extend(links)
-        print(f"source={url} links={len(links)}")
+    all_sources = SOURCES + get_free_nodes_sources()
+    for url in all_sources:
+        try:
+            content = fetch_text(url)
+            decoded = maybe_base64_decode(content)
+            links = extract_links(decoded)
+            if links:
+                all_links.extend(links)
+                print(f"source={url} links={len(links)}")
+            else:
+                print(f"source={url} links=0 (empty/skip)")
+        except Exception as e:
+            print(f"source={url} error={e}")
 
     deduped = sorted(set(all_links))
     v2ray_links = [x for x in deduped if x.split("://", 1)[0].lower() in (V2RAY_SCHEMES - HY2_SCHEMES)]

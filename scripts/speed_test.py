@@ -1,11 +1,13 @@
 """Node speed test: TCP handshake latency scoring for all fetched proxy nodes.
 
 Reads public/sub_raw.txt, parses host:port from each proxy link, performs
-concurrent TCP connect latency tests, and outputs nodes_status.json for the
-dashboard. Optionally sends alert notification via Bark/ServerChan webhook
+concurrent TCP connect latency tests, outputs nodes_status.json for the
+dashboard, and keeps only the top 100 fastest nodes in the subscription files.
+Optionally sends alert notification via Bark/ServerChan webhook
 when alive rate drops below threshold.
 """
 
+import base64
 import concurrent.futures
 import json
 import os
@@ -22,6 +24,8 @@ PUBLIC = ROOT / "public"
 RAW_FILE = PUBLIC / "sub_raw.txt"
 STATUS_FILE = PUBLIC / "nodes_status.json"
 CF_CSV_FILE = PUBLIC / "cf_ip_result.csv"
+
+TOP_N = 100  # Keep top N fastest alive nodes
 
 TIMEOUT = 2.5  # TCP connect timeout in seconds
 MAX_WORKERS = 50  # Concurrent workers
@@ -176,6 +180,77 @@ def main() -> None:
     # Alert if below threshold
     if NOTIFY_URL and alive_rate < ALERT_THRESHOLD:
         send_notification(alive_count, len(nodes), alive_rate)
+
+    # ── Filter top N fastest alive nodes ──
+    alive_nodes = [n for n in nodes if n["alive"]]
+    top_nodes = alive_nodes[:TOP_N]
+    top_links = [n["link"] for n in top_nodes]
+    print(f"keeping top {len(top_links)} nodes (filtered from {len(alive_nodes)} alive)")
+
+    # Rewrite subscription files with top N only
+    rewrite_subscription_files(top_links)
+
+
+def rewrite_subscription_files(links: list[str]) -> None:
+    """Rewrite all subscription output files with the filtered node list."""
+    raw_all = "\n".join(links)
+
+    HY2_SCHEMES = {"hysteria2", "hy2", "hysteria"}
+    v2ray_links = [x for x in links if x.split("://", 1)[0].lower() not in HY2_SCHEMES]
+    hy2_links = [x for x in links if x.split("://", 1)[0].lower() in HY2_SCHEMES]
+
+    raw_v2ray = "\n".join(v2ray_links) if v2ray_links else ""
+    raw_hy2 = "\n".join(hy2_links) if hy2_links else ""
+
+    files = {
+        PUBLIC / "sub_raw.txt": raw_all,
+        PUBLIC / "sub.txt": base64.b64encode(raw_all.encode("utf-8")).decode("utf-8") if raw_all else "",
+        PUBLIC / "sub_v2ray_raw.txt": raw_v2ray,
+        PUBLIC / "sub_v2ray.txt": base64.b64encode(raw_v2ray.encode("utf-8")).decode("utf-8") if raw_v2ray else "",
+        PUBLIC / "sub_hysteria_raw.txt": raw_hy2,
+        PUBLIC / "sub_hysteria.txt": base64.b64encode(raw_hy2.encode("utf-8")).decode("utf-8") if raw_hy2 else "",
+    }
+
+    for path, content in files.items():
+        path.write_text(content, encoding="utf-8")
+        print(f"rewrote {path.name} ({len(content)} bytes)")
+
+    # Also update region files
+    region_dir = PUBLIC / "regions"
+    if region_dir.exists():
+        regions: dict[str, list[str]] = {}
+        for link in links:
+            country = None
+            if "#" in link:
+                fragment = link.rsplit("#", 1)[-1]
+                decoded = urllib.parse.unquote(fragment)
+                text = fragment + " " + decoded
+                m = re.search(r"(?:^|[|_\s])([A-Z]{2})(?:[|_\s]|$)", text.upper())
+                if m:
+                    country = m.group(1)
+            region_key = country or "OTHER"
+            regions.setdefault(region_key, []).append(link)
+
+        for code, region_links in regions.items():
+            region_raw = "\n".join(region_links)
+            region_b64 = base64.b64encode(region_raw.encode("utf-8")).decode("utf-8")
+            (region_dir / f"sub_{code}.txt").write_text(region_b64, encoding="utf-8")
+            (region_dir / f"sub_{code}_raw.txt").write_text(region_raw, encoding="utf-8")
+
+        # Update regions index
+        index_path = PUBLIC / "sub_regions.json"
+        if index_path.exists():
+            index = json.loads(index_path.read_text(encoding="utf-8"))
+            index["updated"] = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+            index["total_nodes"] = len(links)
+            index["v2ray_nodes"] = len(v2ray_links)
+            index["hysteria_nodes"] = len(hy2_links)
+            for code in index.get("regions", {}):
+                index["regions"][code]["count"] = len(regions.get(code, []))
+            index_path.write_text(json.dumps(index, ensure_ascii=False, indent=2), encoding="utf-8")
+            print(f"updated regions index ({len(regions)} regions)")
+
+    print(f"top {TOP_N} filter complete: {len(links)} nodes written")
 
 
 if __name__ == "__main__":
