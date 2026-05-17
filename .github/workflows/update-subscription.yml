@@ -2,7 +2,7 @@ name: update-subscription
 
 on:
   schedule:
-    - cron: "27 3 * * *"  # Daily at 03:27 UTC (11:27 Beijing time)
+    - cron: "27 17 * * *"  # Daily at 17:27 UTC (01:27 Beijing time)
   workflow_dispatch:
 
 permissions:
