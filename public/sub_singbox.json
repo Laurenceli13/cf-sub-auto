@@ -1,22 +1,102 @@
 {
   "outbounds": [
     {
-      "tag": "SG VLESS-68 | free-nodes",
-      "server": "141.193.213.11",
+      "tag": "美国+CloudFlare节点",
+      "server": "104.18.42.40",
       "server_port": 443,
       "type": "vless",
-      "uuid": "8c4604ef-749c-4b56-adf1-7da405002a21",
+      "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+      "flow": "",
+      "transport": {
+        "type": "ws",
+        "path": "/?https%3A%2F%2Ft.me%2Fwangcai2%F0%9F%87%A8%F0%9F%87%B3=",
+        "headers": {
+          "Host": "sni.111000.v6.army"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "sni.111000.v6.army"
+      }
+    },
+    {
+      "tag": "SG VLESS-81 | free-nodes",
+      "server": "188.244.122.138",
+      "server_port": 2096,
+      "type": "vless",
+      "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+      "flow": ""
+    },
+    {
+      "tag": "加拿大/多伦多/Canada/Toronto",
+      "server": "188.114.96.0",
+      "server_port": 443,
+      "type": "vless",
+      "uuid": "40afa553-1745-4f62-a380-4163c7bb4870",
       "flow": "",
       "transport": {
         "type": "ws",
         "path": "/",
         "headers": {
-          "Host": "qyi.fqjd663.ggff.net"
+          "Host": "restless-dew-894b.amirhost4.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "qyi.fqjd663.ggff.net"
+        "server_name": "restless-dew-894b.amirhost4.workers.dev"
+      }
+    },
+    {
+      "tag": "🇺🇸US_10|1.1MB/s",
+      "server": "45.153.7.40",
+      "server_port": 8880,
+      "type": "vless",
+      "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+      "flow": "",
+      "transport": {
+        "type": "ws",
+        "path": "/?https://t.me/YouTube@小青科学网🇨🇳",
+        "headers": {
+          "Host": "vms.lifetime11.workers.dev"
+        }
+      }
+    },
+    {
+      "tag": "A - 🇭🇰 HK 06 TG: @nodpai",
+      "server": "108.162.194.30",
+      "server_port": 8880,
+      "type": "vless",
+      "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+      "flow": "",
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "vms.lifetime57.workers.dev"
+        }
+      }
+    },
+    {
+      "tag": "SG VLESS-82 | free-nodes",
+      "server": "212.183.88.238",
+      "server_port": 2096,
+      "type": "vless",
+      "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+      "flow": ""
+    },
+    {
+      "tag": "🇺🇸US_13|1.5MB/s",
+      "server": "192.200.160.50",
+      "server_port": 8880,
+      "type": "vless",
+      "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+      "flow": "",
+      "transport": {
+        "type": "ws",
+        "path": "/?ed=2560",
+        "headers": {
+          "Host": "vms.lifetime43.workers.dev"
+        }
       }
     },
     {
@@ -35,21 +115,18 @@
       }
     },
     {
-      "tag": "FR TROJAN-39 | free-nodes",
-      "server": "104.20.6.134",
-      "server_port": 443,
-      "type": "trojan",
-      "password": "humanity",
+      "tag": "SG VLESS-96 | free-nodes",
+      "server": "141.193.213.21",
+      "server_port": 80,
+      "type": "vless",
+      "uuid": "fac62eac-1eec-4260-a991-0cac2f8745a3",
+      "flow": "",
       "transport": {
         "type": "ws",
-        "path": "/assignment",
+        "path": "/@Tech_Sonic",
         "headers": {
-          "Host": "www.calmloud.com"
+          "Host": "free-server.techsonic.ggff.net"
         }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "www.calmloud.com"
       }
     },
     {
@@ -68,68 +145,27 @@
       }
     },
     {
-      "tag": "法国/France",
-      "server": "185.16.110.238",
-      "server_port": 2096,
-      "type": "vless",
-      "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/?ed=2560&Telegram🇨🇳+@WangCai2",
-        "headers": {
-          "Host": "sni.jpmj.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "sni.jpmj.dev"
-      }
-    },
-    {
-      "tag": "B - 🇸🇬 SG 10 TG: @nodpai",
-      "server": "162.159.13.206",
+      "tag": "SG VLESS-81 | free-nodes",
+      "server": "162.159.17.189",
       "server_port": 443,
       "type": "vless",
       "uuid": "a6f1755f-0140-4bea-8727-0db1bed7c4df",
       "flow": "",
       "transport": {
         "type": "ws",
-        "path": "/security=tls",
+        "path": "/",
         "headers": {
           "Host": "juzi.qea.ccwu.cc"
-        }
-      }
-    },
-    {
-      "tag": "B - 🇺🇸 US 28 TG: @nodpai",
-      "server": "38.143.109.82",
-      "server_port": 443,
-      "type": "trojan",
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "transport": {
-        "type": "ws",
-        "path": "/trTelegram🇨🇳",
-        "headers": {
-          "Host": "Koma-YT.PAGeS.Dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev"
+        "server_name": "juzi.qea.ccwu.cc"
       }
     },
     {
-      "tag": "SG VLESS-81 | free-nodes",
-      "server": "188.244.122.138",
-      "server_port": 2096,
-      "type": "vless",
-      "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
-      "flow": ""
-    },
-    {
-      "tag": "TR TROJAN-41 | free-nodes",
-      "server": "172.64.152.23",
+      "tag": "美国+CloudFlare节点",
+      "server": "104.19.229.21",
       "server_port": 443,
       "type": "trojan",
       "password": "humanity",
@@ -137,80 +173,12 @@
         "type": "ws",
         "path": "/assignment",
         "headers": {
-          "Host": "www.multiplydose.com"
+          "Host": "www.creationlong.org"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "www.multiplydose.com"
-      }
-    },
-    {
-      "tag": "🇩🇪DE_3|2.7MB/s",
-      "server": "104.24.45.247",
-      "server_port": 80,
-      "type": "vless",
-      "uuid": "2e71d8fc-d2e8-44fc-89bd-c8a449a193aa",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "odd-bread-435d.ahmadrezasteamacc.workers.dev"
-        }
-      }
-    },
-    {
-      "tag": "SG VLESS-63 | free-nodes",
-      "server": "188.114.99.243",
-      "server_port": 2096,
-      "type": "vless",
-      "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/?ed=2560",
-        "headers": {
-          "Host": "sni.111000.indevs.in"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "sni.111000.indevs.in"
-      }
-    },
-    {
-      "tag": "SG VLESS-84 | free-nodes",
-      "server": "45.85.119.191",
-      "server_port": 2096,
-      "type": "vless",
-      "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "sni.my111000.tech"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "sni.my111000.tech"
-      }
-    },
-    {
-      "tag": "🇺🇸US_6|3.2MB/s",
-      "server": "102.177.189.30",
-      "server_port": 8880,
-      "type": "vless",
-      "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "vms.lifetime29.workers.dev"
-        }
+        "server_name": "www.creationlong.org"
       }
     },
     {
@@ -232,37 +200,36 @@
       }
     },
     {
-      "tag": "🇺🇸US_10|1.1MB/s",
-      "server": "45.153.7.40",
+      "tag": "🇺🇸US_12|2.1MB/s",
+      "server": "205.233.181.40",
       "server_port": 8880,
       "type": "vless",
       "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
       "flow": "",
       "transport": {
         "type": "ws",
-        "path": "/?https://t.me/YouTube@小青科学网🇨🇳",
+        "path": "/?ed=2560&https://t.me/youtube@ZYFXS🇨🇳",
         "headers": {
-          "Host": "vms.lifetime11.workers.dev"
+          "Host": "vms.lifetime20.workers.dev"
         }
       }
     },
     {
-      "tag": "美国+CloudFlare节点",
-      "server": "104.18.42.40",
-      "server_port": 443,
-      "type": "vless",
-      "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
-      "flow": "",
+      "tag": "🇺🇸US_17|1.4MB/s",
+      "server": "150.136.61.82",
+      "server_port": 8443,
+      "type": "trojan",
+      "password": "8r<[9'l6hAO#8ZQi",
       "transport": {
         "type": "ws",
-        "path": "/?https%3A%2F%2Ft.me%2Fwangcai2%F0%9F%87%A8%F0%9F%87%B3=",
+        "path": "/trTelegram🇨🇳 @WangCai2",
         "headers": {
-          "Host": "sni.111000.v6.army"
+          "Host": "Koma-YT.PAGeS.Dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "sni.111000.v6.army"
+        "server_name": "Koma-YT.PAGeS.Dev"
       }
     },
     {
@@ -285,68 +252,8 @@
       }
     },
     {
-      "tag": "🇺🇸US_11|3.2MB/s",
-      "server": "104.18.81.143",
-      "server_port": 80,
-      "type": "vless",
-      "uuid": "0ca855d9-7c03-40eb-929b-919f934abdc3",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/?ed=2048",
-        "headers": {
-          "Host": "amirvpn.amirhm00100.workers.dev"
-        }
-      }
-    },
-    {
-      "tag": "A - 🇭🇰 HK 06 TG: @nodpai",
-      "server": "108.162.194.30",
-      "server_port": 8880,
-      "type": "vless",
-      "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "vms.lifetime57.workers.dev"
-        }
-      }
-    },
-    {
-      "tag": "SG VLESS-96 | free-nodes",
-      "server": "141.193.213.21",
-      "server_port": 80,
-      "type": "vless",
-      "uuid": "fac62eac-1eec-4260-a991-0cac2f8745a3",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/@Tech_Sonic",
-        "headers": {
-          "Host": "free-server.techsonic.ggff.net"
-        }
-      }
-    },
-    {
-      "tag": "🇺🇸US_9|1.7MB/s",
-      "server": "45.153.7.30",
-      "server_port": 8880,
-      "type": "vless",
-      "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/?https://t.me/YouTube@小青科学网🇨🇳",
-        "headers": {
-          "Host": "vms.lifetime11.workers.dev"
-        }
-      }
-    },
-    {
-      "tag": "FR TROJAN-49 | free-nodes",
-      "server": "8.6.112.6",
+      "tag": "TR TROJAN-38 | free-nodes",
+      "server": "104.18.32.47",
       "server_port": 443,
       "type": "trojan",
       "password": "humanity",
@@ -354,12 +261,27 @@
         "type": "ws",
         "path": "/assignment",
         "headers": {
-          "Host": "www.calmloud.com"
+          "Host": "www.multiplydose.com"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "www.calmloud.com"
+        "server_name": "www.multiplydose.com"
+      }
+    },
+    {
+      "tag": "B - 🇸🇬 SG 10 TG: @nodpai",
+      "server": "162.159.13.206",
+      "server_port": 443,
+      "type": "vless",
+      "uuid": "a6f1755f-0140-4bea-8727-0db1bed7c4df",
+      "flow": "",
+      "transport": {
+        "type": "ws",
+        "path": "/security=tls",
+        "headers": {
+          "Host": "juzi.qea.ccwu.cc"
+        }
       }
     },
     {
@@ -378,30 +300,52 @@
       }
     },
     {
-      "tag": "SG VLESS-82 | free-nodes",
-      "server": "212.183.88.238",
-      "server_port": 2096,
+      "tag": "🇺🇸US_6|3.2MB/s",
+      "server": "102.177.189.30",
+      "server_port": 8880,
       "type": "vless",
       "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
-      "flow": ""
-    },
-    {
-      "tag": "SG VLESS-81 | free-nodes",
-      "server": "162.159.17.189",
-      "server_port": 443,
-      "type": "vless",
-      "uuid": "a6f1755f-0140-4bea-8727-0db1bed7c4df",
       "flow": "",
       "transport": {
         "type": "ws",
         "path": "/",
         "headers": {
-          "Host": "juzi.qea.ccwu.cc"
+          "Host": "vms.lifetime29.workers.dev"
+        }
+      }
+    },
+    {
+      "tag": "🇩🇪DE_3|2.7MB/s",
+      "server": "104.24.45.247",
+      "server_port": 80,
+      "type": "vless",
+      "uuid": "2e71d8fc-d2e8-44fc-89bd-c8a449a193aa",
+      "flow": "",
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "odd-bread-435d.ahmadrezasteamacc.workers.dev"
+        }
+      }
+    },
+    {
+      "tag": "SG VLESS-68 | free-nodes",
+      "server": "141.193.213.11",
+      "server_port": 443,
+      "type": "vless",
+      "uuid": "8c4604ef-749c-4b56-adf1-7da405002a21",
+      "flow": "",
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "qyi.fqjd663.ggff.net"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "juzi.qea.ccwu.cc"
+        "server_name": "qyi.fqjd663.ggff.net"
       }
     },
     {
@@ -417,97 +361,6 @@
         "headers": {
           "Host": "vms.lifetime11.workers.dev"
         }
-      }
-    },
-    {
-      "tag": "US",
-      "server": "172.245.129.72",
-      "server_port": 27486,
-      "type": "vless",
-      "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "tamoai.ccwu.cc"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "tamoai.ccwu.cc"
-      }
-    },
-    {
-      "tag": "SG VLESS-62 | free-nodes",
-      "server": "160.153.1.23",
-      "server_port": 443,
-      "type": "vless",
-      "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/?Telegram🇨🇳@WangCai2=",
-        "headers": {
-          "Host": "sni.111000.dynv6.net"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "sni.111000.dynv6.net"
-      }
-    },
-    {
-      "tag": "B - 🇭🇰 HK 14 TG: @nodpai",
-      "server": "154.92.9.253",
-      "server_port": 443,
-      "type": "trojan",
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev"
-      }
-    },
-    {
-      "tag": "US SS-14 | free-nodes",
-      "server": "107.172.250.161",
-      "server_port": 59556,
-      "type": "shadowsocks",
-      "method": "chacha20-ietf-poly1305",
-      "password": "QTmLViU4VEmuwbOxUw4IXd"
-    },
-    {
-      "tag": "🇺🇸US_12|2.1MB/s",
-      "server": "205.233.181.40",
-      "server_port": 8880,
-      "type": "vless",
-      "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/?ed=2560&https://t.me/youtube@ZYFXS🇨🇳",
-        "headers": {
-          "Host": "vms.lifetime20.workers.dev"
-        }
-      }
-    },
-    {
-      "tag": "加拿大/多伦多/Canada/Toronto",
-      "server": "188.114.96.0",
-      "server_port": 443,
-      "type": "vless",
-      "uuid": "40afa553-1745-4f62-a380-4163c7bb4870",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "restless-dew-894b.amirhost4.workers.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "restless-dew-894b.amirhost4.workers.dev"
       }
     },
     {
@@ -530,28 +383,9 @@
       }
     },
     {
-      "tag": "美国+CloudFlare节点",
-      "server": "172.67.74.136",
-      "server_port": 443,
-      "type": "vless",
-      "uuid": "ae0dd58e-e222-40bf-84ae-365a97532737",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/directoryfp=chrome",
-        "headers": {
-          "Host": "pagescm.freen17.cc.cd"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "pagescm.freen17.cc.cd"
-      }
-    },
-    {
-      "tag": "🇺🇸US_13|1.5MB/s",
-      "server": "192.200.160.50",
-      "server_port": 8880,
+      "tag": "SG VLESS-63 | free-nodes",
+      "server": "188.114.99.243",
+      "server_port": 2096,
       "type": "vless",
       "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
       "flow": "",
@@ -559,13 +393,17 @@
         "type": "ws",
         "path": "/?ed=2560",
         "headers": {
-          "Host": "vms.lifetime43.workers.dev"
+          "Host": "sni.111000.indevs.in"
         }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "sni.111000.indevs.in"
       }
     },
     {
-      "tag": "TR TROJAN-38 | free-nodes",
-      "server": "104.18.32.47",
+      "tag": "FR TROJAN-49 | free-nodes",
+      "server": "8.6.112.6",
       "server_port": 443,
       "type": "trojan",
       "password": "humanity",
@@ -573,12 +411,83 @@
         "type": "ws",
         "path": "/assignment",
         "headers": {
-          "Host": "www.multiplydose.com"
+          "Host": "www.calmloud.com"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "www.multiplydose.com"
+        "server_name": "www.calmloud.com"
+      }
+    },
+    {
+      "tag": "SG VLESS-84 | free-nodes",
+      "server": "45.85.119.191",
+      "server_port": 2096,
+      "type": "vless",
+      "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+      "flow": "",
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "sni.my111000.tech"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "sni.my111000.tech"
+      }
+    },
+    {
+      "tag": "🇺🇸US_9|1.7MB/s",
+      "server": "45.153.7.30",
+      "server_port": 8880,
+      "type": "vless",
+      "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+      "flow": "",
+      "transport": {
+        "type": "ws",
+        "path": "/?https://t.me/YouTube@小青科学网🇨🇳",
+        "headers": {
+          "Host": "vms.lifetime11.workers.dev"
+        }
+      }
+    },
+    {
+      "tag": "🇺🇸US_16|1.6MB/s",
+      "server": "150.136.105.229",
+      "server_port": 443,
+      "type": "trojan",
+      "password": "8r<[9'l6hAO#8ZQi",
+      "transport": {
+        "type": "ws",
+        "path": "/trTelegram🇨🇳 @WangCai2",
+        "headers": {
+          "Host": "Koma-YT.PAGeS.Dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev"
+      }
+    },
+    {
+      "tag": "法国/France",
+      "server": "185.16.110.238",
+      "server_port": 2096,
+      "type": "vless",
+      "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+      "flow": "",
+      "transport": {
+        "type": "ws",
+        "path": "/?ed=2560&Telegram🇨🇳+@WangCai2",
+        "headers": {
+          "Host": "sni.jpmj.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "sni.jpmj.dev"
       }
     },
     {
@@ -601,21 +510,37 @@
       }
     },
     {
-      "tag": "美国+CloudFlare节点",
-      "server": "104.19.229.21",
+      "tag": "B - 🇸🇬 SG 09 TG: @nodpai",
+      "server": "129.213.148.107",
       "server_port": 443,
-      "type": "trojan",
-      "password": "humanity",
+      "type": "vless",
+      "uuid": "26524cce-d514-4014-a426-365fb266a14d",
+      "flow": "",
       "transport": {
         "type": "ws",
-        "path": "/assignment",
+        "path": "/danfeng?ed=2560fp=firefoxsecurity=tls",
         "headers": {
-          "Host": "www.creationlong.org"
+          "Host": "klng2.stream-cdn.sh21.eu.org"
+        }
+      }
+    },
+    {
+      "tag": "US",
+      "server": "43.130.105.166",
+      "server_port": 65002,
+      "type": "vless",
+      "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
+      "flow": "",
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "tamoai.ccwu.cc"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "www.creationlong.org"
+        "server_name": "tamoai.ccwu.cc"
       }
     },
     {
@@ -634,62 +559,48 @@
       }
     },
     {
-      "tag": "未知 SS-100 | free-nodes",
-      "server": "ccgfw.top",
-      "server_port": 443,
-      "type": "shadowsocks",
-      "method": "aes-128-gcm",
-      "password": "6601fb90e9b3"
-    },
-    {
-      "tag": "🇺🇸US_20|1.1MB/s",
-      "server": "34.58.136.79",
-      "server_port": 443,
-      "type": "trojan",
-      "password": "8r<[9'l6hAO#8ZQi",
-      "transport": {
-        "type": "ws",
-        "path": "/trTelegram🇨🇳 @WangCai2",
-        "headers": {
-          "Host": "Koma-YT.PAGeS.Dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev"
-      }
-    },
-    {
-      "tag": "🇺🇸US_16|1.6MB/s",
-      "server": "150.136.105.229",
-      "server_port": 443,
-      "type": "trojan",
-      "password": "8r<[9'l6hAO#8ZQi",
-      "transport": {
-        "type": "ws",
-        "path": "/trTelegram🇨🇳 @WangCai2",
-        "headers": {
-          "Host": "Koma-YT.PAGeS.Dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev"
-      }
-    },
-    {
-      "tag": "B - 🇸🇬 SG 09 TG: @nodpai",
-      "server": "129.213.148.107",
-      "server_port": 443,
+      "tag": "🇺🇸US_11|3.2MB/s",
+      "server": "104.18.81.143",
+      "server_port": 80,
       "type": "vless",
-      "uuid": "26524cce-d514-4014-a426-365fb266a14d",
+      "uuid": "0ca855d9-7c03-40eb-929b-919f934abdc3",
       "flow": "",
       "transport": {
         "type": "ws",
-        "path": "/danfeng?ed=2560fp=firefoxsecurity=tls",
+        "path": "/?ed=2048",
         "headers": {
-          "Host": "klng2.stream-cdn.sh21.eu.org"
+          "Host": "amirvpn.amirhm00100.workers.dev"
         }
+      }
+    },
+    {
+      "tag": "美国+CloudFlare节点",
+      "server": "172.67.74.136",
+      "server_port": 443,
+      "type": "vless",
+      "uuid": "ae0dd58e-e222-40bf-84ae-365a97532737",
+      "flow": "",
+      "transport": {
+        "type": "ws",
+        "path": "/directoryfp=chrome",
+        "headers": {
+          "Host": "pagescm.freen17.cc.cd"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "pagescm.freen17.cc.cd"
+      }
+    },
+    {
+      "tag": "B - 🇭🇰 HK 14 TG: @nodpai",
+      "server": "154.92.9.253",
+      "server_port": 443,
+      "type": "trojan",
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev"
       }
     },
     {
@@ -711,15 +622,84 @@
       }
     },
     {
-      "tag": "RU VLESS-108 | free-nodes",
-      "server": "80.92.205.57",
+      "tag": "TR TROJAN-41 | free-nodes",
+      "server": "172.64.152.23",
       "server_port": 443,
-      "type": "vless",
-      "uuid": "e80c5348-5a5c-41f0-a78d-7a781f47afce",
-      "flow": "xtls-rprx-vision",
+      "type": "trojan",
+      "password": "humanity",
+      "transport": {
+        "type": "ws",
+        "path": "/assignment",
+        "headers": {
+          "Host": "www.multiplydose.com"
+        }
+      },
       "tls": {
         "enabled": true,
-        "server_name": "store.steampowered.com"
+        "server_name": "www.multiplydose.com"
+      }
+    },
+    {
+      "tag": "FR TROJAN-39 | free-nodes",
+      "server": "104.20.6.134",
+      "server_port": 443,
+      "type": "trojan",
+      "password": "humanity",
+      "transport": {
+        "type": "ws",
+        "path": "/assignment",
+        "headers": {
+          "Host": "www.calmloud.com"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "www.calmloud.com"
+      }
+    },
+    {
+      "tag": "SG VLESS-62 | free-nodes",
+      "server": "160.153.1.23",
+      "server_port": 443,
+      "type": "vless",
+      "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+      "flow": "",
+      "transport": {
+        "type": "ws",
+        "path": "/?Telegram🇨🇳@WangCai2=",
+        "headers": {
+          "Host": "sni.111000.dynv6.net"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "sni.111000.dynv6.net"
+      }
+    },
+    {
+      "tag": "US SS-23 | free-nodes",
+      "server": "45.55.40.127",
+      "server_port": 49726,
+      "type": "shadowsocks",
+      "method": "chacha20-ietf-poly1305",
+      "password": "elTuo73FsQwO90EbLo96Ve"
+    },
+    {
+      "tag": "B - 🇺🇸 US 16 TG: @nodpai",
+      "server": "142.93.176.217",
+      "server_port": 443,
+      "type": "trojan",
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
+      "transport": {
+        "type": "ws",
+        "path": "/trTelegram🇨🇳",
+        "headers": {
+          "Host": "Koma-YT.PAGeS.Dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev"
       }
     },
     {
@@ -747,44 +727,28 @@
       }
     },
     {
-      "tag": "🇺🇸US_17|1.4MB/s",
-      "server": "150.136.61.82",
-      "server_port": 8443,
-      "type": "trojan",
-      "password": "8r<[9'l6hAO#8ZQi",
-      "transport": {
-        "type": "ws",
-        "path": "/trTelegram🇨🇳 @WangCai2",
-        "headers": {
-          "Host": "Koma-YT.PAGeS.Dev"
-        }
-      },
+      "tag": "RU VLESS-108 | free-nodes",
+      "server": "80.92.205.57",
+      "server_port": 443,
+      "type": "vless",
+      "uuid": "e80c5348-5a5c-41f0-a78d-7a781f47afce",
+      "flow": "xtls-rprx-vision",
       "tls": {
         "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev"
+        "server_name": "store.steampowered.com"
       }
     },
     {
-      "tag": "🇺🇸US_19|1.2MB/s",
-      "server": "45.137.213.149",
-      "server_port": 2053,
-      "type": "trojan",
-      "password": "8r<[9'l6hAO#8ZQi",
-      "transport": {
-        "type": "ws",
-        "path": "/trTelegram🇨🇳 @WangCai2",
-        "headers": {
-          "Host": "Koma-YT.PAGeS.Dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev"
-      }
+      "tag": "US SS-14 | free-nodes",
+      "server": "107.172.250.161",
+      "server_port": 59556,
+      "type": "shadowsocks",
+      "method": "chacha20-ietf-poly1305",
+      "password": "QTmLViU4VEmuwbOxUw4IXd"
     },
     {
-      "tag": "B - 🇺🇸 US 16 TG: @nodpai",
-      "server": "142.93.176.217",
+      "tag": "B - 🇺🇸 US 28 TG: @nodpai",
+      "server": "38.143.109.82",
       "server_port": 443,
       "type": "trojan",
       "password": "8r%3C%5B9%27l6hAO%238ZQi",
@@ -801,12 +765,61 @@
       }
     },
     {
-      "tag": "US SS-23 | free-nodes",
-      "server": "45.55.40.127",
-      "server_port": 49726,
+      "tag": "未知 SS-100 | free-nodes",
+      "server": "ccgfw.top",
+      "server_port": 443,
       "type": "shadowsocks",
-      "method": "chacha20-ietf-poly1305",
-      "password": "elTuo73FsQwO90EbLo96Ve"
+      "method": "aes-128-gcm",
+      "password": "6601fb90e9b3"
+    },
+    {
+      "tag": "FR TROJAN-45 | free-nodes",
+      "server": "www.ignitelimit.com",
+      "server_port": 443,
+      "type": "trojan",
+      "password": "humanity",
+      "transport": {
+        "type": "ws",
+        "path": "/assignment",
+        "headers": {
+          "Host": "www.ignitelimit.com"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "www.ignitelimit.com"
+      }
+    },
+    {
+      "tag": "US HY2-117 | free-nodes",
+      "server": "172.245.11.73",
+      "server_port": 443,
+      "type": "hysteria2",
+      "password": "8f8ccdc5-fe99-38d7-a8a6-422f8c88ef0a",
+      "tls": {
+        "enabled": true,
+        "server_name": "s246.ccgfw.top"
+      },
+      "up_mbps": 50,
+      "down_mbps": 100
+    },
+    {
+      "tag": "🇺🇸US_20|1.1MB/s",
+      "server": "34.58.136.79",
+      "server_port": 443,
+      "type": "trojan",
+      "password": "8r<[9'l6hAO#8ZQi",
+      "transport": {
+        "type": "ws",
+        "path": "/trTelegram🇨🇳 @WangCai2",
+        "headers": {
+          "Host": "Koma-YT.PAGeS.Dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev"
+      }
     },
     {
       "tag": "未知 VLESS-74 | free-nodes",
@@ -828,41 +841,95 @@
       }
     },
     {
-      "tag": "HK VLESS-99 | free-nodes",
-      "server": "vpn3.rnmcnm.com",
-      "server_port": 443,
-      "type": "vless",
-      "uuid": "c3d4e5f6-7890-1234-5678-90abcdef1234",
-      "flow": "",
+      "tag": "🇺🇸US_19|1.2MB/s",
+      "server": "45.137.213.149",
+      "server_port": 2053,
+      "type": "trojan",
+      "password": "8r<[9'l6hAO#8ZQi",
       "transport": {
         "type": "ws",
-        "path": "/ray",
+        "path": "/trTelegram🇨🇳 @WangCai2",
         "headers": {
-          "Host": "vpn3.rnmcnm.com"
+          "Host": "Koma-YT.PAGeS.Dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "vpn3.rnmcnm.com"
+        "server_name": "Koma-YT.PAGeS.Dev"
       }
     },
     {
-      "tag": "US VLESS-70 | free-nodes",
-      "server": "34.136.119.149",
-      "server_port": 443,
+      "tag": "13|US_speednode_0038",
+      "server": "156.238.254.5",
+      "server_port": 23100,
       "type": "vless",
-      "uuid": "981fca81-5be1-41f8-ac9b-d138e8109943",
+      "uuid": "d5a17f2f-aa94-4b61-8574-ce0b301f9062",
+      "flow": "",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws.amazon.com"
+      }
+    },
+    {
+      "tag": "US",
+      "server": "129.146.134.26",
+      "server_port": 34237,
+      "type": "vless",
+      "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
       "flow": "",
       "transport": {
         "type": "ws",
-        "path": "/?ed=2560&Telegram🇨🇳@WangCai2",
+        "path": "/",
         "headers": {
-          "Host": "babayaga-6i7.pages.dev"
+          "Host": "tamoai.ccwu.cc"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "babayaga-6i7.pages.dev"
+        "server_name": "tamoai.ccwu.cc"
+      }
+    },
+    {
+      "tag": "🇺🇸US_15|1.0MB/s",
+      "server": "45.202.113.234",
+      "server_port": 443,
+      "type": "vless",
+      "uuid": "26524cce-d514-4014-a426-365fb266a14d",
+      "flow": "",
+      "transport": {
+        "type": "ws",
+        "path": "/danfeng?ed=2560fp=firefox",
+        "headers": {
+          "Host": "klng2.stream-cdn.sh21.eu.org"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "klng2.stream-cdn.sh21.eu.org"
+      }
+    },
+    {
+      "tag": "US VLESS-84 | free-nodes",
+      "server": "67.102.180.16",
+      "server_port": 443,
+      "type": "vless",
+      "uuid": "b831381d-6324-4d53-ad4f-8cda48b30811",
+      "flow": "xtls-rprx-vision",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.microsoft.com"
+      }
+    },
+    {
+      "tag": "US VLESS-122 | free-nodes",
+      "server": "s173.okgg.top",
+      "server_port": 443,
+      "type": "vless",
+      "uuid": "8f8ccdc5-fe99-38d7-a8a6-422f8c88ef0a",
+      "flow": "xtls-rprx-vision",
+      "tls": {
+        "enabled": true,
+        "server_name": "a226s173.okgg.top"
       }
     },
     {
@@ -884,43 +951,9 @@
       }
     },
     {
-      "tag": "B - 🇺🇸 US 17 TG: @nodpai",
-      "server": "152.70.143.65",
-      "server_port": 2053,
-      "type": "trojan",
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "transport": {
-        "type": "ws",
-        "path": "/trTelegram🇨🇳 @WangCai2",
-        "headers": {
-          "Host": "Koma-YT.PAGeS.Dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev"
-      }
-    },
-    {
-      "tag": "US SS-30 | free-nodes",
-      "server": "154.53.60.197",
-      "server_port": 80,
-      "type": "shadowsocks",
-      "method": "aes-256-gcm",
-      "password": "8rb580EBG4l7tO8K"
-    },
-    {
-      "tag": "US SS-34 | free-nodes",
-      "server": "154.53.60.212",
-      "server_port": 80,
-      "type": "shadowsocks",
-      "method": "aes-256-gcm",
-      "password": "ZfbPFDdeBj0B1Txs"
-    },
-    {
       "tag": "US",
-      "server": "152.67.248.2",
-      "server_port": 53300,
+      "server": "129.146.6.2",
+      "server_port": 929,
       "type": "vless",
       "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
       "flow": "",
@@ -937,9 +970,9 @@
       }
     },
     {
-      "tag": "B - 🇺🇸 US 04 TG: @nodpai",
-      "server": "157.230.140.153",
-      "server_port": 2083,
+      "tag": "B - 🇺🇸 US 17 TG: @nodpai",
+      "server": "152.70.143.65",
+      "server_port": 2053,
       "type": "trojan",
       "password": "8r%3C%5B9%27l6hAO%238ZQi",
       "transport": {
@@ -952,18 +985,6 @@
       "tls": {
         "enabled": true,
         "server_name": "Koma-YT.PAGeS.Dev"
-      }
-    },
-    {
-      "tag": "US VLESS-84 | free-nodes",
-      "server": "67.102.180.16",
-      "server_port": 443,
-      "type": "vless",
-      "uuid": "b831381d-6324-4d53-ad4f-8cda48b30811",
-      "flow": "xtls-rprx-vision",
-      "tls": {
-        "enabled": true,
-        "server_name": "www.microsoft.com"
       }
     },
     {
@@ -1001,28 +1022,9 @@
       }
     },
     {
-      "tag": "🇺🇸US_15|1.0MB/s",
-      "server": "45.202.113.234",
-      "server_port": 443,
-      "type": "vless",
-      "uuid": "26524cce-d514-4014-a426-365fb266a14d",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/danfeng?ed=2560fp=firefox",
-        "headers": {
-          "Host": "klng2.stream-cdn.sh21.eu.org"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "klng2.stream-cdn.sh21.eu.org"
-      }
-    },
-    {
       "tag": "US",
-      "server": "104.168.87.41",
-      "server_port": 16443,
+      "server": "142.171.156.141",
+      "server_port": 21182,
       "type": "vless",
       "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
       "flow": "",
@@ -1039,23 +1041,20 @@
       }
     },
     {
-      "tag": "US",
-      "server": "107.175.219.231",
-      "server_port": 34237,
-      "type": "vless",
-      "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "tamoai.ccwu.cc"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "tamoai.ccwu.cc"
-      }
+      "tag": "US SS-34 | free-nodes",
+      "server": "154.53.60.212",
+      "server_port": 80,
+      "type": "shadowsocks",
+      "method": "aes-256-gcm",
+      "password": "ZfbPFDdeBj0B1Txs"
+    },
+    {
+      "tag": "US SS-30 | free-nodes",
+      "server": "154.53.60.197",
+      "server_port": 80,
+      "type": "shadowsocks",
+      "method": "aes-256-gcm",
+      "password": "8rb580EBG4l7tO8K"
     },
     {
       "tag": "US SS-32 | free-nodes",
@@ -1066,84 +1065,95 @@
       "password": "QzM0NfuMNngbVnZK"
     },
     {
-      "tag": "13|US_speednode_0038",
-      "server": "156.238.254.5",
-      "server_port": 23100,
+      "tag": "US",
+      "server": "23.94.56.111",
+      "server_port": 20338,
       "type": "vless",
-      "uuid": "d5a17f2f-aa94-4b61-8574-ce0b301f9062",
-      "flow": "",
-      "tls": {
-        "enabled": true,
-        "server_name": "aws.amazon.com"
-      }
-    },
-    {
-      "tag": "US VLESS-122 | free-nodes",
-      "server": "s173.okgg.top",
-      "server_port": 443,
-      "type": "vless",
-      "uuid": "8f8ccdc5-fe99-38d7-a8a6-422f8c88ef0a",
-      "flow": "xtls-rprx-vision",
-      "tls": {
-        "enabled": true,
-        "server_name": "a226s173.okgg.top"
-      }
-    },
-    {
-      "tag": "未知 VLESS-96 | free-nodes",
-      "server": "ul-mexico1.09vpn.com",
-      "server_port": 8443,
-      "type": "vless",
-      "uuid": "a6d20e79-d326-42c1-bc20-f4cecc6dc42d",
+      "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
       "flow": "",
       "transport": {
         "type": "ws",
-        "path": "/vless/",
+        "path": "/",
         "headers": {
-          "Host": "ul-mexico1.09vpn.com"
+          "Host": "tamoai.ccwu.cc"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "ul-mexico1.09vpn.com"
+        "server_name": "tamoai.ccwu.cc"
       }
     },
     {
-      "tag": "FR TROJAN-45 | free-nodes",
-      "server": "www.ignitelimit.com",
-      "server_port": 443,
+      "tag": "B - 🇺🇸 US 04 TG: @nodpai",
+      "server": "157.230.140.153",
+      "server_port": 2083,
       "type": "trojan",
-      "password": "humanity",
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
       "transport": {
         "type": "ws",
-        "path": "/assignment",
+        "path": "/trTelegram🇨🇳 @WangCai2",
         "headers": {
-          "Host": "www.ignitelimit.com"
+          "Host": "Koma-YT.PAGeS.Dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "www.ignitelimit.com"
+        "server_name": "Koma-YT.PAGeS.Dev"
       }
     },
     {
-      "tag": "C - 🇺🇸 US 39 TG: @nodpai",
-      "server": "itarmy.com.ua",
-      "server_port": 2095,
+      "tag": "US",
+      "server": "138.2.231.58",
+      "server_port": 45638,
       "type": "vless",
-      "uuid": "86c50e3a-5b87-49dd-bd20-03c7f2735e40",
+      "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
       "flow": "",
       "transport": {
         "type": "ws",
-        "path": "/fp=randomized",
+        "path": "/",
         "headers": {
-          "Host": "cnmfangbinxing.cnmfangbinxing-k.workers.dev"
+          "Host": "tamoai.ccwu.cc"
         }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "tamoai.ccwu.cc"
+      }
+    },
+    {
+      "tag": "美国+CloudFlare节点",
+      "server": "fbi.gov",
+      "server_port": 443,
+      "type": "vless",
+      "uuid": "bafacd98-136a-4530-838d-4e5c51838dac",
+      "flow": "",
+      "transport": {
+        "type": "ws",
+        "path": "/sale/torrent/pic/juzibaipiao",
+        "headers": {
+          "Host": "juzi8186.qea.ccwu.cc"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "juzi8186.qea.ccwu.cc"
+      }
+    },
+    {
+      "tag": "FR VLESS-56 | free-nodes",
+      "server": "45.12.133.207",
+      "server_port": 443,
+      "type": "vless",
+      "uuid": "1235d730-707c-4a11-8ce3-ebb17561564b",
+      "flow": "",
+      "tls": {
+        "enabled": true,
+        "server_name": "yahoo.com"
       }
     },
     {
       "tag": "GB",
-      "server": "57.128.183.196",
+      "server": "206.189.23.110",
       "server_port": 443,
       "type": "vless",
       "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
@@ -1161,12 +1171,43 @@
       }
     },
     {
-      "tag": "GB SS-33 | free-nodes",
-      "server": "149.102.132.186",
-      "server_port": 80,
+      "tag": "GB SS-16 | free-nodes",
+      "server": "109.176.229.55",
+      "server_port": 8388,
       "type": "shadowsocks",
-      "method": "aes-256-gcm",
-      "password": "YhzqOeJsfuZ9rkkc"
+      "method": "chacha20-ietf-poly1305",
+      "password": "X6btbRvJCo3uTQ--yaaT8Mvh0CgqhYTL"
+    },
+    {
+      "tag": "法国+国际航空电讯集团公司(SITA)",
+      "server": "57.129.137.86",
+      "server_port": 8443,
+      "type": "vless",
+      "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+      "flow": "",
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "sni.111000.v6.navy"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "sni.111000.v6.navy"
+      }
+    },
+    {
+      "tag": "GB VLESS-78 | free-nodes",
+      "server": "3.8.160.120",
+      "server_port": 18633,
+      "type": "vless",
+      "uuid": "5da5bc00-ea44-462e-bdb7-7687346ad039",
+      "flow": "xtls-rprx-vision",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.yahoo.com"
+      }
     },
     {
       "tag": "GB VLESS-66 | free-nodes",
@@ -1181,9 +1222,55 @@
       }
     },
     {
-      "tag": "B - 🇯🇵 JP 07 TG: @nodpai",
-      "server": "5.180.30.229",
-      "server_port": 59801,
+      "tag": "NL",
+      "server": "91.84.98.144",
+      "server_port": 443,
+      "type": "vless",
+      "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
+      "flow": "",
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "tamoai.ccwu.cc"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "tamoai.ccwu.cc"
+      }
+    },
+    {
+      "tag": "GB",
+      "server": "77.91.101.14",
+      "server_port": 443,
+      "type": "vless",
+      "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
+      "flow": "",
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "tamoai.ccwu.cc"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "tamoai.ccwu.cc"
+      }
+    },
+    {
+      "tag": "未知 SS-11 | free-nodes",
+      "server": "108.181.58.239",
+      "server_port": 8388,
+      "type": "shadowsocks",
+      "method": "chacha20-ietf-poly1305",
+      "password": "CJmTCCx7Ltud"
+    },
+    {
+      "tag": "B - 🇯🇵 JP 05 TG: @nodpai",
+      "server": "213.179.69.150",
+      "server_port": 35130,
       "type": "vless",
       "uuid": "00000000-0000-4000-8000-000000000000",
       "flow": "",
@@ -1198,6 +1285,122 @@
         "enabled": true,
         "server_name": "adv2m5gy-wrhiahph85c.ovtc.qzz.io"
       }
+    },
+    {
+      "tag": "B - 🇯🇵 JP 11 TG: @nodpai",
+      "server": "45.145.41.222",
+      "server_port": 48491,
+      "type": "vless",
+      "uuid": "00000000-0000-4000-8000-000000000000",
+      "flow": "",
+      "transport": {
+        "type": "ws",
+        "path": "/@Marisa_kristifp=chromesecurity=tls",
+        "headers": {
+          "Host": "9cvs-zyn4r9-6gzdtuo0w.mikuru.ip-ddns.com"
+        }
+      }
+    },
+    {
+      "tag": "GB SS-33 | free-nodes",
+      "server": "149.102.132.186",
+      "server_port": 80,
+      "type": "shadowsocks",
+      "method": "aes-256-gcm",
+      "password": "YhzqOeJsfuZ9rkkc"
+    },
+    {
+      "tag": "法国/巴黎/France/Paris",
+      "server": "62.210.124.146",
+      "server_port": 22000,
+      "type": "hysteria2",
+      "password": "dongtaiwang.com",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.microsoft.com"
+      },
+      "up_mbps": 50,
+      "down_mbps": 100
+    },
+    {
+      "tag": "NL",
+      "server": "188.253.27.63",
+      "server_port": 443,
+      "type": "vless",
+      "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
+      "flow": "",
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "tamoai.ccwu.cc"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "tamoai.ccwu.cc"
+      }
+    },
+    {
+      "tag": "NL",
+      "server": "144.31.123.194",
+      "server_port": 443,
+      "type": "vless",
+      "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
+      "flow": "",
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "tamoai.ccwu.cc"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "tamoai.ccwu.cc"
+      }
+    },
+    {
+      "tag": "B - 🇯🇵 JP 08 TG: @nodpai",
+      "server": "64.188.106.174",
+      "server_port": 4433,
+      "type": "vless",
+      "uuid": "00000000-0000-4000-8000-000000000000",
+      "flow": "",
+      "transport": {
+        "type": "ws",
+        "path": "/@Marisa_kristifp=chrome",
+        "headers": {
+          "Host": "adv2m5gy-wrhiahph85c.ovtc.qzz.io"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "adv2m5gy-wrhiahph85c.ovtc.qzz.io"
+      }
+    },
+    {
+      "tag": "未知 VLESS-53 | free-nodes",
+      "server": "163.172.214.188",
+      "server_port": 80,
+      "type": "vless",
+      "uuid": "40cc9b52-25b8-4cd5-8b45-715ae26e6baf",
+      "flow": "",
+      "transport": {
+        "type": "ws",
+        "path": "/vless/",
+        "headers": {
+          "Host": "163.172.214.188"
+        }
+      }
+    },
+    {
+      "tag": "未知 VLESS-76 | free-nodes",
+      "server": "95.164.3.121",
+      "server_port": 20089,
+      "type": "vless",
+      "uuid": "4fe2b7d6-cdc0-44f3-8093-3a1fc92e8542",
+      "flow": ""
     },
     {
       "tag": "B - 🇯🇵 JP 10 TG: @nodpai",
@@ -1219,53 +1422,9 @@
       }
     },
     {
-      "tag": "FR VLESS-56 | free-nodes",
-      "server": "45.12.133.207",
+      "tag": "DE",
+      "server": "77.90.45.78",
       "server_port": 443,
-      "type": "vless",
-      "uuid": "1235d730-707c-4a11-8ce3-ebb17561564b",
-      "flow": "",
-      "tls": {
-        "enabled": true,
-        "server_name": "yahoo.com"
-      }
-    },
-    {
-      "tag": "GB VLESS-78 | free-nodes",
-      "server": "3.8.160.120",
-      "server_port": 18633,
-      "type": "vless",
-      "uuid": "5da5bc00-ea44-462e-bdb7-7687346ad039",
-      "flow": "xtls-rprx-vision",
-      "tls": {
-        "enabled": true,
-        "server_name": "www.yahoo.com"
-      }
-    },
-    {
-      "tag": "未知 VLESS-76 | free-nodes",
-      "server": "95.164.3.121",
-      "server_port": 20089,
-      "type": "vless",
-      "uuid": "4fe2b7d6-cdc0-44f3-8093-3a1fc92e8542",
-      "flow": ""
-    },
-    {
-      "tag": "德国/Germany",
-      "server": "62.141.42.201",
-      "server_port": 443,
-      "type": "vless",
-      "uuid": "cc976b15-418b-4f0b-89ce-cd685ffbaf20",
-      "flow": "xtls-rprx-vision",
-      "tls": {
-        "enabled": true,
-        "server_name": "google.com"
-      }
-    },
-    {
-      "tag": "GB",
-      "server": "193.219.99.61",
-      "server_port": 8443,
       "type": "vless",
       "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
       "flow": "",
@@ -1300,31 +1459,50 @@
       }
     },
     {
-      "tag": "法国+国际航空电讯集团公司(SITA)",
-      "server": "57.129.137.86",
-      "server_port": 8443,
+      "tag": "ES",
+      "server": "2.56.221.72",
+      "server_port": 81,
       "type": "vless",
-      "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+      "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
       "flow": "",
       "transport": {
         "type": "ws",
         "path": "/",
         "headers": {
-          "Host": "sni.111000.v6.navy"
+          "Host": "tamoai.ccwu.cc"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "sni.111000.v6.navy"
+        "server_name": "tamoai.ccwu.cc"
       }
     },
     {
-      "tag": "GB SS-24 | free-nodes",
-      "server": "138.68.153.223",
-      "server_port": 46576,
+      "tag": "未知 SS-17 | free-nodes",
+      "server": "150.241.72.79",
+      "server_port": 8388,
       "type": "shadowsocks",
       "method": "chacha20-ietf-poly1305",
-      "password": "idMvoewrSyLLvEvP03k9zR"
+      "password": "X6btbRvJCo3uTQ--yaaT8Mvh0CgqhYTL"
+    },
+    {
+      "tag": "NL",
+      "server": "146.185.172.180",
+      "server_port": 2096,
+      "type": "vless",
+      "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
+      "flow": "",
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "tamoai.ccwu.cc"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "tamoai.ccwu.cc"
+      }
     },
     {
       "tag": "🇳🇱NL_4|1.1MB/s",
@@ -1345,155 +1523,9 @@
       }
     },
     {
-      "tag": "FR",
-      "server": "51.178.141.36",
-      "server_port": 8443,
-      "type": "vless",
-      "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "tamoai.ccwu.cc"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "tamoai.ccwu.cc"
-      }
-    },
-    {
-      "tag": "NL",
-      "server": "31.15.17.129",
-      "server_port": 2053,
-      "type": "vless",
-      "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "tamoai.ccwu.cc"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "tamoai.ccwu.cc"
-      }
-    },
-    {
-      "tag": "未知 VLESS-53 | free-nodes",
-      "server": "163.172.214.188",
-      "server_port": 80,
-      "type": "vless",
-      "uuid": "40cc9b52-25b8-4cd5-8b45-715ae26e6baf",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/vless/",
-        "headers": {
-          "Host": "163.172.214.188"
-        }
-      }
-    },
-    {
-      "tag": "FR",
-      "server": "144.24.195.115",
-      "server_port": 23010,
-      "type": "vless",
-      "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "tamoai.ccwu.cc"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "tamoai.ccwu.cc"
-      }
-    },
-    {
-      "tag": "NL",
-      "server": "144.31.199.154",
-      "server_port": 2053,
-      "type": "vless",
-      "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "tamoai.ccwu.cc"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "tamoai.ccwu.cc"
-      }
-    },
-    {
-      "tag": "RU VLESS-91 | free-nodes",
-      "server": "138.124.186.100",
-      "server_port": 443,
-      "type": "vless",
-      "uuid": "e346f220-4ca4-4f69-a66b-52e992b3b625",
-      "flow": "xtls-rprx-vision",
-      "tls": {
-        "enabled": true,
-        "server_name": "www.fh-aachen.de"
-      }
-    },
-    {
-      "tag": "未知 VLESS-63 | free-nodes",
-      "server": "195.181.173.199",
-      "server_port": 8443,
-      "type": "vless",
-      "uuid": "394f6981-a782-4779-9a85-e6cf22935d93",
-      "flow": "",
-      "tls": {
-        "enabled": true,
-        "server_name": "ams1.fromblancwithlove.com"
-      }
-    },
-    {
-      "tag": "未知 SS-15 | free-nodes",
-      "server": "159.223.236.36",
-      "server_port": 19582,
-      "type": "shadowsocks",
-      "method": "chacha20-ietf-poly1305",
-      "password": "WC0GbiCk67K8nHDaDHmYIX"
-    },
-    {
-      "tag": "未知 SS-17 | free-nodes",
-      "server": "150.241.72.79",
-      "server_port": 8388,
-      "type": "shadowsocks",
-      "method": "chacha20-ietf-poly1305",
-      "password": "X6btbRvJCo3uTQ--yaaT8Mvh0CgqhYTL"
-    },
-    {
-      "tag": "B - 🇯🇵 JP 11 TG: @nodpai",
-      "server": "45.145.41.222",
-      "server_port": 48491,
-      "type": "vless",
-      "uuid": "00000000-0000-4000-8000-000000000000",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/@Marisa_kristifp=chromesecurity=tls",
-        "headers": {
-          "Host": "9cvs-zyn4r9-6gzdtuo0w.mikuru.ip-ddns.com"
-        }
-      }
-    },
-    {
-      "tag": "B - 🇯🇵 JP 25 TG: @nodpai",
-      "server": "staticdelivery.nexusmods.com",
-      "server_port": 443,
+      "tag": "B - 🇯🇵 JP 07 TG: @nodpai",
+      "server": "5.180.30.229",
+      "server_port": 59801,
       "type": "vless",
       "uuid": "00000000-0000-4000-8000-000000000000",
       "flow": "",
@@ -1507,25 +1539,6 @@
       "tls": {
         "enabled": true,
         "server_name": "adv2m5gy-wrhiahph85c.ovtc.qzz.io"
-      }
-    },
-    {
-      "tag": "NL",
-      "server": "185.37.8.212",
-      "server_port": 443,
-      "type": "vless",
-      "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "tamoai.ccwu.cc"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "tamoai.ccwu.cc"
       }
     },
     {
@@ -1544,14 +1557,18 @@
       }
     },
     {
-      "tag": "未知 SS-11 | free-nodes",
-      "server": "108.181.58.239",
-      "server_port": 8388,
-      "type": "shadowsocks",
-      "method": "chacha20-ietf-poly1305",
-      "password": "CJmTCCx7Ltud"
+      "tag": "未知 VLESS-63 | free-nodes",
+      "server": "195.181.173.199",
+      "server_port": 8443,
+      "type": "vless",
+      "uuid": "394f6981-a782-4779-9a85-e6cf22935d93",
+      "flow": "",
+      "tls": {
+        "enabled": true,
+        "server_name": "ams1.fromblancwithlove.com"
+      }
     }
   ],
-  "updated": "2026-05-17T08:17:50.658055",
+  "updated": "2026-05-17T08:20:52.997692",
   "count": 100
 }

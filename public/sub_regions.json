@@ -1,28 +1,28 @@
 {
-  "updated": "2026-05-17T08:17:50Z",
+  "updated": "2026-05-17T08:20:52Z",
   "total_nodes": 100,
-  "v2ray_nodes": 100,
-  "hysteria_nodes": 0,
+  "v2ray_nodes": 98,
+  "hysteria_nodes": 2,
   "regions": {
     "OTHER": {
       "name": "其他",
       "emoji": "🌐",
-      "count": 35
+      "count": 34
     },
     "US": {
       "name": "美国",
       "emoji": "🇺🇸",
-      "count": 20
-    },
-    "JP": {
-      "name": "日本",
-      "emoji": "🇯🇵",
-      "count": 5
+      "count": 21
     },
     "TW": {
       "name": "台湾",
       "emoji": "🇹🇼",
       "count": 0
+    },
+    "JP": {
+      "name": "日本",
+      "emoji": "🇯🇵",
+      "count": 6
     },
     "SG": {
       "name": "新加坡",
@@ -32,7 +32,7 @@
     "HK": {
       "name": "香港",
       "emoji": "🇭🇰",
-      "count": 3
+      "count": 2
     },
     "GB": {
       "name": "英国",
@@ -42,31 +42,31 @@
     "DE": {
       "name": "德国",
       "emoji": "🇩🇪",
-      "count": 1
-    },
-    "FR": {
-      "name": "法国",
-      "emoji": "🇫🇷",
-      "count": 7
+      "count": 2
     },
     "NL": {
       "name": "荷兰",
       "emoji": "🇳🇱",
-      "count": 3
+      "count": 4
+    },
+    "FR": {
+      "name": "法国",
+      "emoji": "🇫🇷",
+      "count": 5
     },
     "TR": {
       "name": "土耳其",
       "emoji": "🇹🇷",
       "count": 3
     },
-    "CA": {
-      "name": "加拿大",
-      "emoji": "🇨🇦",
-      "count": 2
-    },
     "RU": {
       "name": "俄罗斯",
       "emoji": "🇷🇺",
+      "count": 1
+    },
+    "CA": {
+      "name": "加拿大",
+      "emoji": "🇨🇦",
       "count": 2
     },
     "KR": {
@@ -79,24 +79,19 @@
       "emoji": "🇫🇮",
       "count": 0
     },
-    "AU": {
-      "name": "澳大利亚",
-      "emoji": "🇦🇺",
-      "count": 0
-    },
     "RO": {
       "name": "罗马尼亚",
       "emoji": "🇷🇴",
       "count": 0
     },
+    "AU": {
+      "name": "澳大利亚",
+      "emoji": "🇦🇺",
+      "count": 0
+    },
     "CN": {
       "name": "中国",
       "emoji": "🇨🇳",
-      "count": 0
-    },
-    "CH": {
-      "name": "瑞士",
-      "emoji": "🇨🇭",
       "count": 0
     },
     "NO": {
@@ -112,6 +107,11 @@
     "PL": {
       "name": "波兰",
       "emoji": "🇵🇱",
+      "count": 0
+    },
+    "CH": {
+      "name": "瑞士",
+      "emoji": "🇨🇭",
       "count": 0
     },
     "AT": {
@@ -133,6 +133,11 @@
       "name": "越南",
       "emoji": "🇻🇳",
       "count": 0
+    },
+    "ES": {
+      "name": "西班牙",
+      "emoji": "🇪🇸",
+      "count": 1
     },
     "SE": {
       "name": "瑞典",
