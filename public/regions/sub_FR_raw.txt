@@ -1,1 +1,3 @@
-trojan://humanity@104.20.6.134:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#FR%20TROJAN-55%20%7C%20free-nodes
+vless://40bf709c-4353-4552-ba26-406d2bf7821d@fr.gryaz-vpn.com:20567?allowInsecure=0&sni=cloudflare.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#13%7CFR_speednode_0004
+vless://40bf709c-4353-4552-ba26-406d2bf7821d@fr.gryaz-vpn.com:20567?allowInsecure=0&sni=cloudflare.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#FR_speednode_0004
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.16.110.238:2096?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&encryption=none&insecure=0&host=sni.jpmj.dev&type=ws&allowInsecure=0&sni=sni.jpmj.dev#法国/France

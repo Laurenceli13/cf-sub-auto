@@ -1,2 +1,2 @@
-vless://85b5cb2e-2617-4930-b6a4-4aeaf3b7b9aa@de.sbrf-cdn342.ru:443?allowInsecure=0&sni=sub.sbrf-cdn342.ru&alpn=http/1.1&flow=xtls-rprx-vision-udp443&fp=qq&security=tls#13%7CRO_speednode_0023
-vless://85b5cb2e-2617-4930-b6a4-4aeaf3b7b9aa@de.sbrf-cdn342.ru:443?allowInsecure=0&sni=sub.sbrf-cdn342.ru&alpn=http/1.1&flow=xtls-rprx-vision-udp443&fp=qq&security=tls#RO_speednode_0023
+vless://2001daf3-5c56-4bef-8ea6-8dd0493c5a4c@87.120.93.69:443?allowInsecure=0&sni=www.deepl.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#13%7CRO_speednode_0025
+vless://2001daf3-5c56-4bef-8ea6-8dd0493c5a4c@87.120.93.69:443?allowInsecure=0&sni=www.deepl.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#RO_speednode_0025
