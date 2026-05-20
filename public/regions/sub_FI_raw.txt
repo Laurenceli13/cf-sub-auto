@@ -1,1 +1,1 @@
-trojan://162534@138.124.112.238:2053?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&fp=chrome&host=cchh2.pages.dev&path=/?https://t.me/WangCai2🇨🇳=&sni=cchh2.pages.dev&type=ws#芬兰/赫尔辛基/Finland/Helsinki
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@138.124.59.201:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.v6.rocks&path=%2F&security=tls&sni=sni.111000.v6.rocks&type=ws#芬兰/赫尔辛基/Finland/Helsinki

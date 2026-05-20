@@ -1,1 +1,1 @@
-trojan://08964210-e7b8-11ec-95aa-1239d0255272@w12.udpgw.com:443?security=tls#越南/Vietnam
+vless://570f00ba-af38-44b9-955c-86f8272e0d3a@173.245.59.132:8880?path=%2F&security=none&encryption=none&host=lO-sNaPp.ZeMpA-lOvE.ir&type=httpupgrade#越南/Vietnam

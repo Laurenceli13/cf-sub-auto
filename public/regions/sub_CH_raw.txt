@@ -1,4 +1,2 @@
 vless://11348c0f-b646-446a-bad7-b2b39c6de767@138.124.9.190:16558?encryption=none&flow=xtls-rprx-vision&security=reality&sni=gpuopen.com&fp=chrome&pbk=vDKgmefC_2JaSrrvQSsb7DU3KBeKUlXG1V0vgdjv_i4&sid=0a856e071790b1&type=tcp&headerType=none#瑞士/Switzerland
-vless://45ceaca9-30f4-4035-85b7-8f83493911d8@51.34.85.34:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2F&encryption=none#CH
-vless://monacoVPN@172.65.111.43:22?#%F0%9F%87%A8%F0%9F%87%ADCH_1%7C1.0MB/s
-vless://monacoVPN@172.65.111.43:22?security=none&type=tcp&headerType=http&path=%2F%40monacoVPN%40monacoVPN%40monacoVPN%40monacoVPN&encryption=none#%F0%9F%87%A8%F0%9F%87%ADCH_1%7C1.0MB%2Fs
+vless://monacoVPN@172.65.111.43:22?#%F0%9F%87%A8%F0%9F%87%ADCH_1%7C1.2MB/s

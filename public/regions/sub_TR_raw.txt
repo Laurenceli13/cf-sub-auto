@@ -1,1 +1,1 @@
-trojan://08964210-e7b8-11ec-95aa-1239d0255272@w12.udpgw.com:443?security=tls#土耳其/伊斯坦布尔/Türkiye/Istanbul
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYNmJ0YlJ2SkNvM3VUUS0teWFhVDhNdmgwQ2dxaFlUTA@194.87.39.215:8388#土耳其/伊斯坦布尔/Türkiye/Istanbul
