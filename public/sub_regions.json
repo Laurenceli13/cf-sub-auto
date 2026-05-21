@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-20T19:37:07Z",
+  "updated": "2026-05-21T19:22:13Z",
   "total_nodes": 100,
   "v2ray_nodes": 100,
   "hysteria_nodes": 0,
@@ -17,7 +17,7 @@
     "SG": {
       "name": "新加坡",
       "emoji": "🇸🇬",
-      "count": 0
+      "count": 1
     },
     "JP": {
       "name": "日本",
@@ -27,21 +27,6 @@
     "DE": {
       "name": "德国",
       "emoji": "🇩🇪",
-      "count": 0
-    },
-    "HK": {
-      "name": "香港",
-      "emoji": "🇭🇰",
-      "count": 1
-    },
-    "NL": {
-      "name": "荷兰",
-      "emoji": "🇳🇱",
-      "count": 0
-    },
-    "GB": {
-      "name": "英国",
-      "emoji": "🇬🇧",
       "count": 0
     },
     "KR": {
@@ -54,9 +39,19 @@
       "emoji": "🇷🇺",
       "count": 0
     },
-    "TW": {
-      "name": "台湾",
-      "emoji": "🇹🇼",
+    "CA": {
+      "name": "加拿大",
+      "emoji": "🇨🇦",
+      "count": 0
+    },
+    "HK": {
+      "name": "香港",
+      "emoji": "🇭🇰",
+      "count": 0
+    },
+    "NL": {
+      "name": "荷兰",
+      "emoji": "🇳🇱",
       "count": 0
     },
     "FR": {
@@ -64,14 +59,39 @@
       "emoji": "🇫🇷",
       "count": 0
     },
+    "TW": {
+      "name": "台湾",
+      "emoji": "🇹🇼",
+      "count": 0
+    },
     "RO": {
       "name": "罗马尼亚",
       "emoji": "🇷🇴",
       "count": 0
     },
+    "GB": {
+      "name": "英国",
+      "emoji": "🇬🇧",
+      "count": 0
+    },
     "SE": {
       "name": "瑞典",
       "emoji": "🇸🇪",
+      "count": 0
+    },
+    "PL": {
+      "name": "波兰",
+      "emoji": "🇵🇱",
+      "count": 0
+    },
+    "IN": {
+      "name": "印度",
+      "emoji": "🇮🇳",
+      "count": 0
+    },
+    "FI": {
+      "name": "芬兰",
+      "emoji": "🇫🇮",
       "count": 0
     },
     "CH": {
@@ -84,21 +104,6 @@
       "emoji": "🇨🇿",
       "count": 0
     },
-    "IN": {
-      "name": "印度",
-      "emoji": "🇮🇳",
-      "count": 0
-    },
-    "TR": {
-      "name": "土耳其",
-      "emoji": "🇹🇷",
-      "count": 0
-    },
-    "CA": {
-      "name": "加拿大",
-      "emoji": "🇨🇦",
-      "count": 0
-    },
     "MD": {
       "name": "摩尔多瓦",
       "emoji": "🇲🇩",
@@ -109,19 +114,24 @@
       "emoji": "🇻🇳",
       "count": 0
     },
-    "FI": {
-      "name": "芬兰",
-      "emoji": "🇫🇮",
+    "TR": {
+      "name": "土耳其",
+      "emoji": "🇹🇷",
       "count": 0
     },
-    "PL": {
-      "name": "波兰",
-      "emoji": "🇵🇱",
+    "CN": {
+      "name": "中国",
+      "emoji": "🇨🇳",
       "count": 0
     },
-    "IT": {
-      "name": "意大利",
-      "emoji": "🇮🇹",
+    "DK": {
+      "name": "丹麦",
+      "emoji": "🇩🇰",
+      "count": 0
+    },
+    "AT": {
+      "name": "奥地利",
+      "emoji": "🇦🇹",
       "count": 0
     }
   }
