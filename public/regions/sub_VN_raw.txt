@@ -1,1 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHeVo1WG8waHQ0MXZZbVczSDQ=@149.28.255.6:816#越南/Vietnam
+trojan://14bdba6dede262387ebdebaa706e1c90@trs12.bolab.net:443?security=tls#越南/Vietnam

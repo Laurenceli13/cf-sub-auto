@@ -1,3 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppVUtLcHlUMjF4d1FvYllvWGFDZXFj@195.93.253.240:14130#瑞典/斯德哥尔摩/Sweden/Stockholm
-trojan://8r%3C%5B9%27l6hAO%238ZQi@203.18.98.14:8443?sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram🇨🇳+@WangCai2#%F0%9F%87%B8%F0%9F%87%AASE_1%7C1.0MB/s
-trojan://8r%3C%5B9%27l6hAO%238ZQi@94.183.190.73:8443?sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram🇨🇳+@WangCai2#%F0%9F%87%B8%F0%9F%87%AASE_2%7C1.1MB/s
+vless://981fca81-5be1-41f8-ac9b-d138e8109943@109.120.134.232:8443?encryption=none&host=babayaga-6i7.pages.dev&security=tls&sni=babayaga-6i7.pages.dev&type=ws#瑞典/斯德哥尔摩/Sweden/Stockholm

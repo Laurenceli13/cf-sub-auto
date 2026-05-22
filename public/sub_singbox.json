@@ -1,666 +1,35 @@
 {
   "outbounds": [
     {
-      "tag": "未知 VLESS-1091 | free-nodes",
-      "server": "104.21.86.253",
-      "server_port": 443,
-      "type": "vless",
-      "uuid": "e4824193-4f54-453b-d037-88368e85ef0e",
-      "flow": "",
-      "tls": {
-        "enabled": true,
-        "server_name": "pqh27v1.carwashipdir.shop"
-      }
-    },
-    {
-      "tag": "未知 VLESS-1085 | free-nodes",
-      "server": "198.41.222.191",
+      "tag": "未知 VLESS-251 | free-nodes",
+      "server": "151.101.25.242",
       "server_port": 80,
       "type": "vless",
-      "uuid": "e388fffb-03b0-4227-ac2c-2b5cec1f5c34",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "leecher56.matinheydri.workers.dev"
-        }
-      }
-    },
-    {
-      "tag": "未知 TROJAN-213 | free-nodes",
-      "server": "104.21.80.1",
-      "server_port": 443,
-      "type": "trojan",
-      "password": "psycho",
-      "tls": {
-        "enabled": true,
-        "server_name": "PSYchO.SueX12.Ir"
-      }
-    },
-    {
-      "tag": "未知 VLESS-576 | free-nodes",
-      "server": "188.114.98.0",
-      "server_port": 2096,
-      "type": "vless",
-      "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/?ed=2560",
-        "headers": {
-          "Host": "sni.111000.indevs.in"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "sni.111000.indevs.in"
-      }
-    },
-    {
-      "tag": "CF官方优选69",
-      "server": "162.159.46.71",
-      "server_port": 443,
-      "type": "vless",
-      "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "tamoai.ccwu.cc"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "tamoai.ccwu.cc"
-      }
-    },
-    {
-      "tag": "未知 VLESS-598 | free-nodes",
-      "server": "45.12.30.238",
-      "server_port": 2096,
-      "type": "vless",
-      "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/?ed=2560",
-        "headers": {
-          "Host": "sni.jpmj.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "sni.jpmj.dev"
-      }
-    },
-    {
-      "tag": "CF官方优选26",
-      "server": "172.64.228.115",
-      "server_port": 443,
-      "type": "vless",
-      "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "tamoai.ccwu.cc"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "tamoai.ccwu.cc"
-      }
-    },
-    {
-      "tag": "🇸🇬SG_6|1.8MB/s",
-      "server": "108.162.196.253",
-      "server_port": 443,
-      "type": "trojan",
-      "password": "8r<[9'l6hAO#8ZQi",
-      "transport": {
-        "type": "ws",
-        "path": "/trTelegram🇨🇳 @WangCai2",
-        "headers": {
-          "Host": "Koma-YT.PAGeS.Dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev"
-      }
-    },
-    {
-      "tag": "未知 VLESS-1081 | free-nodes",
-      "server": "104.20.1.252",
-      "server_port": 2052,
-      "type": "vless",
-      "uuid": "f8ae018b-b84d-4c9b-b03b-4642c3a25977",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/?ed",
-        "headers": {
-          "Host": "ExEMplAry-MILkytsxQiQYso.sPortlaNd.CoMPANy."
-        }
-      }
-    },
-    {
-      "tag": "未知 TROJAN-179 | free-nodes",
-      "server": "188.114.96.3",
-      "server_port": 443,
-      "type": "trojan",
-      "password": "humanity",
-      "transport": {
-        "type": "ws",
-        "path": "/assignment",
-        "headers": {
-          "Host": "www.gossipglove.com"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "www.gossipglove.com"
-      }
-    },
-    {
-      "tag": "未知 VLESS-451 | free-nodes",
-      "server": "89.116.180.248",
-      "server_port": 443,
-      "type": "vless",
-      "uuid": "401374e6-df77-41fb-f638-dad8184f175b",
-      "flow": "",
-      "tls": {
-        "enabled": true,
-        "server_name": "pqh23v4.hiddendom.shop",
-        "alpn": [
-          "h2"
-        ]
-      }
-    },
-    {
-      "tag": "未知 VLESS-796 | free-nodes",
-      "server": "104.21.48.147",
-      "server_port": 80,
-      "type": "vless",
-      "uuid": "aaaaaabb-4ddd-4eee-9fff-ffffffffffff",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/64.181.218.67=443",
-        "headers": {
-          "Host": "afrcloud22.mmv.kr"
-        }
-      }
-    },
-    {
-      "tag": "未知 VLESS-657 | free-nodes",
-      "server": "172.64.155.209",
-      "server_port": 80,
-      "type": "vless",
-      "uuid": "787b3724-16c8-4e58-a038-2b8013cdc6d9",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/eyJqdW5rIjoiTG1jRlUwNjNwVUxvYyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
-        "headers": {
-          "Host": "c3linogp4x20x5acoguup217nstesdu1.nobodyface4b13.workers.dev"
-        }
-      }
-    },
-    {
-      "tag": "未知 VLESS-795 | free-nodes",
-      "server": "104.20.1.252",
-      "server_port": 443,
-      "type": "vless",
-      "uuid": "aaaaaabb-4ddd-4eee-9fff-ffffffffffff",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/156.244.1.250=8443",
-        "headers": {
-          "Host": "afrcloud22.mmv.kr"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "afrcloud22.mmv.kr"
-      }
-    },
-    {
-      "tag": "未知 VLESS-261 | free-nodes",
-      "server": "104.16.63.239",
-      "server_port": 80,
-      "type": "vless",
-      "uuid": "04969b01-ac6a-4056-b5cd-852ccf45f100",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/?ed=2048",
-        "headers": {
-          "Host": "netherlands.vipserver14.workers.dev"
-        }
-      }
-    },
-    {
-      "tag": "未知 VLESS-429 | free-nodes",
-      "server": "108.162.195.45",
-      "server_port": 2096,
-      "type": "vless",
-      "uuid": "3f0f36f5-f091-45c5-88c9-4bcc545b922c",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/45.76.183.217=49292",
-        "headers": {
-          "Host": "hetz.x-smm.com"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "hetz.x-smm.com"
-      }
-    },
-    {
-      "tag": "CF官方优选52",
-      "server": "104.19.35.225",
-      "server_port": 443,
-      "type": "vless",
-      "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "tamoai.ccwu.cc"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "tamoai.ccwu.cc"
-      }
-    },
-    {
-      "tag": "CF官方优选92",
-      "server": "108.162.198.85",
-      "server_port": 443,
-      "type": "vless",
-      "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "tamoai.ccwu.cc"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "tamoai.ccwu.cc"
-      }
-    },
-    {
-      "tag": "未知 VLESS-893 | free-nodes",
-      "server": "104.18.4.130",
-      "server_port": 2082,
-      "type": "vless",
-      "uuid": "cb213db5-803d-49dd-a7e2-46d938af0751",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "amiroo-l43dac88-v2.amiroo-d8b.workers.dev"
-        }
-      }
-    },
-    {
-      "tag": "CF官方优选3",
-      "server": "172.67.69.210",
-      "server_port": 443,
-      "type": "vless",
-      "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "tamoai.ccwu.cc"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "tamoai.ccwu.cc"
-      }
-    },
-    {
-      "tag": "未知 VLESS-1010 | free-nodes",
-      "server": "45.130.125.160",
-      "server_port": 2053,
-      "type": "vless",
-      "uuid": "e52d56bb-8376-408e-92d7-cdd896efd3c4",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/ws?ed=2560",
-        "headers": {
-          "Host": "jafarservices.jafarghasemiturk.ir"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "jafarservices.jafarghasemiturk.ir"
-      }
-    },
-    {
-      "tag": "🇺🇸US_2|1003KB/s",
-      "server": "141.101.115.253",
-      "server_port": 443,
-      "type": "trojan",
-      "password": "8r<[9'l6hAO#8ZQi",
-      "transport": {
-        "type": "ws",
-        "path": "/trTelegram🇨🇳 @WangCai2",
-        "headers": {
-          "Host": "Koma-YT.PAGeS.Dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev"
-      }
-    },
-    {
-      "tag": "未知 VLESS-599 | free-nodes",
-      "server": "45.131.5.138",
-      "server_port": 2096,
-      "type": "vless",
-      "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "sni.111000.indevs.in"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "sni.111000.indevs.in"
-      }
-    },
-    {
-      "tag": "未知 VLESS-761 | free-nodes",
-      "server": "104.18.2.150",
-      "server_port": 443,
-      "type": "vless",
-      "uuid": "a114d067-b900-4f60-87a5-50d4d63972b8",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "PaRiSA-CC5Zk0.paRISa-44c.woRKeRs.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "PaRiSA-CC5Zk0.paRISa-44c.woRKeRs.dev"
-      }
-    },
-    {
-      "tag": "未知 VLESS-1018 | free-nodes",
-      "server": "45.130.125.69",
-      "server_port": 8443,
-      "type": "vless",
-      "uuid": "cff6f361-828a-43c8-a8b5-8d10b32e57fb",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "zh.hollowspot.ir"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "zh.hollowspot.ir",
-        "alpn": [
-          "http/1.1"
-        ]
-      }
-    },
-    {
-      "tag": "未知 VLESS-372 | free-nodes",
-      "server": "172.66.128.70",
-      "server_port": 80,
-      "type": "vless",
-      "uuid": "2a2a8023-3b4b-407d-a00a-7beb5a158148",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/?ed",
-        "headers": {
-          "Host": "SHAggy-AGREEMeNTSpUfz4utdI.SpOrTland.COMPANy."
-        }
-      }
-    },
-    {
-      "tag": "CF官方优选20",
-      "server": "108.162.198.57",
-      "server_port": 443,
-      "type": "vless",
-      "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "tamoai.ccwu.cc"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "tamoai.ccwu.cc"
-      }
-    },
-    {
-      "tag": "CF官方优选44",
-      "server": "172.64.144.227",
-      "server_port": 443,
-      "type": "vless",
-      "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "tamoai.ccwu.cc"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "tamoai.ccwu.cc"
-      }
-    },
-    {
-      "tag": "未知 VLESS-249 | free-nodes",
-      "server": "45.130.125.96",
-      "server_port": 8443,
-      "type": "vless",
-      "uuid": "02a8c937-e24a-435c-8ea9-5a11c72fff99",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/api/v1/product_id/99e98b49-1a2c-40a8-81aa-fd825465d766",
-        "headers": {
-          "Host": "ir.hollowspot.ir"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "ir.hollowspot.ir",
-        "alpn": [
-          "http/1.1"
-        ]
-      }
-    },
-    {
-      "tag": "未知 VLESS-784 | free-nodes",
-      "server": "104.16.149.66",
-      "server_port": 80,
-      "type": "vless",
-      "uuid": "a7444b2b-20fb-461f-9840-63e5c8c7d883",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "mute-violet-c674.poviy66273.workers.dev"
-        }
-      }
-    },
-    {
-      "tag": "CF官方优选65",
-      "server": "104.19.42.175",
-      "server_port": 443,
-      "type": "vless",
-      "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "tamoai.ccwu.cc"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "tamoai.ccwu.cc"
-      }
-    },
-    {
-      "tag": "CF官方优选63",
-      "server": "8.39.125.65",
-      "server_port": 443,
-      "type": "vless",
-      "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "tamoai.ccwu.cc"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "tamoai.ccwu.cc"
-      }
-    },
-    {
-      "tag": "未知 VLESS-528 | free-nodes",
-      "server": "104.21.3.219",
-      "server_port": 8443,
-      "type": "vless",
-      "uuid": "57ba2ab1-a283-42eb-82ee-dc3561a805b8",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/57ba2ab1",
-        "headers": {
-          "Host": "ovhwuxian.pai50288.uk"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "ovhwuxian.pai50288.uk"
-      }
-    },
-    {
-      "tag": "未知 TROJAN-165 | free-nodes",
-      "server": "104.21.40.34",
-      "server_port": 443,
-      "type": "trojan",
-      "password": "humanity",
-      "transport": {
-        "type": "ws",
-        "path": "/assignment",
-        "headers": {
-          "Host": "www.gossipglove.com"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "www.gossipglove.com"
-      }
-    },
-    {
-      "tag": "未知 VLESS-763 | free-nodes",
-      "server": "141.101.114.214",
-      "server_port": 2086,
-      "type": "vless",
-      "uuid": "a2626d27-e0f8-490d-b23c-c9ca0dea4ea9",
+      "uuid": "02d87d00-c769-48d8-91cb-bd05e2f62790",
       "flow": ""
     },
     {
-      "tag": "未知 VLESS-1035 | free-nodes",
-      "server": "104.26.3.125",
-      "server_port": 2052,
-      "type": "vless",
-      "uuid": "e8d06b09-acd9-448c-9874-3c36151d36ee",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "icy-wildflower-2590.lihuifeng595.workers.dev"
-        }
-      }
-    },
-    {
-      "tag": "未知 VLESS-1097 | free-nodes",
-      "server": "172.65.111.43",
-      "server_port": 22,
-      "type": "vless",
-      "uuid": "monacoVPN",
-      "flow": ""
-    },
-    {
-      "tag": "未知 VLESS-448 | free-nodes",
-      "server": "103.133.1.227",
+      "tag": "CF官方优选67",
+      "server": "172.64.228.159",
       "server_port": 443,
       "type": "vless",
-      "uuid": "401374e6-df77-41fb-f638-dad8184f175b",
-      "flow": "",
-      "tls": {
-        "enabled": true,
-        "server_name": "pqh24v3.hiddendom.shop",
-        "alpn": [
-          "h2"
-        ]
-      }
-    },
-    {
-      "tag": "未知 VLESS-476 | free-nodes",
-      "server": "172.64.146.211",
-      "server_port": 80,
-      "type": "vless",
-      "uuid": "478cc26d-16b3-4fdd-be64-60d5a58c1622",
+      "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
       "flow": "",
       "transport": {
         "type": "ws",
         "path": "/",
         "headers": {
-          "Host": "tt.andishehparenting.com"
+          "Host": "tamoai.ccwu.cc"
         }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "tamoai.ccwu.cc"
       }
     },
     {
-      "tag": "未知 VLESS-563 | free-nodes",
-      "server": "162.159.33.40",
+      "tag": "美国+CloudFlare节点",
+      "server": "104.19.35.169",
       "server_port": 443,
       "type": "vless",
       "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
@@ -678,1044 +47,26 @@
       }
     },
     {
-      "tag": "未知 VLESS-660 | free-nodes",
-      "server": "104.21.224.5",
-      "server_port": 8880,
-      "type": "vless",
-      "uuid": "7890ce31-9a25-4fd4-90e7-80e5823ff510",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/Telegram🇨🇳@WangCai2/?ed=2560",
-        "headers": {
-          "Host": "frejd.11258.workers.dev"
-        }
-      }
-    },
-    {
-      "tag": "未知 VLESS-859 | free-nodes",
-      "server": "63.141.128.22",
-      "server_port": 443,
-      "type": "vless",
-      "uuid": "b8b01773-36b1-4b49-9bd0-6249f52345b4",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/eyJqdW5rIjoiTkNUaFg0ZnJNUjhhcyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
-        "headers": {
-          "Host": "misty-tooth-78ca.fobogah414-e7b.workers.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "MiSty-tooth-78cA.FoboGAH414-e7B.WoRKERs.DEv",
-        "alpn": [
-          "http/1.1"
-        ]
-      }
-    },
-    {
-      "tag": "未知 VLESS-449 | free-nodes",
-      "server": "103.160.204.145",
-      "server_port": 443,
-      "type": "vless",
-      "uuid": "401374e6-df77-41fb-f638-dad8184f175b",
-      "flow": "",
-      "tls": {
-        "enabled": true,
-        "server_name": "pqh23v4.hiddendom.shop",
-        "alpn": [
-          "h2"
-        ]
-      }
-    },
-    {
-      "tag": "CF官方优选34",
-      "server": "162.159.153.22",
-      "server_port": 443,
-      "type": "vless",
-      "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "tamoai.ccwu.cc"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "tamoai.ccwu.cc"
-      }
-    },
-    {
-      "tag": "CF官方优选36",
-      "server": "198.41.223.231",
-      "server_port": 443,
-      "type": "vless",
-      "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "tamoai.ccwu.cc"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "tamoai.ccwu.cc"
-      }
-    },
-    {
-      "tag": "未知 VLESS-799 | free-nodes",
-      "server": "104.26.7.13",
-      "server_port": 443,
-      "type": "vless",
-      "uuid": "aaaaaabb-4ddd-4eee-9fff-ffffffffffff",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/185.186.245.40:81",
-        "headers": {
-          "Host": "afrcloud22.mmv.kr"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "afrcloud22.mmv.kr"
-      }
-    },
-    {
-      "tag": "未知 VLESS-456 | free-nodes",
-      "server": "45.67.215.233",
-      "server_port": 443,
-      "type": "vless",
-      "uuid": "20e295db-a6af-4006-bfd6-91453f169968",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/eyJqdW5rIjoiSFM1N0lLQmx2UU1qRzlnTiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
-        "headers": {
-          "Host": "057.electrocellco-cf-057.workers.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "057.ElecTRocElLco-Cf-057.wOrKeRs.dEv",
-        "alpn": [
-          "http/1.1"
-        ]
-      }
-    },
-    {
-      "tag": "CF官方优选67",
-      "server": "104.19.43.130",
-      "server_port": 443,
-      "type": "vless",
-      "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "tamoai.ccwu.cc"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "tamoai.ccwu.cc"
-      }
-    },
-    {
-      "tag": "未知 VLESS-636 | free-nodes",
-      "server": "172.66.47.45",
-      "server_port": 2096,
-      "type": "vless",
-      "uuid": "686c62d9-17a7-43c9-a40a-f6747df60a9f",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "ca.adobe-connect.top"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "ca.adobe-connect.top"
-      }
-    },
-    {
-      "tag": "未知 TROJAN-152 | free-nodes",
-      "server": "188.114.97.3",
+      "tag": "🇺🇸US_10|1.3MB/s",
+      "server": "165.1.66.231",
       "server_port": 443,
       "type": "trojan",
-      "password": "Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q",
+      "password": "8r<[9'l6hAO#8ZQi",
       "transport": {
         "type": "ws",
-        "path": "/tjwsLhx0SFASG4l9FERJ1g",
+        "path": "/trTelegram🇨🇳 @WangCai2",
         "headers": {
-          "Host": "mfyousheng.nl.eu.org"
+          "Host": "Koma-YT.PAGeS.Dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "mfyousheng.nl.eu.org"
-      }
-    },
-    {
-      "tag": "未知 VLESS-384 | free-nodes",
-      "server": "104.18.40.152",
-      "server_port": 8880,
-      "type": "vless",
-      "uuid": "2f0f84ed-9e4c-40ef-8a6c-286839e11a63",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/512",
-        "headers": {
-          "Host": "hmedrza.ghwhdr51.workers.dev"
-        }
-      }
-    },
-    {
-      "tag": "未知 VLESS-251 | free-nodes",
-      "server": "151.101.25.242",
-      "server_port": 80,
-      "type": "vless",
-      "uuid": "02d87d00-c769-48d8-91cb-bd05e2f62790",
-      "flow": ""
-    },
-    {
-      "tag": "CF官方优选22",
-      "server": "108.162.198.139",
-      "server_port": 443,
-      "type": "vless",
-      "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "tamoai.ccwu.cc"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "tamoai.ccwu.cc"
-      }
-    },
-    {
-      "tag": "未知 VLESS-601 | free-nodes",
-      "server": "5.10.244.43",
-      "server_port": 443,
-      "type": "vless",
-      "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/?https://t.me/wangcai2🇨🇳=",
-        "headers": {
-          "Host": "sni.111000.cc.cd"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "sni.111000.cc.cd"
-      }
-    },
-    {
-      "tag": "未知 VLESS-1038 | free-nodes",
-      "server": "104.17.72.206",
-      "server_port": 443,
-      "type": "vless",
-      "uuid": "d37a75db-76b6-4db8-b213-0d5b044d138d",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/?ed=2048/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn",
-        "headers": {
-          "Host": "hio-awx.pages.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "hio-awx.pages.dev"
-      }
-    },
-    {
-      "tag": "未知 VLESS-1083 | free-nodes",
-      "server": "104.17.15.87",
-      "server_port": 80,
-      "type": "vless",
-      "uuid": "f929cc78-e2a1-4ce3-8051-3e9538405144",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/@WireXnet?ed=2048",
-        "headers": {
-          "Host": "britain.xydcqd.workers.dev"
-        }
-      }
-    },
-    {
-      "tag": "未知 VLESS-327 | free-nodes",
-      "server": "104.18.185.26",
-      "server_port": 443,
-      "type": "vless",
-      "uuid": "17ebee4e-97ea-4cad-8737-cc228478ca9d",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/?ed=2048",
-        "headers": {
-          "Host": "lively-brook-c471.nedena3319.workers.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "lively-brook-c471.nedena3319.workers.dev"
-      }
-    },
-    {
-      "tag": "CF官方优选49",
-      "server": "198.41.223.236",
-      "server_port": 443,
-      "type": "vless",
-      "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "tamoai.ccwu.cc"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "tamoai.ccwu.cc"
-      }
-    },
-    {
-      "tag": "未知 VLESS-552 | free-nodes",
-      "server": "135.84.67.42",
-      "server_port": 443,
-      "type": "vless",
-      "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "sni.111000.dynv6.net"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "sni.111000.dynv6.net"
-      }
-    },
-    {
-      "tag": "🇺🇸US_1|1.6MB/s",
-      "server": "104.17.150.43",
-      "server_port": 443,
-      "type": "trojan",
-      "password": "062cfabd-2224-4a36-9f24-e816d0f57e6c",
-      "transport": {
-        "type": "ws",
-        "path": "/?ed=2048",
-        "headers": {
-          "Host": "104.17.150.43"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "proxy.luoxi.xin"
-      }
-    },
-    {
-      "tag": "未知 VLESS-877 | free-nodes",
-      "server": "104.16.80.73",
-      "server_port": 443,
-      "type": "vless",
-      "uuid": "c0615301-155b-4a20-b4c9-20c6f2f1c378",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/eyJqdW5rIjoianU1aHQxd2J5ViIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=2560",
-        "headers": {
-          "Host": "blue-frost-dd9d.tvudwry.workers.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "bLUe-FRosT-Dd9D.tvUdWRY.woRKerS.dEv"
-      }
-    },
-    {
-      "tag": "未知 VLESS-547 | free-nodes",
-      "server": "104.18.13.149",
-      "server_port": 2053,
-      "type": "vless",
-      "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "sni.111000.indevs.in"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "sni.111000.indevs.in"
-      }
-    },
-    {
-      "tag": "未知 VLESS-863 | free-nodes",
-      "server": "188.114.97.7",
-      "server_port": 443,
-      "type": "vless",
-      "uuid": "ba49d874-fe02-465d-82d3-ed981dc7694f",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/7J5lLqtBnJg9WjVT?ed=2560",
-        "headers": {
-          "Host": "o94yv7lif0-anxisd9efehvvs7mxn6bh.z-ule-ika-d-e-ne-k-e.workers.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "o94Yv7LIF0-aNXISd9eFehvvS7mxn6bH.Z-ULe-iKa-d-e-ne-K-e.wORkeRs.Dev",
-        "alpn": [
-          "http/1.1"
-        ]
-      }
-    },
-    {
-      "tag": "未知 VLESS-1023 | free-nodes",
-      "server": "104.21.224.5",
-      "server_port": 443,
-      "type": "vless",
-      "uuid": "e6c7ed63-89db-4ae1-a3f8-7a722921b3b2",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/O1w0n3vYgFKYs7EzNAvLPvOp",
-        "headers": {
-          "Host": "apii.onlineshoppingez.ir"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "apii.onlineshoppingez.ir"
-      }
-    },
-    {
-      "tag": "CF官方优选54",
-      "server": "8.35.211.73",
-      "server_port": 443,
-      "type": "vless",
-      "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "tamoai.ccwu.cc"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "tamoai.ccwu.cc"
-      }
-    },
-    {
-      "tag": "未知 VLESS-724 | free-nodes",
-      "server": "172.64.153.235",
-      "server_port": 8443,
-      "type": "vless",
-      "uuid": "656bb400-3b7a-47e3-94b0-0362f3865072",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/socks5://128.140.46.169:13482",
-        "headers": {
-          "Host": "socks5.revil-time3.workers.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "socks5.revil-time3.workers.dev"
-      }
-    },
-    {
-      "tag": "未知 VLESS-298 | free-nodes",
-      "server": "172.66.44.118",
-      "server_port": 443,
-      "type": "vless",
-      "uuid": "0f4d41cf-0be1-4fcc-ac41-53b843ba0752",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "H7-83W.pAgeS.deV"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "H7-83W.pAgeS.deV"
-      }
-    },
-    {
-      "tag": "CF官方优选84",
-      "server": "198.41.223.85",
-      "server_port": 443,
-      "type": "vless",
-      "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "tamoai.ccwu.cc"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "tamoai.ccwu.cc"
-      }
-    },
-    {
-      "tag": "CF官方优选93",
-      "server": "8.35.211.163",
-      "server_port": 443,
-      "type": "vless",
-      "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "tamoai.ccwu.cc"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "tamoai.ccwu.cc"
-      }
-    },
-    {
-      "tag": "CF官方优选31",
-      "server": "104.19.33.183",
-      "server_port": 443,
-      "type": "vless",
-      "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "tamoai.ccwu.cc"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "tamoai.ccwu.cc"
+        "server_name": "Koma-YT.PAGeS.Dev"
       }
     },
     {
       "tag": "CF官方优选64",
-      "server": "104.19.52.58",
-      "server_port": 443,
-      "type": "vless",
-      "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "tamoai.ccwu.cc"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "tamoai.ccwu.cc"
-      }
-    },
-    {
-      "tag": "CF官方优选16",
-      "server": "172.67.79.214",
-      "server_port": 443,
-      "type": "vless",
-      "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "tamoai.ccwu.cc"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "tamoai.ccwu.cc"
-      }
-    },
-    {
-      "tag": "未知 VLESS-1020 | free-nodes",
-      "server": "104.17.25.173",
-      "server_port": 443,
-      "type": "vless",
-      "uuid": "e6c7ed63-89db-4ae1-a3f8-7a722921b3b2",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/O1w0n3vYgFKYs7EzNAvLPvOp",
-        "headers": {
-          "Host": "apii.onlineshoppingez.ir"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "apii.onlineshoppingez.ir"
-      }
-    },
-    {
-      "tag": "未知 VLESS-655 | free-nodes",
-      "server": "104.19.151.106",
-      "server_port": 80,
-      "type": "vless",
-      "uuid": "73d17f62-d0c0-4c90-903c-a2b3f3806cca",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/?ed=2048",
-        "headers": {
-          "Host": "fragrant-tooth-a5b7.cajeba6448.workers.dev"
-        }
-      }
-    },
-    {
-      "tag": "未知 VLESS-658 | free-nodes",
-      "server": "104.18.12.229",
-      "server_port": 2095,
-      "type": "vless",
-      "uuid": "7890ce31-9a25-4fd4-90e7-80e5823ff510",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "iioo.iioou.workers.dev"
-        }
-      }
-    },
-    {
-      "tag": "未知 VLESS-347 | free-nodes",
-      "server": "104.17.72.206",
-      "server_port": 80,
-      "type": "vless",
-      "uuid": "1de37726-744b-46e1-9101-c926b3402e82",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "v2.v2configlab.workers.dev"
-        }
-      }
-    },
-    {
-      "tag": "CF官方优选14",
-      "server": "108.162.198.198",
-      "server_port": 443,
-      "type": "vless",
-      "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "tamoai.ccwu.cc"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "tamoai.ccwu.cc"
-      }
-    },
-    {
-      "tag": "未知 VLESS-779 | free-nodes",
-      "server": "172.66.128.70",
-      "server_port": 443,
-      "type": "vless",
-      "uuid": "a6430e91-38ad-4254-b7db-d1fba6efd9e3",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/129.146.254.25:443",
-        "headers": {
-          "Host": "afrcloud22.mmv.kr"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "afrcloud22.mmv.kr"
-      }
-    },
-    {
-      "tag": "未知 VLESS-1046 | free-nodes",
-      "server": "198.41.223.121",
-      "server_port": 443,
-      "type": "vless",
-      "uuid": "d555dac9-27cb-4ddb-89f5-6a1d8d1e4798",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "momi.timoreyhaneh.workers.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "momi.timoreyhaneh.workers.dev"
-      }
-    },
-    {
-      "tag": "未知 TROJAN-174 | free-nodes",
-      "server": "185.18.250.245",
-      "server_port": 443,
-      "type": "trojan",
-      "password": "humanity",
-      "tls": {
-        "enabled": true,
-        "server_name": "www.calmlunch.com"
-      }
-    },
-    {
-      "tag": "未知 VLESS-291 | free-nodes",
-      "server": "104.19.35.216",
-      "server_port": 443,
-      "type": "vless",
-      "uuid": "0ca855d9-7c03-40eb-929b-919f934abdc3",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "amirvpn.amirhm00100.workers.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "amirvpn.amirhm00100.workers.dev"
-      }
-    },
-    {
-      "tag": "未知 VLESS-420 | free-nodes",
-      "server": "172.67.172.86",
-      "server_port": 80,
-      "type": "vless",
-      "uuid": "14e1775b-d92c-455b-8db3-e6c6d61909e0",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "vpnpro.eshghiabolfazl2009.workers.dev"
-        }
-      }
-    },
-    {
-      "tag": "未知 VLESS-634 | free-nodes",
-      "server": "104.21.227.134",
-      "server_port": 2096,
-      "type": "vless",
-      "uuid": "686c62d9-17a7-43c9-a40a-f6747df60a9f",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "ca.adobe-connect.top"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "ca.adobe-connect.top",
-        "alpn": [
-          "networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-"
-        ]
-      }
-    },
-    {
-      "tag": "CF官方优选9",
-      "server": "104.18.46.53",
-      "server_port": 443,
-      "type": "vless",
-      "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "tamoai.ccwu.cc"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "tamoai.ccwu.cc"
-      }
-    },
-    {
-      "tag": "未知 TROJAN-128 | free-nodes",
-      "server": "104.21.17.25",
-      "server_port": 443,
-      "type": "trojan",
-      "password": "2bfe58f7-da1d-45df-ab43-7c665b20ee29",
-      "transport": {
-        "type": "ws",
-        "path": "/2cO5FH0xUmT9oqnbBhmKb8nOkg",
-        "headers": {
-          "Host": "vvvbnh.taipei102.indevs.in"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "vvvbnh.taipei102.indevs.in"
-      }
-    },
-    {
-      "tag": "未知 TROJAN-162 | free-nodes",
-      "server": "104.18.7.147",
-      "server_port": 443,
-      "type": "trojan",
-      "password": "humanity",
-      "transport": {
-        "type": "ws",
-        "path": "/assignment",
-        "headers": {
-          "Host": "104.18.7.147"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "www.creationlong.org"
-      }
-    },
-    {
-      "tag": "未知 VLESS-371 | free-nodes",
-      "server": "104.20.1.252",
-      "server_port": 80,
-      "type": "vless",
-      "uuid": "2a2a8023-3b4b-407d-a00a-7beb5a158148",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/?ed",
-        "headers": {
-          "Host": "SHAggy-AGREEMeNTSpUfz4utdI.SpOrTland.COMPANy."
-        }
-      }
-    },
-    {
-      "tag": "CF官方优选41",
-      "server": "104.19.61.207",
-      "server_port": 443,
-      "type": "vless",
-      "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "tamoai.ccwu.cc"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "tamoai.ccwu.cc"
-      }
-    },
-    {
-      "tag": "CF官方优选40",
-      "server": "104.19.45.1",
-      "server_port": 443,
-      "type": "vless",
-      "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "tamoai.ccwu.cc"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "tamoai.ccwu.cc"
-      }
-    },
-    {
-      "tag": "CF官方优选86",
-      "server": "162.159.153.202",
-      "server_port": 443,
-      "type": "vless",
-      "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "tamoai.ccwu.cc"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "tamoai.ccwu.cc"
-      }
-    },
-    {
-      "tag": "未知 VLESS-570 | free-nodes",
-      "server": "185.158.133.138",
-      "server_port": 2096,
-      "type": "vless",
-      "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/?telegram%F0%9F%87%A8%F0%9F%87%B3+%40wangcai2=",
-        "headers": {
-          "Host": "sni.111000.indevs.in"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "sni.111000.indevs.in"
-      }
-    },
-    {
-      "tag": "B - 🇸🇬 SG 07 TG: @nodpai",
-      "server": "104.26.6.89",
-      "server_port": 443,
-      "type": "vless",
-      "uuid": "ae0dd58e-e222-40bf-84ae-365a97532737",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/china/page/clipsfp=chrome",
-        "headers": {
-          "Host": "pagescm.freen12.cc.cd"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "pagescm.freen12.cc.cd"
-      }
-    },
-    {
-      "tag": "未知 VLESS-431 | free-nodes",
-      "server": "172.64.158.2",
-      "server_port": 2096,
-      "type": "vless",
-      "uuid": "3f0f36f5-f091-45c5-88c9-4bcc545b922c",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/45.76.183.217=49292",
-        "headers": {
-          "Host": "hetz.x-smm.com"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "hetz.x-smm.com"
-      }
-    },
-    {
-      "tag": "CF官方优选73",
-      "server": "104.26.9.76",
-      "server_port": 443,
-      "type": "vless",
-      "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "tamoai.ccwu.cc"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "tamoai.ccwu.cc"
-      }
-    },
-    {
-      "tag": "CF官方优选39",
-      "server": "173.245.59.197",
-      "server_port": 443,
-      "type": "vless",
-      "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "tamoai.ccwu.cc"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "tamoai.ccwu.cc"
-      }
-    },
-    {
-      "tag": "未知 VLESS-507 | free-nodes",
-      "server": "104.21.32.229",
-      "server_port": 443,
-      "type": "vless",
-      "uuid": "4ed4ac41-4b56-42c4-b31c-4d7bc36f74ce",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/UzlFfVDyqJL3rI4BWzwNzcYz",
-        "headers": {
-          "Host": "vbhj.dddct.us.ci"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "vbhj.dddct.us.ci"
-      }
-    },
-    {
-      "tag": "CF官方优选12",
-      "server": "104.26.3.2",
-      "server_port": 443,
-      "type": "vless",
-      "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "tamoai.ccwu.cc"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "tamoai.ccwu.cc"
-      }
-    },
-    {
-      "tag": "CF官方优选28",
-      "server": "108.162.198.84",
+      "server": "162.159.152.31",
       "server_port": 443,
       "type": "vless",
       "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
@@ -1734,7 +85,7 @@
     },
     {
       "tag": "CF官方优选68",
-      "server": "8.39.125.71",
+      "server": "172.67.72.190",
       "server_port": 443,
       "type": "vless",
       "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
@@ -1752,8 +103,8 @@
       }
     },
     {
-      "tag": "🇸🇬SG_2|3.0MB/s",
-      "server": "172.64.154.211",
+      "tag": "未知 VLESS-577 | free-nodes",
+      "server": "188.244.122.138",
       "server_port": 2096,
       "type": "vless",
       "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
@@ -1769,8 +120,1717 @@
         "enabled": true,
         "server_name": "sni.111000.indevs.in"
       }
+    },
+    {
+      "tag": "未知 VLESS-431 | free-nodes",
+      "server": "173.245.58.75",
+      "server_port": 2096,
+      "type": "vless",
+      "uuid": "3f0f36f5-f091-45c5-88c9-4bcc545b922c",
+      "flow": "",
+      "transport": {
+        "type": "ws",
+        "path": "/45.76.183.217=49292",
+        "headers": {
+          "Host": "hetz.x-smm.com"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "hetz.x-smm.com"
+      }
+    },
+    {
+      "tag": "CF官方优选72",
+      "server": "104.18.38.187",
+      "server_port": 443,
+      "type": "vless",
+      "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
+      "flow": "",
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "tamoai.ccwu.cc"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "tamoai.ccwu.cc"
+      }
+    },
+    {
+      "tag": "未知 VLESS-556 | free-nodes",
+      "server": "162.159.12.151",
+      "server_port": 443,
+      "type": "vless",
+      "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+      "flow": "",
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "sni.111000.indevs.in"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "sni.111000.indevs.in"
+      }
+    },
+    {
+      "tag": "未知 VLESS-314 | free-nodes",
+      "server": "172.67.73.14",
+      "server_port": 443,
+      "type": "vless",
+      "uuid": "16068e83-af4c-49ba-8048-98fcff3e5e7b",
+      "flow": "",
+      "transport": {
+        "type": "ws",
+        "path": "/131.186.26.129",
+        "headers": {
+          "Host": "afrcloud22.mmv.kr"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "afrcloud22.mmv.kr"
+      }
+    },
+    {
+      "tag": "CF官方优选8",
+      "server": "172.64.228.80",
+      "server_port": 443,
+      "type": "vless",
+      "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
+      "flow": "",
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "tamoai.ccwu.cc"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "tamoai.ccwu.cc"
+      }
+    },
+    {
+      "tag": "CF官方优选44",
+      "server": "173.245.59.176",
+      "server_port": 443,
+      "type": "vless",
+      "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
+      "flow": "",
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "tamoai.ccwu.cc"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "tamoai.ccwu.cc"
+      }
+    },
+    {
+      "tag": "未知 VLESS-549 | free-nodes",
+      "server": "104.20.6.134",
+      "server_port": 8443,
+      "type": "vless",
+      "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+      "flow": "",
+      "transport": {
+        "type": "ws",
+        "path": "/?Telegram @v2rayngzendegimamad",
+        "headers": {
+          "Host": "sni.111000.dynv6.net"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "sni.111000.dynv6.net"
+      }
+    },
+    {
+      "tag": "未知 VLESS-587 | free-nodes",
+      "server": "216.205.52.138",
+      "server_port": 2096,
+      "type": "vless",
+      "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+      "flow": "",
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "sni.111000.indevs.in"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "sni.111000.indevs.in"
+      }
+    },
+    {
+      "tag": "未知 VLESS-261 | free-nodes",
+      "server": "104.16.63.239",
+      "server_port": 80,
+      "type": "vless",
+      "uuid": "04969b01-ac6a-4056-b5cd-852ccf45f100",
+      "flow": "",
+      "transport": {
+        "type": "ws",
+        "path": "/?ed=2048",
+        "headers": {
+          "Host": "netherlands.vipserver14.workers.dev"
+        }
+      }
+    },
+    {
+      "tag": "未知 VLESS-449 | free-nodes",
+      "server": "89.116.180.248",
+      "server_port": 443,
+      "type": "vless",
+      "uuid": "401374e6-df77-41fb-f638-dad8184f175b",
+      "flow": "",
+      "tls": {
+        "enabled": true,
+        "server_name": "pqh23v4.hiddendom.shop",
+        "alpn": [
+          "h2"
+        ]
+      }
+    },
+    {
+      "tag": "CF官方优选36",
+      "server": "172.64.145.8",
+      "server_port": 443,
+      "type": "vless",
+      "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
+      "flow": "",
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "tamoai.ccwu.cc"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "tamoai.ccwu.cc"
+      }
+    },
+    {
+      "tag": "CF官方优选42",
+      "server": "198.41.223.135",
+      "server_port": 443,
+      "type": "vless",
+      "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
+      "flow": "",
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "tamoai.ccwu.cc"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "tamoai.ccwu.cc"
+      }
+    },
+    {
+      "tag": "未知 VLESS-548 | free-nodes",
+      "server": "135.84.67.42",
+      "server_port": 443,
+      "type": "vless",
+      "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+      "flow": "",
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "sni.111000.dynv6.net"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "sni.111000.dynv6.net"
+      }
+    },
+    {
+      "tag": "未知 VLESS-572 | free-nodes",
+      "server": "188.114.98.0",
+      "server_port": 2096,
+      "type": "vless",
+      "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+      "flow": "",
+      "transport": {
+        "type": "ws",
+        "path": "/?ed=2560",
+        "headers": {
+          "Host": "sni.111000.indevs.in"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "sni.111000.indevs.in"
+      }
+    },
+    {
+      "tag": "未知 VLESS-616 | free-nodes",
+      "server": "104.18.185.26",
+      "server_port": 2096,
+      "type": "vless",
+      "uuid": "686c62d9-17a7-43c9-a40a-f6747df60a9f",
+      "flow": "",
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "ca.adobe-connect.top"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "ca.adobe-connect.top"
+      }
+    },
+    {
+      "tag": "未知 VLESS-620 | free-nodes",
+      "server": "172.66.44.211",
+      "server_port": 2096,
+      "type": "vless",
+      "uuid": "686c62d9-17a7-43c9-a40a-f6747df60a9f",
+      "flow": "",
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "ca.adobe-connect.top"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "ca.adobe-connect.top",
+        "alpn": [
+          "channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-"
+        ]
+      }
+    },
+    {
+      "tag": "未知 VLESS-934 | free-nodes",
+      "server": "104.26.15.21",
+      "server_port": 443,
+      "type": "vless",
+      "uuid": "d9a83363-40a6-4a21-9dbe-cb2b7d287048",
+      "flow": "",
+      "transport": {
+        "type": "ws",
+        "path": "/107.174.121.122=443",
+        "headers": {
+          "Host": "afrcloud22.mmv.kr"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "afrcloud22.mmv.kr"
+      }
+    },
+    {
+      "tag": "未知 VLESS-374 | free-nodes",
+      "server": "104.16.9.24",
+      "server_port": 80,
+      "type": "vless",
+      "uuid": "2ac6e527-6410-48ce-b9ba-cc8135ee2a3b",
+      "flow": "",
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "fragrant-recipe-09f4.wopecuyubak61.workers.dev"
+        }
+      }
+    },
+    {
+      "tag": "CF官方优选73",
+      "server": "104.18.46.223",
+      "server_port": 443,
+      "type": "vless",
+      "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
+      "flow": "",
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "tamoai.ccwu.cc"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "tamoai.ccwu.cc"
+      }
+    },
+    {
+      "tag": "CF官方优选71",
+      "server": "104.19.60.143",
+      "server_port": 443,
+      "type": "vless",
+      "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
+      "flow": "",
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "tamoai.ccwu.cc"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "tamoai.ccwu.cc"
+      }
+    },
+    {
+      "tag": "CF官方优选30",
+      "server": "104.26.0.246",
+      "server_port": 443,
+      "type": "vless",
+      "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
+      "flow": "",
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "tamoai.ccwu.cc"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "tamoai.ccwu.cc"
+      }
+    },
+    {
+      "tag": "未知 VLESS-634 | free-nodes",
+      "server": "104.26.14.21",
+      "server_port": 443,
+      "type": "vless",
+      "uuid": "6fab6cc6-e340-4073-93e1-c6c6802002c7",
+      "flow": "",
+      "transport": {
+        "type": "ws",
+        "path": "/167.179.110.68=8443",
+        "headers": {
+          "Host": "afrcloud22.mmv.kr"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "afrcloud22.mmv.kr"
+      }
+    },
+    {
+      "tag": "未知 VLESS-914 | free-nodes",
+      "server": "104.19.152.87",
+      "server_port": 443,
+      "type": "vless",
+      "uuid": "d2efa18a-9e8a-3057-91fe-90c8e620e49f",
+      "flow": "",
+      "transport": {
+        "type": "ws",
+        "path": "/db1024113a787392",
+        "headers": {
+          "Host": "s6.oboob.cn"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "s6.oboob.cn"
+      }
+    },
+    {
+      "tag": "CF官方优选54",
+      "server": "104.26.10.221",
+      "server_port": 443,
+      "type": "vless",
+      "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
+      "flow": "",
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "tamoai.ccwu.cc"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "tamoai.ccwu.cc"
+      }
+    },
+    {
+      "tag": "未知 VLESS-575 | free-nodes",
+      "server": "188.114.99.243",
+      "server_port": 2096,
+      "type": "vless",
+      "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+      "flow": "",
+      "transport": {
+        "type": "ws",
+        "path": "/?ed=2560",
+        "headers": {
+          "Host": "sni.111000.indevs.in"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "sni.111000.indevs.in"
+      }
+    },
+    {
+      "tag": "CF官方优选9",
+      "server": "108.162.198.1",
+      "server_port": 443,
+      "type": "vless",
+      "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
+      "flow": "",
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "tamoai.ccwu.cc"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "tamoai.ccwu.cc"
+      }
+    },
+    {
+      "tag": "CF官方优选97",
+      "server": "198.41.223.53",
+      "server_port": 443,
+      "type": "vless",
+      "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
+      "flow": "",
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "tamoai.ccwu.cc"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "tamoai.ccwu.cc"
+      }
+    },
+    {
+      "tag": "未知 VLESS-525 | free-nodes",
+      "server": "45.131.209.130",
+      "server_port": 8443,
+      "type": "vless",
+      "uuid": "57ba2ab1-a283-42eb-82ee-dc3561a805b8",
+      "flow": "",
+      "transport": {
+        "type": "ws",
+        "path": "/57ba2ab1",
+        "headers": {
+          "Host": "ovhwuxian.pai50288.uk"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "ovhwuxian.pai50288.uk"
+      }
+    },
+    {
+      "tag": "未知 VLESS-585 | free-nodes",
+      "server": "212.183.88.238",
+      "server_port": 2096,
+      "type": "vless",
+      "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+      "flow": "",
+      "transport": {
+        "type": "ws",
+        "path": "/?ed=2560&Telegram🇨🇳+@WangCai2",
+        "headers": {
+          "Host": "sni.jpmj.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "sni.jpmj.dev"
+      }
+    },
+    {
+      "tag": "未知 VLESS-971 | free-nodes",
+      "server": "104.21.86.253",
+      "server_port": 443,
+      "type": "vless",
+      "uuid": "e4824193-4f54-453b-d037-88368e85ef0e",
+      "flow": "",
+      "tls": {
+        "enabled": true,
+        "server_name": "pqh27v1.carwashipdir.shop"
+      }
+    },
+    {
+      "tag": "未知 VLESS-447 | free-nodes",
+      "server": "103.160.204.145",
+      "server_port": 443,
+      "type": "vless",
+      "uuid": "401374e6-df77-41fb-f638-dad8184f175b",
+      "flow": "",
+      "tls": {
+        "enabled": true,
+        "server_name": "pqh23v4.hiddendom.shop",
+        "alpn": [
+          "h2"
+        ]
+      }
+    },
+    {
+      "tag": "CF官方优选96",
+      "server": "172.67.78.123",
+      "server_port": 443,
+      "type": "vless",
+      "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
+      "flow": "",
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "tamoai.ccwu.cc"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "tamoai.ccwu.cc"
+      }
+    },
+    {
+      "tag": "CF官方优选62",
+      "server": "8.35.211.30",
+      "server_port": 443,
+      "type": "vless",
+      "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
+      "flow": "",
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "tamoai.ccwu.cc"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "tamoai.ccwu.cc"
+      }
+    },
+    {
+      "tag": "未知 VLESS-565 | free-nodes",
+      "server": "185.156.19.238",
+      "server_port": 2096,
+      "type": "vless",
+      "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+      "flow": "",
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "sni.jpmj.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "sni.jpmj.dev"
+      }
+    },
+    {
+      "tag": "未知 VLESS-643 | free-nodes",
+      "server": "104.19.35.49",
+      "server_port": 443,
+      "type": "vless",
+      "uuid": "7506fe3e-7e78-497c-bd01-db9d0be4d7e3",
+      "flow": "",
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "filter.elitesilver002.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "filter.elitesilver002.workers.dev"
+      }
+    },
+    {
+      "tag": "未知 VLESS-785 | free-nodes",
+      "server": "104.20.1.252",
+      "server_port": 443,
+      "type": "vless",
+      "uuid": "aaaaaabb-4ddd-4eee-9fff-ffffffffffff",
+      "flow": "",
+      "transport": {
+        "type": "ws",
+        "path": "/156.244.1.250=8443",
+        "headers": {
+          "Host": "afrcloud22.mmv.kr"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "afrcloud22.mmv.kr"
+      }
+    },
+    {
+      "tag": "未知 VLESS-811 | free-nodes",
+      "server": "104.19.56.154",
+      "server_port": 443,
+      "type": "vless",
+      "uuid": "ae0dd58e-e222-40bf-84ae-365a97532737",
+      "flow": "",
+      "transport": {
+        "type": "ws",
+        "path": "/resource/linksfp=chrome",
+        "headers": {
+          "Host": "pagescm.freen8.cc.cd"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "pagescm.freen8.cc.cd"
+      }
+    },
+    {
+      "tag": "CF官方优选11",
+      "server": "104.19.36.85",
+      "server_port": 443,
+      "type": "vless",
+      "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
+      "flow": "",
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "tamoai.ccwu.cc"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "tamoai.ccwu.cc"
+      }
+    },
+    {
+      "tag": "CF官方优选18",
+      "server": "104.19.63.252",
+      "server_port": 443,
+      "type": "vless",
+      "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
+      "flow": "",
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "tamoai.ccwu.cc"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "tamoai.ccwu.cc"
+      }
+    },
+    {
+      "tag": "CF官方优选15",
+      "server": "172.64.144.31",
+      "server_port": 443,
+      "type": "vless",
+      "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
+      "flow": "",
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "tamoai.ccwu.cc"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "tamoai.ccwu.cc"
+      }
+    },
+    {
+      "tag": "CF官方优选16",
+      "server": "172.64.146.83",
+      "server_port": 443,
+      "type": "vless",
+      "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
+      "flow": "",
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "tamoai.ccwu.cc"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "tamoai.ccwu.cc"
+      }
+    },
+    {
+      "tag": "未知 VLESS-580 | free-nodes",
+      "server": "190.93.245.138",
+      "server_port": 2096,
+      "type": "vless",
+      "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+      "flow": "",
+      "transport": {
+        "type": "ws",
+        "path": "/?ed=2560&telegram🇨🇳+@wangcai2",
+        "headers": {
+          "Host": "sni.111000.indevs.in"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "sni.111000.indevs.in"
+      }
+    },
+    {
+      "tag": "未知 VLESS-612 | free-nodes",
+      "server": "104.18.34.21",
+      "server_port": 8443,
+      "type": "vless",
+      "uuid": "656bb400-3b7a-47e3-94b0-0362f3865072",
+      "flow": "",
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "socks5.revil-time3.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "socks5.revil-time3.workers.dev"
+      }
+    },
+    {
+      "tag": "未知 VLESS-1003 | free-nodes",
+      "server": "162.159.36.5",
+      "server_port": 443,
+      "type": "vless",
+      "uuid": "e6c7ed63-89db-4ae1-a3f8-7a722921b3b2",
+      "flow": "",
+      "transport": {
+        "type": "ws",
+        "path": "/O1w0n3vYgFKYs7EzNAvLPvOp",
+        "headers": {
+          "Host": "apii.onlineshoppingez.ir"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "apii.onlineshoppingez.ir"
+      }
+    },
+    {
+      "tag": "CF官方优选1",
+      "server": "104.19.63.111",
+      "server_port": 443,
+      "type": "vless",
+      "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
+      "flow": "",
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "tamoai.ccwu.cc"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "tamoai.ccwu.cc"
+      }
+    },
+    {
+      "tag": "CF官方优选19",
+      "server": "8.35.211.196",
+      "server_port": 443,
+      "type": "vless",
+      "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
+      "flow": "",
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "tamoai.ccwu.cc"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "tamoai.ccwu.cc"
+      }
+    },
+    {
+      "tag": "CF官方优选34",
+      "server": "8.35.211.29",
+      "server_port": 443,
+      "type": "vless",
+      "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
+      "flow": "",
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "tamoai.ccwu.cc"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "tamoai.ccwu.cc"
+      }
+    },
+    {
+      "tag": "CF官方优选95",
+      "server": "8.39.125.131",
+      "server_port": 443,
+      "type": "vless",
+      "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
+      "flow": "",
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "tamoai.ccwu.cc"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "tamoai.ccwu.cc"
+      }
+    },
+    {
+      "tag": "CF官方优选61",
+      "server": "8.39.125.246",
+      "server_port": 443,
+      "type": "vless",
+      "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
+      "flow": "",
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "tamoai.ccwu.cc"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "tamoai.ccwu.cc"
+      }
+    },
+    {
+      "tag": "未知 VLESS-567 | free-nodes",
+      "server": "185.16.110.238",
+      "server_port": 2096,
+      "type": "vless",
+      "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+      "flow": "",
+      "transport": {
+        "type": "ws",
+        "path": "/?ed=2560&Telegram🇨🇳+@WangCai2",
+        "headers": {
+          "Host": "sni.jpmj.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "sni.jpmj.dev"
+      }
+    },
+    {
+      "tag": "未知 VLESS-791 | free-nodes",
+      "server": "172.67.210.52",
+      "server_port": 443,
+      "type": "vless",
+      "uuid": "aaaaaabb-4ddd-4eee-9fff-ffffffffffff",
+      "flow": "",
+      "transport": {
+        "type": "ws",
+        "path": "/185.186.245.40:81",
+        "headers": {
+          "Host": "afrcloud22.mmv.kr"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "afrcloud22.mmv.kr"
+      }
+    },
+    {
+      "tag": "未知 VLESS-1015 | free-nodes",
+      "server": "162.159.36.20",
+      "server_port": 2053,
+      "type": "vless",
+      "uuid": "e5f8a9f6-f164-479b-b3b5-b90f213c7145",
+      "flow": "",
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "ir1.airpanel.top"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "ir1.airpanel.top"
+      }
+    },
+    {
+      "tag": "🇺🇸US_5|1.3MB/s",
+      "server": "5.10.244.253",
+      "server_port": 443,
+      "type": "trojan",
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
+      "transport": {
+        "type": "ws",
+        "path": "/tr | 免费机场TG@proxyshareCN | ",
+        "headers": {
+          "Host": "Koma-YT.PAGeS.Dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev"
+      }
+    },
+    {
+      "tag": "未知 TROJAN-181 | free-nodes",
+      "server": "185.18.250.245",
+      "server_port": 443,
+      "type": "trojan",
+      "password": "humanity",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.calmlunch.com"
+      }
+    },
+    {
+      "tag": "CF官方优选33",
+      "server": "104.18.38.53",
+      "server_port": 443,
+      "type": "vless",
+      "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
+      "flow": "",
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "tamoai.ccwu.cc"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "tamoai.ccwu.cc"
+      }
+    },
+    {
+      "tag": "CF官方优选6",
+      "server": "172.64.229.56",
+      "server_port": 443,
+      "type": "vless",
+      "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
+      "flow": "",
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "tamoai.ccwu.cc"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "tamoai.ccwu.cc"
+      }
+    },
+    {
+      "tag": "CF官方优选83",
+      "server": "173.245.58.72",
+      "server_port": 443,
+      "type": "vless",
+      "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
+      "flow": "",
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "tamoai.ccwu.cc"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "tamoai.ccwu.cc"
+      }
+    },
+    {
+      "tag": "未知 VLESS-524 | free-nodes",
+      "server": "172.67.153.156",
+      "server_port": 8443,
+      "type": "vless",
+      "uuid": "57ba2ab1-a283-42eb-82ee-dc3561a805b8",
+      "flow": "",
+      "transport": {
+        "type": "ws",
+        "path": "/57ba2ab1",
+        "headers": {
+          "Host": "ovhwuxian.pai50288.uk"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "ovhwuxian.pai50288.uk"
+      }
+    },
+    {
+      "tag": "未知 VLESS-586 | free-nodes",
+      "server": "213.182.199.138",
+      "server_port": 2096,
+      "type": "vless",
+      "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+      "flow": "",
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "sni.111000.indevs.in"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "sni.111000.indevs.in"
+      }
+    },
+    {
+      "tag": "未知 VLESS-801 | free-nodes",
+      "server": "45.130.125.198",
+      "server_port": 8443,
+      "type": "vless",
+      "uuid": "aab1a536-7a2c-4357-a0e0-8cdde41845c6",
+      "flow": "",
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "nobitex.sylu.net"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nobitex.sylu.net",
+        "alpn": [
+          "http/1.1"
+        ]
+      }
+    },
+    {
+      "tag": "B - 🇸🇬 SG 09 TG: @nodpai",
+      "server": "104.26.6.89",
+      "server_port": 443,
+      "type": "vless",
+      "uuid": "ae0dd58e-e222-40bf-84ae-365a97532737",
+      "flow": "",
+      "transport": {
+        "type": "ws",
+        "path": "/china/page/clipsfp=chromesecurity=tls",
+        "headers": {
+          "Host": "pagescm.freen12.cc.cd"
+        }
+      }
+    },
+    {
+      "tag": "未知 VLESS-1005 | free-nodes",
+      "server": "104.16.89.18",
+      "server_port": 443,
+      "type": "vless",
+      "uuid": "e6eec2e9-f98d-4fd4-afac-c504123231cf",
+      "flow": "",
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "rukawa.pages.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "rukawa.pages.dev"
+      }
+    },
+    {
+      "tag": "未知 VLESS-1086 | free-nodes",
+      "server": "141.193.213.21",
+      "server_port": 80,
+      "type": "vless",
+      "uuid": "fac62eac-1eec-4260-a991-0cac2f8745a3",
+      "flow": "",
+      "transport": {
+        "type": "ws",
+        "path": "/@Tech_Sonic",
+        "headers": {
+          "Host": "free-server.techsonic.ggff.net"
+        }
+      }
+    },
+    {
+      "tag": "未知 TROJAN-136 | free-nodes",
+      "server": "104.21.17.25",
+      "server_port": 443,
+      "type": "trojan",
+      "password": "2bfe58f7-da1d-45df-ab43-7c665b20ee29",
+      "transport": {
+        "type": "ws",
+        "path": "/2cO5FH0xUmT9oqnbBhmKb8nOkg",
+        "headers": {
+          "Host": "vvvbnh.taipei102.indevs.in"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "vvvbnh.taipei102.indevs.in"
+      }
+    },
+    {
+      "tag": "CF官方优选39",
+      "server": "104.19.59.63",
+      "server_port": 443,
+      "type": "vless",
+      "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
+      "flow": "",
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "tamoai.ccwu.cc"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "tamoai.ccwu.cc"
+      }
+    },
+    {
+      "tag": "CF官方优选81",
+      "server": "198.41.223.10",
+      "server_port": 443,
+      "type": "vless",
+      "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
+      "flow": "",
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "tamoai.ccwu.cc"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "tamoai.ccwu.cc"
+      }
+    },
+    {
+      "tag": "CF官方优选88",
+      "server": "8.35.211.249",
+      "server_port": 443,
+      "type": "vless",
+      "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
+      "flow": "",
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "tamoai.ccwu.cc"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "tamoai.ccwu.cc"
+      }
+    },
+    {
+      "tag": "未知 VLESS-294 | free-nodes",
+      "server": "172.66.44.118",
+      "server_port": 443,
+      "type": "vless",
+      "uuid": "0f4d41cf-0be1-4fcc-ac41-53b843ba0752",
+      "flow": "",
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "H7-83W.pAgeS.deV"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "H7-83W.pAgeS.deV"
+      }
+    },
+    {
+      "tag": "未知 VLESS-425 | free-nodes",
+      "server": "104.17.148.22",
+      "server_port": 2096,
+      "type": "vless",
+      "uuid": "3f0f36f5-f091-45c5-88c9-4bcc545b922c",
+      "flow": "",
+      "transport": {
+        "type": "ws",
+        "path": "/45.76.183.217=49292",
+        "headers": {
+          "Host": "hetz.x-smm.com"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "hetz.x-smm.com"
+      }
+    },
+    {
+      "tag": "未知 VLESS-461 | free-nodes",
+      "server": "172.67.159.168",
+      "server_port": 8443,
+      "type": "vless",
+      "uuid": "453c3861-eaf4-4c60-94e0-e57a2c9d2fcf",
+      "flow": "",
+      "transport": {
+        "type": "ws",
+        "path": "/vlessws",
+        "headers": {
+          "Host": "bouquetberlin.org"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "bouquetberlin.org"
+      }
+    },
+    {
+      "tag": "CF官方优选7",
+      "server": "104.26.8.87",
+      "server_port": 443,
+      "type": "vless",
+      "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
+      "flow": "",
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "tamoai.ccwu.cc"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "tamoai.ccwu.cc"
+      }
+    },
+    {
+      "tag": "未知 VLESS-559 | free-nodes",
+      "server": "162.159.33.40",
+      "server_port": 443,
+      "type": "vless",
+      "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+      "flow": "",
+      "transport": {
+        "type": "ws",
+        "path": "/?https%3A%2F%2Ft.me%2Fwangcai2%F0%9F%87%A8%F0%9F%87%B3=",
+        "headers": {
+          "Host": "sni.latonyamadeline.ndjp.net"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "sni.latonyamadeline.ndjp.net"
+      }
+    },
+    {
+      "tag": "未知 VLESS-570 | free-nodes",
+      "server": "185.238.228.238",
+      "server_port": 2096,
+      "type": "vless",
+      "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+      "flow": "",
+      "transport": {
+        "type": "ws",
+        "path": "/?ed=2560&telegram🇨🇳+@wangcai2",
+        "headers": {
+          "Host": "sni.jpmj.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "sni.jpmj.dev"
+      }
+    },
+    {
+      "tag": "未知 VLESS-786 | free-nodes",
+      "server": "104.21.48.147",
+      "server_port": 80,
+      "type": "vless",
+      "uuid": "aaaaaabb-4ddd-4eee-9fff-ffffffffffff",
+      "flow": "",
+      "transport": {
+        "type": "ws",
+        "path": "/64.181.218.67=443",
+        "headers": {
+          "Host": "afrcloud22.mmv.kr"
+        }
+      }
+    },
+    {
+      "tag": "🇯🇵JP_2|3.3MB/s",
+      "server": "108.162.198.253",
+      "server_port": 443,
+      "type": "trojan",
+      "password": "8r<[9'l6hAO#8ZQi",
+      "transport": {
+        "type": "ws",
+        "path": "/trTelegram🇨🇳 @WangCai2",
+        "headers": {
+          "Host": "Koma-YT.PAGeS.Dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev"
+      }
+    },
+    {
+      "tag": "CF官方优选79",
+      "server": "108.162.198.197",
+      "server_port": 443,
+      "type": "vless",
+      "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
+      "flow": "",
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "tamoai.ccwu.cc"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "tamoai.ccwu.cc"
+      }
+    },
+    {
+      "tag": "CF官方优选47",
+      "server": "172.64.147.46",
+      "server_port": 443,
+      "type": "vless",
+      "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
+      "flow": "",
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "tamoai.ccwu.cc"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "tamoai.ccwu.cc"
+      }
+    },
+    {
+      "tag": "CF官方优选74",
+      "server": "198.41.223.219",
+      "server_port": 443,
+      "type": "vless",
+      "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
+      "flow": "",
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "tamoai.ccwu.cc"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "tamoai.ccwu.cc"
+      }
+    },
+    {
+      "tag": "CF官方优选55",
+      "server": "198.41.223.80",
+      "server_port": 443,
+      "type": "vless",
+      "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
+      "flow": "",
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "tamoai.ccwu.cc"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "tamoai.ccwu.cc"
+      }
+    },
+    {
+      "tag": "未知 VLESS-582 | free-nodes",
+      "server": "192.200.160.238",
+      "server_port": 2096,
+      "type": "vless",
+      "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+      "flow": "",
+      "transport": {
+        "type": "ws",
+        "path": "/?ed=2560&telegram🇨🇳+@wangcai2",
+        "headers": {
+          "Host": "sni.jpmj.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "sni.jpmj.dev"
+      }
+    },
+    {
+      "tag": "未知 VLESS-619 | free-nodes",
+      "server": "104.18.4.46",
+      "server_port": 8880,
+      "type": "vless",
+      "uuid": "623d675e-8748-4881-ac0f-dc1a10b595b1",
+      "flow": "",
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "vahidasd1988-se08ot-3.vahidasd1988.workers.dev"
+        }
+      }
+    },
+    {
+      "tag": "未知 VLESS-287 | free-nodes",
+      "server": "104.18.41.75",
+      "server_port": 80,
+      "type": "vless",
+      "uuid": "0ca855d9-7c03-40eb-929b-919f934abdc3",
+      "flow": "",
+      "transport": {
+        "type": "ws",
+        "path": "/?ed=2048",
+        "headers": {
+          "Host": "amirvpn.amirhm00100.workers.dev"
+        }
+      }
+    },
+    {
+      "tag": "未知 VLESS-315 | free-nodes",
+      "server": "172.66.40.139",
+      "server_port": 443,
+      "type": "vless",
+      "uuid": "1679af35-6dd6-4c09-ae3b-18f239217f3e",
+      "flow": "",
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "rAyAn-007.pArViN.DpDnS.OrG"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "rAyAn-007.pArViN.DpDnS.OrG"
+      }
+    },
+    {
+      "tag": "B - 🇺🇸 US 26 TG: @nodpai",
+      "server": "104.16.96.209",
+      "server_port": 443,
+      "type": "vless",
+      "uuid": "2e14faa2-71aa-4dc6-8ba1-03beeca75848",
+      "flow": "",
+      "transport": {
+        "type": "ws",
+        "path": "/security=tls",
+        "headers": {
+          "Host": "xiaoli0772.pages.dev"
+        }
+      }
+    },
+    {
+      "tag": "未知 VLESS-424 | free-nodes",
+      "server": "104.17.147.22",
+      "server_port": 2096,
+      "type": "vless",
+      "uuid": "3f0f36f5-f091-45c5-88c9-4bcc545b922c",
+      "flow": "",
+      "transport": {
+        "type": "ws",
+        "path": "/45.76.183.217=49292",
+        "headers": {
+          "Host": "hetz.x-smm.com"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "hetz.x-smm.com"
+      }
+    },
+    {
+      "tag": "未知 VLESS-430 | free-nodes",
+      "server": "172.64.34.176",
+      "server_port": 2096,
+      "type": "vless",
+      "uuid": "3f0f36f5-f091-45c5-88c9-4bcc545b922c",
+      "flow": "",
+      "transport": {
+        "type": "ws",
+        "path": "/45.76.183.217=49292",
+        "headers": {
+          "Host": "hetz.x-smm.com"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "hetz.x-smm.com"
+      }
+    },
+    {
+      "tag": "CF官方优选48",
+      "server": "108.162.198.154",
+      "server_port": 443,
+      "type": "vless",
+      "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
+      "flow": "",
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "tamoai.ccwu.cc"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "tamoai.ccwu.cc"
+      }
+    },
+    {
+      "tag": "未知 VLESS-501 | free-nodes",
+      "server": "172.67.166.185",
+      "server_port": 443,
+      "type": "vless",
+      "uuid": "4cf1a3a0-7360-41ff-84ae-b621001e8376",
+      "flow": "",
+      "transport": {
+        "type": "ws",
+        "path": "/R8BFTroQ00j1",
+        "headers": {
+          "Host": "usa.correctcosette.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "Usa.cORreCtCOsETTe.WOrKeRS.DeV",
+        "alpn": [
+          "http/1.1"
+        ]
+      }
+    },
+    {
+      "tag": "未知 VLESS-547 | free-nodes",
+      "server": "135.84.64.66",
+      "server_port": 443,
+      "type": "vless",
+      "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+      "flow": "",
+      "transport": {
+        "type": "ws",
+        "path": "/?Telegram🇨🇳@WangCai2=",
+        "headers": {
+          "Host": "sni.111000.dynv6.net"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "sni.111000.dynv6.net"
+      }
+    },
+    {
+      "tag": "未知 VLESS-593 | free-nodes",
+      "server": "45.12.30.238",
+      "server_port": 2096,
+      "type": "vless",
+      "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+      "flow": "",
+      "transport": {
+        "type": "ws",
+        "path": "/?ed=2560",
+        "headers": {
+          "Host": "sni.jpmj.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "sni.jpmj.dev"
+      }
+    },
+    {
+      "tag": "未知 VLESS-1013 | free-nodes",
+      "server": "104.16.250.22",
+      "server_port": 2053,
+      "type": "vless",
+      "uuid": "e5f8a9f6-f164-479b-b3b5-b90f213c7145",
+      "flow": "",
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "ir1.airpanel.top"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "ir1.airpanel.top"
+      }
+    },
+    {
+      "tag": "🇺🇸US_6|1.1MB/s",
+      "server": "184.174.80.25",
+      "server_port": 443,
+      "type": "trojan",
+      "password": "8r<[9'l6hAO#8ZQi",
+      "transport": {
+        "type": "ws",
+        "path": "/trTelegram🇨🇳 @WangCai2",
+        "headers": {
+          "Host": "Koma-YT.PAGeS.Dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev"
+      }
+    },
+    {
+      "tag": "未知 TROJAN-213 | free-nodes",
+      "server": "104.21.80.1",
+      "server_port": 443,
+      "type": "trojan",
+      "password": "psycho",
+      "tls": {
+        "enabled": true,
+        "server_name": "PSYchO.SueX12.Ir"
+      }
     }
   ],
-  "updated": "2026-05-21T19:22:13.106307",
+  "updated": "2026-05-22T19:08:49.836020",
   "count": 100
 }
