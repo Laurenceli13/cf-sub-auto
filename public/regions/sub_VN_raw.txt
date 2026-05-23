@@ -1,1 +1,1 @@
-trojan://14bdba6dede262387ebdebaa706e1c90@trs12.bolab.net:443?security=tls#越南/Vietnam
+trojan://ZFYOpKqD8uEClpZ2ya83cyCDalwSOYz3F3eCxnBD4eSXNSR5R0aAATj7I3x69g@219.76.13.175:443?security=tls&sni=golang.protocolbuffer.com#越南/Vietnam

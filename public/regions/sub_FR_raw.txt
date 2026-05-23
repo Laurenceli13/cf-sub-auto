@@ -1,6 +1,8 @@
-trojan://8r%3C%5B9%27l6hAO%238ZQi@45.77.63.51:8443?sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram🇨🇳+@WangCai2#%F0%9F%87%AB%F0%9F%87%B7FR_1%7C1.3MB/s
-trojan://8r<[9'l6hAO#8ZQi@45.77.63.51:8443?sni=Koma-YT.PAGeS.Dev&type=ws&path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&host=Koma-YT.PAGeS.Dev#%F0%9F%87%AB%F0%9F%87%B7FR_1%7C1.3MB%2Fs
-vless://256c5f48-4908-4255-83d1-c86cb58f22b4@185.171.202.48:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=wgoLhL4pRP0y6fu6He4qW_ElohCM_ANWJF3HEoUhNz4&security=reality&sid=9c2378562188c3cb&sni=fr.denditop.site&type=tcp#法国/巴黎/France/Paris
-vless://40bf709c-4353-4552-ba26-406d2bf7821d@fr.gryaz-vpn.com:20567?allowInsecure=0&sni=cloudflare.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#13%7CFR_speednode_0004
-vless://40bf709c-4353-4552-ba26-406d2bf7821d@fr.gryaz-vpn.com:20567?allowInsecure=0&sni=cloudflare.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#FR_speednode_0004
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.75.24.59:8443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2B%2540WangCai2%3D&security=tls&sni=sni.111000.v6.navy&type=ws#法国/France
+trojan://8r%3C%5B9%27l6hAO%238ZQi@146.19.168.188:8443?sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram🇨🇳+@WangCai2#%F0%9F%87%AB%F0%9F%87%B7FR_1%7C1.2MB/s
+trojan://8r<[9'l6hAO#8ZQi@146.19.168.188:8443?sni=Koma-YT.PAGeS.Dev&type=ws&path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&host=Koma-YT.PAGeS.Dev#%F0%9F%87%AB%F0%9F%87%B7FR_1%7C1.2MB%2Fs
+vless://030f6019-b8ce-4de8-911f-35b0ee11c33c@fr.oneok.name:7443?allowInsecure=0&sni=chat.deepseek.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%AB%F0%9F%87%B7FR_2%7C2.0MB/s
+vless://030f6019-b8ce-4de8-911f-35b0ee11c33c@fr.oneok.name:7443?security=reality&type=tcp&sni=chat.deepseek.com&fp=chrome&flow=xtls-rprx-vision&sid=be0ce047&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&encryption=none#%F0%9F%87%AB%F0%9F%87%B7FR_2%7C2.0MB%2Fs
+vless://0f5952a5-56f4-435b-8688-91661295a445@bforward2.samsung.sony.yahoo.samsung.cloudflare.lg.nokia.android.bforward.uk:8080?path=%2F&security=none&encryption=none&type=ws#法国/France
+vless://0f5952a5-56f4-435b-8688-91661295a445@bforward2.samsung.sony.yahoo.samsung.cloudflare.lg.nokia.android.bforward.uk:8080?path=%2F&security=none&encryption=none&type=ws#法国/巴黎/France/Paris
+vless://5454343b-541b-4c96-8c2a-52e81079d124@51.44.16.107:31413?allowInsecure=0&sni=yahoo.com&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#%F0%9F%87%AB%F0%9F%87%B7FR_3%7C2.5MB/s
+vless://5454343b-541b-4c96-8c2a-52e81079d124@51.44.16.107:31413?security=reality&type=tcp&sni=yahoo.com&fp=firefox&flow=xtls-rprx-vision&sid=ead3d6f82a9d&spx=%2F&pbk=nMlxwhP34_5wFPscbso_hOfRDmsj9DonMpDSXUrnJR8&encryption=none#%F0%9F%87%AB%F0%9F%87%B7FR_3%7C2.5MB%2Fs
