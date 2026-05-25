@@ -1,2 +1,2 @@
-vless://1c30dff6-f1f8-4e3e-a5bc-17d39237bc48@138.124.66.94:50592?security=reality&type=raw&sni=kinopoisk.ru&fp=qq&flow=xtls-rprx-vision&sid=293c7cac6adc30a1&pbk=zZJs7nUCpTKpoTMigcGvNOCxM8LWGB0EPxc-mrCbvHc#%F0%9F%87%A8%F0%9F%87%ADCH_2%7C2.5MB%2Fs
-vless://monacoVPN@172.65.111.43:22?security=none&type=tcp&headerType=http&path=%2F%40monacoVPN%40monacoVPN%40monacoVPN%40monacoVPN&encryption=none#%F0%9F%87%A8%F0%9F%87%ADCH_1%7C1.1MB%2Fs
+vless://monacoVPN@172.65.111.43:22?#%F0%9F%87%A8%F0%9F%87%ADCH_1%7C1.2MB/s
+vless://monacoVPN@172.65.111.43:22?security=none&type=tcp&headerType=http&path=%2F%40monacoVPN%40monacoVPN%40monacoVPN%40monacoVPN&encryption=none#%F0%9F%87%A8%F0%9F%87%ADCH_1%7C1.2MB%2Fs

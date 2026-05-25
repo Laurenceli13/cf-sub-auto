@@ -1,2 +1,2 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2VGhEMUFnd1hjOFN0cHA3aEVvaExh@139.59.87.22:16970#印度/India
-vless://26524cce-d514-4014-a426-365fb266a14d@31.15.18.26:2053?path=%2Fdanfeng%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=WangCai.443888.xyz&fp=chrome&type=ws&allowInsecure=0&sni=WangCai.443888.xyz#印度/孟买/India/Mumbai
+vmess://eyJhZGQiOiAiMTUyLjY3LjguMjA1IiwgImhvc3QiOiAiIiwgImlkIjogIjlkYjRjNzA4LWFlZjgtNDM1OS04MjFiLTM4ZTQ3OTkwYmUwZCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiAiODAiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIDNDT01cdTUxNmNcdTUzZjhcdTRmMDFcdTRlMWFcdTdmNTEiLCAic2N5IjogImF1dG8iLCAidGxzIjogIm5vbmUiLCAidiI6ICIyIn0=#印度/孟买/India/Mumbai
