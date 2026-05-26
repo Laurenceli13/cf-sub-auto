@@ -1,1 +1,1 @@
-trojan://8r<[9'l6hAO#8ZQi@77.37.96.247:443?sni=Koma-YT.PAGeS.Dev&allowInsecure=1&type=ws&path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&host=Koma-YT.PAGeS.Dev&fp=chrome#%F0%9F%87%A9%F0%9F%87%B0DK_1%7C1.9MB%2Fs
+vless://3af11c26-c589-4a9c-b811-f068d741a877@193.163.203.76:50580?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ot_qLvMZOPCyVWFt0w8pC-nZT9RRzkdqNFtRtGpB220&security=reality&sid=93290645e01c92f4&sni=kinopoisk.ru&type=tcp#%E4%B8%B9%E9%BA%A6+V2CROSS.COM
