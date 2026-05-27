@@ -1,1 +1,4 @@
-trojan://8r%3C%5B9%27l6hAO%238ZQi@8.223.63.189:443?sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram#%E4%B8%AD%E5%9B%BD+%E9%98%BF%E9%87%8C%E4%BA%91
+vless://4dd69f91-190c-413d-88c7-2f1675a98d85@cdn.jp2.cocoduck.org:25642?allowInsecure=0&sni=www.apple.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#12%7CCN_speednode_0013
+vless://4dd69f91-190c-413d-88c7-2f1675a98d85@cdn.jp2.cocoduck.org:25642?allowInsecure=0&sni=www.apple.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#CN_speednode_0013
+vless://4dd69f91-190c-413d-88c7-2f1675a98d85@cdn.ph1.cocoduck.org:45072?allowInsecure=0&sni=www.apple.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#12%7CCN_speednode_0014
+vless://4dd69f91-190c-413d-88c7-2f1675a98d85@cdn.ph1.cocoduck.org:45072?allowInsecure=0&sni=www.apple.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#CN_speednode_0014
