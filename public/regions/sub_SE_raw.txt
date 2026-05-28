@@ -1,1 +1,4 @@
-trojan://7aXwJPnpAJ@150.241.65.18:50824?security=tls&sni=yespaintstudio.rav-kraski.ru&alpn=h2&fp=qq&type=tcp&path=%2f&allow_insecure=1#瑞典/斯德哥尔摩/Sweden/Stockholm
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDWmp2ZXBRTGxyRUM5c1Z4a0ZmbmxL@78.40.117.161:34633#瑞典/Sweden
+trojan://7aXwJPnpAJ@yespaintstudio.rav-kraski.ru:50824?sni=yespaintstudio.rav-kraski.ru&path=%2f#瑞典/斯德哥尔摩/Sweden/Stockholm
+vless://8046e3a1-83a7-4155-86e4-374153fe66f3@194.238.57.104:443?sni=www.icloud.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#B%20-%20%F0%9F%87%B8%F0%9F%87%AA%20SE%2003%20TG%3A%20%40nodpai
+vless://d27a8beb-d940-4503-af2c-0e8e5d8ab7fa@pipe-1692.atlanta-games.com:592?sni=pipe-1692.atlanta-games.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#B%20-%20%F0%9F%87%B8%F0%9F%87%AA%20SE%2002%20TG%3A%20%40nodpai
