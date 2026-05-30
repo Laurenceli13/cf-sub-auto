@@ -1,1 +1,1 @@
-vless://c5563e04-daff-4fea-a8ce-8741ad0bc2cf@193.163.203.76:50547?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ZAqXfcXRYWRBjEYJQInYWkFSKTSbd7NXg66D7MUZ2wg&security=reality&sid=03d0fa9716a73af2&sni=kinopoisk.ru&type=tcp#%E4%B8%B9%E9%BA%A6+V2CROSS.COM
+vless://1b43419a-b711-40d4-a0ee-eb5c73e60c92@den.n1etwork.prostosetup.org:443?security=reality&type=tcp&sni=github.com&fp=qq&flow=xtls-rprx-vision&sid=50&pbk=K1pl5IAOi7N5MUQIvv-35fQcpxgz9uLW5Dv45a2tmRc&encryption=none#丹麦/Denmark

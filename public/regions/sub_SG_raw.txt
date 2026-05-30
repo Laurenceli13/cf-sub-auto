@@ -1,1 +1,1 @@
-vless://cc752a3e-1537-4e86-bb50-1b897bf7b33c@104.19.229.21:443?sni=cyylr.eu.cc&type=ws&host=cyylr.eu.cc&path=/sg-melbisecurity=tls#B%20-%20%F0%9F%87%B8%F0%9F%87%AC%20SG%2008%20TG%3A%20%40nodpai
+trojan://Mitivpn@104.17.121.37:443?allowInsecure=1&sni=my.hitgram.ir&alpn=h2%2Chttp/1.1&type=ws&host=my.hitgram.ir&path=/?ed=mitivpn#B%20-%20%F0%9F%87%B8%F0%9F%87%AC%20SG%2004%20TG%3A%20%40nodpai

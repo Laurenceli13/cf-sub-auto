@@ -1,5 +1,2 @@
-trojan://3a2c0c6c-9ee5-c05f-c951-fcd73831983e@138.2.115.240:443?security=tls#日本/东京/Japan/Tokyo
-trojan://BxceQaOe@13.231.225.85:4099?allowInsecure=1&sni=t.me%252Fripaojiedian#%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
-trojan://BxceQaOe@13.231.225.85:4099?allowInsecure=1&sni=t.me%252Fripaojiedian#11%2C12%7C%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
-vless://053909d6-5091-4a1b-95e3-a726c5e49e37@wolf.ilovezhenjiu.top:443?security=tls&type=tcp&sni=wolf.ilovezhenjiu.top&fp=chrome&flow=xtls-rprx-vision&encryption=none#%F0%9F%87%AF%F0%9F%87%B5JP_1%7C2.5MB%2Fs
-vless://9204afcd-026e-781f-1abc-c03efabd1344@zzjp2.ainivp.com:13103?security=reality&type=tcp&sni=www.microsoft.com&fp=chrome&flow=xtls-rprx-vision&sid=a1b2c3d4&pbk=epgveXEcUs0sbs4jV_1KldTkZGnWUHfMKcs0XNyP41Y&encryption=none#%F0%9F%87%AF%F0%9F%87%B5JP_2%7C1.9MB%2Fs
+trojan://BxceQaOe@13.231.192.34:53307?allowInsecure=1&sni=t.me%252Fripaojiedian#%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
+trojan://BxceQaOe@13.231.192.34:53307?allowInsecure=1&sni=t.me%252Fripaojiedian#10%2C11%7C%E6%97%A5%E6%9C%AC%7C%40ripaojiedian

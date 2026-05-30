@@ -1,1 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5S1ZNb0IzQXdpVEV6bnBub3EyRllS@193.47.60.186:28687#芬兰/赫尔辛基/Finland/Helsinki
+vless://4259cd49-5ad0-432d-a078-29159dc999d0@fl-3-direct.djarbnet.ru:443?encryption=none&host=fl-3-direct.djarbnet.ru&path=%2Fgetupdates&security=tls&sni=fl-3-direct.djarbnet.ru&type=ws#芬兰/赫尔辛基/Finland/Helsinki
+vless://ee54566f-b7f2-4fb3-b4a0-8802d516759a@64.188.76.249:8443?sni=www.kinopoisk.ru&flow=xtls-rprx-vision-udp443&fp=safari&security=tls#B%20-%20%F0%9F%87%AB%F0%9F%87%AE%20FI%2001%20TG%3A%20%40nodpai

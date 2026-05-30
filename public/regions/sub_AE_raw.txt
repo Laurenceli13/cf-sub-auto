@@ -1,1 +1,2 @@
-vless://d8f92611-4303-473f-8904-fc449855ee0c@89.125.147.214:443?sni=nl3.freekeysh110.online&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#B%20-%20%F0%9F%87%A6%F0%9F%87%AA%20AE%2001%20TG%3A%20%40nodpai
+vless://da9f6ce2-aaba-47dd-be50-5afd17331fd9@212.100.171.194:48862?#%F0%9F%87%A6%F0%9F%87%AAAE_1%7C2.1MB/s
+vless://da9f6ce2-aaba-47dd-be50-5afd17331fd9@212.100.171.194:48862?security=none&type=tcp#%F0%9F%87%A6%F0%9F%87%AAAE_1%7C2.1MB%2Fs

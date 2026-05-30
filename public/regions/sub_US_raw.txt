@@ -1,4 +1,1 @@
-vless://56e4896e-90a9-4fe0-8480-90d3d68b9928@8.35.211.101:2083?allowInsecure=1&sni=go.iranfree.de5.net&type=ws&host=go.iranfree.de5.net&path=/fp=chrome&security=tls#C%20-%20%F0%9F%87%BA%F0%9F%87%B8%20US%2029%20TG%3A%20%40nodpai
-vless://56e4896e-90a9-4fe0-8480-90d3d68b9928@8.35.211.185:443?allowInsecure=1&sni=go.iranfree.de5.net&type=ws&host=go.iranfree.de5.net&path=/fp=chrome&security=tls#C%20-%20%F0%9F%87%BA%F0%9F%87%B8%20US%2032%20TG%3A%20%40nodpai
-vless://70620723-08d7-40b4-8c55-aaba8ebe4358@172.64.229.142:80?sni=v2configlab.v2configlab1.workers.dev&type=ws&host=v2configlab.v2configlab1.workers.dev&path=/fp=chrome#B%20-%20%F0%9F%87%BA%F0%9F%87%B8%20US%2020%20TG%3A%20%40nodpai
-vless://56e4896e-90a9-4fe0-8480-90d3d68b9928@173.245.59.15:2087?allowInsecure=1&sni=go.iranfree.de5.net&type=ws&host=go.iranfree.de5.net&path=/fp=chrome&security=tls#B%20-%20%F0%9F%87%BA%F0%9F%87%B8%20US%2010%20TG%3A%20%40nodpai
+vless://acba684c-4098-4eca-f519-828b09f96464@134.33.73.249:54254?sni=apple.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#B%20-%20%F0%9F%87%BA%F0%9F%87%B8%20US%2007%20TG%3A%20%40nodpai
