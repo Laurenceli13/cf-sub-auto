@@ -1,5 +1,1 @@
-vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.80.14.130:443?sni=api.company-target.com&fp=chrome&security=tls#B%20-%20%F0%9F%87%B0%F0%9F%87%B7%20KR%2001%20TG%3A%20%40nodpai
-vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@afrcloud22.mmv.kr:80/?type=ws&encryption=none&host=chatgpt.com.afrcloud22.mmv.kr&path=%2F157.245.215.195%3D8443#KR%20VLESS-1060%20%7C%20free-nodes
-vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@afrcloud22.mmv.kr:80/?type=ws&encryption=none&host=chatgpt.com.afrcloud22.mmv.kr&path=%2F157.245.215.195%3D8443#KR%20VLESS-886%20%7C%20free-nodes
-vless://fa335d1c-e6d1-48bb-99a3-f06710a29043@afrcloud22.mmv.kr:443/?type=ws&encryption=none&host=afrcloud22.mmv.kr&path=%2F130.185.164.213%3D8443&security=tls&sni=afrcloud22.mmv.kr&fp=chrome#KR%20VLESS-1208%20%7C%20free-nodes
-vless://fa335d1c-e6d1-48bb-99a3-f06710a29043@afrcloud22.mmv.kr:443/?type=ws&encryption=none&host=afrcloud22.mmv.kr&path=%2F130.185.164.213%3D8443&security=tls&sni=afrcloud22.mmv.kr&fp=chrome#KR%20VLESS-1420%20%7C%20free-nodes
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@108.162.196.30:8880?type=ws&host=vms.lifetime59.workers.dev#A%20-%20%F0%9F%87%B0%F0%9F%87%B7%20KR%2001%20TG%3A%20%40nodpai

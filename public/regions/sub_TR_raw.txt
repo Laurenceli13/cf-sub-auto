@@ -1,3 +1,3 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYNmJ0YlJ2SkNvM3VUUS0teWFhVDhNdmgwQ2dxaFlUTA@194.87.39.215:8388#土耳其/伊斯坦布尔/Türkiye/Istanbul
-vless://2fd687a6-7b5f-491e-a7ff-a885da5504b1@se.sanaz.online:20609?security=reality&type=tcp&sni=www.yahoo.com&fp=chrome&flow=xtls-rprx-vision&sid=0fe6d3442590&pbk=2KojHs3QuIDI9X3HpOwIvEIhMy-54DLblBADeCuzlkU&encryption=none#%F0%9F%87%B9%F0%9F%87%B7TR_1%7C2.4MB%2Fs
-vless://2fd687a6-7b5f-491e-a7ff-a885da5504b1@se.sanaz.online:20609?sni=www.yahoo.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%B9%F0%9F%87%B7TR_1%7C2.4MB/s
+vless://%40Vaslbashi@147.185.161.100:443?type=ws&host=itself-neil-triangle-beauty.trycloudflare.com&path=/fp=chrome&security=tls#%F0%9F%87%B9%F0%9F%87%B7TR_1%7C2.3MB/s
+vless://@Vaslbashi@147.185.161.100:443?security=tls&type=ws&path=%2F&host=itself-neil-triangle-beauty.trycloudflare.com&sni=itself-neil-triangle-beauty.trycloudflare.com&fp=chrome&encryption=none#%F0%9F%87%B9%F0%9F%87%B7TR_1%7C2.3MB%2Fs

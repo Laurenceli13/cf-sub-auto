@@ -1,1 +1,1 @@
-vless://acba684c-4098-4eca-f519-828b09f96464@134.33.73.249:54254?sni=apple.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#B%20-%20%F0%9F%87%BA%F0%9F%87%B8%20US%2007%20TG%3A%20%40nodpai
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.40.151.30:8880?type=ws&host=vms.lifetime42.workers.dev&path=/#A%20-%20%F0%9F%87%BA%F0%9F%87%B8%20US%2005%20TG%3A%20%40nodpai

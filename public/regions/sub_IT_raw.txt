@@ -1,1 +1,2 @@
-vmess://04621bae-ab36-11ec-b909-0242ac120002@45.92.70.236:22324?encryption=auto&security=none&type=tcp#意大利/Italy
+vless://5b6e7300-8fc8-404e-8dc9-40a5393dd881@fx3033.game2lizard.com:80?path=%2FXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXn%3Fed%3D2560&security=&encryption=none&host=line.smartphone1.azazilvpn.sbs&type=ws#意大利/Italy
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.206.12.40:8880?type=ws&host=vms.lifetime44.workers.dev&path=/?ed=2560&https://t.me/youtube@ZYFXS🇨🇳#A%20-%20%F0%9F%87%AE%F0%9F%87%B9%20IT%2001%20TG%3A%20%40nodpai

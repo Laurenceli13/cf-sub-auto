@@ -1,1 +1,1 @@
-hysteria2://a7c5d30b-ce9b-4e34-b5cb-66f8308790ef@in.9966690.xyz:30000?insecure=1&obfs=salamander&obfs-password=YzgyOTkwNDk4ZTU2NT365A==#A%20-%20%F0%9F%87%AE%F0%9F%87%B3%20IN%2001%20TG%3A%20%40nodpai
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@66.81.247.30:8880?type=ws&host=vms.lifetime44.workers.dev&path=/#A%20-%20%F0%9F%87%AE%F0%9F%87%B3%20IN%2001%20TG%3A%20%40nodpai
