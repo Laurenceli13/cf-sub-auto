@@ -1,5 +1,5 @@
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#%F0%9F%87%B3%F0%9F%87%B1%20-%20NL%20-%20%40FreeOnlineVPN
-hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#9%7C%F0%9F%87%B3%F0%9F%87%B1%20-%20NL%20-%20%40FreeOnlineVPN
+hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#8%7C%F0%9F%87%B3%F0%9F%87%B1%20-%20NL%20-%20%40FreeOnlineVPN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNUFM0UXhJeVNPMjB5R25GVEdFYnlZVE93ZDJIbEVtY0Mwa3Nxb2d4WnRMeUxZUmw=@185.18.54.70:31348#荷兰/鹿特丹/Netherlands/Rotterdam
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8080#%F0%9F%87%B3%F0%9F%87%B1NL_1%7C1.7MB%2Fs
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8080#%F0%9F%87%B3%F0%9F%87%B1NL_1%7C1.7MB/s
@@ -11,7 +11,7 @@ vless://279828c6-13f2-439c-9a4e-ea7d4f470fa4@g3.steptofsvo.com:443?security=real
 vless://279828c6-13f2-439c-9a4e-ea7d4f470fa4@g3.steptofsvo.com:443?sni=g3.steptofsvo.com&flow=xtls-rprx-vision-udp443&fp=randomized&security=tls#%F0%9F%87%B3%F0%9F%87%B1NL_4%7C3.1MB/s
 vless://41bc5a50-7c41-4078-9a2a-611ab1c6dddb@fsxhh.fastshop1.com:443?mode=packet-up&path=/lizzard&security=tls&encryption=none&insecure=0&host=lizzard.global.ssl.fastly.net&fp=firefox&type=xhttp&allowInsecure=0&sni=ssl.fastly.com#荷兰/恩斯赫德/Netherlands/Enschede
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@88.216.66.30:8880?type=ws&host=vms.lifetime04.workers.dev#A%20-%20%F0%9F%87%B3%F0%9F%87%B1%20NL%2002%20TG%3A%20%40nodpai
-vless://69a2af58-d74a-44ca-864a-e09b493f4274@45.66.161.10:8443?allowInsecure=0&sni=ya.ru&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#13%7CNL_speednode_0015
+vless://69a2af58-d74a-44ca-864a-e09b493f4274@45.66.161.10:8443?allowInsecure=0&sni=ya.ru&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#12%7CNL_speednode_0015
 vless://69a2af58-d74a-44ca-864a-e09b493f4274@45.66.161.10:8443?allowInsecure=0&sni=ya.ru&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#NL_speednode_0015
 vless://6db7ea14-ed33-4591-a9b1-f1e91b1c0ff5@nl.omuvpn.tech:18443?sni=www.miro.com&flow=xtls-rprx-vision-udp443&fp=random&security=tls#B%20-%20%F0%9F%87%B3%F0%9F%87%B1%20NL%2006%20TG%3A%20%40nodpai
 vless://9f5b716b-434f-4e4b-84a0-7cf7576cf841@108.61.103.99:8880?#A%20-%20%F0%9F%87%B3%F0%9F%87%B1%20NL%2001%20TG%3A%20%40nodpai

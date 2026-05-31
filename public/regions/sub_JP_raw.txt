@@ -1,6 +1,6 @@
 ss://YWVzLTI1Ni1jZmI6WkVUNTlMRjZEdkNDOEtWdA==@213.183.59.190:9005#日本/东京/Japan/Tokyo
-trojan://BxceQaOe@13.231.192.34:53307?allowInsecure=1&sni=t.me%252Fripaojiedian#11%2C12%7C%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
 trojan://BxceQaOe@3.112.60.98:4099?allowInsecure=1&sni=t.me%252Fripaojiedian#%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
+trojan://BxceQaOe@3.112.60.98:4099?allowInsecure=1&sni=t.me%252Fripaojiedian#10%2C11%7C%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
 vless://00000000-0000-4000-8000-000000000000@103.133.240.115:17416?sni=rolaqoubhqt.bpd67081tsq.ddns-ip.net&type=ws&host=rolaqoubhqt.bpd67081tsq.ddns-ip.net&path=/@Marisa_kristifp=chromesecurity=tls#A%20-%20%F0%9F%87%AF%F0%9F%87%B5%20JP%2001%20TG%3A%20%40nodpai
 vless://00000000-0000-4000-8000-000000000000@114.204.40.185:30001?sni=9cvs-zyn4r9-6gzdtuo0w.mikuru.ip-ddns.com&type=ws&host=9cvs-zyn4r9-6gzdtuo0w.mikuru.ip-ddns.com&path=/@Marisa_kristifp=chrome&security=tls#A%20-%20%F0%9F%87%AF%F0%9F%87%B5%20JP%2006%20TG%3A%20%40nodpai
 vless://00000000-0000-4000-8000-000000000000@138.2.112.117:15807?allowInsecure=1&sni=57vanjkxjo3kejbf4o2iul6z4o.gike.dpdns.org&type=ws&host=57vanjkxjo3kejbf4o2iul6z4o.gike.dpdns.org&path=/@Marisa_kristifp=chrome&security=tls#A%20-%20%F0%9F%87%AF%F0%9F%87%B5%20JP%2003%20TG%3A%20%40nodpai

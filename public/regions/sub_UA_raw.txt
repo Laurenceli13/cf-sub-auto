@@ -1,1 +1,1 @@
-vless://49f3fec2-1a21-481e-ae65-7c32ae262582@serv-ne-3.whit3.net:10444?security=reality&type=tcp&sni=serv-ne-3.whit3.net&fp=chrome&flow=xtls-rprx-vision&sid=378086fbdb7c61cd&pbk=praGYag8YPbz_rcd_Pa6Fqsi_IiQtO3e1AosYBcu6h4&encryption=none#%E4%B9%8C%E5%85%8B%E5%85%B0+V2CROSS.COM
+vless://296bbba2-b100-4d91-b8df-3fe03cc863c4@91.225.217.28:443?security=reality&encryption=none&pbk=CnFVrSvJ1Mhl_6QqKCCvXtEdlaJjN4MXWBkSswJ_gX0&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yahoo.com&sid=106c#%E4%B9%8C%E5%85%8B%E5%85%B0+V2CROSS.COM
