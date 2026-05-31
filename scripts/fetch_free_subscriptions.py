@@ -26,6 +26,7 @@ SOURCES = [
     "https://proxy.v2gh.com/https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub",
     "https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/list.txt",
     "https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/list.txt",
+    "https://raw.githubusercontent.com/duckray-client/free-vless-keys/main/keys.txt",
 ]
 
 
