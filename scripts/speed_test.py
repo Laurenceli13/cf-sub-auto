@@ -1,10 +1,11 @@
 """Node speed test: TCP handshake latency scoring for all fetched proxy nodes.
 
 Reads public/sub_raw.txt, parses host:port from each proxy link, performs
-concurrent TCP connect latency tests, outputs nodes_status.json for the
-dashboard, and keeps only the top 100 fastest nodes in the subscription files.
-Optionally sends alert notification via Bark/ServerChan webhook
-when alive rate drops below threshold.
+concurrent TCP connect latency tests (2-pass verification), outputs
+nodes_status.json for the dashboard, and keeps only the top 50 most
+reliable alive nodes in the subscription files. Optionally sends alert
+notification via Bark/ServerChan webhook when alive rate drops below
+threshold.
 """
 
 import base64
@@ -25,10 +26,11 @@ RAW_FILE = PUBLIC / "sub_raw.txt"
 STATUS_FILE = PUBLIC / "nodes_status.json"
 CF_CSV_FILE = PUBLIC / "cf_ip_result.csv"
 
-TOP_N = 100  # Keep top N fastest alive nodes
-
-TIMEOUT = 2.5  # TCP connect timeout in seconds
-MAX_WORKERS = 50  # Concurrent workers
+TOP_N = 50  # Keep top N most reliable alive nodes
+PASSES = 2  # Node must pass N consecutive latency tests
+TIMEOUT = 2.0  # TCP connect timeout in seconds (per pass)
+PASS_DELAY = 1.0  # Seconds to wait between passes
+MAX_WORKERS = 50  # Concurrent workers per pass
 
 NOTIFY_URL = os.getenv("NOTIFY_URL", "")
 ALERT_THRESHOLD = float(os.getenv("ALERT_THRESHOLD", "30"))  # percentage
@@ -102,6 +104,22 @@ def load_cf_ips() -> list[dict]:
     return ips
 
 
+def run_single_pass(targets: list, max_workers: int = MAX_WORKERS) -> dict:
+    """Run one pass of TCP latency testing against all targets."""
+    results = {}
+    with concurrent.futures.ThreadPoolExecutor(max_workers=max_workers) as executor:
+        futures = {executor.submit(tcp_latency, h, p, TIMEOUT): (h, p) for h, p, _ in targets}
+        for future in concurrent.futures.as_completed(futures):
+            host, port = futures[future]
+            key = f"{host}:{port}"
+            try:
+                latency = future.result()
+                results[key] = latency
+            except Exception:
+                results[key] = None
+    return results
+
+
 def main() -> None:
     if not RAW_FILE.exists():
         print(f"error: {RAW_FILE} not found")
@@ -123,33 +141,58 @@ def main() -> None:
             seen.add(key)
             targets.append((host, port, link))
 
-    print(f"testing {len(targets)} unique endpoints...")
+    print(f"testing {len(targets)} unique endpoints (pass 1 of {PASSES})...")
 
-    # Concurrent TCP latency testing
-    results = {}
-    with concurrent.futures.ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
-        futures = {executor.submit(tcp_latency, h, p): (h, p) for h, p, _ in targets}
-        for future in concurrent.futures.as_completed(futures):
-            host, port = futures[future]
-            key = f"{host}:{port}"
-            try:
-                latency = future.result()
-                results[key] = latency
-            except Exception:
-                results[key] = None
+    # ── Pass 1: initial TCP latency test on all targets ──
+    results_pass1 = run_single_pass(targets, MAX_WORKERS)
 
-    # Build scored node list
-    nodes = []
+    # Build pass 1 node list
+    pass1_alive = 0
     for host, port, link in targets:
         key = f"{host}:{port}"
-        latency = results.get(key)
+        latency = results_pass1.get(key)
         alive = latency is not None
+        if alive:
+            pass1_alive += 1
+
+    print(f"pass 1 done: {pass1_alive}/{len(targets)} alive")
+
+    # ── Pass 2: re-test only alive nodes (verify stability) ──
+    pass2_targets = [
+        (h, p, link) for h, p, link in targets
+        if results_pass1.get(f"{h}:{p}") is not None
+    ]
+
+    if PASSES >= 2:
+        print(f"pass 2 of {PASSES}: re-testing {len(pass2_targets)} survivors...")
+        time.sleep(PASS_DELAY)
+        results_pass2 = run_single_pass(pass2_targets, MAX_WORKERS)
+    else:
+        results_pass2 = {}
+
+    # Combine results: node is alive ONLY if it passed ALL passes
+    pass2_alive = 0
+    nodes = []
+    for host, port, link in pass2_targets:
+        key = f"{host}:{port}"
+        latency_pass1 = results_pass1.get(key)
+        latency_pass2 = results_pass2.get(key)
+        # Must pass BOTH rounds
+        alive = latency_pass1 is not None and latency_pass2 is not None
+        # Use average of both passes for latency score
+        avg_latency = None
+        if alive:
+            avg_latency = (latency_pass1 + latency_pass2) / 2.0
+            pass2_alive += 1
+        elif latency_pass1 is not None:
+            avg_latency = latency_pass1
+
         nodes.append({
             "link": link,
             "host": host,
             "port": port,
             "alive": alive,
-            "latency_ms": round(latency, 2) if latency else None,
+            "latency_ms": round(avg_latency, 2) if avg_latency else None,
             "country": parse_country(link),
             "protocol": link.split("://", 1)[0] if "://" in link else "unknown",
         })
@@ -181,13 +224,13 @@ def main() -> None:
     if NOTIFY_URL and alive_rate < ALERT_THRESHOLD:
         send_notification(alive_count, len(nodes), alive_rate)
 
-    # ── Filter top N fastest alive nodes ──
+    # ── Filter top N most reliable alive nodes ──
     alive_nodes = [n for n in nodes if n["alive"]]
     top_nodes = alive_nodes[:TOP_N]
     top_links = [n["link"] for n in top_nodes]
-    print(f"keeping top {len(top_links)} nodes (filtered from {len(alive_nodes)} alive)")
+    print(f"keeping top {len(top_links)} nodes (filtered from {len(alive_nodes)} survivors after 2-pass)")
 
-    # Rewrite subscription files with top N only
+    # Rewrite subscription files with filtered nodes
     rewrite_subscription_files(top_links)
 
 
