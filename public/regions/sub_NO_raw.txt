@@ -1,1 +1,1 @@
-vless://10e82fcc-94ec-4d09-8855-579bb55b77e4@89.185.81.52:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=N0QyBaacGqSpRv_Ib4jsSx5A1kfE8IE1w0HcDB5w1BE&security=reality&sni=www.google.com&type=tcp#挪威/奥斯陆/Norway/Oslo
+vless://1b43419a-b711-40d4-a0ee-eb5c73e60c92@138.124.63.126:443?security=reality&encryption=none&pbk=qBTTzM-_JJ5NDPfJc8_4StCYqeK4DpiZWEjxCf3KYXA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=pro.online.prostosetup.org&sid=a96e9c98e60fd8d5#%E6%8C%AA%E5%A8%81+V2CROSS.COM
