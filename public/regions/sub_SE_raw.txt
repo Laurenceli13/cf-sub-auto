@@ -1,3 +1,1 @@
-vless://8046e3a1-83a7-4155-86e4-374153fe66f3@194.238.57.104:443?security=reality&type=tcp&sni=www.icloud.com&fp=chrome&flow=xtls-rprx-vision&sid=5d&pbk=56RJlIcxwncUs5m9QSfd3waHxm6vJFBKso5IkMSsyCA#%F0%9F%87%B8%F0%9F%87%AASE_1%7C2.5MB%2Fs
-vless://8046e3a1-83a7-4155-86e4-374153fe66f3@194.238.57.104:443?sni=www.icloud.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%B8%F0%9F%87%AASE_1%7C2.5MB/s
-vless://e42eb55f-289f-419f-86c7-b47e49d10c98@77.110.121.202:23164?security=reality&encryption=none&pbk=XoIxfrtYaItQL-X_zvZqTcCHBF3_LhIiptW9ph3Rgjs&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=teamdocs.su&sid=62#瑞典/斯德哥尔摩/Sweden/Stockholm
+vless://980231fb-4372-5c81-b696-20aa34d33af0@148.253.211.47:443?sni=www.microsoft.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%B8%F0%9F%87%AASE_1%7C2.1MB/s

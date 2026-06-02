@@ -1,3 +1,1 @@
-vless://7abdd25e-06d4-452f-a06e-a16c22b2104c@104.26.14.18:443?security=tls&type=xhttp&path=%2FTelegram-ZEDMODEON&host=sabio.tll-far.ir&alpn=h2%2Chttp%2F1.1&sni=sabio.tll-far.ir&fp=chrome&mode=auto&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&encryption=none#%F0%9F%87%AE%F0%9F%87%B9IT_1%7C3.8MB%2Fs
-vless://7abdd25e-06d4-452f-a06e-a16c22b2104c@104.26.14.18:443?sni=sabio.tll-far.ir&alpn=h2%2Chttp/1.1&fp=chrome&security=tls#%F0%9F%87%AE%F0%9F%87%B9IT_1%7C3.8MB/s
-vmess://79e33f2e-6f88-4867-b311-844198e59270@it.connfull.org:2053?encryption=auto&security=tls&type=tcp#意大利/Italy
+vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=none&encryption=none&headerType=none&type=tcp#意大利/Italy

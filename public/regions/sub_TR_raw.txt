@@ -1,3 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYNmJ0YlJ2SkNvM3VUUS0teWFhVDhNdmgwQ2dxaFlUTA@194.87.39.215:8388#土耳其/伊斯坦布尔/Türkiye/Istanbul
-vless://%40Vaslbashi@147.185.161.100:443?type=ws&host=itself-neil-triangle-beauty.trycloudflare.com&path=/fp=chrome&security=tls#%F0%9F%87%B9%F0%9F%87%B7TR_1%7C2.3MB/s
-vless://@Vaslbashi@147.185.161.100:443?security=tls&type=ws&path=%2F&host=itself-neil-triangle-beauty.trycloudflare.com&sni=itself-neil-triangle-beauty.trycloudflare.com&fp=chrome&encryption=none#%F0%9F%87%B9%F0%9F%87%B7TR_1%7C2.3MB%2Fs
+vless://e7be1334-6a1d-47c0-8c9a-c7a5b8575499@147.182.183.207:443?mode=auto&path=/@Grizzlyvpn&security=reality&encryption=none&pbk=z--KbBlQtkBgTcrtdBJeGeCymIrLdaUDwkb44pAp6nY&fp=chrome&spx=/&type=xhttp&sni=yahoo.com&sid=4c#土耳其/伊斯坦布尔/Türkiye/Istanbul

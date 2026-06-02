@@ -1,1 +1,2 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@198.71.189.30:8880?type=ws&host=vms.lifetime04.workers.dev#A%20-%20%F0%9F%87%A7%F0%9F%87%B7%20BR%2001%20TG%3A%20%40nodpai
+vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.35.228:8443?allowInsecure=0&sni=de1.fromblancwithlove.com&fp=chrome&security=tls#BR_speednode_0002
+vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.35.228:8443?allowInsecure=0&sni=de1.fromblancwithlove.com&security=tls#13%7CBR_speednode_0002

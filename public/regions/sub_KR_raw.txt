@@ -1,4 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOWQ3MjdjZC0zMzBiLTRlZGQtODkxMS03YzIyNGRmNmFmZDU=@43.164.128.196:22386#%F0%9F%87%B0%F0%9F%87%B7KR_1%7C1.1MB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOWQ3MjdjZC0zMzBiLTRlZGQtODkxMS03YzIyNGRmNmFmZDU=@43.164.128.196:22386#%F0%9F%87%B0%F0%9F%87%B7KR_1%7C1.1MB/s
-vless://cd91af31-0c74-4bce-aac3-bdae367c84fa@43.203.252.196:21796?allowInsecure=0&sni=www.sony.com&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#%F0%9F%87%B0%F0%9F%87%B7KR_2%7C3.9MB/s
-vless://cd91af31-0c74-4bce-aac3-bdae367c84fa@43.203.252.196:21796?security=reality&type=tcp&sni=www.sony.com&fp=firefox&flow=xtls-rprx-vision&sid=804d6574da9180&spx=%2F&pbk=dHK4t7AbVKnDxl6ondRWcwkkt4FDkrK89ugEzZfDuzw&encryption=none#%F0%9F%87%B0%F0%9F%87%B7KR_2%7C3.9MB%2Fs
+vless://00000000-0000-4000-8000-000000000000@114.204.40.185:30001?security=tls&type=ws&path=%2F%40Marisa_kristi&host=9cvs-zyn4r9-6gzdtuo0w.mikuru.ip-ddns.com&sni=9cvs-zyn4r9-6gzdtuo0w.mikuru.ip-ddns.com&fp=chrome#%F0%9F%87%B0%F0%9F%87%B7KR_1%7C1.1MB%2Fs
+vless://00000000-0000-4000-8000-000000000000@114.204.40.185:30006?security=tls&type=ws&path=%2F%40Marisa_kristifp%3Dchrome&host=9cvs-zyn4r9-6gzdtuo0w.mikuru.ip-ddns.com&sni=9cvs-zyn4r9-6gzdtuo0w.mikuru.ip-ddns.com&fp=chrome#%F0%9F%87%B0%F0%9F%87%B7KR_2%7C1.4MB%2Fs

@@ -1,1 +1,1 @@
-vless://1c7fcc38-e6be-43c5-875f-b8de2516b9f2@5.182.38.91:17267?security=reality&encryption=none&pbk=SnWZg6ORcQepuWLI1EVCTTVc4KyfDiGWR4o_CXCMhgk&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=4ae260#匈牙利/布达佩斯/Hungary/Budapest
+vless://017510da-8b42-49de-8ea9-ab60e3e9072e@hu01.bearbeer.digital:443?security=reality&type=tcp&sni=hu01.bearbeer.digital&fp=qq&flow=xtls-rprx-vision&pbk=z-TKWOWgZLfzQ-wNdwXQqVwaUgCmbchM2Xtrk1NGynU&encryption=none#%F0%9F%87%AD%F0%9F%87%BAHU_1%7C1.6MB%2Fs
