@@ -1,2 +1,1 @@
-trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?security=tls#波兰/华沙/Poland/Warsaw
-vless://ae5ba4be-7262-4199-bd62-210ed8999b9f@poland-1.bexum.fun:443?sni=poland-1.bexum.fun&flow=xtls-rprx-vision-udp443&fp=randomized&security=tls#%F0%9F%87%B5%F0%9F%87%B1PL_1%7C1.3MB/s
+ss://YWVzLTI1Ni1jZmI6ZjYzZ2c4RXJ1RG5Vcm16NA==@217.30.10.70:9010#波兰/华沙/Poland/Warsaw
