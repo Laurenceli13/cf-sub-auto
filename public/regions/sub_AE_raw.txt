@@ -1,2 +1,1 @@
-vless://da9f6ce2-aaba-47dd-be50-5afd17331fd9@212.100.171.194:48862?#%F0%9F%87%A6%F0%9F%87%AAAE_1%7C2.1MB/s
-vless://da9f6ce2-aaba-47dd-be50-5afd17331fd9@212.100.171.194:48862?security=none&type=tcp#%F0%9F%87%A6%F0%9F%87%AAAE_1%7C2.1MB%2Fs
+vless://e94eb2e4-f8e9-48f6-87fc-a3644e738768@srv-3331c0.21freedom.net:443?security=reality&type=xhttp&path=%2Fapi%2Fv1%2Fbe463283&host=vk.com&sni=sberbank.ru&fp=chrome&sid=7d951e7eba51ed0e&pbk=HVhOxkUi3RhGJc-nc5gdM82XRymOnG5L_TOJ4eHL7jY&mode=auto&encryption=none#%F0%9F%87%A6%F0%9F%87%AAAE_1%7C2.6MB%2Fs

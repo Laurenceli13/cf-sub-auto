@@ -1,226 +1,7 @@
 {
   "outbounds": [
     {
-      "tag": "立陶宛+V2CROSS.COM",
-      "server": "89.116.46.210",
-      "server_port": 443,
-      "type": "vless",
-      "uuid": "fc965ad9-bdd7-4815-ad71-b39ec5972dc1",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/tsghdws",
-        "headers": {
-          "Host": "octopusss4.com"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "octopusss4.com"
-      }
-    },
-    {
-      "tag": "CF官方优选68",
-      "server": "162.159.40.122",
-      "server_port": 443,
-      "type": "vless",
-      "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/proxyip=163.192.47.40,47.57.181.17,34.83.245.149,4.155.83.212,64.227.62.172,24.144.68.139,161.35.232.123,107.170.248.68",
-        "headers": {
-          "Host": "tamoai.ccwu.cc"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "tamoai.ccwu.cc"
-      }
-    },
-    {
-      "tag": "CF官方优选72",
-      "server": "104.17.20.152",
-      "server_port": 443,
-      "type": "vless",
-      "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/proxyip=163.192.47.40,47.57.181.17,34.83.245.149,4.155.83.212,64.227.62.172,24.144.68.139,161.35.232.123,107.170.248.68",
-        "headers": {
-          "Host": "tamoai.ccwu.cc"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "tamoai.ccwu.cc"
-      }
-    },
-    {
-      "tag": "CF官方优选17",
-      "server": "104.19.37.131",
-      "server_port": 443,
-      "type": "vless",
-      "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/proxyip=163.192.47.40,47.57.181.17,34.83.245.149,4.155.83.212,64.227.62.172,24.144.68.139,161.35.232.123,107.170.248.68",
-        "headers": {
-          "Host": "tamoai.ccwu.cc"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "tamoai.ccwu.cc"
-      }
-    },
-    {
-      "tag": "CF官方优选35",
-      "server": "104.19.159.79",
-      "server_port": 443,
-      "type": "vless",
-      "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/proxyip=163.192.47.40,47.57.181.17,34.83.245.149,4.155.83.212,64.227.62.172,24.144.68.139,161.35.232.123,107.170.248.68",
-        "headers": {
-          "Host": "tamoai.ccwu.cc"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "tamoai.ccwu.cc"
-      }
-    },
-    {
-      "tag": "CF官方优选13",
-      "server": "104.17.176.127",
-      "server_port": 443,
-      "type": "vless",
-      "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/proxyip=163.192.47.40,47.57.181.17,34.83.245.149,4.155.83.212,64.227.62.172,24.144.68.139,161.35.232.123,107.170.248.68",
-        "headers": {
-          "Host": "tamoai.ccwu.cc"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "tamoai.ccwu.cc"
-      }
-    },
-    {
-      "tag": "🇩🇪DE_21|2.3MB/s",
-      "server": "46.202.30.255",
-      "server_port": 443,
-      "type": "vless",
-      "uuid": "9a98146a-235c-40ed-9633-a67fe3bf9f18",
-      "flow": "",
-      "tls": {
-        "enabled": true,
-        "server_name": "cloudflare.dns.xn--q9jyb4c"
-      }
-    },
-    {
-      "tag": "CF官方优选24",
-      "server": "104.26.0.244",
-      "server_port": 443,
-      "type": "vless",
-      "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/proxyip=163.192.47.40,47.57.181.17,34.83.245.149,4.155.83.212,64.227.62.172,24.144.68.139,161.35.232.123,107.170.248.68",
-        "headers": {
-          "Host": "tamoai.ccwu.cc"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "tamoai.ccwu.cc"
-      }
-    },
-    {
-      "tag": "CF官方优选36",
-      "server": "173.245.58.175",
-      "server_port": 443,
-      "type": "vless",
-      "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/proxyip=163.192.47.40,47.57.181.17,34.83.245.149,4.155.83.212,64.227.62.172,24.144.68.139,161.35.232.123,107.170.248.68",
-        "headers": {
-          "Host": "tamoai.ccwu.cc"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "tamoai.ccwu.cc"
-      }
-    },
-    {
-      "tag": "🇩🇪DE_14|1.5MB/s",
-      "server": "154.81.141.204",
-      "server_port": 443,
-      "type": "vless",
-      "uuid": "9a98146a-235c-40ed-9633-a67fe3bf9f18",
-      "flow": "",
-      "tls": {
-        "enabled": true,
-        "server_name": "cloudflare.dns.xn--q9jyb4c"
-      }
-    },
-    {
-      "tag": "🇩🇪DE_18|1.7MB/s",
-      "server": "109.234.211.106",
-      "server_port": 443,
-      "type": "vless",
-      "uuid": "9a98146a-235c-40ed-9633-a67fe3bf9f18",
-      "flow": "",
-      "tls": {
-        "enabled": true,
-        "server_name": "cloudflare.dns.xn--q9jyb4c"
-      }
-    },
-    {
-      "tag": "CF官方优选32",
-      "server": "104.17.27.216",
-      "server_port": 443,
-      "type": "vless",
-      "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/proxyip=163.192.47.40,47.57.181.17,34.83.245.149,4.155.83.212,64.227.62.172,24.144.68.139,161.35.232.123,107.170.248.68",
-        "headers": {
-          "Host": "tamoai.ccwu.cc"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "tamoai.ccwu.cc"
-      }
-    },
-    {
-      "tag": "🇩🇪DE_44|2.3MB/s",
-      "server": "74.49.215.15",
-      "server_port": 443,
-      "type": "vless",
-      "uuid": "9a98146a-235c-40ed-9633-a67fe3bf9f18",
-      "flow": "",
-      "tls": {
-        "enabled": true,
-        "server_name": "cloudflare.dns.xn--q9jyb4c"
-      }
-    },
-    {
-      "tag": "未知 VLESS-102 | free-nodes",
+      "tag": "未知 VLESS-106 | free-nodes",
       "server": "151.101.110.219",
       "server_port": 443,
       "type": "vless",
@@ -239,20 +20,8 @@
       }
     },
     {
-      "tag": "🇩🇪DE_20|1.2MB/s",
-      "server": "88.216.69.107",
-      "server_port": 443,
-      "type": "vless",
-      "uuid": "9a98146a-235c-40ed-9633-a67fe3bf9f18",
-      "flow": "",
-      "tls": {
-        "enabled": true,
-        "server_name": "cloudflare.dns.xn--q9jyb4c"
-      }
-    },
-    {
-      "tag": "CF官方优选39",
-      "server": "104.19.54.174",
+      "tag": "CF官方优选91",
+      "server": "104.17.156.225",
       "server_port": 443,
       "type": "vless",
       "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
@@ -270,8 +39,8 @@
       }
     },
     {
-      "tag": "CF官方优选16",
-      "server": "104.19.159.163",
+      "tag": "CF官方优选35",
+      "server": "91.193.59.25",
       "server_port": 443,
       "type": "vless",
       "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
@@ -289,8 +58,8 @@
       }
     },
     {
-      "tag": "CF官方优选61",
-      "server": "104.19.35.125",
+      "tag": "CF官方优选2",
+      "server": "104.18.85.152",
       "server_port": 443,
       "type": "vless",
       "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
@@ -308,8 +77,8 @@
       }
     },
     {
-      "tag": "CF官方优选14",
-      "server": "172.67.66.72",
+      "tag": "CF官方优选77",
+      "server": "8.39.125.174",
       "server_port": 443,
       "type": "vless",
       "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
@@ -327,8 +96,23 @@
       }
     },
     {
-      "tag": "CF官方优选69",
-      "server": "104.17.154.188",
+      "tag": "🇺🇸US_3|4.3MB/s",
+      "server": "23.227.60.30",
+      "server_port": 8880,
+      "type": "vless",
+      "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+      "flow": "",
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "vms.lifetime18.workers.dev"
+        }
+      }
+    },
+    {
+      "tag": "CF官方优选20",
+      "server": "162.159.44.53",
       "server_port": 443,
       "type": "vless",
       "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
@@ -346,8 +130,8 @@
       }
     },
     {
-      "tag": "CF官方优选79",
-      "server": "104.17.23.122",
+      "tag": "CF官方优选29",
+      "server": "8.39.125.77",
       "server_port": 443,
       "type": "vless",
       "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
@@ -365,51 +149,26 @@
       }
     },
     {
-      "tag": "未知 VLESS-49 | free-nodes",
-      "server": "185.18.250.127",
-      "server_port": 2096,
-      "type": "vless",
-      "uuid": "2ee26119-94e5-40b4-ba3a-16354021b600",
-      "flow": "",
+      "tag": "未知 TROJAN-35 | free-nodes",
+      "server": "43.169.18.179",
+      "server_port": 443,
+      "type": "trojan",
+      "password": "humanity",
       "transport": {
         "type": "ws",
-        "path": "/graphql",
+        "path": "/assignment",
         "headers": {
-          "Host": "69565ce3109804e7813f98ee.mmdbay.blog"
+          "Host": "www.creationlong.org"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "69565ce3109804e7813f98ee.mmdbay.blog"
+        "server_name": "www.creationlong.org"
       }
     },
     {
-      "tag": "🇩🇪DE_36|2.0MB/s",
-      "server": "159.242.242.91",
-      "server_port": 443,
-      "type": "vless",
-      "uuid": "9a98146a-235c-40ed-9633-a67fe3bf9f18",
-      "flow": "",
-      "tls": {
-        "enabled": true,
-        "server_name": "cloudflare.dns.xn--q9jyb4c"
-      }
-    },
-    {
-      "tag": "🇩🇪DE_30|2.1MB/s",
-      "server": "66.225.252.203",
-      "server_port": 443,
-      "type": "vless",
-      "uuid": "9a98146a-235c-40ed-9633-a67fe3bf9f18",
-      "flow": "",
-      "tls": {
-        "enabled": true,
-        "server_name": "cloudflare.dns.xn--q9jyb4c"
-      }
-    },
-    {
-      "tag": "CF官方优选93",
-      "server": "104.16.149.128",
+      "tag": "CF官方优选84",
+      "server": "172.66.3.90",
       "server_port": 443,
       "type": "vless",
       "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
@@ -427,8 +186,8 @@
       }
     },
     {
-      "tag": "CF官方优选31",
-      "server": "104.18.32.182",
+      "tag": "CF官方优选82",
+      "server": "8.35.211.67",
       "server_port": 443,
       "type": "vless",
       "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
@@ -446,20 +205,27 @@
       }
     },
     {
-      "tag": "🇩🇪DE_5|2.4MB/s",
-      "server": "198.177.56.221",
+      "tag": "🇸🇬SG_3|1000KB/s",
+      "server": "173.245.58.87",
       "server_port": 443,
       "type": "vless",
-      "uuid": "9a98146a-235c-40ed-9633-a67fe3bf9f18",
+      "uuid": "a6f1755f-0140-4bea-8727-0db1bed7c4df",
       "flow": "",
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "juzi.qea.ccwu.cc"
+        }
+      },
       "tls": {
         "enabled": true,
-        "server_name": "cloudflare.dns.xn--q9jyb4c"
+        "server_name": "juzi.qea.ccwu.cc"
       }
     },
     {
-      "tag": "CF官方优选58",
-      "server": "104.19.35.119",
+      "tag": "CF官方优选10",
+      "server": "104.17.101.69",
       "server_port": 443,
       "type": "vless",
       "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
@@ -477,8 +243,8 @@
       }
     },
     {
-      "tag": "CF官方优选45",
-      "server": "104.17.185.249",
+      "tag": "CF官方优选3",
+      "server": "91.193.58.241",
       "server_port": 443,
       "type": "vless",
       "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
@@ -496,20 +262,8 @@
       }
     },
     {
-      "tag": "🇩🇪DE_29|2.3MB/s",
-      "server": "154.81.141.177",
-      "server_port": 443,
-      "type": "vless",
-      "uuid": "9a98146a-235c-40ed-9633-a67fe3bf9f18",
-      "flow": "",
-      "tls": {
-        "enabled": true,
-        "server_name": "cloudflare.dns.xn--q9jyb4c"
-      }
-    },
-    {
-      "tag": "CF官方优选66",
-      "server": "104.17.61.121",
+      "tag": "CF官方优选94",
+      "server": "104.26.1.116",
       "server_port": 443,
       "type": "vless",
       "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
@@ -527,8 +281,8 @@
       }
     },
     {
-      "tag": "CF官方优选50",
-      "server": "104.19.45.83",
+      "tag": "CF官方优选81",
+      "server": "8.39.125.10",
       "server_port": 443,
       "type": "vless",
       "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
@@ -546,8 +300,26 @@
       }
     },
     {
-      "tag": "CF官方优选26",
-      "server": "104.19.147.194",
+      "tag": "西班牙/Spain",
+      "server": "109.234.211.66",
+      "server_port": 8443,
+      "type": "trojan",
+      "password": "trojan",
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "store.timimi.dpdns.org"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "store.timimi.dpdns.org"
+      }
+    },
+    {
+      "tag": "CF官方优选54",
+      "server": "198.41.223.13",
       "server_port": 443,
       "type": "vless",
       "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
@@ -565,8 +337,175 @@
       }
     },
     {
-      "tag": "CF官方优选73",
-      "server": "188.164.248.95",
+      "tag": "CF官方优选46",
+      "server": "104.17.57.55",
+      "server_port": 443,
+      "type": "vless",
+      "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
+      "flow": "",
+      "transport": {
+        "type": "ws",
+        "path": "/proxyip=163.192.47.40,47.57.181.17,34.83.245.149,4.155.83.212,64.227.62.172,24.144.68.139,161.35.232.123,107.170.248.68",
+        "headers": {
+          "Host": "tamoai.ccwu.cc"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "tamoai.ccwu.cc"
+      }
+    },
+    {
+      "tag": "CF官方优选17",
+      "server": "104.19.39.63",
+      "server_port": 443,
+      "type": "vless",
+      "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
+      "flow": "",
+      "transport": {
+        "type": "ws",
+        "path": "/proxyip=163.192.47.40,47.57.181.17,34.83.245.149,4.155.83.212,64.227.62.172,24.144.68.139,161.35.232.123,107.170.248.68",
+        "headers": {
+          "Host": "tamoai.ccwu.cc"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "tamoai.ccwu.cc"
+      }
+    },
+    {
+      "tag": "CF官方优选9",
+      "server": "173.245.59.144",
+      "server_port": 443,
+      "type": "vless",
+      "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
+      "flow": "",
+      "transport": {
+        "type": "ws",
+        "path": "/proxyip=163.192.47.40,47.57.181.17,34.83.245.149,4.155.83.212,64.227.62.172,24.144.68.139,161.35.232.123,107.170.248.68",
+        "headers": {
+          "Host": "tamoai.ccwu.cc"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "tamoai.ccwu.cc"
+      }
+    },
+    {
+      "tag": "CF官方优选22",
+      "server": "104.17.30.50",
+      "server_port": 443,
+      "type": "vless",
+      "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
+      "flow": "",
+      "transport": {
+        "type": "ws",
+        "path": "/proxyip=163.192.47.40,47.57.181.17,34.83.245.149,4.155.83.212,64.227.62.172,24.144.68.139,161.35.232.123,107.170.248.68",
+        "headers": {
+          "Host": "tamoai.ccwu.cc"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "tamoai.ccwu.cc"
+      }
+    },
+    {
+      "tag": "🇺🇸US_6|2.5MB/s",
+      "server": "80.93.202.40",
+      "server_port": 8880,
+      "type": "vless",
+      "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+      "flow": "",
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "vms.lifetime02.workers.dev"
+        }
+      }
+    },
+    {
+      "tag": "CF官方优选8",
+      "server": "104.26.6.172",
+      "server_port": 443,
+      "type": "vless",
+      "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
+      "flow": "",
+      "transport": {
+        "type": "ws",
+        "path": "/proxyip=163.192.47.40,47.57.181.17,34.83.245.149,4.155.83.212,64.227.62.172,24.144.68.139,161.35.232.123,107.170.248.68",
+        "headers": {
+          "Host": "tamoai.ccwu.cc"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "tamoai.ccwu.cc"
+      }
+    },
+    {
+      "tag": "CF官方优选55",
+      "server": "104.17.114.243",
+      "server_port": 443,
+      "type": "vless",
+      "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
+      "flow": "",
+      "transport": {
+        "type": "ws",
+        "path": "/proxyip=163.192.47.40,47.57.181.17,34.83.245.149,4.155.83.212,64.227.62.172,24.144.68.139,161.35.232.123,107.170.248.68",
+        "headers": {
+          "Host": "tamoai.ccwu.cc"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "tamoai.ccwu.cc"
+      }
+    },
+    {
+      "tag": "CF官方优选64",
+      "server": "104.17.151.45",
+      "server_port": 443,
+      "type": "vless",
+      "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
+      "flow": "",
+      "transport": {
+        "type": "ws",
+        "path": "/proxyip=163.192.47.40,47.57.181.17,34.83.245.149,4.155.83.212,64.227.62.172,24.144.68.139,161.35.232.123,107.170.248.68",
+        "headers": {
+          "Host": "tamoai.ccwu.cc"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "tamoai.ccwu.cc"
+      }
+    },
+    {
+      "tag": "CF官方优选13",
+      "server": "104.17.153.74",
+      "server_port": 443,
+      "type": "vless",
+      "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
+      "flow": "",
+      "transport": {
+        "type": "ws",
+        "path": "/proxyip=163.192.47.40,47.57.181.17,34.83.245.149,4.155.83.212,64.227.62.172,24.144.68.139,161.35.232.123,107.170.248.68",
+        "headers": {
+          "Host": "tamoai.ccwu.cc"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "tamoai.ccwu.cc"
+      }
+    },
+    {
+      "tag": "CF官方优选97",
+      "server": "188.164.248.41",
       "server_port": 443,
       "type": "vless",
       "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
@@ -585,7 +524,7 @@
     },
     {
       "tag": "CF官方优选18",
-      "server": "104.17.109.186",
+      "server": "91.193.59.75",
       "server_port": 443,
       "type": "vless",
       "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
@@ -603,8 +542,26 @@
       }
     },
     {
-      "tag": "CF官方优选98",
-      "server": "188.164.248.68",
+      "tag": "瑞士/Switzerland",
+      "server": "185.18.250.252",
+      "server_port": 443,
+      "type": "trojan",
+      "password": "humanity",
+      "transport": {
+        "type": "ws",
+        "path": "/assignment",
+        "headers": {
+          "Host": "www.multiplydose.com"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "www.multiplydose.com"
+      }
+    },
+    {
+      "tag": "CF官方优选38",
+      "server": "104.18.86.151",
       "server_port": 443,
       "type": "vless",
       "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
@@ -622,8 +579,8 @@
       }
     },
     {
-      "tag": "CF官方优选48",
-      "server": "172.67.76.20",
+      "tag": "CF官方优选47",
+      "server": "198.41.208.10",
       "server_port": 443,
       "type": "vless",
       "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
@@ -641,27 +598,8 @@
       }
     },
     {
-      "tag": "CF官方优选4",
-      "server": "172.66.3.43",
-      "server_port": 443,
-      "type": "vless",
-      "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/proxyip=163.192.47.40,47.57.181.17,34.83.245.149,4.155.83.212,64.227.62.172,24.144.68.139,161.35.232.123,107.170.248.68",
-        "headers": {
-          "Host": "tamoai.ccwu.cc"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "tamoai.ccwu.cc"
-      }
-    },
-    {
-      "tag": "CF官方优选99",
-      "server": "104.19.34.150",
+      "tag": "CF官方优选37",
+      "server": "198.41.223.94",
       "server_port": 443,
       "type": "vless",
       "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
@@ -680,7 +618,7 @@
     },
     {
       "tag": "CF官方优选90",
-      "server": "104.17.118.118",
+      "server": "91.193.59.22",
       "server_port": 443,
       "type": "vless",
       "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
@@ -698,8 +636,8 @@
       }
     },
     {
-      "tag": "CF官方优选92",
-      "server": "104.17.161.41",
+      "tag": "CF官方优选27",
+      "server": "104.17.157.236",
       "server_port": 443,
       "type": "vless",
       "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
@@ -717,20 +655,8 @@
       }
     },
     {
-      "tag": "🇩🇪DE_45|3.0MB/s",
-      "server": "156.243.246.219",
-      "server_port": 443,
-      "type": "vless",
-      "uuid": "9a98146a-235c-40ed-9633-a67fe3bf9f18",
-      "flow": "",
-      "tls": {
-        "enabled": true,
-        "server_name": "cloudflare.dns.xn--q9jyb4c"
-      }
-    },
-    {
-      "tag": "CF官方优选29",
-      "server": "172.67.75.181",
+      "tag": "CF官方优选6",
+      "server": "8.39.125.162",
       "server_port": 443,
       "type": "vless",
       "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
@@ -748,20 +674,8 @@
       }
     },
     {
-      "tag": "🇩🇪DE_38|2.1MB/s",
-      "server": "5.175.141.113",
-      "server_port": 443,
-      "type": "vless",
-      "uuid": "9a98146a-235c-40ed-9633-a67fe3bf9f18",
-      "flow": "",
-      "tls": {
-        "enabled": true,
-        "server_name": "cloudflare.dns.xn--q9jyb4c"
-      }
-    },
-    {
-      "tag": "CF官方优选37",
-      "server": "104.17.153.212",
+      "tag": "CF官方优选66",
+      "server": "104.16.254.244",
       "server_port": 443,
       "type": "vless",
       "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
@@ -779,50 +693,202 @@
       }
     },
     {
-      "tag": "未知 TROJAN-21 | free-nodes",
-      "server": "23.227.38.178",
+      "tag": "未知 VLESS-114 | free-nodes",
+      "server": "173.245.58.75",
       "server_port": 443,
-      "type": "trojan",
-      "password": "8b45d379-702f-41b3-a6b2-9c87a01dcd5c",
+      "type": "vless",
+      "uuid": "fc965ad9-bdd7-4815-ad71-b39ec5972dc1",
+      "flow": ""
+    },
+    {
+      "tag": "CF官方优选23",
+      "server": "8.39.125.239",
+      "server_port": 443,
+      "type": "vless",
+      "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
+      "flow": "",
       "transport": {
         "type": "ws",
-        "path": "/images",
+        "path": "/proxyip=163.192.47.40,47.57.181.17,34.83.245.149,4.155.83.212,64.227.62.172,24.144.68.139,161.35.232.123,107.170.248.68",
         "headers": {
-          "Host": "q6clkp794liy3y90.hktimecsgo.xyz"
+          "Host": "tamoai.ccwu.cc"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "q6clkp794liy3y90.hktimecsgo.xyz"
+        "server_name": "tamoai.ccwu.cc"
       }
     },
     {
-      "tag": "🇩🇪DE_32|3.2MB/s",
-      "server": "139.64.235.191",
+      "tag": "CF官方优选74",
+      "server": "104.17.96.56",
       "server_port": 443,
       "type": "vless",
-      "uuid": "9a98146a-235c-40ed-9633-a67fe3bf9f18",
+      "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
+      "flow": "",
+      "transport": {
+        "type": "ws",
+        "path": "/proxyip=163.192.47.40,47.57.181.17,34.83.245.149,4.155.83.212,64.227.62.172,24.144.68.139,161.35.232.123,107.170.248.68",
+        "headers": {
+          "Host": "tamoai.ccwu.cc"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "tamoai.ccwu.cc"
+      }
+    },
+    {
+      "tag": "CF官方优选60",
+      "server": "104.19.152.245",
+      "server_port": 443,
+      "type": "vless",
+      "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
+      "flow": "",
+      "transport": {
+        "type": "ws",
+        "path": "/proxyip=163.192.47.40,47.57.181.17,34.83.245.149,4.155.83.212,64.227.62.172,24.144.68.139,161.35.232.123,107.170.248.68",
+        "headers": {
+          "Host": "tamoai.ccwu.cc"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "tamoai.ccwu.cc"
+      }
+    },
+    {
+      "tag": "CF官方优选67",
+      "server": "104.16.159.233",
+      "server_port": 443,
+      "type": "vless",
+      "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
+      "flow": "",
+      "transport": {
+        "type": "ws",
+        "path": "/proxyip=163.192.47.40,47.57.181.17,34.83.245.149,4.155.83.212,64.227.62.172,24.144.68.139,161.35.232.123,107.170.248.68",
+        "headers": {
+          "Host": "tamoai.ccwu.cc"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "tamoai.ccwu.cc"
+      }
+    },
+    {
+      "tag": "CF官方优选98",
+      "server": "104.16.246.247",
+      "server_port": 443,
+      "type": "vless",
+      "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
+      "flow": "",
+      "transport": {
+        "type": "ws",
+        "path": "/proxyip=163.192.47.40,47.57.181.17,34.83.245.149,4.155.83.212,64.227.62.172,24.144.68.139,161.35.232.123,107.170.248.68",
+        "headers": {
+          "Host": "tamoai.ccwu.cc"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "tamoai.ccwu.cc"
+      }
+    },
+    {
+      "tag": "CF官方优选25",
+      "server": "104.17.187.94",
+      "server_port": 443,
+      "type": "vless",
+      "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
+      "flow": "",
+      "transport": {
+        "type": "ws",
+        "path": "/proxyip=163.192.47.40,47.57.181.17,34.83.245.149,4.155.83.212,64.227.62.172,24.144.68.139,161.35.232.123,107.170.248.68",
+        "headers": {
+          "Host": "tamoai.ccwu.cc"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "tamoai.ccwu.cc"
+      }
+    },
+    {
+      "tag": "CF官方优选30",
+      "server": "104.18.80.82",
+      "server_port": 443,
+      "type": "vless",
+      "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
+      "flow": "",
+      "transport": {
+        "type": "ws",
+        "path": "/proxyip=163.192.47.40,47.57.181.17,34.83.245.149,4.155.83.212,64.227.62.172,24.144.68.139,161.35.232.123,107.170.248.68",
+        "headers": {
+          "Host": "tamoai.ccwu.cc"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "tamoai.ccwu.cc"
+      }
+    },
+    {
+      "tag": "CF官方优选76",
+      "server": "172.67.79.228",
+      "server_port": 443,
+      "type": "vless",
+      "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
+      "flow": "",
+      "transport": {
+        "type": "ws",
+        "path": "/proxyip=163.192.47.40,47.57.181.17,34.83.245.149,4.155.83.212,64.227.62.172,24.144.68.139,161.35.232.123,107.170.248.68",
+        "headers": {
+          "Host": "tamoai.ccwu.cc"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "tamoai.ccwu.cc"
+      }
+    },
+    {
+      "tag": "CF官方优选61",
+      "server": "91.193.58.127",
+      "server_port": 443,
+      "type": "vless",
+      "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
+      "flow": "",
+      "transport": {
+        "type": "ws",
+        "path": "/proxyip=163.192.47.40,47.57.181.17,34.83.245.149,4.155.83.212,64.227.62.172,24.144.68.139,161.35.232.123,107.170.248.68",
+        "headers": {
+          "Host": "tamoai.ccwu.cc"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "tamoai.ccwu.cc"
+      }
+    },
+    {
+      "tag": "🇫🇮FI_2|2.3MB/s",
+      "server": "5.10.214.53",
+      "server_port": 443,
+      "type": "vless",
+      "uuid": "5e5608a2-9893-4eaa-b90a-e202bacef5b6",
       "flow": "",
       "tls": {
         "enabled": true,
-        "server_name": "cloudflare.dns.xn--q9jyb4c"
+        "server_name": "cdn.safev2ray.store",
+        "alpn": [
+          "h2,http/1.1"
+        ]
       }
     },
     {
-      "tag": "🇩🇪DE_22|2.5MB/s",
-      "server": "114.129.43.151",
-      "server_port": 443,
-      "type": "vless",
-      "uuid": "9a98146a-235c-40ed-9633-a67fe3bf9f18",
-      "flow": "",
-      "tls": {
-        "enabled": true,
-        "server_name": "cloudflare.dns.xn--q9jyb4c"
-      }
-    },
-    {
-      "tag": "CF官方优选40",
-      "server": "104.17.210.232",
+      "tag": "CF官方优选52",
+      "server": "104.17.100.84",
       "server_port": 443,
       "type": "vless",
       "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
@@ -841,7 +907,7 @@
     },
     {
       "tag": "CF官方优选96",
-      "server": "198.41.223.232",
+      "server": "172.66.2.146",
       "server_port": 443,
       "type": "vless",
       "uuid": "45ceaca9-30f4-4035-85b7-8f83493911d8",
@@ -859,6 +925,6 @@
       }
     }
   ],
-  "updated": "2026-06-03T05:26:11.989263",
+  "updated": "2026-06-04T05:21:20.706319",
   "count": 50
 }
