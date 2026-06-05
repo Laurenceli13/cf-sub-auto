@@ -1,1 +1,1 @@
-vless://980231fb-4372-5c81-b696-20aa34d33af0@148.253.211.47:443?sni=www.microsoft.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%B8%F0%9F%87%AASE_1%7C2.1MB/s
+vless://43488128-319e-f480-64ea-0acdc712e2a8@70.34.201.81:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Mm-d06LgjpLq_Y0aTRuf8cbueCumBku9r4ygFUGTE2o&security=reality&sid=7b7c7376cba460cf&sni=www.booking.com&type=tcp#瑞典/Sweden

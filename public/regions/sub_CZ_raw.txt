@@ -1,2 +1,1 @@
-vless://f85f6c65-1b35-4c56-b766-80c5a4457b3e@95.85.228.212:443?allowInsecure=0&sni=est.hatvpn.org&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#13%7CCZ_speednode_0016
-vless://f85f6c65-1b35-4c56-b766-80c5a4457b3e@95.85.228.212:443?allowInsecure=0&sni=est.hatvpn.org&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#CZ_speednode_0016
+trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@ch-2.bexum.fun:443?allowInsecure=0&sni=ch-2.bexum.fun#%F0%9F%87%A8%F0%9F%87%BFCZ_1%7C1.1MB/s

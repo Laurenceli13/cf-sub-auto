@@ -1,4 +1,3 @@
+ss://YWVzLTEyOC1nY206a2Z1emt3ZGc0b3ludjQ5NWF5d2M=@86.106.84.195:13262#%F0%9F%87%A8%F0%9F%87%ADCH_1%7C2.0MB%2Fs
+ss://YWVzLTEyOC1nY206cGhpem8wNDZzNG9xc20zM3Nmdm0=@86.106.84.198:13265#%F0%9F%87%A8%F0%9F%87%ADCH_1%7C2.0MB/s
 trojan://humanity@185.18.250.252:443?path=%2Fassignment&security=tls&insecure=1&host=www.multiplydose.com&fp=chrome&type=ws&allowInsecure=1&sni=www.multiplydose.com#瑞士/Switzerland
-vless://043c4eff-0999-4a90-9090-5eb206709c92@179.237.73.24:25085?security=reality&type=tcp&sni=nobitex.ir&fp=chrome&sid=290b4c40&pbk=prtV_0DLgExvlTftK3ggN3ESXjU_PwMl6ydt5hHLKBM&encryption=none#%F0%9F%87%A8%F0%9F%87%ADCH_3%7C2.5MB%2Fs
-vless://043c4eff-0999-4a90-9090-5eb206709c92@179.237.73.24:443?security=none&type=tcp&headerType=http&path=%2F&host=uplod.ir&encryption=none#%F0%9F%87%A8%F0%9F%87%ADCH_1%7C3.4MB%2Fs
-vless://043c4eff-0999-4a90-9090-5eb206709c92@179.237.73.24:51363?security=reality&type=tcp&sni=ws.nobitex.ir&fp=chrome&sid=fbe96c540c2005&pbk=v60GzauxQqusqymc8-6wOSyYtq6hyitBxPvqVs_IQCw&encryption=none#%F0%9F%87%A8%F0%9F%87%ADCH_2%7C2.5MB%2Fs

@@ -1,2 +1,1 @@
-vless://296bbba2-b100-4d91-b8df-3fe03cc863c4@91.225.217.28:443?allowInsecure=0&sni=yahoo.com&fp=chrome&security=tls#13%7CMD_speednode_0027
-vless://296bbba2-b100-4d91-b8df-3fe03cc863c4@91.225.217.28:443?allowInsecure=0&sni=yahoo.com&fp=chrome&security=tls#MD_speednode_0027
+vless://69a2af58-d74a-44ca-864a-e09b493f4274@91.225.217.94:443?security=reality&type=tcp&sni=api-maps.yandex.ru&fp=chrome&flow=xtls-rprx-vision&sid=062f&pbk=vYAxsSvDFRv3AFxbenjrq3jRG_p8o_wER-I8x-7aSwU&encryption=none#%F0%9F%87%B2%F0%9F%87%A9MD_1%7C2.2MB%2Fs
