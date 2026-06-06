@@ -1,9 +1,8 @@
-ss://aes-128-gcm%3A6601fb90e9b3@csgfw.top:443#SG%20SS-134%20%7C%20free-nodes
-ss://aes-128-gcm%3A6601fb90e9b3@csgfw.top:443#SG%20SS-148%20%7C%20free-nodes
-trojan://d84665c37878196ecf983cf6910e3b44@16.162.93.34:48402?allowInsecure=1&sni=www.nintendogames.net#%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40ripaojiedian
-trojan://d84665c37878196ecf983cf6910e3b44@16.162.93.34:48402?allowInsecure=1&sni=www.nintendogames.net#11%2C12%7C%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40ripaojiedian
-vless://00000000-0000-4000-8000-000000000000@www.shopify.com:443?security=tls&type=ws&path=%2F%40Marisa_kristi&host=ufo4dxyv6255yk8eh1ejyxgxc.worker.ddns-ip.net&sni=ufo4dxyv6255yk8eh1ejyxgxc.worker.ddns-ip.net&fp=chrome&encryption=none#%F0%9F%87%B8%F0%9F%87%ACSG_3%7C1005KB%2Fs
-vless://00000000-0000-4000-8000-000000000000@youxuan.cf.090227.xyz:443?security=tls&type=ws&path=%2F%40Marisa_kristi&host=ufo4dxyv6255yk8eh1ejyxgxc.worker.ddns-ip.net&sni=ufo4dxyv6255yk8eh1ejyxgxc.worker.ddns-ip.net&fp=chrome&encryption=none#%F0%9F%87%B8%F0%9F%87%ACSG_4%7C1.2MB%2Fs
-vless://20ae58df-d562-40b3-908c-21b4881315d4@18.143.151.84:38967?security=reality&type=tcp&sni=www.icloud.com&fp=chrome&flow=xtls-rprx-vision&sid=9b1cdc34dd5664&pbk=TFAGMtH1LB503O0SJadbPxBs8S_LACshWQpEIAyuS1g&encryption=none#%F0%9F%87%B8%F0%9F%87%ACSG_1%7C3.5MB%2Fs
-vless://228639b0-48de-4162-a818-d5651ee297b3@27.50.48.49:443?path=%2Fin-do&security=tls&encryption=none&insecure=0&host=investors.spotify.com.cyylr.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=investors.spotify.com.cyylr.eu.cc#新加坡/Singapore
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDI1Sm9pbitUZWxlZ3JhbTpARmFyYWhfVlBOXHVkODNkXHVkZmUzIiwgImFkZCI6ICJtdG4uYW5haGlkLmJlYXV0eSIsICJwb3J0IjogIjQ0MyIsICJpZCI6ICI1YTBjYWRhNi0wMzM2LTQwNDktYjUyMi0yYzk0MWI1NzM3NDUiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogInMxLm1laHJtYWguc2hvcCIsICJwYXRoIjogIi8iLCAidGxzIjogInRscyIsICJzbmkiOiAiczEubWVocm1haC5zaG9wIiwgImFscG4iOiAiIiwgImZwIjogIiJ9#新加坡/新加坡/Singapore/Singapore
+ss://aes-128-gcm%3A6601fb90e9b3@csgfw.top:443#SG%20SS-128%20%7C%20free-nodes
+ss://aes-128-gcm%3A6601fb90e9b3@csgfw.top:443#SG%20SS-145%20%7C%20free-nodes
+trojan://BxceQaOe@140.235.140.105:443?allowInsecure=1&sni=t.me%2Fripaojiedian#%F0%9F%87%B8%F0%9F%87%ACSG_2%7C1.7MB/s
+trojan://BxceQaOe@140.235.140.105:443?sni=t.me%252Fripaojiedian&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%B8%F0%9F%87%ACSG_1%7C1.6MB%2Fs
+trojan://BxceQaOe@140.235.140.105:443?sni=t.me%252Fripaojiedian&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%B8%F0%9F%87%ACSG_2%7C1.7MB%2Fs
+trojan://d84665c37878196ecf983cf6910e3b44@95.40.35.52:12143?allowInsecure=1&sni=www.nintendogames.net#%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40ripaojiedian
+trojan://d84665c37878196ecf983cf6910e3b44@95.40.35.52:12143?allowInsecure=1&sni=www.nintendogames.net#11%2C12%7C%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40ripaojiedian
+trojan://humanity@43.169.18.179:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#新加坡/Singapore
