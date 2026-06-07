@@ -1,1 +1,1 @@
-vless://21c1132b-068c-46fb-880e-3268f6a30e7f@178.215.238.148:8443?security=reality&type=raw&packetEncoding=none&sni=eh.vk.com&fp=chrome&sid=478dc6&pbk=Crjd0I6hcasRXZcfNf7cs-YtJLpQ8u-t1CbwHIDAciU#%E4%B9%8C%E5%85%8B%E5%85%B0+V2CROSS.COM
+vless://353d1d68-1523-415e-9d89-d14a9a55e253@best2.darkteam.info:443?encryption=none&type=ws&host=speedtest.net&path=/DarkTeam_VPN&security=none#乌克兰/Ukraine

@@ -1,1 +1,2 @@
-vless://43488128-319e-f480-64ea-0acdc712e2a8@70.34.201.81:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Mm-d06LgjpLq_Y0aTRuf8cbueCumBku9r4ygFUGTE2o&security=reality&sid=7b7c7376cba460cf&sni=www.booking.com&type=tcp#瑞典/Sweden
+vless://ffaa8e95-74e2-4ef4-8974-69dd3651b6f9@144.31.230.72:47200?allowInsecure=0&sni=stats.vk-portal.net&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#%F0%9F%87%B8%F0%9F%87%AASE_1%7C1.5MB/s
+vless://ffaa8e95-74e2-4ef4-8974-69dd3651b6f9@144.31.230.72:47200?security=reality&type=tcp&packetEncoding=none&sni=stats.vk-portal.net&fp=firefox&flow=xtls-rprx-vision&sid=b2a9bd658fc81dc6&pbk=aom9XGtg9tre2RGo8XkCaRqlE02nrZ4smmnpLpzidRE#%F0%9F%87%B8%F0%9F%87%AASE_1%7C1.5MB%2Fs

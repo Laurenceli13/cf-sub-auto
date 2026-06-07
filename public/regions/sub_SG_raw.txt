@@ -1,8 +1,4 @@
-ss://aes-128-gcm%3A6601fb90e9b3@csgfw.top:443#SG%20SS-128%20%7C%20free-nodes
-ss://aes-128-gcm%3A6601fb90e9b3@csgfw.top:443#SG%20SS-145%20%7C%20free-nodes
-trojan://BxceQaOe@140.235.140.105:443?allowInsecure=1&sni=t.me%2Fripaojiedian#%F0%9F%87%B8%F0%9F%87%ACSG_2%7C1.7MB/s
-trojan://BxceQaOe@140.235.140.105:443?sni=t.me%252Fripaojiedian&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%B8%F0%9F%87%ACSG_1%7C1.6MB%2Fs
-trojan://BxceQaOe@140.235.140.105:443?sni=t.me%252Fripaojiedian&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%B8%F0%9F%87%ACSG_2%7C1.7MB%2Fs
-trojan://d84665c37878196ecf983cf6910e3b44@95.40.35.52:12143?allowInsecure=1&sni=www.nintendogames.net#%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40ripaojiedian
-trojan://d84665c37878196ecf983cf6910e3b44@95.40.35.52:12143?allowInsecure=1&sni=www.nintendogames.net#11%2C12%7C%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40ripaojiedian
-trojan://humanity@43.169.18.179:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#新加坡/Singapore
+hysteria2://e7965e64-e001-4e8c-8273-39c61ff4a094@sg3.oomz.ru:30000?insecure=1&sni=bing.com#8%7CSG
+hysteria2://e7965e64-e001-4e8c-8273-39c61ff4a094@sg3.oomz.ru:30000?insecure=1&sni=bing.com#SG
+ss://aes-128-gcm%3A6601fb90e9b3@csgfw.top:443#SG%20SS-141%20%7C%20free-nodes
+ss://aes-128-gcm%3A6601fb90e9b3@csgfw.top:443#SG%20SS-149%20%7C%20free-nodes
