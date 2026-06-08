@@ -1,2 +1,1 @@
-vless://0b0f0f45-b79a-4647-b466-d7879cd4aeea@45.92.219.119:7443?security=reality&type=tcp&sni=www.microsoft.com&fp=chrome&flow=xtls-rprx-vision&sid=d82fb387&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&encryption=none#%F0%9F%87%B9%F0%9F%87%B7TR_1%7C2.6MB%2Fs
-vmess://04621bae-ab36-11ec-b909-0242ac120002@5.188.190.252:22324?encryption=auto&security=none&type=tcp#土耳其/伊斯坦布尔/Türkiye/Istanbul
+vless://ed713345-61f4-4eca-8708-b3a1e9bfbb40@38.180.104.152:21077?path=%2F&security=none&encryption=none&host=www.google.com&type=ws#土耳其/伊斯坦布尔/Türkiye/Istanbul

@@ -1,1 +1,1 @@
-trojan://lTs6OZOMoqYAkDEbK10t-tE8KMjuREBW3m@130.94.104.210:443?security=tls&sni=www.cdn-structure.click#智利/圣地亚哥/Chile/Santiago
+trojan://e05c749b-7c6b-41b8-9c71-9dcf685edf4a@152.67.162.166:443?security=tls#智利/圣地亚哥/Chile/Santiago

@@ -1,4 +1,4 @@
-vless://0799a47d-d446-4a20-8e75-441fa899fbb1@104.16.72.70:443?path=%2Fid-pusat&security=tls&encryption=none&insecure=0&host=unnes.ac.id.r3xxe.eu.cc&type=ws&allowInsecure=0&sni=unnes.ac.id.r3xxe.eu.cc#瑞士/Switzerland
+trojan://humanity@185.18.250.252:443?host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#瑞士/Switzerland
 vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@ch-xh-01.hpdata.click:443?security=tls&type=xhttp&path=%2Fvk&sni=ch-xh-01.hpdata.click&fp=chrome&mode=packet-up#%F0%9F%87%A8%F0%9F%87%ADCH_2%7C1.6MB%2Fs
 vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@ch-xh-01.hpdata.click:443?sni=ch-xh-01.hpdata.click&fp=chrome&security=tls#%F0%9F%87%A8%F0%9F%87%ADCH_2%7C1.6MB/s
 vless://f1a44ae4-20f9-4dd7-b60e-b4f2acecfdb4@l10-1.l-itx.info:443?allowInsecure=0&sni=yandex.by&fp=firefox&security=tls#%F0%9F%87%A8%F0%9F%87%ADCH_1%7C3.8MB/s
