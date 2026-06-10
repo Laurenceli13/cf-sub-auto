@@ -1,5 +1,2 @@
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@90081bb25c.node.tro.cac.cab:45553?allowInsecure=1&sni=ch.01.naiun.bilibili.com#%F0%9F%87%A8%F0%9F%87%ADCH_1%7C1000KB/s
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@90081bb25c.node.tro.cac.cab:45553?sni=ch.01.naiun.bilibili.com&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%A8%F0%9F%87%ADCH_1%7C1000KB%2Fs
-vless://4788ff67-57af-425a-9b47-5a63b20e2f57@m.exon-software.ir:8880?allowInsecure=0&type=ws&host=m.mobile-unix.ir&path=/?ed#%F0%9F%87%A8%F0%9F%87%ADCH_2%7C1.7MB/s
-vless://4788ff67-57af-425a-9b47-5a63b20e2f57@m.exon-software.ir:8880?security=none&type=httpupgrade&path=%2F%3Fed&host=m.mobile-unix.ir&packetEncoding=xudp&encryption=none#%F0%9F%87%A8%F0%9F%87%ADCH_2%7C1.7MB%2Fs
-vless://b95e6017-d54e-4016-b651-91c86aeaa463@nld02.helpbot.click:443?security=reality&encryption=none&pbk=M1a5zeQ6Ckoo1UybbRYD8696xaWb-fRcCY-7iaQ4wCA&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=nld02.helpbot.click&sid=fd3f0f2bce8083fe#瑞士/Switzerland
+vless://d39664df-5bc0-4f49-9894-8f03b4150082@Germany-vip.soft26.ir:8443?security=reality&type=xhttp&path=%2F&packetEncoding=xudp&sni=www.yahoo.com&fp=chrome&sid=6f3192&pbk=QLamtir13xwzyWVlPRN3C7lw_fhSBU7X4H3A8zAl5Fg&mode=auto&encryption=none#%F0%9F%87%A8%F0%9F%87%ADCH_1%7C2.0MB%2Fs
+vless://d39664df-5bc0-4f49-9894-8f03b4150082@Germany-vip.soft26.ir:8443?sni=www.yahoo.com&fp=chrome&security=tls#%F0%9F%87%A8%F0%9F%87%ADCH_1%7C2.0MB/s

@@ -1,2 +1,1 @@
-vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.80:8443?allowInsecure=0&sni=buh-ro-01.fromblancwithlove.com&security=tls#%F0%9F%87%B7%F0%9F%87%B4RO_5%7C2.1MB/s
-vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.80:8443?security=tls&type=tcp&packetEncoding=xudp&sni=buh-ro-01.fromblancwithlove.com&encryption=none#%F0%9F%87%B7%F0%9F%87%B4RO_5%7C2.1MB%2Fs
+trojan://humanity@104.16.174.12:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#罗马尼亚/Romania

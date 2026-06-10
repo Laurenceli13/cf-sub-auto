@@ -1,2 +1,2 @@
-vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@es-xh-01.hpdata.click:443?security=tls&type=xhttp&path=%2Fvk&sni=es-xh-01.hpdata.click&fp=chrome&mode=packet-up#%F0%9F%87%AA%F0%9F%87%B8ES_1%7C1.0MB%2Fs
-vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@es-xh-01.hpdata.click:443?sni=es-xh-01.hpdata.click&fp=chrome&security=tls#%F0%9F%87%AA%F0%9F%87%B8ES_1%7C1.0MB/s
+vless://9bc87bd9-0d37-4ba6-9601-408b22902fff@45.154.206.100:443?security=reality&type=xhttp&path=%2Fxhttp-proxy&packetEncoding=xudp&sni=5post-gate.x5.ru&fp=chrome&sid=a8f3c1d7e9b4c2f6&pbk=akcAXaW7GNwXT6bTrtD6oZIY9rdEzW4TfZvYqDRzsTc&mode=auto&encryption=none#%F0%9F%87%AA%F0%9F%87%B8ES_1%7C1.3MB%2Fs
+vless://9bc87bd9-0d37-4ba6-9601-408b22902fff@45.154.206.100:443?sni=5post-gate.x5.ru&fp=chrome&security=tls#%F0%9F%87%AA%F0%9F%87%B8ES_1%7C1.3MB/s

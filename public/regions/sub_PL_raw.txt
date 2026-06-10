@@ -1,3 +1,3 @@
-trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?security=tls&amp;alpn=http%2F1.1&amp;insecure=0&amp;headerType=none&amp;type=tcp&amp;allowInsecure=0#波兰/华沙/Poland/Warsaw
-vless://5f230810-7270-4b03-b802-329a4ad8d0b2@144.31.0.48:2097?allowInsecure=0&sni=www.nvidia.com&fp=safari&security=tls#%F0%9F%87%B5%F0%9F%87%B1PL_1%7C1.2MB/s
-vless://5f230810-7270-4b03-b802-329a4ad8d0b2@144.31.0.48:2097?security=reality&type=xhttp&path=%2F&host=www.nvidia.com&packetEncoding=xudp&sni=www.nvidia.com&fp=safari&sid=c25471687f078fbd&pbk=KE4sXLqi-C6ar7WX9dtbVyAcc1KeevWKvHfqacR5wEk&mode=stream-up#%F0%9F%87%B5%F0%9F%87%B1PL_1%7C1.2MB%2Fs
+vless://0ceffd8e-f934-44e1-9da9-4de93802da24@2.59.163.171:2053?security=reality&type=tcp&packetEncoding=xudp&sni=teamdocs.su&fp=chrome&flow=xtls-rprx-vision&sid=e014a21095be&pbk=koRqYFz-aez3u654ePSV-UG1JMUhPGrfyqA5LpMaCCo&encryption=none#%F0%9F%87%B5%F0%9F%87%B1PL_1%7C1.7MB%2Fs
+vless://0ceffd8e-f934-44e1-9da9-4de93802da24@2.59.163.171:2053?sni=teamdocs.su&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%B5%F0%9F%87%B1PL_1%7C1.7MB/s
+vless://37a0bd7c-8b9f-4693-8916-bd1e2da0a817@128.204.223.94:9815?security=none&encryption=none&type=ws#波兰/华沙/Poland/Warsaw
