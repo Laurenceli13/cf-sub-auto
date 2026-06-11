@@ -1,1 +1,1 @@
-vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.91:443?flow=xtls-rprx-vision&fp=chrome&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY&security=tls&sid=7a3f9e2b1c8d4f6a&sni=it.s3-cloud.xyz#意大利/Italy
+vless://d3eddb9e-33ef-4a6c-bfe3-663382612219@mal.malkopol.org:2087?mode=auto&path=%2F&security=tls&alpn=h2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=ZaAcRoQu8.MiNiChIlI.InFo#意大利/Italy

@@ -1,5 +1,1 @@
-vless://394f6981-a782-4779-9a85-e6cf22935d93@ams1.fromblancwithlove.com:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&type=tcp#%E6%8D%B7%E5%85%8B+V2CROSS.COM
-vless://8bbf020e-653f-4a82-9900-1214e4e37dab@103.119.18.158:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.microsoft.com&fp=chrome&flow=xtls-rprx-vision&sid=fcd9787f&pbk=gXc2c9NIWxhUTb7HoBCjvo-uB1L4iQj4TH38g4YhxHE&encryption=none#%F0%9F%87%A8%F0%9F%87%BFCZ_1%7C2.7MB%2Fs
-vless://8bbf020e-653f-4a82-9900-1214e4e37dab@103.119.18.158:443?sni=www.microsoft.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%A8%F0%9F%87%BFCZ_1%7C2.7MB/s
-vless://9bc87bd9-0d37-4ba6-9601-408b22902fff@148.222.184.122:443?security=reality&type=xhttp&path=%2Fxhttp-proxy&packetEncoding=xudp&sni=5post-gate.x5.ru&fp=chrome&sid=a8f3c1d7e9b4c2f6&pbk=akcAXaW7GNwXT6bTrtD6oZIY9rdEzW4TfZvYqDRzsTc&mode=auto&encryption=none#%F0%9F%87%A8%F0%9F%87%BFCZ_2%7C3.5MB%2Fs
-vless://9bc87bd9-0d37-4ba6-9601-408b22902fff@148.222.184.122:443?sni=5post-gate.x5.ru&fp=chrome&security=tls#%F0%9F%87%A8%F0%9F%87%BFCZ_2%7C3.5MB/s
+ss://YWVzLTI1Ni1nY206RldyWGN4UFpqSnhBTjg5eExncVkzQWNw@82.102.26.117:44236#捷克/Czechia

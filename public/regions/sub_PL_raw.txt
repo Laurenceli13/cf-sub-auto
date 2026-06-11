@@ -1,3 +1,2 @@
-vless://0ceffd8e-f934-44e1-9da9-4de93802da24@2.59.163.171:2053?security=reality&type=tcp&packetEncoding=xudp&sni=teamdocs.su&fp=chrome&flow=xtls-rprx-vision&sid=e014a21095be&pbk=koRqYFz-aez3u654ePSV-UG1JMUhPGrfyqA5LpMaCCo&encryption=none#%F0%9F%87%B5%F0%9F%87%B1PL_1%7C1.7MB%2Fs
-vless://0ceffd8e-f934-44e1-9da9-4de93802da24@2.59.163.171:2053?sni=teamdocs.su&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%B5%F0%9F%87%B1PL_1%7C1.7MB/s
-vless://37a0bd7c-8b9f-4693-8916-bd1e2da0a817@128.204.223.94:9815?security=none&encryption=none&type=ws#波兰/华沙/Poland/Warsaw
+vless://5e6cd281-2d03-4e72-9bb2-b38ce2da7cc7@pl.moktana.app:443?mode=gun&security=reality&encryption=none&pbk=zz1etKRzRA4fwe0Te0p6jAlHorNJs4mmcljA3oL520E&fp=chrome&type=grpc&serviceName=moktana.net.v1.StreamService&sni=pl.moktana.app&sid=51e9fd4ba43f64d7#波兰/华沙/Poland/Warsaw
+vless://6f9b4509-6c9c-4905-85c5-a6c6e138804b@45.194.71.115:8443?security=reality&type=tcp&packetEncoding=xudp&sni=storage.yandex.net&fp=chrome&flow=xtls-rprx-vision&sid=d2c6d9f6e6e12bfe&pbk=9Y-_jCI3Z1x6SXK2tHdZ6V1CN9IJPNPnoxSW0cbXxD8#%F0%9F%87%B5%F0%9F%87%B1PL_1%7C2.1MB%2Fs

@@ -1,7 +1,9 @@
 hysteria2://e7965e64-e001-4e8c-8273-39c61ff4a094@sg3.oomz.ru:30000?insecure=1&sni=bing.com#8%7CSG
 hysteria2://e7965e64-e001-4e8c-8273-39c61ff4a094@sg3.oomz.ru:30000?insecure=1&sni=bing.com#SG
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2SjRMckJxa3FDWWdHTU8wOFltbXNNalEzWk10SjdFeTZTeGZwZQ@5.34.177.228:41348#新加坡/新加坡/Singapore/Singapore
-ss://aes-128-gcm%3A6601fb90e9b3@csgfw.top:443#SG%20SS-142%20%7C%20free-nodes
-ss://aes-128-gcm%3A6601fb90e9b3@csgfw.top:443#SG%20SS-147%20%7C%20free-nodes
-trojan://d02e3bb7e6b3333e818d36866d40de6e@43.198.203.3:29642?allowInsecure=1&sni=www.nintendogames.net#%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40ripaojiedian
-trojan://d02e3bb7e6b3333e818d36866d40de6e@43.198.203.3:29642?allowInsecure=1&sni=www.nintendogames.net#11%2C12%7C%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40ripaojiedian
+ss://YWVzLTEyOC1nY206SlZTdXVpYjR5ZHZZOG03dTZqRWxUWWJlUk84eWdKNEhpOElxNzMzQnFBa0Y=@168.138.175.92:9888#新加坡/Singapore
+ss://aes-128-gcm%3A6601fb90e9b3@csgfw.top:443#SG%20SS-138%20%7C%20free-nodes
+ss://aes-128-gcm%3A6601fb90e9b3@csgfw.top:443#SG%20SS-144%20%7C%20free-nodes
+trojan://d02e3bb7e6b3333e818d36866d40de6e@35.79.220.32:6357?allowInsecure=1&sni=www.nintendogames.net#%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40ripaojiedian
+trojan://d02e3bb7e6b3333e818d36866d40de6e@35.79.220.32:6357?allowInsecure=1&sni=www.nintendogames.net#11%2C12%7C%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40ripaojiedian
+vless://452da0f8-3034-4e5d-9e7f-9c3f58abb8ff@122.248.202.201:45075?security=reality&encryption=none&pbk=l6Z-68Q2EJ8nZ5mzWSAB53lp1-_nOHwV2Z18y3DT7xQ&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.tesla.com&sid=7185b14179922a5c#新加坡/新加坡/Singapore/Singapore
+vless://e388fffb-03b0-4227-ac2c-2b5cec1f5c34@198.41.222.191:80?security=none&type=ws&path=%2F&host=leecher56.matinheydri.workers.dev&ed=2048&packetEncoding=xudp&encryption=none#%F0%9F%87%B8%F0%9F%87%ACSG_1%7C3.7MB%2Fs

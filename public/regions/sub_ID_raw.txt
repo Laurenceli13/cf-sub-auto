@@ -1,1 +1,2 @@
-trojan://e05c749b-7c6b-41b8-9c71-9dcf685edf4a@152.67.162.166:443?security=tls#印度尼西亚/雅加达/Indonesia/Jakarta
+vless://85c42ce4-7789-49cb-9012-9d6d6ba16581@tralalero.site:8443?allowInsecure=0&sni=storage.yandex.net&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#13%7CID_speednode_0003
+vless://85c42ce4-7789-49cb-9012-9d6d6ba16581@tralalero.site:8443?allowInsecure=0&sni=storage.yandex.net&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#ID_speednode_0003

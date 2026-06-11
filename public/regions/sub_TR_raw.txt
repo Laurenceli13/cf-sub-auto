@@ -1,2 +1,1 @@
-vless://5a329417-d814-4429-8329-a40027a37709@panel.novexone.ir:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.yahoo.com&fp=chrome&flow=xtls-rprx-vision&sid=48d29e0c80b3&pbk=N2lNP_mURhdPm_2BPeT_dAkELQaCEjjdhOkd_j8hCiE&encryption=none#%F0%9F%87%B9%F0%9F%87%B7TR_1%7C2.5MB%2Fs
-vless://5a329417-d814-4429-8329-a40027a37709@panel.novexone.ir:443?sni=www.yahoo.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%B9%F0%9F%87%B7TR_1%7C2.5MB/s
+vless://33bd7d64-2b03-4b19-82e5-9610afde3c3d@tr.tgru.in:443?security=reality&type=tcp&packetEncoding=xudp&sni=tgru.in&fp=chrome&flow=xtls-rprx-vision&sid=cd85b2abe0feed49&pbk=5HItszJ7XSKexeNn6F9BSdJLXTfSiCDwUSqLi1Hxd2Q&encryption=none#%F0%9F%87%B9%F0%9F%87%B7TR_1%7C1.2MB%2Fs

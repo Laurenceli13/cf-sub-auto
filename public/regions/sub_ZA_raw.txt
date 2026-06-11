@@ -1,1 +1,1 @@
-vless://85c42ce4-7789-49cb-9012-9d6d6ba16581@tralalero.site:8443?type=tcp&headerType=none&security=reality&encryption=none&sni=storage.yandex.net&fp=chrome&pbk=_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM&sid=6419bed7fd0a2cff&flow=xtls-rprx-vision#%E5%8D%97%E9%9D%9E+V2CROSS.COM
+vless://6f9b4509-6c9c-4905-85c5-a6c6e138804b@45.194.71.115:8443?flow=xtls-rprx-vision&fp=chrome&pbk=9Y-_jCI3Z1x6SXK2tHdZ6V1CN9IJPNPnoxSW0cbXxD8&security=reality&sid=d2c6d9f6e6e12bfe&sni=storage.yandex.net&type=tcp#%E5%8D%97%E9%9D%9E+V2CROSS.COM

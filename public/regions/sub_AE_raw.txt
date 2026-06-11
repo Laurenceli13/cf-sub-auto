@@ -1,4 +1,1 @@
-vless://6ca8ea5b-e47f-4c19-adee-365456e1e87c@31.56.188.93:7443?security=reality&type=tcp&sni=mi.com&fp=chrome&flow=xtls-rprx-vision&sid=be0ce047&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&encryption=none#%F0%9F%87%A6%F0%9F%87%AAAE_1%7C2.2MB%2Fs
-vless://6ca8ea5b-e47f-4c19-adee-365456e1e87c@31.56.188.93:7443?sni=mi.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%A6%F0%9F%87%AAAE_1%7C2.2MB/s
-vless://adea61c0-0bb2-4ad3-8dba-7766eebd50f8@31.56.188.90:7443?security=reality&type=tcp&sni=mi.com&fp=chrome&flow=xtls-rprx-vision&sid=be0ce047&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&encryption=none#%F0%9F%87%A6%F0%9F%87%AAAE_2%7C2.6MB%2Fs
-vless://adea61c0-0bb2-4ad3-8dba-7766eebd50f8@31.56.188.90:7443?sni=mi.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%A6%F0%9F%87%AAAE_2%7C2.6MB/s
+vless://ad356e93-cc14-417d-9f4e-32376d03f5b7@ip2.feywebsite.ir:2096?security=tls&type=ws&path=%2Fws%3Fed%3D2560&host=hhh.hozheen.ir&packetEncoding=xudp&sni=hhh.hozheen.ir&fp=chrome&encryption=none#%F0%9F%87%A6%F0%9F%87%AAAE_1%7C2.0MB%2Fs
