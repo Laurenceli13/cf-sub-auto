@@ -1,1 +1,2 @@
-vless://296bbba2-b100-4d91-b8df-3fe03cc863c4@91.225.217.28:443?&security=reality&pbk=CnFVrSvJ1Mhl_6QqKCCvXtEdlaJjN4MXWBkSswJ_gX0&sid=106c&fp=chrome&sni=yahoo.com&type=tcp&headerType=none&host=yahoo.com&path=%2F#摩尔多瓦/Moldova
+vless://039a1658-e86e-475f-a3a4-67cc249acada@185.242.87.36:443?allowInsecure=0&sni=fr1.panel11.ru&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#%F0%9F%87%B2%F0%9F%87%A9MD_1%7C1.3MB/s
+vless://039a1658-e86e-475f-a3a4-67cc249acada@185.242.87.36:443?security=reality&type=tcp&packetEncoding=xudp&sni=fr1.panel11.ru&fp=firefox&flow=xtls-rprx-vision&sid=2eaa0970f2fb0c4b&pbk=U-pXTk6CWSWf1EParYP_drrus_87u-XwOiCmB-MnAGE#%F0%9F%87%B2%F0%9F%87%A9MD_1%7C1.3MB%2Fs

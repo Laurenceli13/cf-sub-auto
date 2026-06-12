@@ -1,1 +1,1 @@
-vless://d3eddb9e-33ef-4a6c-bfe3-663382612219@mal.malkopol.org:2087?mode=auto&path=%2F&security=tls&alpn=h2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=ZaAcRoQu8.MiNiChIlI.InFo#意大利/Italy
+vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=none&encryption=none&headerType=none&type=tcp#意大利/Italy

@@ -1,6 +1,4 @@
-ss://YWVzLTI1Ni1nY206N051QjBZNW0zYU56a0tNS2xGb013a2lhanN1NkYzNmM5b2s0VktFWm5CND0%3D@de5.taskflowhub.org:2083#法国/France
 trojan://YGWIMlg.W1wRWQkRDcKfjZY7sng09aC=Yh@217.69.2.107:443?security=tls&sni=www.weavenet.click#法国/奥贝维埃/France/Aubervilliers
-vless://33bd7d64-2b03-4b19-82e5-9610afde3c3d@fr.tgru.in:443?security=reality&type=tcp&packetEncoding=xudp&sni=tgru.in&fp=chrome&flow=xtls-rprx-vision&sid=cd85b2abe0feed49&pbk=5HItszJ7XSKexeNn6F9BSdJLXTfSiCDwUSqLi1Hxd2Q&encryption=none#%F0%9F%87%AB%F0%9F%87%B7FR_3%7C2.4MB%2Fs
 vless://35762c02-ff2b-4526-b41b-e96e5d99528b@151.241.228.254:34754?security=reality&encryption=none&pbk=eMijZKuJlNEciXbhyzdbewk-ot_JLMZVaA42bxKFcBM&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c9eb0359fac0c345#法国/巴黎/France/Paris
-vless://5729c1fc-c7cf-41b7-8c17-f9b5f59772da@186.246.2.119:443?security=reality&type=tcp&packetEncoding=xudp&sni=se.sellflow.org&fp=chrome&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#%F0%9F%87%AB%F0%9F%87%B7FR_1%7C2.6MB%2Fs
-vless://5f7eff96-0741-4bc4-92ab-6a63c5b0de56@fr-d.duckray.co.uk:3443?encryption=none&type=grpc&mode=gun&security=reality&sni=api.github.com&fp=random&pbk=Ps_w7KP3VFrZv1niWfX3synmJq_d2c7sVSckxa3sgio#%F0%9F%87%AB%F0%9F%87%B7%20France
+vless://43488128-319e-f480-64ea-0acdc712e2a8@51.255.71.16:443?security=reality&encryption=none&pbk=ZnlCl_Jc2dV5-KK_ymmMcEDoe5lPyZ-5z_LGMRoiNTU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.booking.com&sid=b87063a35aaa942e#法国/France
+vless://77e9c7a5-d348-4431-9723-0a8db73f2167@fr-d.duckray.co.uk:3443?encryption=none&type=grpc&mode=gun&security=reality&sni=api.github.com&fp=random&pbk=Ps_w7KP3VFrZv1niWfX3synmJq_d2c7sVSckxa3sgio#%F0%9F%87%AB%F0%9F%87%B7%20France
