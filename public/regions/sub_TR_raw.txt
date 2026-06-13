@@ -1,3 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZNUVKWm9qVk1FTnZrRFZGWWxpRXFF@62.133.63.169:37096#土耳其/伊斯坦布尔/Türkiye/Istanbul
-vless://6c76efec-ee0e-4bcc-b9e6-98859ab68484@9newtr.myatris.org:7500?security=reality&type=tcp&packetEncoding=xudp&sni=www.varzesh3.com&fp=chrome&flow=xtls-rprx-vision&sid=77a3a1c829040294&pbk=8a3blVdAACDlvRA5zrdNxHLZ9boU5QkwGMkf0WwyZVI#%F0%9F%87%B9%F0%9F%87%B7TR_1%7C2.1MB%2Fs
-vless://6c76efec-ee0e-4bcc-b9e6-98859ab68484@9newtr.myatris.org:7500?sni=www.varzesh3.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%B9%F0%9F%87%B7TR_1%7C2.1MB/s
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLUDZGUVZtSmhsWFBndlBocncyZ25J@62.133.63.169:37096#土耳其/伊斯坦布尔/Türkiye/Istanbul

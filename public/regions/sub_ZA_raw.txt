@@ -1,1 +1,1 @@
-vless://6f9b4509-6c9c-4905-85c5-a6c6e138804b@45.194.71.115:8443?flow=xtls-rprx-vision&fp=chrome&pbk=9Y-_jCI3Z1x6SXK2tHdZ6V1CN9IJPNPnoxSW0cbXxD8&security=reality&sid=d2c6d9f6e6e12bfe&sni=storage.yandex.net&type=tcp#%E5%8D%97%E9%9D%9E+V2CROSS.COM
+vless://a6349c3f-5234-4821-80b4-d99b33f0924d@fr-gt-01.com:8443?security=reality&encryption=none&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=f34818a561dfd1fe#%E5%8D%97%E9%9D%9E+V2CROSS.COM
