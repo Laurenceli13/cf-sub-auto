@@ -1,3 +1,3 @@
-trojan://274c1b23-2bfe-40ac-943c-ebc1aa044b22@41.216.177.41:443?security=tls#芬兰/赫尔辛基/Finland/Helsinki
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzaUY5OHhCTDJ2MWk=@135.181.114.242:8478#芬兰/赫尔辛基/Finland/Helsinki
 vless://2065a8c9-8b3d-4dba-b0ce-90d649aa3da7@tiuop.loralden.com:443?allowInsecure=0&sni=tiuop.loralden.com&fp=chrome&security=tls#%F0%9F%87%AB%F0%9F%87%AEFI_1%7C2.6MB/s
 vless://2065a8c9-8b3d-4dba-b0ce-90d649aa3da7@tiuop.loralden.com:443?security=reality&type=xhttp&path=%2Fxhttp&packetEncoding=xudp&sni=tiuop.loralden.com&fp=chrome&sid=f7a740fb5a1e9aef&spx=%2F&pbk=EUK_ePvEKUGcezQYHqgJ5P462XxLPXPm9CZWGLaL33k&mode=auto&encryption=none#%F0%9F%87%AB%F0%9F%87%AEFI_1%7C2.6MB%2Fs

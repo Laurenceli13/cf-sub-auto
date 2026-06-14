@@ -1,1 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLUDZGUVZtSmhsWFBndlBocncyZ25J@62.133.63.169:37096#土耳其/伊斯坦布尔/Türkiye/Istanbul
+vless://06bcd513-ef0b-4c0c-a03b-e25fcda66fe2@bypass.ch-gt-02.com:8443?security=reality&encryption=none&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=40ce08cf20c67003#土耳其/布尔萨/Türkiye/Bursa
