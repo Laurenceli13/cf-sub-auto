@@ -1,2 +1,1 @@
-vless://039a1658-e86e-475f-a3a4-67cc249acada@185.242.87.36:443?allowInsecure=0&sni=fr1.panel11.ru&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#%F0%9F%87%B2%F0%9F%87%A9MD_1%7C1.3MB/s
-vless://039a1658-e86e-475f-a3a4-67cc249acada@185.242.87.36:443?security=reality&type=tcp&packetEncoding=xudp&sni=fr1.panel11.ru&fp=firefox&flow=xtls-rprx-vision&sid=2eaa0970f2fb0c4b&pbk=U-pXTk6CWSWf1EParYP_drrus_87u-XwOiCmB-MnAGE#%F0%9F%87%B2%F0%9F%87%A9MD_1%7C1.3MB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIU3BjOUlIOEpzUWtlSFN6ellYQ2hqSHNsN25IZ1NhQThLNjBDZA==@185.202.93.194:41348#摩尔多瓦/基希讷乌/Moldova/Chisinau

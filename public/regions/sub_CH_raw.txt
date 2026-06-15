@@ -1,2 +1,1 @@
-trojan://humanity@185.18.250.252:443?path=%2Fassignment&security=tls&host=www.multiplydose.com&fp=chrome&type=ws&sni=www.multiplydose.com#瑞士/Switzerland
-vless://f2f4e2dc-3e7b-402f-a461-b48acc6aa310@172.67.219.176:2087?path=%2FeyJqdW5rIjoid2JBOTRVclNMOVdBSVQiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=steep-bonus-8e6a.amirhon1376.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=sTeEp-BoNUs-8E6A.AmIrhon1376.woRKeRS.dEv#瑞士/苏黎世/Switzerland/Zurich
+ss://YWVzLTEyOC1nY206bHZ4dWoxMXg4c2ZndDlndDZtamY@86.106.84.196:13263#瑞士/苏黎世/Switzerland/Zurich
