@@ -1,2 +1,1 @@
-hysteria2://EsimHy2Game_7xK9mPq2@31.22.91.243:443?security=tls&obfs=salamander&obfs-password=EsimObfs_9mK2x7&insecure=0&sni=se.esimpson.org#瑞典/Sweden
-vless://00000000-0000-4000-8000-000000000000@89.22.238.213:46209?path=/@Marisa_kristi&security=tls&encryption=none&insecure=0&host=g1ixej-urdn-dlqnu1ol.gespz5p7nm04ej96ia7qc9tvsktgtx.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=g1ixej-urdn-dlqnu1ol.gespz5p7nm04ej96ia7qc9tvsktgtx.workers.dev#瑞典/斯德哥尔摩/Sweden/Stockholm
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYTjZYZjBacXdEZUZydDM5VFFyYWVu@45.80.231.75:31019#瑞典/斯德哥尔摩/Sweden/Stockholm
