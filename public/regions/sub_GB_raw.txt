@@ -1,8 +1,2 @@
-ss://YWVzLTI1Ni1nY206ZGFkYTEyMDM=@13.135.172.147:80#%F0%9F%87%AC%F0%9F%87%A7GB_2%7C1.3MB%2Fs
-ss://YWVzLTI1Ni1nY206ZGFkYTEyMDM=@13.135.172.147:80#%F0%9F%87%AC%F0%9F%87%A7GB_2%7C1.3MB/s
-ss://YWVzLTI1Ni1nY206ZGFkYTEyMDM=@35.176.239.59:80#%F0%9F%87%AC%F0%9F%87%A7GB_3%7C2.2MB%2Fs
-ss://YWVzLTI1Ni1nY206ZGFkYTEyMDM=@35.176.239.59:80#%F0%9F%87%AC%F0%9F%87%A7GB_3%7C2.2MB/s
-vless://0599ca07-cc1c-4e42-b637-6e286f43beb2@193.149.185.17:41510?security=none&type=ws&path=%2F&packetEncoding=xudp&encryption=none#%F0%9F%87%AC%F0%9F%87%A7GB_1%7C2.7MB%2Fs
-vless://0599ca07-cc1c-4e42-b637-6e286f43beb2@193.149.185.17:41510?type=ws&host=&path=/#%F0%9F%87%AC%F0%9F%87%A7GB_1%7C2.7MB/s
 vless://bbaaff1e-c914-4817-9d33-58be35a3bee6@82.40.60.172:443?allowInsecure=0&sni=nl-1.liambo.ai&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#13%7CGB_speednode_0002
 vless://bbaaff1e-c914-4817-9d33-58be35a3bee6@82.40.60.172:443?allowInsecure=0&sni=nl-1.liambo.ai&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#GB_speednode_0002

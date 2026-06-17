@@ -1,1 +1,1 @@
-vless://7bb6d2aa-6238-48a6-abe2-c7deb083b08e@velsanto.online:8443?security=reality&encryption=none&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=04bf0403f96e5b4b#%E5%8D%97%E9%9D%9E+V2CROSS.COM
+vless://fcb60a09-1a82-4fe2-8e4f-dfc86e8e54ec@tralalero.site:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=bitrix24.ru&fp=chrome&security=reality&pbk=_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM&sid=4ffc99daad0f261f#%E5%8D%97%E9%9D%9E+V2CROSS.COM

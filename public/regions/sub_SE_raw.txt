@@ -1,1 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYTjZYZjBacXdEZUZydDM5VFFyYWVu@45.80.231.75:31019#瑞典/斯德哥尔摩/Sweden/Stockholm
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuYldOQzh6WjBlWG9rSU91VzVyTDhvTnJYbVhnNXFBdUwwNVI0ZkdOS0NTN0lHMHU=@46.246.97.3:31348#瑞典/斯德哥尔摩/Sweden/Stockholm
+vless://ee908a50-cec3-44b2-9f85-2396b571cdb8@193.188.21.153:9443?sni=www.microsoft.com&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#%F0%9F%87%B8%F0%9F%87%AASE_1%7C1.0MB/s

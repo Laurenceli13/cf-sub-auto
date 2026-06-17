@@ -1,9 +1,10 @@
 hysteria2://e7965e64-e001-4e8c-8273-39c61ff4a094@sg3.oomz.ru:30000?insecure=1&sni=bing.com#8%7CSG
 hysteria2://e7965e64-e001-4e8c-8273-39c61ff4a094@sg3.oomz.ru:30000?insecure=1&sni=bing.com#SG
-ss://aes-128-gcm%3A6601fb90e9b3@csgfw.top:443#SG%20SS-144%20%7C%20free-nodes
-ss://aes-128-gcm%3A6601fb90e9b3@csgfw.top:443#SG%20SS-218%20%7C%20free-nodes
-trojan://e0195c73018d597b1c2f0ea89d8676ae@95.40.125.63:6357?allowInsecure=1&sni=www.nintendogames.net#%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40ripaojiedian
-trojan://e0195c73018d597b1c2f0ea89d8676ae@95.40.125.63:6357?allowInsecure=1&sni=www.nintendogames.net#11%2C12%7C%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40ripaojiedian
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-sg-003.fastervpn.world:443?insecure=1&sni=vpn-sg-003.fastervpn.world#%F0%9F%87%B8%F0%9F%87%ACSG_2%7C1.7MB%2Fs
+ss://aes-128-gcm%3A6601fb90e9b3@csgfw.top:443#SG%20SS-221%20%7C%20free-nodes
+ss://aes-128-gcm%3A6601fb90e9b3@csgfw.top:443#SG%20SS-251%20%7C%20free-nodes
+trojan://4c3164ee-abcf-4091-abea-d1cd4937a68d@store.ubi.com:443?sni=jy.hhllfly.kdns.fr&allowInsecure=1&type=ws&path=%2F&fp=chrome#%F0%9F%87%B8%F0%9F%87%ACSG_1%7C3.6MB%2Fs
+trojan://e0195c73018d597b1c2f0ea89d8676ae@16.162.88.46:6357?allowInsecure=1&sni=www.nintendogames.net#%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40ripaojiedian
+trojan://e0195c73018d597b1c2f0ea89d8676ae@16.162.88.46:6357?allowInsecure=1&sni=www.nintendogames.net#11%2C12%7C%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40ripaojiedian
 vless://452da0f8-3034-4e5d-9e7f-9c3f58abb8ff@122.248.202.201:45075?security=reality&encryption=none&pbk=l6Z-68Q2EJ8nZ5mzWSAB53lp1-_nOHwV2Z18y3DT7xQ&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.tesla.com&sid=7185b14179922a5c#新加坡/新加坡/Singapore/Singapore
-vless://70252937-5c61-4fb0-8656-d1a16261b795@188.114.97.6:2096?security=tls&type=ws&path=%2Fshalana&host=group.shalana.xyz&packetEncoding=xudp&sni=group.shalana.xyz&fp=chrome#%F0%9F%87%B8%F0%9F%87%ACSG_1%7C1.7MB%2Fs
-vless://70252937-5c61-4fb0-8656-d1a16261b795@188.114.97.6:2096?sni=group.shalana.xyz&type=ws&host=group.shalana.xyz&path=/shalanafp=chrome&security=tls#%F0%9F%87%B8%F0%9F%87%ACSG_1%7C1.7MB/s
+vless://f1c742c5-f44c-481d-9fbf-2a2ceebd8ab9@another-cf.dnsyes.kawaii520.icu:443?sni=djkrei5f4jb9941fd6v8sg.another-appleid.ccwu.cc&type=ws&host=djkrei5f4jb9941fd6v8sg.another-appleid.ccwu.cc&path=/fp=chrome&security=tls#%F0%9F%87%B8%F0%9F%87%ACSG_1%7C1.1MB/s

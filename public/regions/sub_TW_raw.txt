@@ -1,3 +1,2 @@
 hysteria2://e7965e64-e001-4e8c-8273-39c61ff4a094@tw.oomz.ru:30000?insecure=1&sni=bing.com#8%7CTW
 hysteria2://e7965e64-e001-4e8c-8273-39c61ff4a094@tw.oomz.ru:30000?insecure=1&sni=bing.com#TW
-vless://3ebbad76-f6fa-5781-afa3-f66afd82549f@172.65.153.227:25565?security=none&encryption=none&headerType=http&type=tcp#台湾/Taiwan
