@@ -1,2 +1,1 @@
-vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.35.228:8443?allowInsecure=0&sni=de1.fromblancwithlove.com&fp=chrome&security=tls#BR_speednode_0002
-vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.35.228:8443?allowInsecure=0&sni=de1.fromblancwithlove.com&security=tls#13%7CBR_speednode_0002
+vless://b69a71ef-51dc-48c6-b3df-4c3533062606@assets.trorays.com:443?security=tls&flow=xtls-rprx-vision#巴西/Brazil

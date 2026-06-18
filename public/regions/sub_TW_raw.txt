@@ -1,2 +1,5 @@
 hysteria2://e7965e64-e001-4e8c-8273-39c61ff4a094@tw.oomz.ru:30000?insecure=1&sni=bing.com#8%7CTW
 hysteria2://e7965e64-e001-4e8c-8273-39c61ff4a094@tw.oomz.ru:30000?insecure=1&sni=bing.com#TW
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIenVhdG1Rc2hSc3k1VzdEUkNZclhO@40.115.121.217:25579#台湾/台北市/Taiwan/Taipei
+trojan://9c822f05-cfdc-479a-9534-60f3d4127435@138.2.113.248:443?security=tls#台湾/Taiwan
+vless://23cb9aa7-9756-459f-aa84-3a27bdf6ad64@188.253.6.249:443?sni=s5.868001.xyz&type=ws&host=s5.868001.xyz&path=/proxyip=ProxyIP.CMLiussss.netfp=chrome&security=tls#%F0%9F%87%B9%F0%9F%87%BCTW_1%7C1.5MB/s

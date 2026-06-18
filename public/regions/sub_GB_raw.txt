@@ -1,2 +1,2 @@
-vless://bbaaff1e-c914-4817-9d33-58be35a3bee6@82.40.60.172:443?allowInsecure=0&sni=nl-1.liambo.ai&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#13%7CGB_speednode_0002
-vless://bbaaff1e-c914-4817-9d33-58be35a3bee6@82.40.60.172:443?allowInsecure=0&sni=nl-1.liambo.ai&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#GB_speednode_0002
+vless://21784e1c-392e-4c5f-b50a-9f8a49f87e9a@2.144.5.90:8443?type=ws&host=bama.ir&path=/Stream#%F0%9F%87%AC%F0%9F%87%A7GB_2%7C1.1MB/s
+vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.100:443?allowInsecure=1&sni=it.s3-cloud.xyz&flow=xtls-rprx-vision-udp443&fp=edge&security=tls#%F0%9F%87%AC%F0%9F%87%A7GB_1%7C1023KB/s

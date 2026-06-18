@@ -1,1 +1,1 @@
-vless://5ad1c7b6-9c6d-4b30-97d1-2675feb6d4d1@162.19.181.48:443?security=reality&encryption=none&pbk=tEVdXRIm8PEge42nXXzHAsd1-_AoUflc_MzMZHWWa10&headerType=none&fp=chrome&spx=/07qJSggy7CdlXs4&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=d316#爱尔兰/都柏林/Ireland/Dublin
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNYjNPcW54QUFqTkEya2d0@20.107.209.255:443#爱尔兰/都柏林/Ireland/Dublin

@@ -1,2 +1,1 @@
-vless://4dd69f91-190c-413d-88c7-2f1675a98d85@cdn.ph1.cocoduck.org:45072?allowInsecure=0&sni=www.apple.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#13%7CCN_speednode_0002
-vless://4dd69f91-190c-413d-88c7-2f1675a98d85@cdn.ph1.cocoduck.org:45072?allowInsecure=0&sni=www.apple.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#CN_speednode_0002
+vless://65498631-4e25-49ce-8789-b57547d8c261@103.118.255.19:44058?#%F0%9F%87%A8%F0%9F%87%B3CN_1%7C1.6MB/s
