@@ -1,1 +1,2 @@
+vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.64.35.7:2053?allowInsecure=1&sni=josni.hoyes.cloudns.ch&type=ws&host=josni.hoyes.cloudns.ch&path=/security=tls#13%7CUS_speednode_0072
 vless://e1ebbd5e-ba89-4b05-8336-de7834d14164@104.16.80.73:443?allowInsecure=0&sni=amirsa.pages.dev&type=ws&host=amirsa.pages.dev&path=/fp=chrome&security=tls#13%7CUS_speednode_0073

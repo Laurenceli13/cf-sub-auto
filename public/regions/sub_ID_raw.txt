@@ -1,1 +1,1 @@
-trojan://tUtK5TKdjxsPnOyritLtv8OQWHAK8f8yNR@130.94.94.15:443?security=tls&sni=130.94.94.15&path=%2f#印度尼西亚/雅加达/Indonesia/Jakarta
+trojan://3febb05ea76a940f@60.249.3.125:3389?security=tls#印度尼西亚/雅加达/Indonesia/Jakarta

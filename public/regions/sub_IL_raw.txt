@@ -1,2 +1,1 @@
-hysteria2://a7c5d30b-ce9b-4e34-b5cb-66f8308790ef@il.9966690.xyz:20000?insecure=1&obfs=salamander&obfs-password=YzgyOTkwNDk4ZTU2NTdiNA%3D%3D&sni=il.9966690.xyz#%F0%9F%87%AE%F0%9F%87%B1IL_1%7C2.4MB%2Fs
-hysteria2://a7c5d30b-ce9b-4e34-b5cb-66f8308790ef@il.9966690.xyz:20000?insecure=1&sni=il.9966690.xyz&obfs=salamander&obfs-password=YzgyOTkwNDk4ZTU2NTdiNA==#%F0%9F%87%AE%F0%9F%87%B1IL_1%7C1.6MB/s
+trojan://NMp4K=f5gD-yP8QgrWR1AS_60GEyw9dclo@79.108.162.90:443?security=tls&sni=79.108.162.90&fp=chrome&type=tcp&headerType=none&path=%2f&allow_insecure=1#以色列/Israel
