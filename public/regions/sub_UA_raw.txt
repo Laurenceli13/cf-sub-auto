@@ -1,2 +1,1 @@
-vless://42e0d02c-b75c-4b9d-bc15-773aa3cbe6bc@5.181.187.24:1020?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=yahoo.com&pbk=ULEKhRXed87x1kNaVVq4l8ANWDwmcoxetjclnShfhWM&sid=4374d295a4f9dd83#%E4%B9%8C%E5%85%8B%E5%85%B0+V2CROSS.COM
-vless://42e0d02c-b75c-4b9d-bc15-773aa3cbe6bc@93.157.106.189:1020?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=yahoo.com&pbk=ULEKhRXed87x1kNaVVq4l8ANWDwmcoxetjclnShfhWM&sid=4374d295a4f9dd83#%E4%B9%8C%E5%85%8B%E5%85%B0+V2CROSS.COM
+vless://394f6981-a782-4779-9a85-e6cf22935d93@143.244.45.55:8443?sni=ams1.fromblancwithlove.com&fp=chrome&security=tls#%F0%9F%87%BA%F0%9F%87%A6UA_1%7C2.4MB/s

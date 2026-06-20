@@ -1,3 +1,2 @@
-vless://d8dabd75-ae26-4c27-993e-75a00ff72185@152.70.72.249:80?allowInsecure=0&type=ws&path=/vlessfp=chrome#%F0%9F%87%AE%F0%9F%87%B3IN_1%7C1.1MB/s
-vless://d8dabd75-ae26-4c27-993e-75a00ff72185@152.70.72.249:80?security=none&type=ws&path=%2Fvless&packetEncoding=xudp&fp=chrome#%F0%9F%87%AE%F0%9F%87%B3IN_1%7C1.1MB%2Fs
-vmess://ewogICAgImFkZCI6ICIxNTIuNjcuOC4yMDUiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICIiLAogICAgImlkIjogIjlkYjRjNzA4LWFlZjgtNDM1OS04MjFiLTM4ZTQ3OTkwYmUwZCIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi8iLAogICAgInBvcnQiOiA4MCwKICAgICJwcyI6ICLwn4eu8J+Hs0lOLTE1Mi42Ny44LjIwNS0wMTM5IiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiBmYWxzZSwKICAgICJzbmkiOiAiMTUyLjY3LjguMjA1Igp9#印度/孟买/India/Mumbai
+hysteria2://940f51d6-e0a4-4add-b96b-328e4a84b642@140.245.27.220:51000/?insecure=1&sni=cn.cremedelamer.com#印度/孟买/India/Mumbai
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-in-001.fastervpn.world:443?insecure=1&sni=vpn-in-001.fastervpn.world&obfs=&obfs-password=#%F0%9F%87%AE%F0%9F%87%B3IN_1%7C2.6MB/s
