@@ -651,31 +651,32 @@ export default {
         // ── /health ──
         if (url.pathname === '/health') {
             const origin = (env.ORIGIN_BASE || '').replace(/\/$/, '');
-            const fallbackOrigin = origin.replace(
+            const jsdelivrOrigin = origin.replace(
                 'raw.githubusercontent.com/Laurenceli13/cf-sub-auto/main',
                 'cdn.jsdelivr.net/gh/Laurenceli13/cf-sub-auto@main'
             );
-            let primaryOk = false, primaryStatus = 0;
-            let fallbackOk = false, fallbackStatus = 0;
+            const ghMirrorOrigin = origin.replace(
+                'raw.githubusercontent.com/Laurenceli13/cf-sub-auto/main',
+                'raw.gitmirror.com/Laurenceli13/cf-sub-auto/main'
+            );
+            let jsdelivrOk = false, jsdelivrStatus = 0;
+            let ghMirrorOk = false, ghMirrorStatus = 0;
+            let githubOk = false, githubStatus = 0;
             if (origin) {
                 try {
-                    const check = await fetch(`${origin}/sub_v2ray.txt`, {
-                        headers: { 'User-Agent': 'sub-gateway/2.0' },
-                        cf: { cacheTtl: 30 }
-                    });
-                    primaryStatus = check.status;
-                    primaryOk = check.ok;
+                    const c = await fetch(`${jsdelivrOrigin}/sub_v2ray.txt`, { cf: { cacheTtl: 30 } });
+                    jsdelivrStatus = c.status; jsdelivrOk = c.ok;
                 } catch {}
                 try {
-                    const check = await fetch(`${fallbackOrigin}/sub_v2ray.txt`, {
-                        headers: { 'User-Agent': 'sub-gateway/2.0' },
-                        cf: { cacheTtl: 30 }
-                    });
-                    fallbackStatus = check.status;
-                    fallbackOk = check.ok;
+                    const c = await fetch(`${ghMirrorOrigin}/sub_v2ray.txt`, { cf: { cacheTtl: 30 } });
+                    ghMirrorStatus = c.status; ghMirrorOk = c.ok;
+                } catch {}
+                try {
+                    const c = await fetch(`${origin}/sub_v2ray.txt`, { cf: { cacheTtl: 30 } });
+                    githubStatus = c.status; githubOk = c.ok;
                 } catch {}
             }
-            const upstreamOk = primaryOk || fallbackOk;
+            const upstreamOk = jsdelivrOk || ghMirrorOk || githubOk;
             return new Response(JSON.stringify({
                 ok: !!origin && upstreamOk,
                 service: 'sub-gateway',
@@ -683,8 +684,9 @@ export default {
                 configured: !!(env.ORIGIN_BASE || env.SUB_TOKEN),
                 upstreamOk,
                 origins: {
-                    primary: { ok: primaryOk, status: primaryStatus },
-                    fallback: { ok: fallbackOk, status: fallbackStatus, url: fallbackOrigin }
+                    jsdelivr: { ok: jsdelivrOk, status: jsdelivrStatus, priority: 1, note: 'China-friendly' },
+                    ghmirror: { ok: ghMirrorOk, status: ghMirrorStatus, priority: 2, note: 'GitHub mirror' },
+                    github: { ok: githubOk, status: githubStatus, priority: 3, note: 'Direct (may fail in China)' }
                 }
             }, null, 2), {
                 status: upstreamOk ? 200 : 503,
@@ -700,18 +702,23 @@ export default {
             }
 
             const origin = (env.ORIGIN_BASE || '').replace(/\/$/, '');
-            // jsDelivr CDN mirror for China accessibility
-            const fallbackOrigin = origin.replace(
+            // jsDelivr CDN as PRIMARY for China accessibility (works without VPN)
+            const jsdelivrOrigin = origin.replace(
                 'raw.githubusercontent.com/Laurenceli13/cf-sub-auto/main',
                 'cdn.jsdelivr.net/gh/Laurenceli13/cf-sub-auto@main'
+            );
+            // GitHub mirror as secondary fallback
+            const ghMirrorOrigin = origin.replace(
+                'raw.githubusercontent.com/Laurenceli13/cf-sub-auto/main',
+                'raw.gitmirror.com/Laurenceli13/cf-sub-auto/main'
             );
             if (!origin) {
                 return new Response('Worker not configured (ORIGIN_BASE missing)', { status: 500 });
             }
 
-            // Helper: fetch from origin with fallback to jsDelivr CDN
-            async function fetchWithFallback(filePath, ttl) {
-                const origins = [origin, fallbackOrigin];
+            // Helper: fetch with priority order — jsDelivr first (China-friendly), then GitHub
+            async function fetchWithPriority(filePath, ttl) {
+                const origins = [jsdelivrOrigin, ghMirrorOrigin, origin];
                 let lastError = null;
                 for (const src of origins) {
                     try {

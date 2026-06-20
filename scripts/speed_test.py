@@ -26,10 +26,11 @@ RAW_FILE = PUBLIC / "sub_raw.txt"
 STATUS_FILE = PUBLIC / "nodes_status.json"
 CF_CSV_FILE = PUBLIC / "cf_ip_result.csv"
 
-TOP_N = 50  # Keep top N most reliable alive nodes
+TOP_N = 80  # Keep top N most reliable alive nodes
 PASSES = 2  # Node must pass N consecutive latency tests
-TIMEOUT = 2.0  # TCP connect timeout in seconds (per pass)
-PASS_DELAY = 1.0  # Seconds to wait between passes
+TIMEOUT_FIRST = 3.0  # TCP connect timeout for pass 1 (relaxed)
+TIMEOUT_SECOND = 2.0  # TCP connect timeout for pass 2 (strict)
+PASS_DELAY = 0.5  # Seconds to wait between passes
 MAX_WORKERS = 50  # Concurrent workers per pass
 
 NOTIFY_URL = os.getenv("NOTIFY_URL", "")
@@ -52,7 +53,7 @@ def parse_host_port(link: str) -> tuple[str, int] | None:
     return host, port
 
 
-def tcp_latency(host: str, port: int, timeout: float = TIMEOUT) -> float | None:
+def tcp_latency(host: str, port: int, timeout: float = TIMEOUT_FIRST) -> float | None:
     """Measure TCP connect latency in ms. Returns None on failure."""
     t0 = time.perf_counter()
     try:
@@ -104,11 +105,11 @@ def load_cf_ips() -> list[dict]:
     return ips
 
 
-def run_single_pass(targets: list, max_workers: int = MAX_WORKERS) -> dict:
+def run_single_pass(targets: list, timeout: float, max_workers: int = MAX_WORKERS) -> dict:
     """Run one pass of TCP latency testing against all targets."""
     results = {}
     with concurrent.futures.ThreadPoolExecutor(max_workers=max_workers) as executor:
-        futures = {executor.submit(tcp_latency, h, p, TIMEOUT): (h, p) for h, p, _ in targets}
+        futures = {executor.submit(tcp_latency, h, p, timeout): (h, p) for h, p, _ in targets}
         for future in concurrent.futures.as_completed(futures):
             host, port = futures[future]
             key = f"{host}:{port}"
@@ -143,8 +144,8 @@ def main() -> None:
 
     print(f"testing {len(targets)} unique endpoints (pass 1 of {PASSES})...")
 
-    # ── Pass 1: initial TCP latency test on all targets ──
-    results_pass1 = run_single_pass(targets, MAX_WORKERS)
+    # ── Pass 1: relaxed timeout to catch all potential nodes ──
+    results_pass1 = run_single_pass(targets, TIMEOUT_FIRST, MAX_WORKERS)
 
     # Build pass 1 node list
     pass1_alive = 0
@@ -155,9 +156,9 @@ def main() -> None:
         if alive:
             pass1_alive += 1
 
-    print(f"pass 1 done: {pass1_alive}/{len(targets)} alive")
+    print(f"pass 1 done: {pass1_alive}/{len(targets)} alive (timeout={TIMEOUT_FIRST}s)")
 
-    # ── Pass 2: re-test only alive nodes (verify stability) ──
+    # ── Pass 2: strict timeout to verify stability ──
     pass2_targets = [
         (h, p, link) for h, p, link in targets
         if results_pass1.get(f"{h}:{p}") is not None
@@ -166,7 +167,7 @@ def main() -> None:
     if PASSES >= 2:
         print(f"pass 2 of {PASSES}: re-testing {len(pass2_targets)} survivors...")
         time.sleep(PASS_DELAY)
-        results_pass2 = run_single_pass(pass2_targets, MAX_WORKERS)
+        results_pass2 = run_single_pass(pass2_targets, TIMEOUT_SECOND, MAX_WORKERS)
     else:
         results_pass2 = {}
 
