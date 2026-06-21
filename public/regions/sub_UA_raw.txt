@@ -1,1 +1,1 @@
-vless://394f6981-a782-4779-9a85-e6cf22935d93@143.244.45.55:8443?sni=ams1.fromblancwithlove.com&fp=chrome&security=tls#%F0%9F%87%BA%F0%9F%87%A6UA_1%7C2.4MB/s
+vless://626b07bd-81c4-4212-be7a-27442a579620@5.180.173.222:448?encryption=none&security=reality&flow=xtls-rprx-vision&sni=www.googletagmanager.com&fp=chrome&pbk=y4_NnPQc2X8Bj97LpUL9r9xuK-R2pLwjd5cZbBw2HSo&sid=15052edc8120b63d#%E4%B9%8C%E5%85%8B%E5%85%B0+V2CROSS.COM

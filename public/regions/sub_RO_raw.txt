@@ -1,4 +1,4 @@
-vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.106:8443?security=tls&type=tcp&packetEncoding=xudp&sni=ams1.fromblancwithlove.com&fp=chrome&encryption=none#%F0%9F%87%B7%F0%9F%87%B4RO_2%7C1.4MB%2Fs
+ss://YWVzLTEyOC1nY206dGlqc2prM2l3emM2YjEwYXpiMHk=@77.83.247.206:18284#罗马尼亚/Romania
 vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.113:8443?allowInsecure=0&sni=ams1.fromblancwithlove.com&security=tls#13%7CRO_speednode_0053
 vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.113:8443?allowInsecure=0&sni=ams1.fromblancwithlove.com&security=tls#RO_speednode_0053
 vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.117:8443?allowInsecure=0&sni=ams1.fromblancwithlove.com&fp=chrome&security=tls#13%7CRO_speednode_0046
@@ -9,8 +9,8 @@ vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.120:8443?allowInsecure=0
 vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.120:8443?allowInsecure=0&sni=ams1.fromblancwithlove.com&fp=chrome&security=tls#RO_speednode_0039
 vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.78:8443?allowInsecure=0&sni=ams1.fromblancwithlove.com&fp=chrome&security=tls#13%7CRO_speednode_0040
 vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.78:8443?allowInsecure=0&sni=ams1.fromblancwithlove.com&fp=chrome&security=tls#RO_speednode_0040
+vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.78:8443?allowInsecure=0&sni=ams1.fromblancwithlove.com&fp=chrome&security=tls#罗马尼亚/布加勒斯特/Romania/Bucharest
 vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.86:8443?allowInsecure=0&sni=ams1.fromblancwithlove.com&security=tls#13%7CRO_speednode_0048
 vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.86:8443?allowInsecure=0&sni=ams1.fromblancwithlove.com&security=tls#RO_speednode_0048
 vless://be5abe11-1c65-4289-b581-a5121a8719a1@31.14.40.67:1443?allowInsecure=0&sni=buha.snowfalls.top&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#13%7CRO_speednode_0034
 vless://be5abe11-1c65-4289-b581-a5121a8719a1@31.14.40.67:1443?allowInsecure=0&sni=buha.snowfalls.top&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#RO_speednode_0034
-vmess://eyJhZGQiOiAid2ViLm1pbGFkdmlwLnNob3AiLCAiYWlkIjogIjAiLCAiaG9zdCI6ICJibWkuaXIiLCAiaWQiOiAiMDc3N2FjNDAtMTVmNi00ZDU3LWU0YmUtMDkwNTRiNjAxNjNlIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIvIiwgInBvcnQiOiAiNDQzIiwgInBzIjogIlx1ZDgzZFx1ZGQyNUpvaW4rVGVsZWdyYW06QEZhcmFoX1ZQTlx1ZDgzZFx1ZGZlMyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJodHRwIiwgInYiOiAiMiJ9#罗马尼亚/Romania

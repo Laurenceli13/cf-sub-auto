@@ -1,1 +1,1 @@
-trojan://ZFYOpKqD8uEClpZ2ya83cyCDalwSOYz3F3eCxnBD4eSXNSR5R0aAATj7I3x69g@219.76.13.175:443?security=tls&sni=golang.protocolbuffer.com#印度尼西亚/雅加达/Indonesia/Jakarta
+ss://YWVzLTEyOC1nY206dGlqc2prM2l3emM2YjEwYXpiMHk=@77.83.247.206:18284#印度尼西亚/雅加达/Indonesia/Jakarta

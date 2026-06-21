@@ -1,6 +1,5 @@
-trojan://ZFYOpKqD8uEClpZ2ya83cyCDalwSOYz3F3eCxnBD4eSXNSR5R0aAATj7I3x69g@219.76.13.175:443?security=tls&sni=golang.protocolbuffer.com#捷克/Czechia
-trojan://ZFYOpKqD8uEClpZ2ya83cyCDalwSOYz3F3eCxnBD4eSXNSR5R0aAATj7I3x69g@219.76.13.175:443?security=tls&sni=golang.protocolbuffer.com#捷克/布拉格/Czechia/Prague
-vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.227.57:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#%E6%8D%B7%E5%85%8B+V2CROSS.COM
-vless://394f6981-a782-4779-9a85-e6cf22935d93@87.249.139.236:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#%E6%8D%B7%E5%85%8B+V2CROSS.COM
-vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.104:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#%E6%8D%B7%E5%85%8B+V2CROSS.COM
-vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.88:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#%E6%8D%B7%E5%85%8B+V2CROSS.COM
+trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@46.8.113.142:443?security=tls&sni=ch-2.bexum.fun&fp=chrome&type=tcp&path=%2f#捷克/Czechia
+vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.227.215:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#%E6%8D%B7%E5%85%8B+V2CROSS.COM
+vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.227.57:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&type=tcp#%E6%8D%B7%E5%85%8B+V2CROSS.COM
+vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.82:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#%E6%8D%B7%E5%85%8B+V2CROSS.COM
+vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.85:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none#%E6%8D%B7%E5%85%8B+V2CROSS.COM

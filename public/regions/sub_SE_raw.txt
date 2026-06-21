@@ -1,8 +1,8 @@
+ss://YWVzLTEyOC1nY206dGlqc2prM2l3emM2YjEwYXpiMHk=@77.83.247.206:18284#瑞典/斯德哥尔摩/Sweden/Stockholm
 vless://394f6981-a782-4779-9a85-e6cf22935d93@45.159.12.134:8443?allowInsecure=0&sni=ams1.fromblancwithlove.com&fp=chrome&security=tls#13%7CSE_speednode_0061
 vless://394f6981-a782-4779-9a85-e6cf22935d93@45.159.12.134:8443?allowInsecure=0&sni=ams1.fromblancwithlove.com&fp=chrome&security=tls#SE_speednode_0061
 vless://394f6981-a782-4779-9a85-e6cf22935d93@45.159.12.191:8443?allowInsecure=0&sni=ams1.fromblancwithlove.com&fp=chrome&security=tls#13%7CSE_speednode_0055
 vless://394f6981-a782-4779-9a85-e6cf22935d93@45.159.12.191:8443?allowInsecure=0&sni=ams1.fromblancwithlove.com&fp=chrome&security=tls#SE_speednode_0055
-vless://394f6981-a782-4779-9a85-e6cf22935d93@45.159.12.232:8443?sni=ams1.fromblancwithlove.com&fp=chrome&security=tls#%F0%9F%87%B8%F0%9F%87%AASE_1%7C2.5MB/s
 vless://394f6981-a782-4779-9a85-e6cf22935d93@45.159.12.34:8443?allowInsecure=0&sni=ams1.fromblancwithlove.com&fp=chrome&security=tls#13%7CSE_speednode_0059
 vless://394f6981-a782-4779-9a85-e6cf22935d93@45.159.12.34:8443?allowInsecure=0&sni=ams1.fromblancwithlove.com&fp=chrome&security=tls#SE_speednode_0059
 vless://394f6981-a782-4779-9a85-e6cf22935d93@45.159.12.3:8443?allowInsecure=0&sni=ams1.fromblancwithlove.com&fp=chrome&security=tls#13%7CSE_speednode_0058
@@ -13,3 +13,5 @@ vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.249.197:8443?allowInsecure=0
 vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.249.197:8443?allowInsecure=0&sni=ams1.fromblancwithlove.com&fp=chrome&security=tls#SE_speednode_0060
 vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.249.221:8443?allowInsecure=0&sni=ams1.fromblancwithlove.com&fp=chrome&security=tls#13%7CSE_speednode_0056
 vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.249.221:8443?allowInsecure=0&sni=ams1.fromblancwithlove.com&fp=chrome&security=tls#SE_speednode_0056
+vless://9cc56b5d-2a44-4fd1-91e3-659b06255c11@swed.oplatasite.ru:8443?security=tls&type=tcp&packetEncoding=xudp&sni=vpn.oplatasite.ru&fp=chrome&encryption=none#%F0%9F%87%B8%F0%9F%87%AASE_1%7C2.6MB%2Fs
+vless://9cc56b5d-2a44-4fd1-91e3-659b06255c11@swed.oplatasite.ru:8443?sni=vpn.oplatasite.ru&fp=chrome&security=tls#%F0%9F%87%B8%F0%9F%87%AASE_1%7C2.6MB/s
