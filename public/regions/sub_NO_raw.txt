@@ -1,1 +1,1 @@
-vless://20000020-3063-1463-f000-fac8e7eea020@151.242.168.32:310?sni=kfsmradio.net&flow=xtls-rprx-vision-udp443&fp=qq&security=tls#%F0%9F%87%B3%F0%9F%87%B4NO_1%7C2.5MB/s
+vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@138.124.113.18:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=1RFs75L42oUjmgEKqahFVrKKN52cosDkrWskT053D3o&security=reality&sid=0aafc7b3b9&sni=iamsterdam.com&type=tcp#%E6%8C%AA%E5%A8%81+V2CROSS.COM

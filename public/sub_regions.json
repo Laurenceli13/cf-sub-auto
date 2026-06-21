@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-21T03:42:10Z",
+  "updated": "2026-06-21T05:24:57Z",
   "total_nodes": 80,
   "v2ray_nodes": 80,
   "hysteria_nodes": 0,
@@ -129,14 +129,14 @@
       "emoji": "🇪🇸",
       "count": 0
     },
+    "NO": {
+      "name": "挪威",
+      "emoji": "🇳🇴",
+      "count": 0
+    },
     "TH": {
       "name": "泰国",
       "emoji": "🇹🇭",
-      "count": 0
-    },
-    "UA": {
-      "name": "乌克兰",
-      "emoji": "🇺🇦",
       "count": 0
     },
     "IT": {
