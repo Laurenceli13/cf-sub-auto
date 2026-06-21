@@ -739,7 +739,7 @@ export default {
             if (format === 'clash' || format === 'singbox') {
                 const file = format === 'clash' ? 'sub_clash.yaml' : 'sub_singbox.json';
                 try {
-                    const res = await fetchWithFallback(file, 120);
+                    const res = await fetchWithPriority(file, 120);
                     return new Response(await res.text(), {
                         status: 200,
                         headers: {
@@ -754,7 +754,7 @@ export default {
 
             // Default: return plain subscription (proxy from origin with fallback)
             try {
-                const res = await fetchWithFallback('sub_v2ray.txt', 60);
+                const res = await fetchWithPriority('sub_v2ray.txt', 60);
                 return new Response(await res.text(), {
                     status: 200,
                     headers: {
