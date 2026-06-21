@@ -1,4 +1,4 @@
-hysteria2://e7965e64-e001-4e8c-8273-39c61ff4a094@sg3.oomz.ru:30000?insecure=1&sni=bing.com#8%7CSG
+hysteria2://e7965e64-e001-4e8c-8273-39c61ff4a094@sg3.oomz.ru:30000?insecure=1&sni=bing.com#7%7CSG
 hysteria2://e7965e64-e001-4e8c-8273-39c61ff4a094@sg3.oomz.ru:30000?insecure=1&sni=bing.com#SG
 ss://YWVzLTEyOC1nY206dGlqc2prM2l3emM2YjEwYXpiMHk=@77.83.247.206:18284#新加坡/新加坡/Singapore/Singapore
 ss://aes-128-gcm%3A6601fb90e9b3@csgfw.top:443#SG%20SS-376%20%7C%20free-nodes
@@ -6,4 +6,4 @@ ss://aes-128-gcm%3A6601fb90e9b3@csgfw.top:443#SG%20SS-415%20%7C%20free-nodes
 trojan://BxceQaOe@18.162.50.252:9149?allowInsecure=1&sni=t.me%2Fripaojiedian#%F0%9F%87%B8%F0%9F%87%ACSG_1%7C2.2MB/s
 trojan://BxceQaOe@18.162.50.252:9149?sni=t.me%252Fripaojiedian&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%B8%F0%9F%87%ACSG_1%7C2.2MB%2Fs
 trojan://e0195c73018d597b1c2f0ea89d8676ae@43.198.206.201:48738?allowInsecure=1&sni=www.nintendogames.net#%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40ripaojiedian
-trojan://e0195c73018d597b1c2f0ea89d8676ae@43.198.206.201:48738?allowInsecure=1&sni=www.nintendogames.net#11%2C12%7C%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40ripaojiedian
+trojan://e0195c73018d597b1c2f0ea89d8676ae@43.198.206.201:48738?allowInsecure=1&sni=www.nintendogames.net#10%2C11%7C%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40ripaojiedian

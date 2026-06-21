@@ -32,3 +32,4 @@ vless://5982d32f-f2e4-4267-a8ad-48492e65344c@95.133.242.210:443?security=reality
 vless://5982d32f-f2e4-4267-a8ad-48492e65344c@95.133.242.210:443?sni=filesconvert.org&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%AC%F0%9F%87%A7GB_3%7C2.4MB/s
 vless://9cc56b5d-2a44-4fd1-91e3-659b06255c11@nl.oplatasite.ru:8443?security=tls&type=tcp&packetEncoding=xudp&sni=vpn.oplatasite.ru&fp=chrome&encryption=none#%F0%9F%87%AC%F0%9F%87%A7GB_4%7C3.1MB%2Fs
 vless://9cc56b5d-2a44-4fd1-91e3-659b06255c11@nl.oplatasite.ru:8443?sni=vpn.oplatasite.ru&fp=chrome&security=tls#%F0%9F%87%AC%F0%9F%87%A7GB_4%7C3.1MB/s
+vless://a9a91808-8e7a-4f8d-9658-ab1b94f199e8@87.121.105.33:443?allowInsecure=0&sni=deepl.com&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#12%7CGB_speednode_0008

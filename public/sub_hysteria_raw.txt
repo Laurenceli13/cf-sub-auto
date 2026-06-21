@@ -1,0 +1,2 @@
+hysteria2://43bcba7d-cd22-379c-a7da-2e8eafecbc78@185.106.96.231:443?sni=u711540us849.ccgfw.top&alpn=h3&mport=30000-32000&hopinterval=30s#US%20HY2-445%20%7C%20free-nodes
+hysteria2://43bcba7d-cd22-379c-a7da-2e8eafecbc78@s491.ccgfw.online:443?sni=u711540us491.ccgfw.online&alpn=h3&mport=30000-32000&hopinterval=30s#US%20HY2-409%20%7C%20free-nodes

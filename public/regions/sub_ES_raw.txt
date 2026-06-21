@@ -1,1 +1,2 @@
 trojan://2eutknankxtbgkwcajzt@193.148.19.210:52794?allowInsecure=1&sni=www.vk.com#西班牙/巴塞罗那/Spain/Barcelona
+vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@lv.faygo.bot:443?allowInsecure=0&sni=enterprisekitten.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#12%7CES_speednode_0007
