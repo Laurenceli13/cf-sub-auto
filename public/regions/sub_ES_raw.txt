@@ -1,4 +1,4 @@
 trojan://2eutknankxtbgkwcajzt@193.148.19.210:52794?allowInsecure=1&sni=www.vk.com#西班牙/巴塞罗那/Spain/Barcelona
 vless://71152717-dc50-4fee-a13d-c6656b51e341@104.16.72.139:443?path=%2Fnews&security=tls&alpn=h3%2Ch2&encryption=none&insecure=0&host=cdn-pro4.postshup.ir.&fp=chrome&type=ws&allowInsecure=0&sni=cdn-pro4.postshup.ir.#西班牙/马德里/Spain/Madrid
-vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@lv.faygo.bot:443?allowInsecure=0&sni=enterprisekitten.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#13%7CES_speednode_0007
+vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@lv.faygo.bot:443?allowInsecure=0&sni=enterprisekitten.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#12%7CES_speednode_0007
 vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@lv.faygo.bot:443?allowInsecure=0&sni=enterprisekitten.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#ES_speednode_0007

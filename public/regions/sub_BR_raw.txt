@@ -1,8 +1,8 @@
-vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.200:8443?allowInsecure=1&sni=ams1.fromblancwithlove.com&security=tls#13%7CBR_speednode_0002
+vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.200:8443?allowInsecure=1&sni=ams1.fromblancwithlove.com&security=tls#12%7CBR_speednode_0002
 vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.200:8443?allowInsecure=1&sni=ams1.fromblancwithlove.com&security=tls#BR_speednode_0002
-vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.201:8443?allowInsecure=0&sni=ams1.fromblancwithlove.com&fp=chrome&security=tls#13%7CBR_speednode_0001
+vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.201:8443?allowInsecure=0&sni=ams1.fromblancwithlove.com&fp=chrome&security=tls#12%7CBR_speednode_0001
 vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.201:8443?allowInsecure=0&sni=ams1.fromblancwithlove.com&fp=chrome&security=tls#BR_speednode_0001
-vless://6aa91885-dc17-4d70-a58b-ccc29dd71b04@186.246.19.138:40443?allowInsecure=0&sni=deepl.com&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#13%7CBR_speednode_0004
+vless://6aa91885-dc17-4d70-a58b-ccc29dd71b04@186.246.19.138:40443?allowInsecure=0&sni=deepl.com&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#12%7CBR_speednode_0004
 vless://6aa91885-dc17-4d70-a58b-ccc29dd71b04@186.246.19.138:40443?allowInsecure=0&sni=deepl.com&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#BR_speednode_0004
-vless://6aa91885-dc17-4d70-a58b-ccc29dd71b04@proxy.netraidly.ru:40443?allowInsecure=0&sni=deepl.com&flow=xtls-rprx-vision-udp443&fp=qq&security=tls#13%7CBR_speednode_0003
+vless://6aa91885-dc17-4d70-a58b-ccc29dd71b04@proxy.netraidly.ru:40443?allowInsecure=0&sni=deepl.com&flow=xtls-rprx-vision-udp443&fp=qq&security=tls#12%7CBR_speednode_0003
 vless://6aa91885-dc17-4d70-a58b-ccc29dd71b04@proxy.netraidly.ru:40443?allowInsecure=0&sni=deepl.com&flow=xtls-rprx-vision-udp443&fp=qq&security=tls#BR_speednode_0003

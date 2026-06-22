@@ -1,18 +1,18 @@
 {
-  "updated": "2026-06-22T05:41:41Z",
-  "total_nodes": 50,
-  "v2ray_nodes": 48,
-  "hysteria_nodes": 2,
+  "updated": "2026-06-22T10:23:58Z",
+  "total_nodes": 100,
+  "v2ray_nodes": 100,
+  "hysteria_nodes": 0,
   "regions": {
     "OTHER": {
       "name": "其他",
       "emoji": "🌐",
-      "count": 34
+      "count": 100
     },
     "US": {
       "name": "美国",
       "emoji": "🇺🇸",
-      "count": 16
+      "count": 0
     },
     "NL": {
       "name": "荷兰",
@@ -79,11 +79,6 @@
       "emoji": "🇺🇦",
       "count": 0
     },
-    "CZ": {
-      "name": "捷克",
-      "emoji": "🇨🇿",
-      "count": 0
-    },
     "FR": {
       "name": "法国",
       "emoji": "🇫🇷",
@@ -107,6 +102,11 @@
     "IN": {
       "name": "印度",
       "emoji": "🇮🇳",
+      "count": 0
+    },
+    "CZ": {
+      "name": "捷克",
+      "emoji": "🇨🇿",
       "count": 0
     },
     "CA": {
