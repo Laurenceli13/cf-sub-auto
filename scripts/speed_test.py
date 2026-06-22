@@ -1,8 +1,8 @@
-"""Node speed test: TCP + HTTP protocol verification for all fetched proxy nodes.
+"""Node speed test: TCP latency scoring for all fetched proxy nodes.
 
 Reads public/sub_raw.txt, parses host:port from each proxy link, performs
-concurrent TCP connect + HTTP HEAD probe tests (2-pass verification), outputs
-nodes_status.json for the dashboard, and keeps only the top 50 most
+concurrent TCP connect latency tests (2-pass verification), outputs
+nodes_status.json for the dashboard, and keeps only the top 100 most
 reliable alive nodes in the subscription files. Optionally sends alert
 notification via Bark/ServerChan webhook when alive rate drops below
 threshold.
@@ -14,7 +14,6 @@ import json
 import os
 import re
 import socket
-import ssl
 import time
 import urllib.parse
 import urllib.request
@@ -27,10 +26,10 @@ RAW_FILE = PUBLIC / "sub_raw.txt"
 STATUS_FILE = PUBLIC / "nodes_status.json"
 CF_CSV_FILE = PUBLIC / "cf_ip_result.csv"
 
-TOP_N = 50  # Keep top N most reliable alive nodes
+TOP_N = 100  # Keep top N fastest alive nodes
 PASSES = 2  # Node must pass N consecutive latency tests
-TIMEOUT_FIRST = 3.0  # TCP connect timeout for pass 1 (relaxed)
-TIMEOUT_SECOND = 2.0  # TCP connect timeout for pass 2 (strict)
+TIMEOUT_FIRST = 5.0  # TCP connect timeout for pass 1 (generous)
+TIMEOUT_SECOND = 5.0  # TCP connect timeout for pass 2
 PASS_DELAY = 0.5  # Seconds to wait between passes
 MAX_WORKERS = 50  # Concurrent workers per pass
 
@@ -64,40 +63,11 @@ def tcp_latency(host: str, port: int, timeout: float = TIMEOUT_FIRST) -> float |
         return None
 
 
-def http_head_probe(host: str, port: int, timeout: float = 3.0) -> bool:
-    """Probe HTTP HEAD to verify the host responds (not just port open).
-
-    Free nodes often have open ports but broken configs. An HTTP HEAD
-    to a well-known URL confirms the server is actually listening.
-    Returns True if HTTP 2xx/3xx/4xx received, False on timeout/error.
-    """
-    scheme = "https" if port in (443, 8443, 2053, 2083, 2087, 2096) else "http"
-    url = f"{scheme}://{host}:{port}/"
-    ctx = ssl.create_default_context()
-    ctx.check_hostname = False
-    ctx.verify_mode = ssl.CERT_NONE
-
-    t0 = time.perf_counter()
-    try:
-        req = urllib.request.Request(url, method="HEAD")
-        req.add_header("User-Agent", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36")
-        with urllib.request.urlopen(req, timeout=timeout, context=ctx) as resp:
-            elapsed = (time.perf_counter() - t0) * 1000.0
-            # Any response (even 404) means the server stack is alive
-            return True
-    except urllib.error.HTTPError as e:
-        # 4xx/5xx means server responded — stack is alive
-        return True
-    except Exception:
-        return None
-
-
 def parse_country(link: str) -> str | None:
     """Quick country extraction from node name fragment."""
     if "#" not in link:
         return None
     fragment = link.rsplit("#", 1)[-1]
-    # Extract two-letter codes like JP, US, SG etc.
     m = re.search(r"(?:^|[|_\s])([A-Z]{2})(?:[|_\s]|$)", fragment.upper())
     if m:
         return m.group(1)
@@ -150,25 +120,6 @@ def run_single_pass(targets: list, timeout: float, max_workers: int = MAX_WORKER
     return results
 
 
-def run_http_probe(targets: list, max_workers: int = MAX_WORKERS) -> dict:
-    """Run HTTP HEAD probe on TCP-alive targets to verify protocol stack.
-
-    Returns {host:port: True/False} — True if server responded, False/None if not.
-    """
-    results = {}
-    with concurrent.futures.ThreadPoolExecutor(max_workers=max_workers) as executor:
-        futures = {executor.submit(http_head_probe, h, p): (h, p) for h, p, _ in targets}
-        for future in concurrent.futures.as_completed(futures):
-            host, port = futures[future]
-            key = f"{host}:{port}"
-            try:
-                alive = future.result()
-                results[key] = alive is True
-            except Exception:
-                results[key] = False
-    return results
-
-
 def main() -> None:
     if not RAW_FILE.exists():
         print(f"error: {RAW_FILE} not found")
@@ -177,7 +128,7 @@ def main() -> None:
     links = [l for l in RAW_FILE.read_text(encoding="utf-8").splitlines() if l.strip()]
     print(f"loaded {len(links)} links")
 
-    # Parse hosts — deduplicate by host:port to avoid testing same endpoint
+    # Parse hosts — deduplicate by host:port
     seen = set()
     targets: list[tuple[str, int, str]] = []  # (host, port, link)
     for link in links:
@@ -192,21 +143,13 @@ def main() -> None:
 
     print(f"testing {len(targets)} unique endpoints (pass 1 of {PASSES})...")
 
-    # ── Pass 1: relaxed timeout to catch all potential nodes ──
+    # ── Pass 1: generous timeout ──
     results_pass1 = run_single_pass(targets, TIMEOUT_FIRST, MAX_WORKERS)
-
-    # Build pass 1 node list
-    pass1_alive = 0
-    for host, port, link in targets:
-        key = f"{host}:{port}"
-        latency = results_pass1.get(key)
-        alive = latency is not None
-        if alive:
-            pass1_alive += 1
-
+    pass1_alive = sum(1 for _, p, _ in targets if results_pass1.get(f"{_}:{p}") is not None for _, _, _ in [(h, p, l) for h, p, l in targets])
+    pass1_alive = sum(1 for h, p, _ in targets if results_pass1.get(f"{h}:{p}") is not None)
     print(f"pass 1 done: {pass1_alive}/{len(targets)} alive (timeout={TIMEOUT_FIRST}s)")
 
-    # ── Pass 2: strict timeout to verify stability ──
+    # ── Pass 2: re-test survivors ──
     pass2_targets = [
         (h, p, link) for h, p, link in targets
         if results_pass1.get(f"{h}:{p}") is not None
@@ -219,28 +162,16 @@ def main() -> None:
     else:
         results_pass2 = {}
 
-    # ── HTTP HEAD probe: verify protocol stack is actually responding ──
-    print(f"HTTP HEAD probe on {len(pass2_targets)} survivors...")
-    http_results = run_http_probe(pass2_targets)
-    http_alive_count = sum(1 for k, v in http_results.items() if v)
-    print(f"HTTP probe: {http_alive_count}/{len(pass2_targets)} responded")
-
-    # Combine: TCP pass2 + HTTP probe must BOTH succeed
-    pass2_alive = 0
+    # Combine: TCP pass2 must succeed
     nodes = []
     for host, port, link in pass2_targets:
         key = f"{host}:{port}"
         latency_pass1 = results_pass1.get(key)
         latency_pass2 = results_pass2.get(key)
-        http_ok = http_results.get(key, False)
-
-        # Must pass TCP pass2 AND HTTP probe
-        alive = (latency_pass1 is not None and latency_pass2 is not None and http_ok)
-        # Use average of both passes for latency score
+        alive = latency_pass1 is not None and latency_pass2 is not None
         avg_latency = None
         if alive:
             avg_latency = (latency_pass1 + latency_pass2) / 2.0
-            pass2_alive += 1
         elif latency_pass1 is not None and latency_pass2 is not None:
             avg_latency = (latency_pass1 + latency_pass2) / 2.0
 
@@ -252,8 +183,6 @@ def main() -> None:
             "latency_ms": round(avg_latency, 2) if avg_latency else None,
             "country": parse_country(link),
             "protocol": link.split("://", 1)[0] if "://" in link else "unknown",
-            "tcp_alive": latency_pass2 is not None,
-            "http_alive": http_ok,
         })
 
     nodes.sort(key=lambda x: (not x["alive"], x["latency_ms"] or 9999))
@@ -283,13 +212,12 @@ def main() -> None:
     if NOTIFY_URL and alive_rate < ALERT_THRESHOLD:
         send_notification(alive_count, len(nodes), alive_rate)
 
-    # ── Filter top N most reliable alive nodes ──
+    # ── Filter top N fastest alive nodes ──
     alive_nodes = [n for n in nodes if n["alive"]]
     top_nodes = alive_nodes[:TOP_N]
     top_links = [n["link"] for n in top_nodes]
-    print(f"keeping top {len(top_links)} nodes (filtered from {len(alive_nodes)} survivors after 2-pass)")
+    print(f"keeping top {len(top_links)} nodes (filtered from {len(alive_nodes)} alive)")
 
-    # Rewrite subscription files with filtered nodes
     rewrite_subscription_files(top_links)
 
 
