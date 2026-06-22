@@ -1,7 +1,9 @@
-trojan://SoftNetConnect@83.228.224.161:42549?allowInsecure=1&sni=www.speedtest.net#%F0%9F%87%A8%F0%9F%87%ADCH_1%7C3.8MB/s
-trojan://SoftNetConnect@83.228.224.161:42549?allowInsecure=1&sni=www.speedtest.net#12%7CCH_speednode_0005
+trojan://SoftNetConnect@83.228.224.161:42549?allowInsecure=1&sni=www.speedtest.net#13%7CCH_speednode_0005
+trojan://SoftNetConnect@83.228.224.161:42549?allowInsecure=1&sni=www.speedtest.net#CH_speednode_0005
 trojan://SoftNetConnect@83.228.224.161:42549?sni=www.speedtest.net&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%A8%F0%9F%87%ADCH_1%7C3.8MB%2Fs
-vless://89049f79-320b-48a0-b1cf-110165cae30c@83.228.224.161:2083?allowInsecure=0&sni=www.yahoo.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#12%7CCH_speednode_0006
+vless://04ac1574-583b-408b-a18f-259b62410ee3@199.232.57.91:80?path=%2F&security=none&encryption=none&host=FIjjI.gloBal.sSl.faStly.NeT.&type=ws#瑞士/Switzerland
+vless://69a2af58-d74a-44ca-864a-e09b493f4274@194.87.178.131:443?flow=xtls-rprx-vision&fp=firefox&pbk=gOEyW5XYfKV6t_3vCR0iCOcItof1desNG7CSiFnVpF4&security=reality&sid=804f5d&sni=www.intel.com&type=tcp#瑞士/日内瓦/Switzerland/Geneva
+vless://89049f79-320b-48a0-b1cf-110165cae30c@83.228.224.161:2083?allowInsecure=0&sni=www.yahoo.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#13%7CCH_speednode_0006
+vless://89049f79-320b-48a0-b1cf-110165cae30c@83.228.224.161:2083?allowInsecure=0&sni=www.yahoo.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#CH_speednode_0006
 vless://89049f79-320b-48a0-b1cf-110165cae30c@83.228.224.161:2083?security=reality&type=tcp&packetEncoding=xudp&sni=www.yahoo.com&fp=chrome&flow=xtls-rprx-vision&sid=4e590fdc&pbk=l1Ekgk-8T5rB-yolp5OIpc0XZTcd2gBeqmIR2bytKXY&encryption=none#%F0%9F%87%A8%F0%9F%87%ADCH_2%7C2.6MB%2Fs
-vless://89049f79-320b-48a0-b1cf-110165cae30c@83.228.224.161:2083?sni=www.yahoo.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%A8%F0%9F%87%ADCH_2%7C2.6MB/s
 vless://ff19693c-11f3-4df9-8713-79a85a5ca090@208.69.78.205:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=sellflow.org#瑞士/苏黎世/Switzerland/Zurich
