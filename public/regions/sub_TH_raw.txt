@@ -1,1 +1,1 @@
-vless://3c52e091-6714-4915-949f-2149fe69951b@116.206.124.228:80?path=%2Fws&security=&encryption=none&host=aIs.SpEeDtEsT.nEt&type=ws#泰国/Thailand
+vless://d3d962b1-7fc4-4f34-8292-b57e75cd0316@162.159.153.79:2083?path=%2F&security=tls&encryption=none&insecure=0&host=purple-water-9854.ipcfchannel.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=purple-water-9854.ipcfchannel.workers.dev#泰国/Thailand

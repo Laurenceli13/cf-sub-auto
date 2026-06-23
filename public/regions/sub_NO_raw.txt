@@ -1,1 +1,1 @@
-vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@138.124.113.18:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=1RFs75L42oUjmgEKqahFVrKKN52cosDkrWskT053D3o&security=reality&sid=0aafc7b3b9&sni=iamsterdam.com&type=tcp#%E6%8C%AA%E5%A8%81+V2CROSS.COM
+vless://d3d962b1-7fc4-4f34-8292-b57e75cd0316@162.159.153.79:2083?path=%2F&security=tls&encryption=none&insecure=0&host=purple-water-9854.ipcfchannel.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=purple-water-9854.ipcfchannel.workers.dev#挪威/奥斯陆/Norway/Oslo

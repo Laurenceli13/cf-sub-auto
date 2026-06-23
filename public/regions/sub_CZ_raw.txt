@@ -1,3 +1,1 @@
-vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.249.221:8443?allowInsecure=0&sni=ams1.fromblancwithlove.com&fp=chrome&security=tls#%E6%8D%B7%E5%85%8B+V2CROSS.COM
-vless://394f6981-a782-4779-9a85-e6cf22935d93@87.249.139.233:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#%E6%8D%B7%E5%85%8B+V2CROSS.COM
-vless://c34c6869-e454-4413-a7b2-052ba4a42fd5@uvgl4cjd0475.vtret.com:32567?security=tls&alpn=h2%2Chttp%2F1.1&encryption=mlkem768x25519plus.native.0rtt.84_DMC6q55hqCTwXssF177Z61CfqlI5CwYzYF6UGgG8&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=uvgl4cjd0475.vtret.com#捷克/Czechia
+vless://d3d962b1-7fc4-4f34-8292-b57e75cd0316@162.159.153.79:2083?path=%2F&security=tls&encryption=none&insecure=0&host=purple-water-9854.ipcfchannel.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=purple-water-9854.ipcfchannel.workers.dev#捷克/Czechia

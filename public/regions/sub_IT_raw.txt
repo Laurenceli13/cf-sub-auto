@@ -1,1 +1,2 @@
 vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=none&encryption=none&headerType=none&type=tcp#意大利/Italy
+vless://d3d962b1-7fc4-4f34-8292-b57e75cd0316@162.159.153.79:2083?path=%2F&security=tls&encryption=none&insecure=0&host=purple-water-9854.ipcfchannel.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=purple-water-9854.ipcfchannel.workers.dev#意大利/贝尔加莫/Italy/Bergamo

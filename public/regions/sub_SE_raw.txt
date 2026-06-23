@@ -1,5 +1,6 @@
-vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.249.221:8443?allowInsecure=0&sni=ams1.fromblancwithlove.com&fp=chrome&security=tls#12%7CSE_speednode_0103
-vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.249.221:8443?allowInsecure=0&sni=ams1.fromblancwithlove.com&fp=chrome&security=tls#SE_speednode_0103
+vless://394f6981-a782-4779-9a85-e6cf22935d93@45.159.12.15:8443?allowInsecure=1&sni=ams1.fromblancwithlove.com&security=tls#13%7CSE_speednode_0080
+vless://394f6981-a782-4779-9a85-e6cf22935d93@45.159.12.15:8443?allowInsecure=1&sni=ams1.fromblancwithlove.com&security=tls#SE_speednode_0080
+vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.249.221:8443?allowInsecure=0&sni=ams1.fromblancwithlove.com&fp=chrome&security=tls#13%7CSE_speednode_0079
+vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.249.221:8443?allowInsecure=0&sni=ams1.fromblancwithlove.com&fp=chrome&security=tls#SE_speednode_0079
 vless://9cc56b5d-2a44-4fd1-91e3-659b06255c11@swed.oplatasite.ru:8443?security=tls&type=tcp&packetEncoding=xudp&sni=vpn.oplatasite.ru&fp=chrome&encryption=none#%F0%9F%87%B8%F0%9F%87%AASE_1%7C2.6MB%2Fs
 vless://9cc56b5d-2a44-4fd1-91e3-659b06255c11@swed.oplatasite.ru:8443?sni=vpn.oplatasite.ru&fp=chrome&security=tls#%F0%9F%87%B8%F0%9F%87%AASE_1%7C2.6MB/s
-vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@89.116.46.68:443?path=%2Ftsghdws&amp;security=tls&amp;encryption=none&amp;insecure=1&amp;host=octopusss4.com&amp;type=ws&amp;allowInsecure=1&amp;sni=octopusss4.com#瑞典/斯德哥尔摩/Sweden/Stockholm
