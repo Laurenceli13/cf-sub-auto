@@ -1,2 +1,2 @@
-vless://e5d07969-f008-42ee-bbab-7995ef4d1e1d@185.173.144.212:38334?security=reality&type=tcp&packetEncoding=xudp&sni=www.yahoo.com&fp=chrome&sid=b0ab63ef9a&pbk=NziHXc_dnhzsVEfn_asAz4JONCuwQYHNiCW_2-GX5FA&encryption=none#%F0%9F%87%A6%F0%9F%87%AAAE_1%7C1.8MB%2Fs
-vless://e5d07969-f008-42ee-bbab-7995ef4d1e1d@185.173.144.212:38334?sni=www.yahoo.com&fp=chrome&security=tls#%F0%9F%87%A6%F0%9F%87%AAAE_1%7C1.8MB/s
+vless://b08d0906-8840-4b27-9261-0fe72600de7f@217.195.200.171:44904?#%F0%9F%87%A6%F0%9F%87%AAAE_1%7C1.9MB/s
+vless://b08d0906-8840-4b27-9261-0fe72600de7f@217.195.200.171:44904?security=none&type=tcp&packetEncoding=xudp&encryption=none#%F0%9F%87%A6%F0%9F%87%AAAE_1%7C1.9MB%2Fs

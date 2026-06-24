@@ -1,2 +1,2 @@
+vless://9cd65844-3f28-4081-8d70-b5c61815f45d@t-panel.wasmer.app:443?path=%2Fws%2F9cd65844-3f28-4081-8d70-b5c61815f45d&security=tls&encryption=none&insecure=0&host=t-panel.wasmer.app&type=ws&allowInsecure=0&sni=t-panel.wasmer.app#意大利/贝尔加莫/Italy/Bergamo
 vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=none&encryption=none&headerType=none&type=tcp#意大利/Italy
-vless://d3d962b1-7fc4-4f34-8292-b57e75cd0316@162.159.153.79:2083?path=%2F&security=tls&encryption=none&insecure=0&host=purple-water-9854.ipcfchannel.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=purple-water-9854.ipcfchannel.workers.dev#意大利/贝尔加莫/Italy/Bergamo

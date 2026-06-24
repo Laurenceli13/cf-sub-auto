@@ -1,4 +1,1 @@
-vless://0d27ab04-4523-4ae0-94b0-3e14c2089756@104.19.229.21:443?security=tls&type=ws&path=%2F&host=hadi.getfreecp.com&packetEncoding=xudp&alpn=h2%2Chttp%2F1.1&sni=hadi.getfreecp.com&fp=chrome&encryption=none#%F0%9F%87%B5%F0%9F%87%B1PL_1%7C1.4MB%2Fs
-vless://0d27ab04-4523-4ae0-94b0-3e14c2089756@104.19.229.21:443?sni=hadi.getfreecp.com&alpn=h2%2Chttp/1.1&type=ws&host=hadi.getfreecp.com&path=/fp=chrome&security=tls#%F0%9F%87%B5%F0%9F%87%B1PL_1%7C1.4MB/s
-vless://d3d962b1-7fc4-4f34-8292-b57e75cd0316@162.159.153.79:2083?path=%2F&security=tls&encryption=none&insecure=0&host=purple-water-9854.ipcfchannel.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=purple-water-9854.ipcfchannel.workers.dev#波兰/华沙/Poland/Warsaw
-vless://deecd21a-a24f-444d-b92a-2c8e41a6b05b@191.44.118.101:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&headerType=none&pbk=69_I9Wm_vP5wQUbiQhdejWS9yLlNYLFjcnF59G-0GAU&security=reality&sid=31e36d0ac3355472&sni=www.microsoft.com&type=tcp#波兰/Poland
+hy2://b95dd8e5-2758-408f-be99-9362eecee609@files.fantoff.online:10808/?sni=files.fantoff.online#波兰/华沙/Poland/Warsaw

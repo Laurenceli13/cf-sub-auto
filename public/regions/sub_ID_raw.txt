@@ -1,1 +1,1 @@
-trojan://tUtK5TKdjxsPnOyritLtv8OQWHAK8f8yNR@130.94.94.15:443?security=tls&sni=130.94.94.15#印度尼西亚/雅加达/Indonesia/Jakarta
+vless://SoonTeam@104.27.194.143:8080?mode=auto&path=%2F%40SoonTeam&security=&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&host=new.new.new.ab841.com&type=xhttp#印度尼西亚/雅加达/Indonesia/Jakarta

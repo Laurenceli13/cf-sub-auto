@@ -1,6 +1,2 @@
-vless://394f6981-a782-4779-9a85-e6cf22935d93@45.159.12.15:8443?allowInsecure=1&sni=ams1.fromblancwithlove.com&security=tls#13%7CSE_speednode_0080
-vless://394f6981-a782-4779-9a85-e6cf22935d93@45.159.12.15:8443?allowInsecure=1&sni=ams1.fromblancwithlove.com&security=tls#SE_speednode_0080
-vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.249.221:8443?allowInsecure=0&sni=ams1.fromblancwithlove.com&fp=chrome&security=tls#13%7CSE_speednode_0079
-vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.249.221:8443?allowInsecure=0&sni=ams1.fromblancwithlove.com&fp=chrome&security=tls#SE_speednode_0079
-vless://9cc56b5d-2a44-4fd1-91e3-659b06255c11@swed.oplatasite.ru:8443?security=tls&type=tcp&packetEncoding=xudp&sni=vpn.oplatasite.ru&fp=chrome&encryption=none#%F0%9F%87%B8%F0%9F%87%AASE_1%7C2.6MB%2Fs
-vless://9cc56b5d-2a44-4fd1-91e3-659b06255c11@swed.oplatasite.ru:8443?sni=vpn.oplatasite.ru&fp=chrome&security=tls#%F0%9F%87%B8%F0%9F%87%AASE_1%7C2.6MB/s
+vless://10e4afc4-eeac-4a16-93e8-a42b70ce148b@13.51.6.239:443?security=reality&type=xhttp&path=%2F%40namedzadim&packetEncoding=xudp&sni=is1-ssl.mzstatic.com&fp=chrome&sid=2df193d1&pbk=9bQKxfkbIe21xpF95Ze1omF37XTnz7FGzNyRYTneV38&mode=stream-up&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&encryption=none#%F0%9F%87%B8%F0%9F%87%AASE_1%7C3.2MB%2Fs
+vless://10e4afc4-eeac-4a16-93e8-a42b70ce148b@13.51.6.239:443?sni=is1-ssl.mzstatic.com&fp=chrome&security=tls#%F0%9F%87%B8%F0%9F%87%AASE_1%7C3.2MB/s
