@@ -1,1 +1,2 @@
-vless://d3d962b1-7fc4-4f34-8292-b57e75cd0316@162.159.153.79:2083?path=%2F&security=tls&encryption=none&insecure=0&host=purple-water-9854.ipcfchannel.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=purple-water-9854.ipcfchannel.workers.dev#挪威/奥斯陆/Norway/Oslo
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.239.151:80?allowInsecure=1&sni=max-gb1.global.ssl.fastly.net&type=ws&host=max-gb1.global.ssl.fastly.net&path=/#13%7CNO_speednode_0014
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.239.151:80?allowInsecure=1&sni=max-gb1.global.ssl.fastly.net&type=ws&host=max-gb1.global.ssl.fastly.net&path=/#NO_speednode_0014

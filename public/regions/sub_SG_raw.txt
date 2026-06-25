@@ -1,11 +1,9 @@
 hysteria2://e7965e64-e001-4e8c-8273-39c61ff4a094@sg3.oomz.ru:30000?insecure=1&sni=bing.com#8%7CSG
 hysteria2://e7965e64-e001-4e8c-8273-39c61ff4a094@sg3.oomz.ru:30000?insecure=1&sni=bing.com#SG
-ss://aes-128-gcm%3A6601fb90e9b3@csgfw.top:443#SG%20SS-461%20%7C%20free-nodes
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-sg-001.fastervpn.world:443/?insecure=1&sni=vpn-sg-001.fastervpn.world#新加坡/新加坡/Singapore/Singapore
 ss://aes-128-gcm%3A6601fb90e9b3@csgfw.top:443#SG%20SS-468%20%7C%20free-nodes
-trojan://ba5b6f1d3a9da87096165da523fb4375@16.163.95.104:6357?allowInsecure=1&sni=www.nintendogames.net#%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40ripaojiedian
-trojan://ba5b6f1d3a9da87096165da523fb4375@16.163.95.104:6357?allowInsecure=1&sni=www.nintendogames.net#11%2C12%7C%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40ripaojiedian
-trojan://humanity@43.169.18.179:443?path=%2Fassignment&security=tls&insecure=1&host=www.creationlong.org&type=ws&allowInsecure=1&sni=www.creationlong.org#新加坡/Singapore
-vless://SoonTeam@104.27.194.143:8080?mode=auto&path=%2F%40SoonTeam&security=&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&host=new.new.new.ab841.com&type=xhttp#新加坡/新加坡/Singapore/Singapore
+trojan://a844e75e40134ee742e80ced8509b310@95.40.109.13:29642?allowInsecure=1&sni=www.nintendogames.net#%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40ripaojiedian
+trojan://a844e75e40134ee742e80ced8509b310@95.40.109.13:29642?allowInsecure=1&sni=www.nintendogames.net#11%2C12%7C%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40ripaojiedian
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@108.162.196.3:443?allowInsecure=0&sni=t1s1.rittbo.kdns.fr&type=ws&host=t1s1.rittbo.kdns.fr&path=/fp=chrome&security=tls#%F0%9F%87%B8%F0%9F%87%ACSG_1%7C1.0MB/s
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@108.162.196.3:443?security=tls&type=ws&path=%2F&host=t1s1.rittbo.kdns.fr&packetEncoding=xudp&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&sni=t1s1.rittbo.kdns.fr&fp=chrome&encryption=none#%F0%9F%87%B8%F0%9F%87%ACSG_1%7C1.0MB%2Fs
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.40.84:443?allowInsecure=0&sni=t1s1.rittbo.kdns.fr&type=ws&host=t1s1.rittbo.kdns.fr&path=/fp=chrome&security=tls#%F0%9F%87%B8%F0%9F%87%ACSG_2%7C1.1MB/s

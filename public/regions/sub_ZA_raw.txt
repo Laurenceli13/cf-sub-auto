@@ -1,2 +1,1 @@
-vless://3e7cede4-721a-4807-b0a2-5fe6586af907@45.194.10.68:8443?security=reality&encryption=none&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=2cfb5a0ae8ab0cb0#%E5%8D%97%E9%9D%9E+V2CROSS.COM
-vless://7896c501-248f-4068-bc2f-363c91ba5122@45.198.87.27:8443?security=reality&encryption=none&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=2715592069f36fe7#%E5%8D%97%E9%9D%9E+V2CROSS.COM
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@156.231.113.141:8443?encryption=none&type=ws&security=tls&path=/fp&host=t1s1.rittbo.kdns.fr&sni=t1s1.rittbo.kdns.fr&insecure=0&allowInsecure=0#%E5%8D%97%E9%9D%9E+V2CROSS.COM

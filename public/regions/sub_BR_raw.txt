@@ -1,8 +1,2 @@
-vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.199:8443?allowInsecure=1&sni=ams1.fromblancwithlove.com&security=tls#13%7CBR_speednode_0004
-vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.199:8443?allowInsecure=1&sni=ams1.fromblancwithlove.com&security=tls#BR_speednode_0004
-vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.200:8443?allowInsecure=1&sni=ams1.fromblancwithlove.com&security=tls#13%7CBR_speednode_0003
-vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.200:8443?allowInsecure=1&sni=ams1.fromblancwithlove.com&security=tls#BR_speednode_0003
-vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.201:8443?allowInsecure=0&sni=ams1.fromblancwithlove.com&fp=chrome&security=tls#13%7CBR_speednode_0005
-vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.201:8443?allowInsecure=0&sni=ams1.fromblancwithlove.com&fp=chrome&security=tls#BR_speednode_0005
-vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.202:8443?allowInsecure=1&sni=ams1.fromblancwithlove.com&security=tls#13%7CBR_speednode_0002
-vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.202:8443?allowInsecure=1&sni=ams1.fromblancwithlove.com&security=tls#BR_speednode_0002
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.255.151:80?allowInsecure=1&sni=max-gb1.global.ssl.fastly.net&type=ws&host=max-gb1.global.ssl.fastly.net&path=/#13%7CBR_speednode_0004
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.255.151:80?allowInsecure=1&sni=max-gb1.global.ssl.fastly.net&type=ws&host=max-gb1.global.ssl.fastly.net&path=/#BR_speednode_0004

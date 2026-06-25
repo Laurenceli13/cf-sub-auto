@@ -1,1 +1,2 @@
-vless://SoonTeam@104.27.194.143:8080?mode=auto&path=%2F%40SoonTeam&security=&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&host=new.new.new.ab841.com&type=xhttp#印度尼西亚/雅加达/Indonesia/Jakarta
+vless://7896c501-248f-4068-bc2f-363c91ba5122@45.198.87.34:8443?allowInsecure=0&sni=storage.yandex.net&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#13%7CID_speednode_0009
+vless://7896c501-248f-4068-bc2f-363c91ba5122@45.198.87.34:8443?allowInsecure=0&sni=storage.yandex.net&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#ID_speednode_0009
