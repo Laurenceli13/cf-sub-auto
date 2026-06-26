@@ -1,2 +1,2 @@
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.239.151:80?allowInsecure=1&sni=max-gb1.global.ssl.fastly.net&type=ws&host=max-gb1.global.ssl.fastly.net&path=/#13%7CNO_speednode_0014
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.239.151:80?allowInsecure=1&sni=max-gb1.global.ssl.fastly.net&type=ws&host=max-gb1.global.ssl.fastly.net&path=/#12%7CNO_speednode_0014
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.239.151:80?allowInsecure=1&sni=max-gb1.global.ssl.fastly.net&type=ws&host=max-gb1.global.ssl.fastly.net&path=/#NO_speednode_0014
