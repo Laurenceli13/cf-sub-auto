@@ -1,3 +1,1 @@
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.241.151:80?allowInsecure=1&sni=max-gb1.global.ssl.fastly.net&type=ws&host=max-gb1.global.ssl.fastly.net&path=/#12%7CIT_speednode_0012
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.241.151:80?allowInsecure=1&sni=max-gb1.global.ssl.fastly.net&type=ws&host=max-gb1.global.ssl.fastly.net&path=/#IT_speednode_0012
-vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=none&encryption=none&headerType=none&type=tcp#意大利/Italy
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVazhsZm12aFlueDVySnZYeEtyUnFHUnluZDlnSXBKLmlZ@103.241.66.76:14605#意大利/Italy

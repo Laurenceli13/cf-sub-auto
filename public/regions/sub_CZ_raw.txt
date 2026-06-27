@@ -1,1 +1,1 @@
-vless://d57207d5-bed5-4721-bea8-2741584e2d38@88.216.132.29:443?security=reality&encryption=none&pbk=4l6Ix3bneXShDpYSHoRq_avnztGFMPI-hcGlVbKF0UE&host=%2F%3FBIA_TELEGRAM%40vpnserverrr_vpnserverrr_vpnserverrr_vpnserverrr_vpnserverrr&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=de-fra-14.blook.network&sid=a6f01456#捷克/Czechia
+ss://YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2@82.102.26.117:33992#捷克/Czechia

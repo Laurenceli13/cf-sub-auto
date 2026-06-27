@@ -1,7 +1,7 @@
 hysteria2://github.com%2FAlvin9999-newpac%2Ffanqiang@hy2.313186.xyz:18066?sni=hy2.313186.xyz#%F0%9F%87%AB%F0%9F%87%B7FR_1%7C1.1MB%2Fs
 hysteria2://github.com/Alvin9999-newpac/fanqiang@hy2.313186.xyz:18066?insecure=0&sni=hy2.313186.xyz#%F0%9F%87%AB%F0%9F%87%B7FR_1%7C1.1MB/s
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWSmVBamlKNDBGMklsMTdFbHYyODVX@141.227.152.129:8388#法国/France
-vless://4706d9c3-eec0-4666-9d84-e608a200e872@194.226.169.36:443?fp=chrome&pbk=i4Mx_tDND0Xxac3WyA7HgT9rvXdZlXpm5m1EGiQF-Uk&security=tls&sid=b8aa&sni=yahoo.com#法国/巴黎/France/Paris
+vless://2065a8c9-8b3d-4dba-b0ce-90d649aa3da7@greb.loralden.com:443?security=reality&encryption=none&pbk=EUK_ePvEKUGcezQYHqgJ5P462XxLPXPm9CZWGLaL33k&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=greb.loralden.com&sid=3620820fe66d6731#法国/巴黎/France/Paris
+vless://296a5736-bc8c-45dd-9971-8bf44b28ed4e@all32.allenshop100.ir:443?security=reality&encryption=none&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&headerType=none&fp=firefox&type=tcp&sni=play.google.com&sid=98fa0b00d09419f7#法国/France
 vless://b320eba7-5380-4bd1-b5e6-32daab16066f@fr-d.duckray.co.uk:3443?encryption=none&type=grpc&mode=gun&security=reality&sni=api.github.com&fp=random&pbk=Ps_w7KP3VFrZv1niWfX3synmJq_d2c7sVSckxa3sgio#%F0%9F%87%AB%F0%9F%87%B7%20France
 vless://e4468d51-2528-4d40-a92d-5cf409d00dac@fry2.brocollisuper.click:443?allowInsecure=0&sni=fry2.brocollisuper.click&type=grpc&serviceName=grpc-api&security=tls#%F0%9F%87%AB%F0%9F%87%B7FR_2%7C1.2MB/s
 vless://e4468d51-2528-4d40-a92d-5cf409d00dac@fry2.brocollisuper.click:443?security=tls&type=grpc&mode=gun&serviceName=grpc-api&packetEncoding=xudp&sni=fry2.brocollisuper.click#%F0%9F%87%AB%F0%9F%87%B7FR_2%7C1.2MB%2Fs

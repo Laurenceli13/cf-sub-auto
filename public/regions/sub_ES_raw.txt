@@ -1,2 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1A=@140.174.184.5:8388#西班牙/巴塞罗那/Spain/Barcelona
-vless://c9d13457-0578-4414-a830-f29244a6f711@201.51.1.108:40443?security=reality&encryption=none&pbk=G2WGTXVVeC2YzXaWI9gSHKjiNU3PEvN7QinuOPE1lDs&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=132b#西班牙/马德里/Spain/Madrid
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1A@140.174.184.5:8388#西班牙/巴塞罗那/Spain/Barcelona
+ss://YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2@82.102.26.117:33992#西班牙/马德里/Spain/Madrid
