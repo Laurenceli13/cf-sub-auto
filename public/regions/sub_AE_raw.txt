@@ -1,2 +1,1 @@
-vless://b08d0906-8840-4b27-9261-0fe72600de7f@217.195.200.171:44904?#%F0%9F%87%A6%F0%9F%87%AAAE_1%7C1.9MB/s
-vless://b08d0906-8840-4b27-9261-0fe72600de7f@217.195.200.171:44904?security=none&type=tcp&packetEncoding=xudp&encryption=none#%F0%9F%87%A6%F0%9F%87%AAAE_1%7C1.9MB%2Fs
+trojan://MITIVPN@94.140.0.100:443?allowInsecure=0&sni=95r.ir&type=ws&host=95r.ir&path=/MiTiVPN=Usa#13%7CAE_speednode_0001

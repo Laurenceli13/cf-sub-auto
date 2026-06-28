@@ -1,15 +1,1 @@
-hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#%F0%9F%87%B3%F0%9F%87%B1%20-%20NL%20-%20%40FreeOnlineVPN
-hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#9%7C%20-%20NL%20-%20%40FreeOnlineVPN
-hysteria2://gdubbi2zb6gdp0c8@103.251.167.168:443?insecure=0&sni=gettestin.xxee.ru&obfs=salamander&obfs-password=2a7e8084206388f4#%F0%9F%87%B3%F0%9F%87%B1%20%40rayhub_ir%200626-7
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.216:8080#%F0%9F%87%B3%F0%9F%87%B1NL_1%7C2.1MB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.216:8080#%F0%9F%87%B3%F0%9F%87%B1NL_1%7C2.1MB/s
-vless://0cc72cd6-29b2-4dcc-af4d-2907d19a0680@199.232.245.208:443?security=tls&type=ws&path=%2F&host=pan1.global.ssl.fastly.net&packetEncoding=xudp&sni=default.ssl.fastly.net&fp=chrome&encryption=none#%F0%9F%87%B3%F0%9F%87%B1NL_3%7C1.8MB%2Fs
-vless://0cc72cd6-29b2-4dcc-af4d-2907d19a0680@199.232.245.208:443?sni=default.ssl.fastly.net&type=ws&host=pan1.global.ssl.fastly.net&path=/fp=chrome&security=tls#%F0%9F%87%B3%F0%9F%87%B1NL_3%7C1.8MB/s
-vless://a5ea9247-79f3-4655-aece-3fb51e1e669e@rezerv17.yunus.guru:443?allowInsecure=0&sni=rezerv17.yunus.guru&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#%F0%9F%87%B3%F0%9F%87%B1NL_6%7C1.3MB/s
-vless://a5ea9247-79f3-4655-aece-3fb51e1e669e@rezerv17.yunus.guru:443?security=reality&type=tcp&packetEncoding=xudp&sni=rezerv17.yunus.guru&fp=firefox&flow=xtls-rprx-vision&sid=ef3d5a5ce1127092&pbk=_5KQWficxpTFTYpHG-PpKpN99XL8H0vwOyg2XBMhVn8#%F0%9F%87%B3%F0%9F%87%B1NL_6%7C1.3MB%2Fs
-vless://a5ea9247-79f3-4655-aece-3fb51e1e669e@rezerv18.yunus.guru:443?allowInsecure=0&sni=rezerv18.yunus.guru&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#%F0%9F%87%B3%F0%9F%87%B1NL_5%7C1.0MB/s
-vless://a5ea9247-79f3-4655-aece-3fb51e1e669e@rezerv18.yunus.guru:443?security=reality&type=tcp&packetEncoding=xudp&sni=rezerv18.yunus.guru&fp=firefox&flow=xtls-rprx-vision&sid=ce92dfd666224477&pbk=jLa4bn_ZuTamBSUdxQCJJI1seX1TvPQDKB5u7rzbcG4#%F0%9F%87%B3%F0%9F%87%B1NL_5%7C1.0MB%2Fs
-vless://ebdf9f72-3afd-40e5-b26d-ba302b16dcd1@med2.crosscenter2.ir:8443?security=tls&type=ws&path=%2Fas21SFAfw214fdnsa&host=iran.irannet.shop&packetEncoding=xudp&alpn=h2%2Chttp%2F1.1&sni=iran.irannet.shop&fp=chrome&encryption=none#%F0%9F%87%B3%F0%9F%87%B1NL_2%7C2.1MB%2Fs
-vless://ebdf9f72-3afd-40e5-b26d-ba302b16dcd1@med2.crosscenter2.ir:8443?sni=iran.irannet.shop&alpn=h2%2Chttp/1.1&type=ws&host=iran.irannet.shop&path=/as21SFAfw214fdnsafp=chrome&security=tls#%F0%9F%87%B3%F0%9F%87%B1NL_2%7C2.1MB/s
-vless://ebdf9f72-3afd-40e5-b26d-ba302b16dcd1@star0.kharabetam.de:8443?security=tls&type=ws&path=%2Fas21SFAfw214fdnsa&host=iran.irannet.shop&packetEncoding=xudp&alpn=h2%2Chttp%2F1.1&sni=iran.irannet.shop&fp=chrome&encryption=none#%F0%9F%87%B3%F0%9F%87%B1NL_4%7C2.9MB%2Fs
-vless://ebdf9f72-3afd-40e5-b26d-ba302b16dcd1@star0.kharabetam.de:8443?sni=iran.irannet.shop&alpn=h2%2Chttp/1.1&type=ws&host=iran.irannet.shop&path=/as21SFAfw214fdnsafp=chrome&security=tls#%F0%9F%87%B3%F0%9F%87%B1NL_4%7C2.9MB/s
+trojan://MiTiVPN@45.131.4.118:443?allowInsecure=0&sni=95r.ir&type=ws&host=95r.ir&path=/MiTiVPN=Se#13%7CNL_speednode_0016

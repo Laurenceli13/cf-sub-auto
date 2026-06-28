@@ -1,1 +1,1 @@
-vless://Te-HqV2rayNG-HqV2rayNG@vtodkcdisnc.fars-daxter.ir:80?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#土耳其/伊斯坦布尔/Türkiye/Istanbul
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.66.44.172:2087?type=ws&amp%3Bsecurity=tls&amp%3Bhost=baipiao1.curly-train.pages.dev&amp%3Bpath=/%3Fed%3D2048&amp%3Bsni=baipiao1.curly-train.pages.dev&amp%3Balpn=h2%2Chttp/1.1#土耳其/布尔萨/Türkiye/Bursa

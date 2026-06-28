@@ -1,3 +1,4 @@
 hysteria2://e7965e64-e001-4e8c-8273-39c61ff4a094@tw.oomz.ru:30000?insecure=1&sni=bing.com#8%7CTW
 hysteria2://e7965e64-e001-4e8c-8273-39c61ff4a094@tw.oomz.ru:30000?insecure=1&sni=bing.com#TW
-trojan://114514@103.137.22.71:443?ed=2560&eh=Sec-WebSocket-Protocol&host=tjaaa.hhllfly.kdns.fr&path=https://t.me/WangCai2🇨🇳&sni=tjaaa.hhllfly.kdns.fr&type=ws#台湾/台北市/Taiwan/Taipei
+vless://52faee73-e0fe-4661-992d-67259257170f@45.206.0.29:8443?allowInsecure=0&sni=storage.yandex.net&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#13%7CTW_speednode_0053
+vless://52faee73-e0fe-4661-992d-67259257170f@45.206.0.29:8443?allowInsecure=0&sni=storage.yandex.net&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#TW_speednode_0053
