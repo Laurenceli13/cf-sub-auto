@@ -1,1 +1,2 @@
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.66.44.172:2087?type=ws&amp%3Bsecurity=tls&amp%3Bhost=baipiao1.curly-train.pages.dev&amp%3Bpath=/%3Fed%3D2048&amp%3Bsni=baipiao1.curly-train.pages.dev&amp%3Balpn=h2%2Chttp/1.1#土耳其/布尔萨/Türkiye/Bursa
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHdnNqUTBPWjVuR1FYREdmemZXWmY1@212.227.146.33:443#土耳其/布尔萨/Türkiye/Bursa
+vless://b970f499-b1b2-4a66-89c3-45194db6c0d5@64.49.15.196:80?security=reality&encryption=none&pbk=dlkerkvPd88_3wGr9X0JoNBa8cNAwT6SaNTn7W53e1s&headerType=none&fp=chrome&spx=%2F0yd6yaBj1MgmzJT&type=tcp&sni=aws.amazon.com&sid=2cd3b71e70dc77#土耳其/伊斯坦布尔/Türkiye/Istanbul

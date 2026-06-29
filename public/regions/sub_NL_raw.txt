@@ -1,1 +1,1 @@
-trojan://MiTiVPN@45.131.4.118:443?allowInsecure=0&sni=95r.ir&type=ws&host=95r.ir&path=/MiTiVPN=Se#13%7CNL_speednode_0016
+trojan://MiTiVPN@45.131.4.118:443?allowInsecure=0&sni=95r.ir&type=ws&host=95r.ir&path=/MiTiVPN=Se#12%7CNL_speednode_0016
