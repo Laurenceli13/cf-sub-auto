@@ -1,7 +1,2 @@
-trojan://SoftNetConnect@37.156.44.215:42549?allowInsecure=0#%F0%9F%87%A8%F0%9F%87%ADCH_4%7C2.9MB/s
-trojan://SoftNetConnect@37.156.44.215:42549?allowInsecure=1&sni=www.speedtest.net&alpn=h2%2Chttp/1.1%2Ch3#%F0%9F%87%A8%F0%9F%87%ADCH_2%7C4.0MB/s
-trojan://SoftNetConnect@37.156.44.215:42549?sni=37.156.44.215&type=tcp&fp=chrome#%F0%9F%87%A8%F0%9F%87%ADCH_3%7C2.2MB%2Fs
-trojan://SoftNetConnect@37.156.44.215:42549?sni=37.156.44.215&type=tcp&fp=chrome#%F0%9F%87%A8%F0%9F%87%ADCH_4%7C2.9MB%2Fs
-trojan://SoftNetConnect@37.156.44.215:42549?sni=www.speedtest.net&allowInsecure=1&type=tcp&alpn=h2%2Chttp%2F1.1%2Ch3&fp=chrome#%F0%9F%87%A8%F0%9F%87%ADCH_2%7C4.0MB%2Fs
-vless://89049f79-320b-48a0-b1cf-110165cae30c@37.156.44.215:2083?security=reality&type=tcp&packetEncoding=xudp&sni=www.yahoo.com&fp=chrome&flow=xtls-rprx-vision&sid=4e590fdc&pbk=l1Ekgk-8T5rB-yolp5OIpc0XZTcd2gBeqmIR2bytKXY&encryption=none#%F0%9F%87%A8%F0%9F%87%ADCH_1%7C2.7MB%2Fs
-vless://89049f79-320b-48a0-b1cf-110165cae30c@37.156.44.215:2083?sni=www.yahoo.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%A8%F0%9F%87%ADCH_1%7C2.7MB/s
+vless://05a01432-0302-439f-a88d-8442cd27b7d5@gt-ch-01.live:8443?security=reality&type=tcp&packetEncoding=xudp&sni=storage.yandex.net&fp=chrome&flow=xtls-rprx-vision&sid=445ab326fc7c90ac&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&encryption=none#%F0%9F%87%A8%F0%9F%87%ADCH_1%7C1.5MB%2Fs
+vless://05a01432-0302-439f-a88d-8442cd27b7d5@gt-ch-01.live:8443?sni=storage.yandex.net&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%A8%F0%9F%87%ADCH_1%7C1.5MB/s

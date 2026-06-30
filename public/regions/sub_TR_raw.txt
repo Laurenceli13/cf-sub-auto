@@ -1,2 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHdnNqUTBPWjVuR1FYREdmemZXWmY1@212.227.146.33:443#土耳其/布尔萨/Türkiye/Bursa
-vless://b970f499-b1b2-4a66-89c3-45194db6c0d5@64.49.15.196:80?security=reality&encryption=none&pbk=dlkerkvPd88_3wGr9X0JoNBa8cNAwT6SaNTn7W53e1s&headerType=none&fp=chrome&spx=%2F0yd6yaBj1MgmzJT&type=tcp&sni=aws.amazon.com&sid=2cd3b71e70dc77#土耳其/伊斯坦布尔/Türkiye/Istanbul
+vless://7f89560c-b9f0-4c56-b3e0-1b1bdafe0b08@45.195.137.111:8443?security=reality&encryption=none&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=e3d38cee79d4f94c#土耳其/布尔萨/Türkiye/Bursa

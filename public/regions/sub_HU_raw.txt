@@ -1,1 +1,2 @@
-vless://6e25f7b4-efce-425a-af98-3f310623bfa2@109.61.18.75:8044?security=none&type=tcp&headerType=http&path=%2F&host=play.google.com&packetEncoding=xudp#%E5%8C%88%E7%89%99%E5%88%A9+V2CROSS.COM
+vless://7896c501-248f-4068-bc2f-363c91ba5122@45.198.87.224:8443?security=reality&type=tcp&packetEncoding=xudp&sni=storage.yandex.net&fp=chrome&flow=xtls-rprx-vision&sid=2715592069f36fe7&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&encryption=none#%F0%9F%87%AD%F0%9F%87%BAHU_1%7C2.5MB%2Fs
+vless://7896c501-248f-4068-bc2f-363c91ba5122@45.198.87.224:8443?sni=storage.yandex.net&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%AD%F0%9F%87%BAHU_1%7C2.5MB/s

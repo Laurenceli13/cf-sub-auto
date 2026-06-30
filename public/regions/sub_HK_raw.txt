@@ -1,6 +1,2 @@
 hysteria2://a305ac08-d136-11ee-b6db-f23c91cfbbc9@ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com:443?sni=ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com#%F0%9F%87%AD%F0%9F%87%B0%20HK
-hysteria2://a305ac08-d136-11ee-b6db-f23c91cfbbc9@ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com:443?sni=ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com#7%7C%20HK
-vless://3e06720a-86f0-49b9-8f00-062681e3b385@vip.bcjdvip.com:14001?allowInsecure=1&sni=apple.com&flow=xtls-rprx-vision-udp443&fp=safari&security=tls#%F0%9F%87%AD%F0%9F%87%B0HK_1%7C1.0MB/s
-vless://3e06720a-86f0-49b9-8f00-062681e3b385@vip.bcjdvip.com:14001?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=apple.com&fp=safari&flow=xtls-rprx-vision&sid=16&pbk=Iy9qptuQLY7JphySdvf09hOBj6Ym76Sxj1rIwS4Qmnk#%F0%9F%87%AD%F0%9F%87%B0HK_1%7C1.0MB%2Fs
-vless://3e06720a-86f0-49b9-8f00-062681e3b385@vip.bcjdvip.com:14007?allowInsecure=1&sni=apple.com&flow=xtls-rprx-vision-udp443&fp=safari&security=tls#%F0%9F%87%AD%F0%9F%87%B0HK_2%7C1021KB/s
-vless://3e06720a-86f0-49b9-8f00-062681e3b385@vip.bcjdvip.com:14007?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=apple.com&fp=safari&flow=xtls-rprx-vision&sid=1d89ebb78c&pbk=wybFjQzLnkKIaaTEhwp_N9UXU8miqds9U__P971YHlU#%F0%9F%87%AD%F0%9F%87%B0HK_2%7C1021KB%2Fs
+hysteria2://a305ac08-d136-11ee-b6db-f23c91cfbbc9@ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com:443?sni=ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com#8%7C%20HK

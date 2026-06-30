@@ -1,11 +1,11 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHdnNqUTBPWjVuR1FYREdmemZXWmY1@212.227.146.33:443#印度尼西亚/雅加达/Indonesia/Jakarta
-vless://7896c501-248f-4068-bc2f-363c91ba5122@45.198.87.102:8443?allowInsecure=1&sni=storage.yandex.net&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#12%7CID_speednode_0012
+trojan://tUtK5TKdjxsPnOyritLtv8OQWHAK8f8yNR@130.94.94.15:443?security=tls&sni=130.94.94.15&fp=chrome&type=tcp&headerType=none&path=%2f&allow_insecure=1#印度尼西亚/雅加达/Indonesia/Jakarta
+vless://7896c501-248f-4068-bc2f-363c91ba5122@45.198.87.102:8443?allowInsecure=1&sni=storage.yandex.net&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#13%7CID_speednode_0012
 vless://7896c501-248f-4068-bc2f-363c91ba5122@45.198.87.102:8443?allowInsecure=1&sni=storage.yandex.net&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#ID_speednode_0012
-vless://7896c501-248f-4068-bc2f-363c91ba5122@45.198.87.13:8443?allowInsecure=1&sni=storage.yandex.net&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#12%7CID_speednode_0010
+vless://7896c501-248f-4068-bc2f-363c91ba5122@45.198.87.13:8443?allowInsecure=1&sni=storage.yandex.net&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#13%7CID_speednode_0010
 vless://7896c501-248f-4068-bc2f-363c91ba5122@45.198.87.13:8443?allowInsecure=1&sni=storage.yandex.net&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#ID_speednode_0010
-vless://7896c501-248f-4068-bc2f-363c91ba5122@45.198.87.168:8443?allowInsecure=1&sni=storage.yandex.net&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#12%7CID_speednode_0009
+vless://7896c501-248f-4068-bc2f-363c91ba5122@45.198.87.168:8443?allowInsecure=1&sni=storage.yandex.net&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#13%7CID_speednode_0009
 vless://7896c501-248f-4068-bc2f-363c91ba5122@45.198.87.168:8443?allowInsecure=1&sni=storage.yandex.net&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#ID_speednode_0009
-vless://7896c501-248f-4068-bc2f-363c91ba5122@45.198.87.203:8443?allowInsecure=1&sni=storage.yandex.net&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#12%7CID_speednode_0011
+vless://7896c501-248f-4068-bc2f-363c91ba5122@45.198.87.203:8443?allowInsecure=1&sni=storage.yandex.net&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#13%7CID_speednode_0011
 vless://7896c501-248f-4068-bc2f-363c91ba5122@45.198.87.203:8443?allowInsecure=1&sni=storage.yandex.net&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#ID_speednode_0011
-vless://7896c501-248f-4068-bc2f-363c91ba5122@45.198.87.33:8443?allowInsecure=1&sni=storage.yandex.net&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#12%7CID_speednode_0013
+vless://7896c501-248f-4068-bc2f-363c91ba5122@45.198.87.33:8443?allowInsecure=1&sni=storage.yandex.net&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#13%7CID_speednode_0013
 vless://7896c501-248f-4068-bc2f-363c91ba5122@45.198.87.33:8443?allowInsecure=1&sni=storage.yandex.net&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#ID_speednode_0013

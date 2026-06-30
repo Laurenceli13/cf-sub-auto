@@ -1,2 +1,3 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHdnNqUTBPWjVuR1FYREdmemZXWmY1@212.227.146.33:443#意大利/贝尔加莫/Italy/Bergamo
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVazhsZm12aFlueDVySnZYeEtyUnFHUnluZDlnSXBKLmlZ@193.168.175.56:14605#意大利/Italy
+vless://61c26331-82fc-4589-80b2-65b29bfee7bf@Kslslaksks.serendpiti.ir:2069?security=reality&type=xhttp&path=%2Fpath&host=hostname&packetEncoding=xudp&sni=www.yahoo.com&fp=chrome&sid=30d1b04664171658&pbk=-9Tb3_QgseCyC35nHODuk2kcsp6dSIiFsjOlMUgN7jQ&mode=auto&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%2C%22scMaxEachPostBytes%22%3A1000000%2C%22scMinPostsIntervalMs%22%3A30%7D&encryption=none#%F0%9F%87%AE%F0%9F%87%B9IT_1%7C2.3MB%2Fs
+vless://61c26331-82fc-4589-80b2-65b29bfee7bf@Kslslaksks.serendpiti.ir:2069?sni=www.yahoo.com&fp=chrome&security=tls#%F0%9F%87%AE%F0%9F%87%B9IT_1%7C2.3MB/s
