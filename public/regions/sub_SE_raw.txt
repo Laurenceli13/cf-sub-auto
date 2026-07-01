@@ -1,1 +1,1 @@
-vless://abf52aa8-efd8-4849-8ded-fda151d4308b@194.24.161.228:58055?security=reality&encryption=none&pbk=eiDyRuMGa0Jyb2Ff4w1Pb7zTri5h38R2w0kZj0uksF4&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=374b32ed91f8f023#瑞典/Sweden
+ss://YWVzLTI1Ni1jZmI6UnNEazNwZUNTdW83NkI2OA==@180.101.193.226:10068#瑞典/Sweden

@@ -1,2 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXU3lMNFhUd05zZHY@108.181.121.226:8388#西班牙/巴塞罗那/Spain/Barcelona
-vless://f07a3816-f527-4ce8-8d21-ada012618695@fin-jd.jdvpn.shakhle.ir:22000?security=reality&encryption=none&pbk=xLCgdUiKeBpYK3YsT96d81yuhFuVgUeANbVeiQACRWw&headerType=none&fp=firefox&type=tcp&sni=fontawesome.com&sid=6ba85179e30d4fc2#西班牙/马德里/Spain/Madrid
+vmess://04621bae-ab36-11ec-b909-0242ac120002@85.90.217.42:22324?encryption=auto&security=none&type=tcp#西班牙/马德里/Spain/Madrid

@@ -1,3 +1,1 @@
-vless://abf52aa8-efd8-4849-8ded-fda151d4308b@194.24.161.228:58055?security=reality&encryption=none&pbk=eiDyRuMGa0Jyb2Ff4w1Pb7zTri5h38R2w0kZj0uksF4&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=374b32ed91f8f023#捷克/Czechia
-vless://e3e90161-fe65-443a-a3a4-e0e3a73704ca@95.85.227.25:443?allowInsecure=0&sni=pol1.hatvpn.org&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#13%7CCZ_speednode_0002
-vless://e3e90161-fe65-443a-a3a4-e0e3a73704ca@95.85.227.25:443?allowInsecure=0&sni=pol1.hatvpn.org&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#CZ_speednode_0002
+vless://Telegram-%40Cooonfig-%40Cooonfig@65.109.217.136:80?encryption=none&type=tcp&headerType=http&path=%2F&host=play.google.com#捷克/Czechia
