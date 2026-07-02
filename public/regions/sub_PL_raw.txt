@@ -1,1 +1,2 @@
-vless://37a0bd7c-8b9f-4693-8916-bd1e2da0a817@128.204.223.94:9815?path=%2F&security=none&encryption=none&type=ws#波兰/华沙/Poland/Warsaw
+vless://17d53a3b-ba7f-4adb-8885-8bb135ee2ebe@cdn-mws.garagecloud.ru:443?sni=cdn-mws.garagecloud.ru&fp=firefox&security=tls#%F0%9F%87%B5%F0%9F%87%B1PL_1%7C2.1MB/s
+vless://e08e7045-abd0-47aa-aa52-2820c4b869be@146.70.161.33:14304?sni=www.apple.com&type=grpc&serviceName=api&fp=qq&security=tls#%F0%9F%87%B5%F0%9F%87%B1PL_2%7C3.6MB/s

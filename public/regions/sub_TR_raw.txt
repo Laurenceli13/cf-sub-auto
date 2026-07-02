@@ -1,1 +1,1 @@
-vless://7f89560c-b9f0-4c56-b3e0-1b1bdafe0b08@45.195.137.111:8443?security=reality&encryption=none&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=e3d38cee79d4f94c#土耳其/布尔萨/Türkiye/Bursa
+hysteria2://zru63dr6vokx56iy@tr-1.metsima.com:52067?security=tls&obfs=salamander&obfs-password=60wvbymjlc9zw3gk&insecure=0&sni=tr-1.metsima.com#土耳其/Türkiye

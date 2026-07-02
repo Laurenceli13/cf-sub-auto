@@ -1,1 +1,1 @@
-vless://dc0d0eda-2293-4001-aa03-bd6c9431ed24@ov-italy1.09vpn.com:8443?path=%2Fvless%2F&security=tls&encryption=none&insecure=0&host=ov-italy1.09vpn.com&type=ws&allowInsecure=0&sni=ov-italy1.09vpn.com#意大利/Italy
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVazhsZm12aFlueDVySnZYeEtyUnFHUnluZDlnSXBKLmlZ@103.241.66.76:14605#意大利/Italy
