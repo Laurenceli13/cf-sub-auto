@@ -1,2 +1,2 @@
-hy2://e7965e64-e001-4e8c-8273-39c61ff4a094@sg3.oomz.ru:30000/?insecure=1&sni=bing.com#瑞典/Sweden
-vmess://eyJ2IjoiMiIsInBzIjoiU0Ug8J+HuPCfh6ogfCBAUmF5ZGlrYWx4IHwgNTAyIiwiYWRkIjoiNjIuNjAuMTUxLjQxIiwicG9ydCI6NTc4NjUsImlkIjoiM2M2MWVhNTMtYTU1MC00MjUyLTgyMTEtOTU2ZjlmN2RjMmQwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidGxzIjoibm9uZSIsInBhdGgiOiIvIiwiaG9zdCI6IiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9#瑞典/斯德哥尔摩/Sweden/Stockholm
+ss://YWVzLTI1Ni1nY206Z3F0d0d1OWJWcmVKcUwzRlRIU1ZLR3p5@138.199.19.169:50695#瑞典/斯德哥尔摩/Sweden/Stockholm
+vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=%2FLiL%3Fed%3D2560&security=tls&alpn=h3&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=kingcloud.biack.ir#瑞典/Sweden
