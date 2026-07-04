@@ -1,4 +1,4 @@
-ss://YWVzLTI1Ni1jZmI6ZUlXMERuazY5NDU0ZTZuU3d1c3B2OURtUzIwMXRRMEQ=@172.104.123.158:8097#印度尼西亚/雅加达/Indonesia/Jakarta
+vless://481c5606-b586-44d7-bc2e-d8ef30d67f62@176.120.72.63:38339?security=reality&encryption=none&pbk=o0MFuznHh_Wztg0FTAMhFXm3hjAqOJAJIIVNn-_A9WA&headerType=none&fp=chrome&type=tcp&sni=dl.google.com&sid=e16883e511#印度尼西亚/雅加达/Indonesia/Jakarta
 vless://7896c501-248f-4068-bc2f-363c91ba5122@45.198.87.102:8443?allowInsecure=1&sni=storage.yandex.net&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#13%7CID_speednode_0012
 vless://7896c501-248f-4068-bc2f-363c91ba5122@45.198.87.102:8443?allowInsecure=1&sni=storage.yandex.net&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#ID_speednode_0012
 vless://7896c501-248f-4068-bc2f-363c91ba5122@45.198.87.13:8443?allowInsecure=1&sni=storage.yandex.net&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#13%7CID_speednode_0010
