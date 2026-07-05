@@ -1,1 +1,5 @@
-vless://481c5606-b586-44d7-bc2e-d8ef30d67f62@176.120.72.63:38339?security=reality&encryption=none&pbk=o0MFuznHh_Wztg0FTAMhFXm3hjAqOJAJIIVNn-_A9WA&headerType=none&fp=chrome&type=tcp&sni=dl.google.com&sid=e16883e511#意大利/Italy
+vless://3f298aca-2412-49ac-9f20-235f0e448d31@talianaccentclouding.iranlast.com:7009?security=reality&type=tcp&packetEncoding=xudp&sni=yahoo.com&fp=chrome&pbk=f8TgqVBYK3tmhip3lJ-r8D0i6fqEF1Zy-zAfEhS-Cl8&encryption=none#%F0%9F%87%AE%F0%9F%87%B9IT_1%7C2.0MB%2Fs
+vless://3f298aca-2412-49ac-9f20-235f0e448d31@talianaccentclouding.iranlast.com:7009?sni=yahoo.com&fp=chrome&security=tls#%F0%9F%87%AE%F0%9F%87%B9IT_1%7C2.0MB/s
+vless://97d290a0-acec-4aae-b8cf-c7111a5a6397@85.208.85.227:9879?security=reality&type=grpc&mode=gun&serviceName=grpc-tunnel&packetEncoding=xudp&sni=dl.google.com&fp=qq&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&encryption=none#%F0%9F%87%AE%F0%9F%87%B9IT_2%7C1.6MB%2Fs
+vless://97d290a0-acec-4aae-b8cf-c7111a5a6397@85.208.85.227:9879?sni=dl.google.com&type=grpc&serviceName=grpc-tunnel&fp=qq&security=tls#%F0%9F%87%AE%F0%9F%87%B9IT_2%7C1.6MB/s
+vless://b3eed393-e990-40a0-978c-689d40be9da4@77.74.123.132:448?security=reality&encryption=none&pbk=i3cJbIu8AN7qCD7xQTVfCN7de9RkxVohk_PGQgHqRl8&headerType=none&fp=chrome&type=tcp&sni=www.samsung.com&sid=52a74e01683e9173#意大利/Italy

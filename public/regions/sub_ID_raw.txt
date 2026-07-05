@@ -1,4 +1,4 @@
-vless://481c5606-b586-44d7-bc2e-d8ef30d67f62@176.120.72.63:38339?security=reality&encryption=none&pbk=o0MFuznHh_Wztg0FTAMhFXm3hjAqOJAJIIVNn-_A9WA&headerType=none&fp=chrome&type=tcp&sni=dl.google.com&sid=e16883e511#印度尼西亚/雅加达/Indonesia/Jakarta
+trojan://tUtK5TKdjxsPnOyritLtv8OQWHAK8f8yNR@130.94.94.15:443?allowInsecure=0&sni=130.94.94.15#印度尼西亚/雅加达/Indonesia/Jakarta
 vless://7896c501-248f-4068-bc2f-363c91ba5122@45.198.87.102:8443?allowInsecure=1&sni=storage.yandex.net&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#13%7CID_speednode_0012
 vless://7896c501-248f-4068-bc2f-363c91ba5122@45.198.87.102:8443?allowInsecure=1&sni=storage.yandex.net&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#ID_speednode_0012
 vless://7896c501-248f-4068-bc2f-363c91ba5122@45.198.87.13:8443?allowInsecure=1&sni=storage.yandex.net&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#13%7CID_speednode_0010

@@ -1,2 +1,2 @@
-vless://732a3a5c-5dee-42c7-a898-139e35b78c5d@152.233.31.71:16923?security=reality&type=grpc&mode=gun&serviceName=neurex&packetEncoding=xudp&sni=api-maps.yandex.ru&fp=qq&sid=10ffb85da1c2d986&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&encryption=none#%F0%9F%87%A8%F0%9F%87%ADCH_1%7C2.4MB%2Fs
-vless://732a3a5c-5dee-42c7-a898-139e35b78c5d@152.233.31.71:16923?sni=api-maps.yandex.ru&type=grpc&serviceName=neurex&fp=qq&security=tls#%F0%9F%87%A8%F0%9F%87%ADCH_1%7C2.4MB/s
+vless://daff1228-8d1a-4812-a57a-09604faa5e0c@45.195.137.123:8443?security=reality&type=tcp&packetEncoding=xudp&sni=storage.yandex.net&fp=chrome&flow=xtls-rprx-vision&sid=cf9d145ad8f1ea55&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&encryption=none#%F0%9F%87%A8%F0%9F%87%ADCH_1%7C2.6MB%2Fs
+vless://daff1228-8d1a-4812-a57a-09604faa5e0c@45.195.137.123:8443?sni=storage.yandex.net&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%A8%F0%9F%87%ADCH_1%7C2.6MB/s

@@ -1,3 +1,2 @@
-vless://481c5606-b586-44d7-bc2e-d8ef30d67f62@176.120.72.63:38339?security=reality&encryption=none&pbk=o0MFuznHh_Wztg0FTAMhFXm3hjAqOJAJIIVNn-_A9WA&headerType=none&fp=chrome&type=tcp&sni=dl.google.com&sid=e16883e511#瑞典/斯德哥尔摩/Sweden/Stockholm
-vless://564397f8-4805-4433-ab5b-a24aa133bac2@app.oneoker.com:443?security=reality&type=grpc&mode=gun&serviceName=api.v1.StreamService&packetEncoding=xudp&sni=app.oneoker.com&fp=chrome&sid=1c63aa937542d3c0&pbk=AmAdR0vhSJczokH8dMt81F-6BGFyKPtBwuxqbuPlyAk&encryption=none#%F0%9F%87%B8%F0%9F%87%AASE_1%7C1.6MB%2Fs
-vless://564397f8-4805-4433-ab5b-a24aa133bac2@app.oneoker.com:443?sni=app.oneoker.com&type=grpc&serviceName=api.v1.StreamService&fp=chrome&security=tls#%F0%9F%87%B8%F0%9F%87%AASE_1%7C1.6MB/s
+hysteria2://16de749f-ce86-4ccd-9743-7a0ff2556185@velikhis.normbot.ru:443?insecure=0&sni=velikhis.normbot.ru&obfs=&obfs-password=#%F0%9F%87%B8%F0%9F%87%AASE_1%7C2.6MB/s
+hysteria2://16de749f-ce86-4ccd-9743-7a0ff2556185@velikhis.normbot.ru:443?sni=velikhis.normbot.ru#%F0%9F%87%B8%F0%9F%87%AASE_1%7C2.6MB%2Fs
