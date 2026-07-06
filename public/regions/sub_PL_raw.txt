@@ -1,3 +1,4 @@
-vless://6386ea1b-37da-4493-b922-7c2674c10c06@37.252.10.140:443?security=reality&type=grpc&mode=gun&serviceName=grpc&packetEncoding=xudp&sni=www.samsung.com&fp=qq&sid=9c96420532ebe46c&pbk=TleO2NpQAVohMUsmgQrR-QZuUbwYw-57kn3Lhcqt43c#%F0%9F%87%B5%F0%9F%87%B1PL_1%7C2.3MB%2Fs
-vless://6386ea1b-37da-4493-b922-7c2674c10c06@37.252.10.140:443?sni=www.samsung.com&type=grpc&serviceName=grpc&fp=qq&security=tls#%F0%9F%87%B5%F0%9F%87%B1PL_1%7C2.3MB/s
-vless://b3eed393-e990-40a0-978c-689d40be9da4@77.74.123.132:448?security=reality&encryption=none&pbk=i3cJbIu8AN7qCD7xQTVfCN7de9RkxVohk_PGQgHqRl8&headerType=none&fp=chrome&type=tcp&sni=www.samsung.com&sid=52a74e01683e9173#波兰/华沙/Poland/Warsaw
+vless://497631c4-a1a4-45ff-a86a-f42873473bb6@82.22.40.203:443?security=reality&type=tcp&packetEncoding=xudp&sni=pl.quattro-tech.ru&fp=chrome&flow=xtls-rprx-vision&sid=43dcff53849b81e6&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&encryption=none#%F0%9F%87%B5%F0%9F%87%B1PL_1%7C2.5MB%2Fs
+vless://497631c4-a1a4-45ff-a86a-f42873473bb6@82.22.40.203:443?sni=pl.quattro-tech.ru&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%B5%F0%9F%87%B1PL_1%7C2.5MB/s
+vless://ef14c532-b69a-4f46-ae29-272f2fdaf673@87.199.200.144:8090?security=none&type=ws&path=%2Fws&host=rukr.speedload.ru&packetEncoding=xudp&encryption=none#%F0%9F%87%B5%F0%9F%87%B1PL_2%7C2.1MB%2Fs
+vless://ef14c532-b69a-4f46-ae29-272f2fdaf673@87.199.200.144:8090?type=ws&host=rukr.speedload.ru&path=/ws#%F0%9F%87%B5%F0%9F%87%B1PL_2%7C2.1MB/s

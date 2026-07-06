@@ -1,2 +1,4 @@
-vless://ada4f294-b5c1-4de4-82ba-a654e2c3a30b@hu99.bearbeer.digital:443?security=reality&type=xhttp&packetEncoding=xudp&sni=hu99.bearbeer.digital&fp=qq&pbk=z-TKWOWgZLfzQ-wNdwXQqVwaUgCmbchM2Xtrk1NGynU&mode=auto#%F0%9F%87%AD%F0%9F%87%BAHU_1%7C2.1MB%2Fs
-vless://ada4f294-b5c1-4de4-82ba-a654e2c3a30b@hu99.bearbeer.digital:443?sni=hu99.bearbeer.digital&fp=qq&security=tls#%F0%9F%87%AD%F0%9F%87%BAHU_1%7C2.1MB/s
+vless://7896c501-248f-4068-bc2f-363c91ba5122@45.198.87.100:8443?allowInsecure=0&sni=storage.yandex.net&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#%F0%9F%87%AD%F0%9F%87%BAHU_2%7C2.5MB/s
+vless://7896c501-248f-4068-bc2f-363c91ba5122@45.198.87.100:8443?security=reality&type=tcp&packetEncoding=xudp&sni=storage.yandex.net&fp=firefox&flow=xtls-rprx-vision&sid=2715592069f36fe7&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg#%F0%9F%87%AD%F0%9F%87%BAHU_2%7C2.5MB%2Fs
+vless://7896c501-248f-4068-bc2f-363c91ba5122@45.198.87.87:8443?allowInsecure=0&sni=storage.yandex.net&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%AD%F0%9F%87%BAHU_1%7C1.9MB/s
+vless://7896c501-248f-4068-bc2f-363c91ba5122@45.198.87.87:8443?security=reality&type=tcp&packetEncoding=xudp&sni=storage.yandex.net&fp=chrome&flow=xtls-rprx-vision&sid=2715592069f36fe7&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&encryption=none#%F0%9F%87%AD%F0%9F%87%BAHU_1%7C1.9MB%2Fs
