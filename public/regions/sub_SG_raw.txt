@@ -1,15 +1,7 @@
-hysteria2://13d29042-ab82-4195-9cd4-2bafc518e201@45.88.42.29:50117?insecure=1&sni=iosapps.itunes.apple.com#新加坡/新加坡/Singapore/Singapore
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@47.128.242.210:443/?insecure=1#新加坡/新加坡/Singapore/Singapore
 hysteria2://e7965e64-e001-4e8c-8273-39c61ff4a094@sg3.oomz.ru:30000?insecure=1&sni=bing.com#8%7CSG
 hysteria2://e7965e64-e001-4e8c-8273-39c61ff4a094@sg3.oomz.ru:30000?insecure=1&sni=bing.com#SG
-ss://aes-128-gcm%3A6601fb90e9b3@csgfw.top:443#SG%20SS-601%20%7C%20free-nodes
 ss://aes-128-gcm%3A6601fb90e9b3@csgfw.top:443#SG%20SS-607%20%7C%20free-nodes
-trojan://BxceQaOe@16.163.150.200:41421?allowInsecure=1&sni=t.me%252Fripaojiedian#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A13%7C%40ripaojiedian
-trojan://BxceQaOe@16.163.150.200:41421?allowInsecure=1&sni=t.me%252Fripaojiedian#11%7C%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A13%7C%40ripaojiedian
+ss://aes-128-gcm%3A6601fb90e9b3@csgfw.top:443#SG%20SS-624%20%7C%20free-nodes
 trojan://d6788cf74e6844c45538204efd24b00f@18.162.58.236:6357?allowInsecure=1&sni=www.nintendogames.net#%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40ripaojiedian
 trojan://d6788cf74e6844c45538204efd24b00f@18.162.58.236:6357?allowInsecure=1&sni=www.nintendogames.net#11%2C12%7C%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40ripaojiedian
-vless://ba746959-18e7-471c-b00f-fa5cdd930abf@162.159.48.193:8880?security=none&type=ws&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net&host=crimson-bread-c38e.295.workers.dev&packetEncoding=xudp#%F0%9F%87%B8%F0%9F%87%ACSG_3%7C2.5MB%2Fs
-vless://ba746959-18e7-471c-b00f-fa5cdd930abf@162.159.48.193:8880?type=ws&host=crimson-bread-c38e.295.workers.dev&path=/pyip=ProxyIP.JP.CMLiussss.net#%F0%9F%87%B8%F0%9F%87%ACSG_3%7C2.5MB/s
-vless://cf75e4d5-21f0-426b-bebb-1fa7c5d52343@108.162.192.206:80?security=none&type=ws&path=%2FIn_Panel_Rayeghan_Ast_Va_Gheyre_Ghabele_Foroosh&host=zeus-panel-4tzfj3.zeus-d3z3w8.workers.dev&packetEncoding=xudp&sni=zeus-panel-4tzfj3.zeus-d3z3w8.workers.dev&encryption=none#%F0%9F%87%B8%F0%9F%87%ACSG_2%7C2.0MB%2Fs
-vless://cf75e4d5-21f0-426b-bebb-1fa7c5d52343@108.162.192.206:80?sni=zeus-panel-4tzfj3.zeus-d3z3w8.workers.dev&type=ws&host=zeus-panel-4tzfj3.zeus-d3z3w8.workers.dev&path=/In_Panel_Rayeghan_Ast_Va_Gheyre_Ghabele_Foroosh#%F0%9F%87%B8%F0%9F%87%ACSG_2%7C2.0MB/s
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.35.37:8443?allowInsecure=0&sni=t1s1.rittbo.kdns.fr&type=ws&host=t1s1.rittbo.kdns.fr&path=/fp=chrome&security=tls#%F0%9F%87%B8%F0%9F%87%ACSG_1%7C2.1MB/s
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.35.37:8443?security=tls&type=ws&path=%2F&host=t1s1.rittbo.kdns.fr&packetEncoding=xudp&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&sni=t1s1.rittbo.kdns.fr&fp=chrome&encryption=none#%F0%9F%87%B8%F0%9F%87%ACSG_1%7C2.1MB%2Fs

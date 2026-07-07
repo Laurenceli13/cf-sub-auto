@@ -1,2 +1,2 @@
-hysteria2://16de749f-ce86-4ccd-9743-7a0ff2556185@velikhis.normbot.ru:443?insecure=0&sni=velikhis.normbot.ru&obfs=&obfs-password=#%F0%9F%87%B8%F0%9F%87%AASE_1%7C2.6MB/s
-hysteria2://16de749f-ce86-4ccd-9743-7a0ff2556185@velikhis.normbot.ru:443?sni=velikhis.normbot.ru#%F0%9F%87%B8%F0%9F%87%AASE_1%7C2.6MB%2Fs
+vless://43eb972f-f2fa-47dd-9916-85322c6e2c47@176.109.88.218:443?security=tls&type=grpc&mode=gun&serviceName=%2Fsequre%2Fgrpc%2F&packetEncoding=xudp&alpn=h2&sni=95.85.246.16.speed-storage.ru&fp=edge&encryption=none#%F0%9F%87%B8%F0%9F%87%AASE_1%7C2.1MB%2Fs
+vless://43eb972f-f2fa-47dd-9916-85322c6e2c47@176.109.88.218:443?sni=95.85.246.16.speed-storage.ru&alpn=h2&type=grpc&serviceName=/sequre/grpc/&fp=edge&security=tls#%F0%9F%87%B8%F0%9F%87%AASE_1%7C2.1MB/s

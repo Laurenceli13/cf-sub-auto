@@ -1,1 +1,1 @@
-vless://bf142126-5bc4-46fa-986e-ffc4517655dd@fi-one.quiet-rogue.site:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fi-one.quiet-rogue.site&fp=edge&pbk=Fi75oZHrKW7x0sRs6W8LVszs3F8M0jem2Xk9gGe1cU0&sid=108a993d472517c2&type=tcp&headerType=none#%E6%8C%AA%E5%A8%81+V2CROSS.COM
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@185.213.23.63:990#挪威/奥斯陆/Norway/Oslo

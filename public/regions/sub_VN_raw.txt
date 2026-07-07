@@ -1,1 +1,1 @@
-ss://YWVzLTI1Ni1jZmI6Rkc1ZGRMc01QYlY1Q3V0RQ==@185.167.116.253:9050#越南/Vietnam
+trojan://NAdtbpuyJXPH=CfKmdBqD2YVbzdvwAtuxw@38.60.252.118:443?security=tls&type=tcp&headerType=none&path=%2f&allow_insecure=0#越南/Vietnam

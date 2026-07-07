@@ -1,4 +1,1 @@
-vless://497631c4-a1a4-45ff-a86a-f42873473bb6@82.22.40.203:443?security=reality&type=tcp&packetEncoding=xudp&sni=pl.quattro-tech.ru&fp=chrome&flow=xtls-rprx-vision&sid=43dcff53849b81e6&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&encryption=none#%F0%9F%87%B5%F0%9F%87%B1PL_1%7C2.5MB%2Fs
-vless://497631c4-a1a4-45ff-a86a-f42873473bb6@82.22.40.203:443?sni=pl.quattro-tech.ru&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%B5%F0%9F%87%B1PL_1%7C2.5MB/s
-vless://ef14c532-b69a-4f46-ae29-272f2fdaf673@87.199.200.144:8090?security=none&type=ws&path=%2Fws&host=rukr.speedload.ru&packetEncoding=xudp&encryption=none#%F0%9F%87%B5%F0%9F%87%B1PL_2%7C2.1MB%2Fs
-vless://ef14c532-b69a-4f46-ae29-272f2fdaf673@87.199.200.144:8090?type=ws&host=rukr.speedload.ru&path=/ws#%F0%9F%87%B5%F0%9F%87%B1PL_2%7C2.1MB/s
+trojan://b8808043-6566-4923-9195-e66bfb553d57@51.38.99.96:443?security=tls&sni=ba24.ir#波兰/华沙/Poland/Warsaw
