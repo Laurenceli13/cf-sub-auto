@@ -1,2 +1,1 @@
-vless://43eb972f-f2fa-47dd-9916-85322c6e2c47@176.109.88.218:443?security=tls&type=grpc&mode=gun&serviceName=%2Fsequre%2Fgrpc%2F&packetEncoding=xudp&alpn=h2&sni=95.85.246.16.speed-storage.ru&fp=edge&encryption=none#%F0%9F%87%B8%F0%9F%87%AASE_1%7C2.1MB%2Fs
-vless://43eb972f-f2fa-47dd-9916-85322c6e2c47@176.109.88.218:443?sni=95.85.246.16.speed-storage.ru&alpn=h2&type=grpc&serviceName=/sequre/grpc/&fp=edge&security=tls#%F0%9F%87%B8%F0%9F%87%AASE_1%7C2.1MB/s
+hysteria2://837e9ea2-cf0b-46a1-93a8-7e25c3a4066c@31.77.144.133:443?alpn=h3&sni=argg9.auragg.org#瑞典/斯德哥尔摩/Sweden/Stockholm

@@ -1,5 +1,5 @@
-hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@45.196.182.140:8449?security=tls&sni=sni.fi-m247-02.com#%E5%8D%97%E9%9D%9E+V2CROSS.COM
-hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@45.196.182.144:8449?insecure=0&obfs=&obfs-password=&security=tls&sni=sni.fi-m247-02.com#%E5%8D%97%E9%9D%9E+V2CROSS.COM
-hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@45.196.182.235:8449?allowInsecure=0&insecure=0&security=tls&sni=sni.fi-m247-02.com#%E5%8D%97%E9%9D%9E+V2CROSS.COM
-hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@45.196.182.250:8449?security=tls&sni=sni.fi-m247-02.com#%E5%8D%97%E9%9D%9E+V2CROSS.COM
-vless://eece4171-e025-40a3-9027-e395036ff99d@45.198.80.220:443?security=reality&encryption=none&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=28047c78b3f5ee2c#%E5%8D%97%E9%9D%9E+V2CROSS.COM
+hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@45.196.182.156:8449?insecure=1&security=tls&sni=https%3A%2F%2Ft.me%2FQiangLieTuiJian#%E5%8D%97%E9%9D%9E+V2CROSS.COM
+hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@45.196.182.169:8449?security=tls&sni=sni.fi-m247-02.com#%E5%8D%97%E9%9D%9E+V2CROSS.COM
+hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@45.196.182.174:8449?allowInsecure=0&insecure=0&security=tls&sni=sni.fi-m247-02.com#%E5%8D%97%E9%9D%9E+V2CROSS.COM
+hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@45.196.182.183:8449?allowInsecure=0&insecure=0&security=tls&sni=sni.fi-m247-02.com#%E5%8D%97%E9%9D%9E+V2CROSS.COM
+hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@45.196.182.242:8449?insecure=1&security=tls&sni=https%3A%2F%2Ft.me%2FQiangLieTuiJian#%E5%8D%97%E9%9D%9E+V2CROSS.COM

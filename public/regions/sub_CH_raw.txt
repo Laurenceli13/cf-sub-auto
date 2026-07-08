@@ -1,2 +1,4 @@
-vless://15d72e96-789f-47ca-ae2a-9c2f9a6de9d9@89.208.210.216:443?security=reality&type=tcp&packetEncoding=xudp&sni=yandex.ru&fp=safari&flow=xtls-rprx-vision&pbk=WrPShaEtQUXeKeyWDuELzBsd_ygDsU-k2bL1Avi13xI&encryption=none#%F0%9F%87%A8%F0%9F%87%ADCH_1%7C2.4MB%2Fs
-vless://15d72e96-789f-47ca-ae2a-9c2f9a6de9d9@89.208.210.216:443?sni=yandex.ru&flow=xtls-rprx-vision-udp443&fp=safari&security=tls#%F0%9F%87%A8%F0%9F%87%ADCH_1%7C2.4MB/s
+vless://daff1228-8d1a-4812-a57a-09604faa5e0c@45.195.137.169:8443?security=reality&type=raw&packetEncoding=xudp&sni=storage.yandex.net&fp=firefox&flow=xtls-rprx-vision&sid=cf9d145ad8f1ea55&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY#%F0%9F%87%A8%F0%9F%87%ADCH_1%7C1.9MB%2Fs
+vless://daff1228-8d1a-4812-a57a-09604faa5e0c@45.195.137.169:8443?sni=storage.yandex.net&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#%F0%9F%87%A8%F0%9F%87%ADCH_1%7C1.9MB/s
+vless://daff1228-8d1a-4812-a57a-09604faa5e0c@45.195.137.206:8443?security=reality&type=tcp&packetEncoding=xudp&sni=storage.yandex.net&fp=firefox&flow=xtls-rprx-vision&sid=cf9d145ad8f1ea55&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY#%F0%9F%87%A8%F0%9F%87%ADCH_2%7C1.5MB%2Fs
+vless://daff1228-8d1a-4812-a57a-09604faa5e0c@45.195.137.206:8443?sni=storage.yandex.net&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#%F0%9F%87%A8%F0%9F%87%ADCH_2%7C1.5MB/s

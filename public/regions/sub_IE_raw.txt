@@ -1,1 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2SXhNenQ4VzFtRlI0elo1@168.63.66.81:443?outline=1&prefix=POST#爱尔兰/都柏林/Ireland/Dublin
+vless://d9640a0a-b888-402d-8537-63ba0f946c3a@89.125.76.98:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sto.nautilusvpn.ru&fp=chrome&pbk=BX8CqIiZTbjfp--_TsYmp5pPQzzIZZ6rW9ly5HxDM3E&sid=8c554321&type=tcp&headerType=none#%E7%88%B1%E5%B0%94%E5%85%B0+V2CROSS.COM
