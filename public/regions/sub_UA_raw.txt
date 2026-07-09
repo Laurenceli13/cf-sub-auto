@@ -1,4 +1,2 @@
-vless://394f6981-a782-4779-9a85-e6cf22935d93@143.244.45.50:8443?allowInsecure=0&sni=ams1.fromblancwithlove.com&fp=chrome&security=tls#13%7CUA_speednode_0085
-vless://394f6981-a782-4779-9a85-e6cf22935d93@143.244.45.50:8443?allowInsecure=0&sni=ams1.fromblancwithlove.com&fp=chrome&security=tls#UA_speednode_0085
-vless://394f6981-a782-4779-9a85-e6cf22935d93@143.244.45.55:8443?allowInsecure=0&sni=ams1.fromblancwithlove.com&fp=chrome&security=tls#13%7CUA_speednode_0086
-vless://394f6981-a782-4779-9a85-e6cf22935d93@143.244.45.55:8443?allowInsecure=0&sni=ams1.fromblancwithlove.com&fp=chrome&security=tls#UA_speednode_0086
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnZWx3dlU5bVVSMG9yRUZTNUQ2dTdB@194.54.80.37:1080#%F0%9F%87%BA%F0%9F%87%A6UA_1%7C3.6MB/s
+vless://af0ed84b-b07f-4b6f-8ca7-59560f2bc8fc@de-vip-unlimited.relqino.ir:1020?sni=yahoo.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%BA%F0%9F%87%A6UA_2%7C2.4MB/s

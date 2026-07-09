@@ -1,8 +1,1 @@
-hysteria2://98dab41c-f18a-406b-8de2-3cc8bb797d5d@144.31.224.188:443?insecure=0&sni=argglive.auragg.org&obfs=&obfs-password=#%F0%9F%87%B3%F0%9F%87%B1NL_4%7C2.7MB/s
-hysteria2://98dab41c-f18a-406b-8de2-3cc8bb797d5d@144.31.224.188:443?sni=argglive.auragg.org#%F0%9F%87%B3%F0%9F%87%B1NL_4%7C2.7MB%2Fs
-hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#%F0%9F%87%B3%F0%9F%87%B1%20-%20NL%20-%20%40FreeOnlineVPN
-hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#9%7C%20-%20NL%20-%20%40FreeOnlineVPN
 trojan://MiTiVPN@45.131.4.118:443?allowInsecure=0&sni=95r.ir&type=ws&host=95r.ir&path=/MiTiVPN=Se#13%7CNL_speednode_0016
-trojan://MiTiVPN@45.131.4.118:443?allowInsecure=0&sni=95r.ir&type=ws&host=95r.ir&path=/MiTiVPN=Se#NL_speednode_0016
-vless://4c41d237-630a-4d02-8ec0-c3b775190ee5@104.17.147.22:2053?security=tls&type=xhttp&path=%2FHOLLWOCON--HOLLOWCON--HOLLOWCON--HOLLOWCON--HOLLOWCON--HOLLOWCON--HOLLOWCON--HOLLOWCON--HOLLOWCON&host=digiac.riziro.ir&packetEncoding=xudp&alpn=h2%2Chttp%2F1.1&sni=digiac.riziro.ir&fp=chrome&mode=auto&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&encryption=none#%F0%9F%87%B3%F0%9F%87%B1NL_1%7C1.7MB%2Fs
-vless://4c41d237-630a-4d02-8ec0-c3b775190ee5@104.17.147.22:2053?sni=digiac.riziro.ir&alpn=h2%2Chttp/1.1&fp=chrome&security=tls#%F0%9F%87%B3%F0%9F%87%B1NL_1%7C1.7MB/s

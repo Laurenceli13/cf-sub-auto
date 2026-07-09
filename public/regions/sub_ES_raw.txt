@@ -1,1 +1,1 @@
-vless://b3eed393-e990-40a0-978c-689d40be9da4@77.74.123.132:448?security=reality&encryption=none&pbk=i3cJbIu8AN7qCD7xQTVfCN7de9RkxVohk_PGQgHqRl8&headerType=none&fp=chrome&type=tcp&sni=www.samsung.com&sid=52a74e01683e9173#西班牙/马德里/Spain/Madrid
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXU3lMNFhUd05zZHY@108.181.121.226:8388#西班牙/巴塞罗那/Spain/Barcelona
