@@ -1,1 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXU3lMNFhUd05zZHY@108.181.121.226:8388#西班牙/巴塞罗那/Spain/Barcelona
+vless://f09d18a9-d778-4e00-a49a-c0063d1c1b11@83.147.18.179:23564?sni=gpuopen.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%AA%F0%9F%87%B8ES_1%7C2.6MB/s
