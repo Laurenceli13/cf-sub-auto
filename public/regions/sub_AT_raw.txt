@@ -1,2 +1,1 @@
-vless://03f4e625-e25e-4beb-93bd-8f275d3717e1@de2.whiteshark.click:10443?sni=www.amazon.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%A6%F0%9F%87%B9AT_1%7C1.7MB/s
-vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@77.73.131.154:443?security=reality&encryption=none&pbk=5GhMSJXQv1wXHVD999YHRRj83m-7VKH8qb_vTxBGbng&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=vindobona.org&sid=08#奥地利/Austria
+vless://838de912-398a-4c0e-9228-0fd44b0d1f8b@157.173.27.151:443?sni=travel.yandex.ru&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%A6%F0%9F%87%B9AT_1%7C2.5MB/s
