@@ -1,3 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZXhOaU4xd0E3ZlZDT1Y4WWRPdkJO@77.83.245.116:9753#土耳其/伊斯坦布尔/Türkiye/Istanbul
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQMnp4WFBld2xWM0JsZnFxWWlTdGh2dExj@212.113.106.243:12949#土耳其/Türkiye
-vless://6319b4fb-8116-4391-8df2-57b3c1de7c56@172.67.163.103:8443?security=tls&type=grpc&mode=gun&serviceName=pitro.infinitespd.com&packetEncoding=xudp&alpn=h2%2Chttp%2F1.1&sni=pitro.infinitespd.com&fp=chrome&encryption=none#%F0%9F%87%B9%F0%9F%87%B7TR_1%7C1.9MB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphYkM0M1dlTnh1REFYZG1RWmRrd1Z4@62.133.63.222:48981#土耳其/伊斯坦布尔/Türkiye/Istanbul

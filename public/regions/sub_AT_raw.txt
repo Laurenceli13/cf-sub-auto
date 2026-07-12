@@ -1,1 +1,2 @@
-vless://838de912-398a-4c0e-9228-0fd44b0d1f8b@157.173.27.151:443?sni=travel.yandex.ru&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%A6%F0%9F%87%B9AT_1%7C2.5MB/s
+vless://2797a040-443c-4249-ab49-546b37519642@94.126.204.73:5443?sni=api-maps.yandex.ru&fp=firefox&security=tls#%F0%9F%87%A6%F0%9F%87%B9AT_1%7C2.0MB/s
+vless://838de912-398a-4c0e-9228-0fd44b0d1f8b@157.173.27.148:443?sni=travel.yandex.ru&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#%F0%9F%87%A6%F0%9F%87%B9AT_2%7C2.8MB/s
