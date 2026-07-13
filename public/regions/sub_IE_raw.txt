@@ -1,1 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ek42V0R3NVdiYWQ3WlZi@20.223.152.73:443#爱尔兰/都柏林/Ireland/Dublin
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2Wmhyb1ZhMFVqUlNVbDA2@20.234.98.39:443#爱尔兰/都柏林/Ireland/Dublin
+vless://83ddf81d-fffe-49ce-af73-5e71361ce719@media.frdmhere.com:443?security=tls&type=ws&path=%2Fmp3%2Fall&host=media.frdmhere.com&packetEncoding=xudp&sni=media.frdmhere.com&fp=chrome&encryption=none#%F0%9F%87%AE%F0%9F%87%AAIE_1%7C2.0MB%2Fs

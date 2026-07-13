@@ -1,1 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmZFJBbDRzY1dEVGc=@164.90.234.85:18492#挪威/奥斯陆/Norway/Oslo
+hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52051?insecure=0&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=l6l4n5a0q9epnr5k#%F0%9F%87%B3%F0%9F%87%B4TELEGRAM%E2%9E%9C%40MetiVIP
+vless://0e762f0c-97b9-fc07-2994-ae4f41fcd2da@soskeynets-production-8ac2.up.railway.app:443?encryption=none&type=ws&host=netmelll-production-8ac2.up.railway.app&path=%2Fws%2F0e762f0c-97b9-fc07-2994-ae4f41fcd2da&security=tls&fp=ios&sni=netmelll-production-8ac2.up.railway.app&alpn=http%2F1.1#挪威/奥斯陆/Norway/Oslo

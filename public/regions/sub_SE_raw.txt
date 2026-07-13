@@ -1,3 +1,1 @@
-hysteria2://8bc63720-5ec8-45b5-b6a6-9a21ffb490e8@sh02.auragg.org:443?sni=sh02.auragg.org#%F0%9F%87%B8%F0%9F%87%AASE_1%7C2.7MB%2Fs
-hysteria2://8bc63720-5ec8-45b5-b6a6-9a21ffb490e8@sh02.auragg.org:443?sni=sh02.auragg.org#瑞典/斯德哥尔摩/Sweden/Stockholm
-vless://3e725086-dabd-ae9d-ffa5-3bab782249e1@zadefree-hyperlink.hyperfreelink.com:443?sni=zadefree-hyperlink.hyperfreelink.com&fp=chrome&security=tls#%F0%9F%87%B8%F0%9F%87%AASE_1%7C2.5MB/s
+hysteria2://8bc63720-5ec8-45b5-b6a6-9a21ffb490e8@sh02.auragg.org:443?insecure=0&sni=sh02.auragg.org#瑞典/斯德哥尔摩/Sweden/Stockholm

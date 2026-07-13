@@ -1,5 +1,2 @@
-hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@45.196.182.156:8449?insecure=1&security=tls&sni=https%3A%2F%2Ft.me%2FQiangLieTuiJian#%E5%8D%97%E9%9D%9E+V2CROSS.COM
-hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@45.196.182.169:8449?security=tls&sni=sni.fi-m247-02.com#%E5%8D%97%E9%9D%9E+V2CROSS.COM
-hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@45.196.182.174:8449?allowInsecure=0&insecure=0&security=tls&sni=sni.fi-m247-02.com#%E5%8D%97%E9%9D%9E+V2CROSS.COM
-hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@45.196.182.183:8449?allowInsecure=0&insecure=0&security=tls&sni=sni.fi-m247-02.com#%E5%8D%97%E9%9D%9E+V2CROSS.COM
-hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@45.196.182.242:8449?insecure=1&security=tls&sni=https%3A%2F%2Ft.me%2FQiangLieTuiJian#%E5%8D%97%E9%9D%9E+V2CROSS.COM
+hysteria2://7c7ff1be-a6e9-4a6f-853c-052ed3f3f21b@45.202.248.138:55000?insecure=1&security=tls&sni=www.bing.com#%E5%8D%97%E9%9D%9E+V2CROSS.COM
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.192.224.30:8880?type=ws&host=vms.lifetime17.workers.dev#%E5%8D%97%E9%9D%9E+V2CROSS.COM

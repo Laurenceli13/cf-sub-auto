@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-12T04:07:16Z",
+  "updated": "2026-07-13T04:10:00Z",
   "total_nodes": 100,
   "v2ray_nodes": 100,
   "hysteria_nodes": 0,
@@ -7,12 +7,12 @@
     "OTHER": {
       "name": "其他",
       "emoji": "🌐",
-      "count": 95
+      "count": 89
     },
     "US": {
       "name": "美国",
       "emoji": "🇺🇸",
-      "count": 3
+      "count": 10
     },
     "JP": {
       "name": "日本",
@@ -44,14 +44,19 @@
       "emoji": "🇸🇬",
       "count": 0
     },
-    "FR": {
-      "name": "法国",
-      "emoji": "🇫🇷",
+    "FI": {
+      "name": "芬兰",
+      "emoji": "🇫🇮",
       "count": 0
     },
     "ID": {
       "name": "印尼",
       "emoji": "🇮🇩",
+      "count": 0
+    },
+    "FR": {
+      "name": "法国",
+      "emoji": "🇫🇷",
       "count": 0
     },
     "RU": {
@@ -69,34 +74,9 @@
       "emoji": "🇭🇰",
       "count": 0
     },
-    "RO": {
-      "name": "罗马尼亚",
-      "emoji": "🇷🇴",
-      "count": 0
-    },
-    "FI": {
-      "name": "芬兰",
-      "emoji": "🇫🇮",
-      "count": 0
-    },
-    "SE": {
-      "name": "瑞典",
-      "emoji": "🇸🇪",
-      "count": 0
-    },
-    "PL": {
-      "name": "波兰",
-      "emoji": "🇵🇱",
-      "count": 0
-    },
-    "AE": {
-      "name": "阿联酋",
-      "emoji": "🇦🇪",
-      "count": 1
-    },
-    "AT": {
-      "name": "奥地利",
-      "emoji": "🇦🇹",
+    "TR": {
+      "name": "土耳其",
+      "emoji": "🇹🇷",
       "count": 0
     },
     "CZ": {
@@ -104,9 +84,39 @@
       "emoji": "🇨🇿",
       "count": 0
     },
-    "AU": {
-      "name": "澳大利亚",
-      "emoji": "🇦🇺",
+    "RO": {
+      "name": "罗马尼亚",
+      "emoji": "🇷🇴",
+      "count": 0
+    },
+    "CA": {
+      "name": "加拿大",
+      "emoji": "🇨🇦",
+      "count": 0
+    },
+    "ZA": {
+      "name": "南非",
+      "emoji": "🇿🇦",
+      "count": 0
+    },
+    "NO": {
+      "name": "挪威",
+      "emoji": "🇳🇴",
+      "count": 0
+    },
+    "IE": {
+      "name": "爱尔兰",
+      "emoji": "🇮🇪",
+      "count": 0
+    },
+    "AE": {
+      "name": "阿联酋",
+      "emoji": "🇦🇪",
+      "count": 0
+    },
+    "PL": {
+      "name": "波兰",
+      "emoji": "🇵🇱",
       "count": 0
     },
     "IN": {
@@ -114,19 +124,14 @@
       "emoji": "🇮🇳",
       "count": 0
     },
-    "TR": {
-      "name": "土耳其",
-      "emoji": "🇹🇷",
+    "SE": {
+      "name": "瑞典",
+      "emoji": "🇸🇪",
       "count": 0
     },
-    "UA": {
-      "name": "乌克兰",
-      "emoji": "🇺🇦",
-      "count": 0
-    },
-    "NO": {
-      "name": "挪威",
-      "emoji": "🇳🇴",
+    "AU": {
+      "name": "澳大利亚",
+      "emoji": "🇦🇺",
       "count": 0
     },
     "ES": {
@@ -139,9 +144,9 @@
       "emoji": "🇲🇩",
       "count": 0
     },
-    "CA": {
-      "name": "加拿大",
-      "emoji": "🇨🇦",
+    "PH": {
+      "name": "菲律宾",
+      "emoji": "🇵🇭",
       "count": 0
     }
   }
