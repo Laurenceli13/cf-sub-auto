@@ -1,1 +1,2 @@
-hysteria2://a7c5d30b-ce9b-4e34-b5cb-66f8308790ef@ma-ybu7mswk.9966690.xyz:20000?insecure=1&sni=ma-ybu7mswk.9966690.xyz&obfs=salamander&obfs-password=YzgyOTkwNDk4ZTU2NTdiNA==#%F0%9F%87%B2%F0%9F%87%A6MA_1%7C2.0MB/s
+hysteria2://a7c5d30b-ce9b-4e34-b5cb-66f8308790ef@ma-ybu7mswk.9966690.xyz:20000?insecure=1&obfs=salamander&obfs-password=YzgyOTkwNDk4ZTU2NTdiNA%3D%3D&sni=ma-ybu7mswk.9966690.xyz#%F0%9F%87%B2%F0%9F%87%A6MA_1%7C2.5MB%2Fs
+hysteria2://a7c5d30b-ce9b-4e34-b5cb-66f8308790ef@ma-ybu7mswk.9966690.xyz:20000?insecure=1&sni=ma-ybu7mswk.9966690.xyz&obfs=salamander&obfs-password=YzgyOTkwNDk4ZTU2NTdiNA==#%F0%9F%87%B2%F0%9F%87%A6MA_1%7C2.5MB/s

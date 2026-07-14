@@ -1,2 +1,3 @@
 trojan://MITIVPN@94.140.0.100:443?allowInsecure=0&sni=95r.ir&type=ws&host=95r.ir&path=/MiTiVPN=Usa#13%7CAE_speednode_0001
 trojan://MITIVPN@94.140.0.100:443?allowInsecure=0&sni=95r.ir&type=ws&host=95r.ir&path=/MiTiVPN=Usa#AE_speednode_0001
+vless://f14a4abb-ecb9-4be4-8a99-3d3895ab3464@176.109.85.89:2443?sni=id.pervye.ru&type=grpc&serviceName=ns&fp=firefox&security=tls#%F0%9F%87%A6%F0%9F%87%AAAE_1%7C1.7MB/s

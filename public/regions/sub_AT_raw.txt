@@ -1,2 +1,1 @@
-vless://2797a040-443c-4249-ab49-546b37519642@94.126.204.73:5443?sni=api-maps.yandex.ru&fp=firefox&security=tls#%F0%9F%87%A6%F0%9F%87%B9AT_1%7C2.0MB/s
-vless://838de912-398a-4c0e-9228-0fd44b0d1f8b@157.173.27.148:443?sni=travel.yandex.ru&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#%F0%9F%87%A6%F0%9F%87%B9AT_2%7C2.8MB/s
+trojan://b26e31e5-eac1-45b0-9069-83830bd69521@20.187.85.198:443?security=tls&sni=hkt.iamnotagoodman.com#奥地利/Austria
