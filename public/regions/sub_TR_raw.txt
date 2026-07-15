@@ -1,1 +1,4 @@
-trojan://b26e31e5-eac1-45b0-9069-83830bd69521@20.187.85.198:443?security=tls&sni=hkt.iamnotagoodman.com#土耳其/伊斯坦布尔/Türkiye/Istanbul
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQMXByT3RjXzJCcW94aXFmWmhKbmJFTXdPQkYwaG93Vg==@tu.k44lawm.ir:1310#%F0%9F%87%B9%F0%9F%87%B7TR_1%7C2.6MB/s
+trojan://Sp3eDVp@185.212.200.75:443?security=tls#土耳其/伊斯坦布尔/Türkiye/Istanbul
+vless://4ef24c96-db24-4f7a-b9e9-8676c409ae22@tu.k44lawm.ir:2053?sni=www.yahoo.com&fp=chrome&security=tls#%F0%9F%87%B9%F0%9F%87%B7TR_2%7C2.4MB/s
+vless://a2292e36-fafb-6634-051d-1d99f45503c7@vajm5bz324c3.vtret.com:8379?mode=packet-up&path=%2FphpMyAdmin%3Fq%3D%E4%B8%80%E4%BD%8D%E8%99%95%E5%A5%B3%E5%9C%A8%E5%AD%AB%E5%85%88%E7%94%9F%E7%9A%84%E8%BE%B2%E5%A0%B4%E5%B7%A5%E4%BD%9C%E3%80%82&security=reality&encryption=none&extra=%7B%22scMaxBufferedPosts%22%3A30%2C%22scMaxEachPostBytes%22%3A%2210000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=qIRHacDVKAuyQJrOJMSpwYyKhw-5KwvOX0W3d-TiB3w&host=google.com&fp=chrome&type=xhttp&sni=play.google.com&sid=07529200e1fe#土耳其/Türkiye

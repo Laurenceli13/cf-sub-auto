@@ -1,1 +1,1 @@
-vmess://04621bae-ab36-11ec-b909-0242ac120002@85.90.217.42:22324?encryption=auto&security=none&type=tcp#西班牙/马德里/Spain/Madrid
+vless://8f0560ec-ba22-4431-a6a7-318dc59d5233@2.27.26.51:443?security=reality&type=grpc&mode=gun&serviceName=nexusGrpc&packetEncoding=xudp&sni=draftnest-rrew.ru&fp=chrome&sid=5e3ab3ab228625&pbk=CxMPFpwhcR9Ocp-Xy_1J08mo-atdHKUf58WLOy_XlgM&encryption=none#%F0%9F%87%AA%F0%9F%87%B8ES_1%7C2.9MB%2Fs
