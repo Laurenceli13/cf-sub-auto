@@ -1,2 +1,1 @@
-vless://acbf49c9-69d3-46ab-9f01-6886c7aaa2d4@64.177.65.95:56821?security=reality&type=tcp&headerType=http&path=%2F&packetEncoding=xudp&sni=blog.api.www.cloudflare.com&fp=chrome&sid=79&pbk=xBx7JOStzNA5X4se9MwV8tQEwDCMPhuuSgmOEpP_YTI&encryption=mlkem768x25519plus.native.0rtt.jSDsoMOHCq6JOveMaIGPGFrnexww1ejvXWjwuBoQunw#%F0%9F%87%AE%F0%9F%87%B1IL_1%7C2.0MB%2Fs
-vless://acbf49c9-69d3-46ab-9f01-6886c7aaa2d4@64.177.65.95:56821?sni=blog.api.www.cloudflare.com&fp=chrome&security=tls#%F0%9F%87%AE%F0%9F%87%B1IL_1%7C2.0MB/s
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.131.209.30:8880?type=ws&host=vms.lifetime04.workers.dev&path=/#A%20-%20%F0%9F%87%AE%F0%9F%87%B1%20IL%2001%20TG%3A%20%40nodpai

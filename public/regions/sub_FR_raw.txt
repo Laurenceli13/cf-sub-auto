@@ -1,9 +1,1 @@
-trojan://Sp3eDVp@185.212.200.75:443?security=tls#法国/巴黎/France/Paris
-trojan://Sp3eDVp@185.212.200.75:443?security=tls#法国/马赛/France/Marseille
-trojan://Sp3eDVp@185.212.200.75:443?security=tls#法国/鲁贝/France/Roubaix
-vless://83a830cb-37de-4604-8f00-07b2df1cee8a@45.144.31.22:443?security=reality&type=raw&packetEncoding=xudp&sni=gb.sellflow.org&fp=firefox&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&encryption=none#%F0%9F%87%AB%F0%9F%87%B7FR_2%7C2.2MB%2Fs
-vless://b320eba7-5380-4bd1-b5e6-32daab16066f@fr-d.duckray.co.uk:3443?encryption=none&type=grpc&mode=gun&security=reality&sni=api.github.com&fp=random&pbk=Ps_w7KP3VFrZv1niWfX3synmJq_d2c7sVSckxa3sgio#%F0%9F%87%AB%F0%9F%87%B7%20France
-vless://b7675c4a-b148-4b02-9cfe-3275e4fee305@91.194.213.159:443?security=reality&type=raw&packetEncoding=xudp&sni=fr.sellflow.org&fp=firefox&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&encryption=none#%F0%9F%87%AB%F0%9F%87%B7FR_3%7C1.8MB%2Fs
-vless://d2e3768f-cb23-4cfc-a884-dbd6813cb70b@77.221.152.151:443?security=reality&type=grpc&mode=gun&serviceName=wlgrpc&packetEncoding=xudp&sni=www.lefigaro.fr&fp=chrome&sid=6ba85179e30d4fc2&pbk=Uwj82vGl-jAhU3VflWnTy7rISYi03slggjS32Zx8pkk&encryption=none#%F0%9F%87%AB%F0%9F%87%B7FR_1%7C2.8MB%2Fs
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.46.17:22222?#%F0%9F%87%AB%F0%9F%87%B7FR_1%7C2.7MB/s
-vless://fcf4db22-3134-452f-a5d2-107f04afc89c@gr113.allenshop66248.ir:2053?mode=gun&security=reality&encryption=none&pbk=GS0dfvzX-bVKBDl2brVxsrE6T2WyXXkfgP3x-mQC7BY&fp=firefox&type=grpc&serviceName=api.v1.data&sni=play.google.com&sid=524efc1f88592266#法国/France
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.85.119.30:8880?type=ws&host=vms.lifetime56.workers.dev#A%20-%20%F0%9F%87%AB%F0%9F%87%B7%20FR%2001%20TG%3A%20%40nodpai

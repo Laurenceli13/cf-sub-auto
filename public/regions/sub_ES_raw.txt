@@ -1,1 +1,1 @@
-vless://8f0560ec-ba22-4431-a6a7-318dc59d5233@2.27.26.51:443?security=reality&type=grpc&mode=gun&serviceName=nexusGrpc&packetEncoding=xudp&sni=draftnest-rrew.ru&fp=chrome&sid=5e3ab3ab228625&pbk=CxMPFpwhcR9Ocp-Xy_1J08mo-atdHKUf58WLOy_XlgM&encryption=none#%F0%9F%87%AA%F0%9F%87%B8ES_1%7C2.9MB%2Fs
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@192.169.223.30:8880?type=ws&host=vms.lifetime42.workers.dev&path=/#A%20-%20%F0%9F%87%AA%F0%9F%87%B8%20ES%2001%20TG%3A%20%40nodpai

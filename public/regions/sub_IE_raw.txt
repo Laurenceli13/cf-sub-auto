@@ -1,1 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozSzdaSXREazlDbzJlT2V3@168.63.58.89:443?outline=1&prefix=POST#爱尔兰/都柏林/Ireland/Dublin
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZVVdYNkNPTFpZbWFIbFVHaUt3RGFO@45.79.238.129:443#爱尔兰/都柏林/Ireland/Dublin
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.170.166.30:8880?type=ws&host=vms.lifetime04.workers.dev&path=/#A%20-%20%F0%9F%87%AE%F0%9F%87%AA%20IE%2001%20TG%3A%20%40nodpai

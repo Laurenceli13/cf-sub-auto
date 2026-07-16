@@ -1,0 +1,2 @@
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.192.224.30:8880?type=ws&host=vms.lifetime17.workers.dev#A%20-%20%F0%9F%87%B8%F0%9F%87%A8%20SC%2003%20TG%3A%20%40nodpai
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.197.64.30:8880?type=ws&host=vms.lifetime36.workers.dev&path=/#A%20-%20%F0%9F%87%B8%F0%9F%87%A8%20SC%2001%20TG%3A%20%40nodpai

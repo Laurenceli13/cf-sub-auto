@@ -1,2 +1,2 @@
-vless://0b9bcbc1-b289-4a64-86fa-a5b731b65384@se.vrsvpn.com:443?security=reality&type=tcp&packetEncoding=xudp&sni=web.max.ru&fp=qq&flow=xtls-rprx-vision&sid=45ba24f179ad1f26&pbk=HUIUjR11K2-23-4Y-i51g9cun8etjfgaWW-h8AsEtEU&encryption=none#%F0%9F%87%B8%F0%9F%87%AASE_1%7C1.9MB%2Fs
-vless://ecad47b0-249e-0009-adff-e3c8f02b1897@78.159.250.40:8443?sni=player.mediavitrina.ru&fp=qq&security=tls#%F0%9F%87%B8%F0%9F%87%AASE_1%7C2.1MB/s
+ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRvd1pqWTJOV1E1WWkwNVpXUTNMVFJqWkRBdFlUWm1NUzFsTmpBME5EYzVNelkxTVRn@free.2apzhfa.xyz:31411#瑞典/Sweden
+vless://59da5351-5151-417d-b2f7-6923848b717e@swed1.helper-internet.com:443?sni=swed1.helper-internet.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%B8%F0%9F%87%AASE_1%7C1.6MB/s

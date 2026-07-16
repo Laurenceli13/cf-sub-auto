@@ -1,1 +1,2 @@
-trojan://Sp3eDVp@185.212.200.75:443?security=tls#挪威/奥斯陆/Norway/Oslo
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZVVdYNkNPTFpZbWFIbFVHaUt3RGFO@45.79.238.129:443#挪威/奥斯陆/Norway/Oslo
+vless://ecad47b0-249e-000c-adff-e3c8f02b1897@185.231.101.85:8443?sni=se.quattro-tech.ru&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%B3%F0%9F%87%B4NO_1%7C2.1MB/s

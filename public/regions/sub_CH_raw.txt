@@ -1,4 +1,2 @@
-vless://0bcde9ba-4517-4e6a-b5f8-b19e0fcb23fc@164.138.100.200:443?sni=api-maps.yandex.ru&type=grpc&serviceName=ch-br-yandex&fp=qq&security=tls#%F0%9F%87%A8%F0%9F%87%ADCH_1%7C3.1MB/s
-vless://8516c47e-a7a1-42f7-9c14-ae9b14873cc8@ch-5.lemonbow.ru:443?security=reality&type=raw&packetEncoding=xudp&sni=www.samsung.com&fp=chrome&flow=xtls-rprx-vision&pbk=W8hnq0oVIPpRGyM8UUQuaAF2KKxl6C10yBgO911iFwM&encryption=none#%F0%9F%87%A8%F0%9F%87%ADCH_1%7C2.4MB%2Fs
-vless://ae4c2de2-998c-4517-a6a1-0ecbdd51473a@164.138.100.200:443?sni=api-maps.yandex.ru&type=grpc&serviceName=ch-br-yandex&fp=qq&security=tls#%F0%9F%87%A8%F0%9F%87%ADCH_2%7C3.2MB/s
-vless://d4e1d555-0cd4-4cbd-98c2-1e2c0d6128cd@164.138.100.200:443?sni=api-maps.yandex.ru&type=grpc&serviceName=ch-br-yandex&fp=qq&security=tls#%F0%9F%87%A8%F0%9F%87%ADCH_3%7C3.1MB/s
+vless://15b39017-d3e6-479b-9569-3a2ec4589df4@152.233.31.72:16923?security=reality&type=grpc&mode=gun&serviceName=neurex&packetEncoding=xudp&sni=api-maps.yandex.ru&fp=firefox&sid=10ffb85da1c2d986&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&encryption=none#%F0%9F%87%A8%F0%9F%87%ADCH_1%7C2.1MB%2Fs
+vless://1d2f9718-b0a4-4c4d-90e6-b297b23d8999@host13.virgool.best:55013?security=reality&encryption=none&pbk=vxdmULi_cO7dha2aQnsjSViARO15hvI9HWyo0pVPlkQ&headerType=none&fp=chrome&type=tcp&sni=www.digikala.com&sid=c385#瑞士/Switzerland

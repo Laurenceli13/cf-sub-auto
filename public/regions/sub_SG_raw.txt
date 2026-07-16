@@ -1,12 +1,3 @@
-hysteria2://b547b58b-6628-4127-b67d-40aa0be26c67@139.59.98.251:443?sni=addons.mozilla.org&pinSHA256=8A%3A24%3AAD%3AB1%3A0F%3A73%3A00%3A69%3ABF%3A83%3A37%3A62%3AFF%3AD0%3AB4%3A75%3A6E%3A79%3A85%3A73%3A05%3AA5%3ACC%3AD3%3AA0%3ADA%3AC7%3A84%3A0B%3ABF%3A98%3ADC#%F0%9F%87%B8%F0%9F%87%ACSG_1%7C2.8MB%2Fs
-hysteria2://e7965e64-e001-4e8c-8273-39c61ff4a094@sg3.oomz.ru:30000?insecure=1&sni=bing.com#8%7CSG
-hysteria2://e7965e64-e001-4e8c-8273-39c61ff4a094@sg3.oomz.ru:30000?insecure=1&sni=bing.com#SG
-ss://aes-128-gcm%3A6601fb90e9b3@csgfw.top:443#SG%20SS-798%20%7C%20free-nodes
-ss://aes-128-gcm%3A6601fb90e9b3@csgfw.top:443#SG%20SS-819%20%7C%20free-nodes
-trojan://CF68213490@sacred-treefrog.rooster465.autos:443?sni=sacred-treefrog.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%B8%F0%9F%87%ACSG_7%7C3.7MB%2Fs
-trojan://gcuCpQfaiVeDBdWG@jpbgp.netvigor.cc:19128?sni=yazhou10.dynu.net&type=raw&fp=chrome#%F0%9F%87%B8%F0%9F%87%ACSG_2%7C2.0MB%2Fs
-vless://814bd064-544d-4255-a070-5705c03f6da9@3.0.111.82:10574?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=48050fab&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0#%F0%9F%87%B8%F0%9F%87%ACSG_3%7C3.5MB%2Fs
-vless://814bd064-544d-4255-a070-5705c03f6da9@3.0.111.82:12972?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=48050fab&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0#%F0%9F%87%B8%F0%9F%87%ACSG_4%7C2.8MB%2Fs
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@ns.cloudflare.com:2095?security=none&type=ws&path=%2F&host=cnmfangbinxing.cnmfangbinxing-i.workers.dev&packetEncoding=xudp&sni=cnmfangbinxing.cnmfangbinxing-i.workers.dev#%F0%9F%87%B8%F0%9F%87%ACSG_5%7C3.1MB%2Fs
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.wto.org:2095?security=none&type=ws&path=%2F&host=cnmfangbinxing.cnmfangbinxing-i.workers.dev&packetEncoding=xudp&sni=cnmfangbinxing.cnmfangbinxing-i.workers.dev#%F0%9F%87%B8%F0%9F%87%ACSG_6%7C3.7MB%2Fs
-vless://ea535933-6fe2-45ae-b737-5b2d47e04bb4@lfvps.top:443?flow=xtls-rprx-vision&fp=chrome&pbk=SUfGUYeyXhvcomjjiVWlkEK1wSL6Q0wCRNVAzrxaI3Q&security=tls&sid=62a71a3bc82af165&sni=www.cloudflare.com&type=tcp#新加坡/新加坡/Singapore/Singapore
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@114.129.43.30:8880?type=ws&host=vms.lifetime04.workers.dev&path=/#A%20-%20%F0%9F%87%B8%F0%9F%87%AC%20SG%2009%20TG%3A%20%40nodpai
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.131.4.30:8880?type=ws&host=vms.lifetime59.workers.dev#A%20-%20%F0%9F%87%B8%F0%9F%87%AC%20SG%2008%20TG%3A%20%40nodpai
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@195.26.229.50:8880?type=ws&host=vms.lifetime56.workers.dev&path=/?ed=2560&https://t.me/youtube@ZYFXS🇨🇳#A%20-%20%F0%9F%87%B8%F0%9F%87%AC%20SG%2012%20TG%3A%20%40nodpai

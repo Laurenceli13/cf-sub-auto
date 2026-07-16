@@ -1,1 +1,2 @@
-trojan://Sp3eDVp@185.212.200.75:443?security=tls#澳大利亚/悉尼/Australia/Sydney
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUV0c3SjFLUjVLc1BhVjVxWkkrcmlldWVLeHhhZlpTcENI@45.77.232.213:15675#澳大利亚/悉尼/Australia/Sydney
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@193.9.49.30:8880?type=ws&host=vms.lifetime44.workers.dev&path=/#A%20-%20%F0%9F%87%A6%F0%9F%87%BA%20AU%2001%20TG%3A%20%40nodpai

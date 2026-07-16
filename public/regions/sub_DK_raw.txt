@@ -1,1 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnZWx3dlU5bVVSMG9yRUZTNUQ2dTdB@135.136.33.134:1080#%F0%9F%87%A9%F0%9F%87%B0DK_1%7C3.0MB/s
+vless://0b9bcbc1-b289-4a64-86fa-a5b731b65384@nl2.vrsvpn.com:444?security=reality&type=grpc&mode=gun&serviceName=web.max.ru&packetEncoding=xudp&sni=web.max.ru&fp=chrome&sid=8321461729abcdef&pbk=X-YL5VNtlMNIaBrwaHt3hJCeF_gMT9gPRDDlK1Qg7Tc&encryption=none#%F0%9F%87%A9%F0%9F%87%B0DK_1%7C1.8MB%2Fs
