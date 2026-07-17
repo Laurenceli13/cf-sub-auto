@@ -1,3 +1,1 @@
-vless://15b39017-d3e6-479b-9569-3a2ec4589df4@152.53.47.153:16923?sni=api-maps.yandex.ru&type=grpc&serviceName=neurex&fp=firefox&security=tls#%F0%9F%87%A6%F0%9F%87%B9AT_1%7C3.8MB/s
-vless://528ee6c3-7d3c-0003-b0de-0d5da09aeb14@ru.monkeyvillage.pro:443?sni=ru.monkeyvillage.pro&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#%F0%9F%87%A6%F0%9F%87%B9AT_2%7C2.7MB/s
-vless://923ff5e4-0188-4b98-ab8f-d602562e77cd@152.53.47.153:16923?sni=api-maps.yandex.ru&type=grpc&serviceName=neurex&fp=firefox&security=tls#%F0%9F%87%A6%F0%9F%87%B9AT_3%7C3.9MB/s
+hysteria2://Ov_98eqvJ9N8SE3_Bxhr238e_Ntz2_Sxc47_J2@185.126.236.152:8443?sni=key-hm-at.1cooldns.com&amp;insecure=0&amp;allowInsecure=0#奥地利/Austria

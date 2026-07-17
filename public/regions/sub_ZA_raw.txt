@@ -1,2 +1,1 @@
-hysteria2://7c7ff1be-a6e9-4a6f-853c-052ed3f3f21b@45.202.248.138:55000?insecure=1&security=tls&sni=www.bing.com#%E5%8D%97%E9%9D%9E+V2CROSS.COM
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.192.224.30:8880?type=ws&host=vms.lifetime17.workers.dev#%E5%8D%97%E9%9D%9E+V2CROSS.COM
+vless://d407defe-cd4f-4d32-a3b1-47c2c813c50d@31.43.191.131:443?sni=tehno.store&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%BF%F0%9F%87%A6ZA_1%7C3.6MB/s
