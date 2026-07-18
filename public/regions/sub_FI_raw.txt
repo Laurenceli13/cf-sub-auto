@@ -1,7 +1,8 @@
 hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52021?insecure=0&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=mtg2vchyir6la3et#%F0%9F%87%AB%F0%9F%87%AE%40FreakConfig
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzaHdvZ2hSaWE=@195.28.182.217:51348#芬兰/赫尔辛基/Finland/Helsinki
-vless://81ef8e1d-4d31-4c1b-92e8-d2e65e7ffaf4@138.16.184.123:447?sni=ads.x5.ru&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%AB%F0%9F%87%AEFI_2%7C2.1MB/s
-vless://8e7d2cc4-798d-4eb4-9b6b-d7cda7a7d2ff@212.237.217.7:16923?security=reality&type=grpc&mode=gun&serviceName=neurex&packetEncoding=xudp&sni=api-maps.yandex.ru&fp=firefox&sid=10ffb85da1c2d986&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&encryption=none#%F0%9F%87%AB%F0%9F%87%AEFI_3%7C2.8MB%2Fs
-vless://8e7d2cc4-798d-4eb4-9b6b-d7cda7a7d2ff@212.237.217.7:16923?sni=api-maps.yandex.ru&type=grpc&serviceName=neurex&fp=firefox&security=tls#%F0%9F%87%AB%F0%9F%87%AEFI_1%7C2.6MB/s
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@31.56.113.77:2090?security=none&type=tcp&packetEncoding=xudp&encryption=none#%F0%9F%87%AB%F0%9F%87%AEFI_1%7C1.6MB%2Fs
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@31.56.48.28:2090?security=none&type=tcp&packetEncoding=xudp&encryption=none#%F0%9F%87%AB%F0%9F%87%AEFI_2%7C3.3MB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVWlFZOWhOalZOV3dhbWFqclhBZjF2dDh1NjNuajBmRg==@31.76.80.205:8388#芬兰/赫尔辛基/Finland/Helsinki
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@31.57.27.177:2090?#%F0%9F%87%AB%F0%9F%87%AEFI_1%7C2.6MB/s
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@31.57.27.177:2090?security=none&type=tcp&packetEncoding=xudp&encryption=none#%F0%9F%87%AB%F0%9F%87%AEFI_1%7C2.6MB%2Fs
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@46.8.225.98:2090?#%F0%9F%87%AB%F0%9F%87%AEFI_2%7C2.5MB/s
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@46.8.225.98:2090?security=none&type=tcp&packetEncoding=xudp&encryption=none#%F0%9F%87%AB%F0%9F%87%AEFI_2%7C2.5MB%2Fs
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@46.8.238.180:2090?#%F0%9F%87%AB%F0%9F%87%AEFI_3%7C2.5MB/s
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@46.8.238.180:2090?security=none&type=tcp&packetEncoding=xudp&encryption=none#%F0%9F%87%AB%F0%9F%87%AEFI_3%7C2.5MB%2Fs

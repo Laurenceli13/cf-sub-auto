@@ -1,1 +1,1 @@
-vless://d407defe-cd4f-4d32-a3b1-47c2c813c50d@31.43.191.131:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SHDdd617KLHHb0qlQFOHepeHFl_Ch2i-K7o891uyo2M&security=reality&sni=tehno.store&type=tcp#%E4%B9%8C%E5%85%8B%E5%85%B0+V2CROSS.COM
+trojan://XG59623478@concise-buck.rooster465.autos:443?security=tls&sni=concise-buck.rooster465.autos#%E4%B9%8C%E5%85%8B%E5%85%B0+V2CROSS.COM

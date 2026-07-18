@@ -1,1 +1,1 @@
-vless://0b32d187-fbea-476d-a8f8-ae2a024631eb@104.21.48.236:443?encryption=none&security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960009.workers.dev&alpn=h3%2Ch2&fp=chrome&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960009.workers.dev&path=%2F%3Fed%3D2048#西班牙/巴塞罗那/Spain/Barcelona
+trojan://2eutknankxtbgkwcajzt@193.148.19.213:52794?allowInsecure=1&sni=193.148.19.213#西班牙/巴塞罗那/Spain/Barcelona

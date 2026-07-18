@@ -1,4 +1,2 @@
-vless://1961317f-5f2c-4346-e4b0-b767f0946138@179.237.75.28:32875?security=reality&type=tcp&headerType=http&path=%2F&host=yahoo.com&packetEncoding=xudp&sni=yahoo.com&fp=chrome&pbk=NFQAS72yT1b_7ZZhYcIC6Nm3rYSqQwxqOZKid5DJ0Gg&encryption=none#%F0%9F%87%A8%F0%9F%87%ADCH_1%7C2.1MB%2Fs
-vless://1961317f-5f2c-4346-e4b0-b767f0946138@179.237.75.28:32875?sni=yahoo.com&fp=chrome&security=tls#%F0%9F%87%A8%F0%9F%87%ADCH_1%7C2.9MB/s
-vless://d1c9eccc-91b1-4185-e459-febe9c42ccd1@179.237.75.28:11596?security=reality&type=tcp&headerType=http&path=%2F&host=yahoo.com&packetEncoding=xudp&sni=yahoo.com&fp=chrome&pbk=L6zEB5x8-kyr75lwmBNuz2S_UFo-GwVZvcyy0GY8QXA&encryption=none#%F0%9F%87%A8%F0%9F%87%ADCH_2%7C2.2MB%2Fs
-vless://fef61355-77d1-4523-9550-1e7b7cbcc47c@37.156.44.241:19551?#瑞士/Switzerland
+vless://bcd7d69f-98d4-4622-8caf-db83b7af81da@179.237.75.28:40084?security=reality&type=tcp&headerType=http&path=%2F&host=yahoo.com&packetEncoding=xudp&sni=yahoo.com&fp=chrome&pbk=9kgnhNCzQsfomFrK3nKlOCbmUyS2oPltp2gOnuFv7nY&encryption=none#%F0%9F%87%A8%F0%9F%87%ADCH_1%7C3.2MB%2Fs
+vless://bcd7d69f-98d4-4622-8caf-db83b7af81da@179.237.75.28:40084?sni=yahoo.com&fp=chrome&security=tls#%F0%9F%87%A8%F0%9F%87%ADCH_1%7C3.2MB/s
