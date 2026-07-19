@@ -1,2 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1N01CaG5EMWtNOEdod2VZ@128.251.12.23:443?outline=1&prefix=POST#爱尔兰/都柏林/Ireland/Dublin
-trojan://NQ26071394@correct-starfish.rooster465.autos:443?sni=correct-starfish.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AE%F0%9F%87%AAIE_1%7C3.5MB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ZzVGTUtpQlM3THcxb29X@52.236.93.73:443#爱尔兰/都柏林/Ireland/Dublin

@@ -1,1 +1,1 @@
-vless://528ee6c3-7d3c-410e-b0de-0d5da09aeb14@pl.monkeyvillage.pro:443?sni=pl.monkeyvillage.pro&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#%F0%9F%87%AE%F0%9F%87%B1IL_1%7C2.4MB/s
+vless://808a0627-05e5-47b3-8d27-edd65020ef09@37.142.205.77:20443?security=reality&encryption=none&pbk=p8q3yhwdryc9YfL-xSO78M03SIF5LrizXc_7R9ARYQ8&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=://microsoft.com&sid=183d612c#%E4%BB%A5%E8%89%B2%E5%88%97+V2CROSS.COM

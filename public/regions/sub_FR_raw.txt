@@ -1,10 +1,6 @@
-hysteria2://87qety_hERGP8Y9_jqier3gw_nA8Q34_B2@45.155.103.217:8443?sni=kamil-power-machine.roxa.org&amp;insecure=0&amp;allowInsecure=0#法国/巴黎/France/Paris
-vless://4710eac8-f188-426a-a7d3-498c59de6503@cf8.466688.xyz:443?security=tls&type=ws&path=%2Ft.me%2FQiangLieTuiJian-vl&host=cf-thfr-p.netnode.cc.cd&packetEncoding=xudp&sni=cf-thfr-p.netnode.cc.cd&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7FR_1%7C2.1MB%2Fs
-vless://4710eac8-f188-426a-a7d3-498c59de6503@cf8.466688.xyz:443?sni=cf-thfr-p.netnode.cc.cd&type=ws&host=cf-thfr-p.netnode.cc.cd&path=/t.me/QiangLieTuiJian-vlfp=chrome&security=tls#%F0%9F%87%AB%F0%9F%87%B7FR_1%7C2.1MB/s
-vless://81a83e21-b587-49a9-8961-2fd4aa9f2d83@netherlands.vpnserverhub.com:443?security=reality&type=tcp&packetEncoding=xudp&sni=yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=y8-hfUvs9-MScp_tjMFi5LKuULGmnodHbI5Q_sTk_A0&encryption=none#%F0%9F%87%AB%F0%9F%87%B7FR_2%7C1.9MB%2Fs
-vless://81a83e21-b587-49a9-8961-2fd4aa9f2d83@netherlands.vpnserverhub.com:443?sni=yahoo.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%AB%F0%9F%87%B7FR_2%7C1.9MB/s
-vless://a1750ade-801f-4e3e-a5d2-de825771205d@151.80.147.30:443?sni=speedtest.net&pbk=Ij3Iz1jqht6zLOy9uI0iusTy4n1oIr7gpgTwRTtA8kY&flow=xtls-rprx-vision&sid=42b395462da31c0e&type=tcp&headerType=none&security=reality&fp=chrome&encryption=none#法国/鲁贝/France/Roubaix
+trojan://humanity@104.18.152.97:443?allowInsecure=0&sni=www.ignitelimit.com&type=ws&path=/assignment#%F0%9F%87%AB%F0%9F%87%B7FR_1%7C2.1MB/s
+trojan://humanity@104.18.152.97:443?sni=www.ignitelimit.com&type=ws&path=%2Fassignment&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7FR_1%7C2.1MB%2Fs
+vless://Telegram-%40Cooonfig-%40Cooonfig@65.109.181.154:59849?encryption=none&type=tcp&headerType=http&path=%2F&host=play.google.com#法国/France
+vless://Telegram-%40Cooonfig-%40Cooonfig@65.109.181.154:59849?encryption=none&type=tcp&headerType=http&path=%2F&host=play.google.com#法国/巴黎/France/Paris
+vless://a1750ade-801f-4e3e-a5d2-de825771205d@151.80.147.30:443?security=reality&encryption=none&pbk=Ij3Iz1jqht6zLOy9uI0iusTy4n1oIr7gpgTwRTtA8kY&host=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speedtest.net&sid=42b395462da31c0e#法国/鲁贝/France/Roubaix
 vless://b320eba7-5380-4bd1-b5e6-32daab16066f@fr-d.duckray.co.uk:3443?encryption=none&type=grpc&mode=gun&security=reality&sni=api.github.com&fp=random&pbk=Ps_w7KP3VFrZv1niWfX3synmJq_d2c7sVSckxa3sgio#%F0%9F%87%AB%F0%9F%87%B7%20France
-vless://d407defe-cd4f-4d32-a3b1-47c2c813c50d@37.49.230.101:443?security=reality&type=tcp&packetEncoding=xudp&sni=fastsync.xyz&fp=firefox&flow=xtls-rprx-vision&pbk=ppvT23Dpmf4G9dZLVQJq3Ev9ckq4REa1jJ9gkXqp1zQ&encryption=none#%F0%9F%87%AB%F0%9F%87%B7FR_3%7C2.4MB%2Fs
-vless://d407defe-cd4f-4d32-a3b1-47c2c813c50d@37.49.230.101:443?sni=fastsync.xyz&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#%F0%9F%87%AB%F0%9F%87%B7FR_3%7C2.4MB/s
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?path=%2Fhttp&security=none&encryption=none&host=de.vpnbase.net&type=ws#法国/France
