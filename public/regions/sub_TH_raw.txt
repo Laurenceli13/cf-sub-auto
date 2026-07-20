@@ -1,1 +1,1 @@
-vless://3c52e091-6714-4915-949f-2149fe69951b@116.206.124.228:80?path=%2Fws&security=&encryption=none&host=aIs.SpEeDtEsT.nEt&type=ws#泰国/Thailand
+hysteria2://78f2e8f0-68ea-438e-84ec-d58c9416c680@th1.ktmhyld.com:18385?insecure=1&sni=th1.ktmhyld.com#%F0%9F%87%B9%F0%9F%87%ADTH_1%7C3.9MB%2Fs

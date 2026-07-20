@@ -1,1 +1,1 @@
-vless://Telegram-%40Cooonfig-%40Cooonfig@65.109.181.154:59849?encryption=none&type=tcp&headerType=http&path=%2F&host=play.google.com#意大利/Italy
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUMXBiN1h4eHJvbHZQU2IwdTJ4U09B@beacomf.xyz:8080#意大利/Italy

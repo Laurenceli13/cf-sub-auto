@@ -1,1 +1,2 @@
 trojan://MITIVPN@94.140.0.100:443?allowInsecure=0&sni=95r.ir&type=ws&host=95r.ir&path=/MiTiVPN=Usa#12%7CAE_speednode_0001
+trojan://MITIVPN@94.140.0.100:443?allowInsecure=0&sni=95r.ir&type=ws&host=95r.ir&path=/MiTiVPN=Usa#AE_speednode_0001

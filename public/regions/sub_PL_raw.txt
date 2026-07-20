@@ -1,2 +1,1 @@
-vless://a9eb4e02-1310-4c43-b285-92fd2cc74ad0@net3.irajapan.store:8080?type=tcp&security=reality&pbk=hGBFJsHcY1aYZ5gGtesY__jxM3JTJznNJanwpLsqMnY&fp=chrome&sni=www.yahoo.com&sid=0fe1d9beae7453&spx=%2F&encryption=none#波兰/Poland
-vless://a9eb4e02-1310-4c43-b285-92fd2cc74ad0@net3.irajapan.store:8080?type=tcp&security=reality&pbk=hGBFJsHcY1aYZ5gGtesY__jxM3JTJznNJanwpLsqMnY&fp=chrome&sni=www.yahoo.com&sid=0fe1d9beae7453&spx=%2F&encryption=none#波兰/华沙/Poland/Warsaw
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUMXBiN1h4eHJvbHZQU2IwdTJ4U09B@beacomf.xyz:8080#波兰/华沙/Poland/Warsaw
