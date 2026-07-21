@@ -1,1 +1,5 @@
-hysteria2://78f2e8f0-68ea-438e-84ec-d58c9416c680@kr1.ktmhyld.com:18385?insecure=1&sni=kr1.ktmhyld.com#%F0%9F%87%B0%F0%9F%87%B7KR_1%7C3.7MB%2Fs
+trojan://IQ68037294@adjusted-labrador.rooster465.autos:443?allowInsecure=1&sni=adjusted-labrador.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR_3%7C3.3MB/s
+trojan://IQ68037294@artistic-pigeon.rooster465.autos:443?allowInsecure=1&sni=artistic-pigeon.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR_4%7C2.1MB/s
+trojan://IQ68037294@robust-toucan.rooster465.autos:443?allowInsecure=0&sni=robust-toucan.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR_5%7C2.7MB/s
+trojan://IQ68037294@select-marmoset.rooster465.autos:443?allowInsecure=1#%F0%9F%87%B0%F0%9F%87%B7KR_1%7C3.3MB/s
+trojan://IQ68037294@whole-perch.rooster465.autos:443?allowInsecure=1&sni=whole-perch.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR_2%7C2.7MB/s

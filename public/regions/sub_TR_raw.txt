@@ -1,1 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUMXBiN1h4eHJvbHZQU2IwdTJ4U09B@beacomf.xyz:8080#土耳其/伊斯坦布尔/Türkiye/Istanbul
+vless://777bcc23-6bc8-5819-a40d-7f2a743419a1@138.124.107.132:443?security=reality&type=tcp&packetEncoding=none&sni=www.trendyol.com&fp=firefox&flow=xtls-rprx-vision&sid=9da962&pbk=1JlspB1qSmCPGjz7c_pnZnmlDYDVY-7i5LJy_iIxuDk#%F0%9F%87%B9%F0%9F%87%B7TR_1%7C3.2MB%2Fs
+vless://d768d4ba-0b73-4509-87ea-afb074d2f766@194.26.229.162:443?sni=tr.sellflow.org&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#%F0%9F%87%B9%F0%9F%87%B7TR_1%7C2.0MB/s
