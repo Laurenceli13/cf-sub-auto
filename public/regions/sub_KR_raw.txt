@@ -1,5 +1,1 @@
-trojan://IQ68037294@adjusted-labrador.rooster465.autos:443?allowInsecure=1&sni=adjusted-labrador.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR_3%7C3.3MB/s
-trojan://IQ68037294@artistic-pigeon.rooster465.autos:443?allowInsecure=1&sni=artistic-pigeon.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR_4%7C2.1MB/s
-trojan://IQ68037294@robust-toucan.rooster465.autos:443?allowInsecure=0&sni=robust-toucan.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR_5%7C2.7MB/s
-trojan://IQ68037294@select-marmoset.rooster465.autos:443?allowInsecure=1#%F0%9F%87%B0%F0%9F%87%B7KR_1%7C3.3MB/s
-trojan://IQ68037294@whole-perch.rooster465.autos:443?allowInsecure=1&sni=whole-perch.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR_2%7C2.7MB/s
+vless://e7d317bd-9124-4eb0-ae76-4d3b8dc54e92@simidakr.papstore.xyz:26681?sni=www.sibuya.co.kr&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%B0%F0%9F%87%B7KR_1%7C3.2MB/s

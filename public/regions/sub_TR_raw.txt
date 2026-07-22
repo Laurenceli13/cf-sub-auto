@@ -1,2 +1,3 @@
-vless://777bcc23-6bc8-5819-a40d-7f2a743419a1@138.124.107.132:443?security=reality&type=tcp&packetEncoding=none&sni=www.trendyol.com&fp=firefox&flow=xtls-rprx-vision&sid=9da962&pbk=1JlspB1qSmCPGjz7c_pnZnmlDYDVY-7i5LJy_iIxuDk#%F0%9F%87%B9%F0%9F%87%B7TR_1%7C3.2MB%2Fs
-vless://d768d4ba-0b73-4509-87ea-afb074d2f766@194.26.229.162:443?sni=tr.sellflow.org&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#%F0%9F%87%B9%F0%9F%87%B7TR_1%7C2.0MB/s
+vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.116:443?sni=storage.yandex.net&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#%F0%9F%87%B9%F0%9F%87%B7TR_1%7C2.4MB/s
+vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.88:443?security=reality&type=tcp&packetEncoding=xudp&sni=storage.yandex.net&fp=firefox&flow=xtls-rprx-vision&sid=c6ef72e4635d15a5&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&encryption=none#%F0%9F%87%B9%F0%9F%87%B7TR_1%7C1.6MB%2Fs
+vmess://04621bae-ab36-11ec-b909-0242ac120002@5.188.190.252:22324?encryption=auto&security=none&type=tcp#土耳其/伊斯坦布尔/Türkiye/Istanbul

@@ -1,2 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUMXBiN1h4eHJvbHZQU2IwdTJ4U09B@beacomf.xyz:8080#瑞典/Sweden
-vless://4a4b76ab-ec8a-4211-9f02-db69f4ec879b@vips.irhubby.ir:8080?security=none&type=ws&path=%2F&host=vips.irhubby.ir&packetEncoding=xudp&encryption=none#%F0%9F%87%B8%F0%9F%87%AASE_1%7C1.8MB%2Fs
+vless://8bc63720-5ec8-45b5-b6a6-9a21ffb490e8@sw01.auragg.org:443?sni=cloudflare.com&type=grpc&serviceName=auragrpc&fp=chrome&security=tls#%F0%9F%87%B8%F0%9F%87%AASE_1%7C2.1MB/s

@@ -1,9 +1,5 @@
-trojan://IQ68037294@definite-giraffe.rooster465.autos:443?allowInsecure=1&sni=definite-giraffe.rooster465.autos#%F0%9F%87%AB%F0%9F%87%B7FR_1%7C3.1MB/s
-trojan://IQ68037294@desired-pony.rooster465.autos:443?allowInsecure=0&sni=desired-pony.rooster465.autos#%F0%9F%87%AB%F0%9F%87%B7FR_5%7C3.3MB/s
-trojan://IQ68037294@humane-bird.rooster465.autos:443?allowInsecure=1#%F0%9F%87%AB%F0%9F%87%B7FR_3%7C3.2MB/s
-vless://2ad87f95-7a0b-4018-8497-5ecaac2f0ddf@handsome-device.oneeat.co:80?path=%2F&security=none&encryption=none&type=ws#法国/France
-vless://2ad87f95-7a0b-4018-8497-5ecaac2f0ddf@handsome-device.oneeat.co:80?path=%2F&security=none&encryption=none&type=ws#法国/巴黎/France/Paris
+hysteria2://dongtaiwang.com@62.210.124.146:22000?insecure=1&sni=www.microsoft.com#法国/巴黎/France/Paris
+vless://06e811a4-8f6f-41fe-a44a-9052209c104c@135.84.73.161:8880?security=none&type=httpupgrade&host=https.ne.google.com.www.speedtest.net.www.speedtest.neet.speedtest.f0.xn--qoqp1di0o5k1b.com.&path=%2F%3Fed%3D8880#法国/France
 vless://a1750ade-801f-4e3e-a5d2-de825771205d@151.80.147.30:443?security=reality&encryption=none&pbk=Ij3Iz1jqht6zLOy9uI0iusTy4n1oIr7gpgTwRTtA8kY&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=speedtest.net&sid=42b395462da31c0e#法国/鲁贝/France/Roubaix
 vless://b320eba7-5380-4bd1-b5e6-32daab16066f@fr-d.duckray.co.uk:3443?encryption=none&type=grpc&mode=gun&security=reality&sni=api.github.com&fp=random&pbk=Ps_w7KP3VFrZv1niWfX3synmJq_d2c7sVSckxa3sgio#%F0%9F%87%AB%F0%9F%87%B7%20France
-vless://c28ee61d-0d43-4e69-8e6a-6397ed0ffc03@37.49.230.107:443?security=reality&type=tcp&packetEncoding=xudp&sni=fastsync.xyz&fp=random&flow=xtls-rprx-vision&pbk=ppvT23Dpmf4G9dZLVQJq3Ev9ckq4REa1jJ9gkXqp1zQ&encryption=none#%F0%9F%87%AB%F0%9F%87%B7FR_1%7C2.6MB%2Fs
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.124.12:22222?#%F0%9F%87%AB%F0%9F%87%B7FR_4%7C2.5MB/s
+vless://c28ee61d-0d43-4e69-8e6a-6397ed0ffc03@37.49.230.107:443?sni=fastsync.xyz&flow=xtls-rprx-vision-udp443&fp=random&security=tls#%F0%9F%87%AB%F0%9F%87%B7FR_1%7C2.4MB/s

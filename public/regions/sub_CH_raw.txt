@@ -1,1 +1,3 @@
-vless://31649657-6c78-4c2c-b25b-5cd574b082b5@ch10.tunnely.ru:443?sni=ch10.tunnely.ru&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#%F0%9F%87%A8%F0%9F%87%ADCH_1%7C3.7MB/s
+hysteria2://Uq5DgLZRU6hpn7ydRcePOeOk4i1c2tJIEk3rMZMUobo@144.31.107.101:25447?insecure=1&alpn=h3&sni=devideo.h2corp.org#%F0%9F%87%A8%F0%9F%87%ADCH_1%7C3.3MB/s
+hysteria2://Uq5DgLZRU6hpn7ydRcePOeOk4i1c2tJIEk3rMZMUobo@144.31.107.101:25447?insecure=1&sni=devideo.h2corp.org#%F0%9F%87%A8%F0%9F%87%ADCH_1%7C1.9MB%2Fs
+vless://f8db6882-e6b2-4f57-bed8-515d094a39e3@79.175.167.196:4041?security=none&encryption=none&headerType=none&type=tcp#瑞士/Switzerland
