@@ -1,1 +1,1 @@
-vless://8bc63720-5ec8-45b5-b6a6-9a21ffb490e8@sw01.auragg.org:443?sni=cloudflare.com&type=grpc&serviceName=auragrpc&fp=chrome&security=tls#%F0%9F%87%B8%F0%9F%87%AASE_1%7C2.1MB/s
+hysteria2://b05346a9-4d13-41a4-8d2a-6b7b64e73ffc@sw02.auragg.org:8443?insecure=1&security=tls&sni=sw02.auragg.org#瑞典/斯德哥尔摩/Sweden/Stockholm

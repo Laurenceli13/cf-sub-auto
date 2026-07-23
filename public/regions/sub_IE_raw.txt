@@ -1,4 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyMTdGZzl6cGdwVlM0REdF@20.166.58.64:443?#爱尔兰/都柏林/Ireland/Dublin
-trojan://IQ68037294@adapting-ghost.rooster465.autos:443?allowInsecure=0&sni=adapting-ghost.rooster465.autos#%F0%9F%87%AE%F0%9F%87%AAIE_2%7C3.3MB/s
-trojan://IQ68037294@moving-wren.rooster465.autos:443?allowInsecure=1&sni=moving-wren.rooster465.autos#%F0%9F%87%AE%F0%9F%87%AAIE_1%7C2.5MB/s
-vless://c04bf2df-2b7f-44da-a893-3792d3910fd8@ire02.myxasecure.space:443?security=reality&type=raw&packetEncoding=xudp&sni=ire02.myxasecure.space&fp=qq&flow=xtls-rprx-vision&sid=d67ec5a8fc40ebea&pbk=OCLtjVdRxsou3429LRfjkDYgiAPs24TSgSeFZpChCEw#%F0%9F%87%AE%F0%9F%87%AAIE_1%7C2.0MB%2Fs
+trojan://WG39087154@grateful-unicorn.rooster465.autos:443?allowInsecure=0#%F0%9F%87%AE%F0%9F%87%AAIE_2%7C1.6MB/s
+trojan://WG39087154@grateful-unicorn.rooster465.autos:443?allowInsecure=1&sni=grateful-unicorn.rooster465.autos#%F0%9F%87%AE%F0%9F%87%AAIE_1%7C2.5MB/s

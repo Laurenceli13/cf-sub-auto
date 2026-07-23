@@ -1,11 +1,1 @@
-hysteria2://Pld6E6l8xI@51.15.110.119:19978?insecure=1&sni=www.amd.com&obfs=salamander&obfs-password=Telegram=V2RayyNGvpn#%F0%9F%87%B3%F0%9F%87%B1%40V2RayyNGvpn%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%85%D8%A7%20%20%F0%9F%87%B3%F0%9F%87%B1
-hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#%F0%9F%87%B3%F0%9F%87%B1%20-%20NL%20-%20%40FreeOnlineVPN
-hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#8%7C%F0%9F%87%B3%F0%9F%87%B1%20-%20NL%20-%20%40FreeOnlineVPN
-hysteria2://gG5szcxrbt@51.15.110.119:19978?insecure=1&sni=www.amd.com&obfs=salamander&obfs-password=Telegram=V2RayyNGvpn#%F0%9F%87%B3%F0%9F%87%B1%40V2RayyNGvpn%F0%9F%87%B3%F0%9F%87%B1
 trojan://MiTiVPN@45.131.4.118:443?allowInsecure=0&sni=95r.ir&type=ws&host=95r.ir&path=/MiTiVPN=Se#12%7CNL_speednode_0016
-trojan://MiTiVPN@45.131.4.118:443?allowInsecure=0&sni=95r.ir&type=ws&host=95r.ir&path=/MiTiVPN=Se#NL_speednode_0016
-vless://335035e6-65f1-4a51-a8a7-10fb0a89b8e7@188.114.97.1:2052?allowInsecure=1&type=ws&host=shrill-lake-231c.jachhitachi69.workers.dev&path=/eyJqdW5rIjoiU1V4Ykp5S1h3aSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzI2MDI6ZmM1OTpiMDo2NDo6XSJdfQ==?ed=2560#%F0%9F%87%B3%F0%9F%87%B1NL_1%7C2.9MB/s
-vless://4f4a70e3-678e-46fb-ace6-59a5bc12e97b@3x-ui-production-b1e9.up.railway.app:443?security=tls&type=ws&path=%2Fin1&host=3x-ui-production-b1e9.up.railway.app&packetEncoding=xudp&sni=3x-ui-production-b1e9.up.railway.app&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1NL_1%7C1.9MB%2Fs
-vless://64beb03f-886e-48be-9bdf-2fa68156fd74@us3.boboly.ir:43780?sni=ourworldindata.org&fp=chrome&security=tls#%F0%9F%87%B3%F0%9F%87%B1NL_3%7C2.5MB/s
-vless://71cada65-d23e-418c-88e4-a06188d14689@nl-five.quiet-rogue.site:443?sni=nl-five.quiet-rogue.site&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%B3%F0%9F%87%B1NL_2%7C2.2MB/s
-vless://c436d7dc-170d-40bf-b2b8-6cf468db5e65@92.223.109.89:443?sni=ads.x5.ru&flow=xtls-rprx-vision-udp443&fp=edge&security=tls#%F0%9F%87%B3%F0%9F%87%B1NL_4%7C1.7MB/s

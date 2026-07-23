@@ -1,5 +1,4 @@
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@apibgp.ianai.it.com:39109?security=reality&type=tcp&packetEncoding=xudp&sni=iosapps.itunes.apple.com&fp=ios&flow=xtls-rprx-vision&sid=0a3125cb9d94baf1&pbk=5R5DFBYrNQi2hqpxhDNztEn2eRMFiDcQBObuPO9U8BU#%F0%9F%87%AE%F0%9F%87%A9ID_1%7C2.9MB%2Fs
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@apibgp.ianai.it.com:39109?sni=iosapps.itunes.apple.com&flow=xtls-rprx-vision-udp443&fp=ios&security=tls#%F0%9F%87%AE%F0%9F%87%A9ID_1%7C4.7MB/s
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@apibgp.ianai.it.com:34641?allowInsecure=1&sni=iosapps.itunes.apple.com&flow=xtls-rprx-vision-udp443&fp=ios&security=tls#%F0%9F%87%AE%F0%9F%87%A9ID_1%7C3.6MB/s
 vless://7896c501-248f-4068-bc2f-363c91ba5122@45.198.87.102:8443?allowInsecure=1&sni=storage.yandex.net&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#12%7CID_speednode_0012
 vless://7896c501-248f-4068-bc2f-363c91ba5122@45.198.87.102:8443?allowInsecure=1&sni=storage.yandex.net&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#ID_speednode_0012
 vless://7896c501-248f-4068-bc2f-363c91ba5122@45.198.87.13:8443?allowInsecure=1&sni=storage.yandex.net&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#12%7CID_speednode_0010
