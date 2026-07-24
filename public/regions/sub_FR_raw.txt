@@ -1,9 +1,6 @@
-hysteria2://76TeSy4hi8@51.159.137.79:55809?insecure=1&sni=www.amd.com&obfs=salamander&obfs-password=t-me-V2RayyNGvpn#%F0%9F%87%AB%F0%9F%87%B7119376%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me/S...
 hysteria2://dongtaiwang.com@62.210.124.146:22000/?insecure=1&sni=www.microsoft.com#法国/巴黎/France/Paris
-trojan://UZ15382649@moral-dolphin.rooster465.autos:443?sni=moral-dolphin.rooster465.autos&allowInsecure=1&type=tcp#%F0%9F%87%AB%F0%9F%87%B7FR_1%7C1.9MB%2Fs
-trojan://WG39087154@nearby-cod.rooster465.autos:443?allowInsecure=0#%F0%9F%87%AB%F0%9F%87%B7FR_2%7C3.7MB/s
-trojan://WG39087154@nearby-cod.rooster465.autos:443?allowInsecure=0&sni=nearby-cod.rooster465.autos#%F0%9F%87%AB%F0%9F%87%B7FR_3%7C2.1MB/s
-vless://7b4b7d4e-7a53-4c0c-bd8e-9f3b1b2c7f21@51.91.158.180:443?security=reality&encryption=none&pbk=wwH_L9FmhJ7AyOBKm9J8YGKdVo1G-QlDEuw5-s3eGEM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=9a4c7d2f8e1b6a3c#法国/France
+ss://YWVzLTI1Ni1nY206QmRSV0MzOEw1SlVETVRZTk54SkdjVXdC@198.8.92.84:49396#法国/France
+vless://1d16c6e0-1bbe-435b-b661-90043fee999c@210.203.195.52:33890?security=tls&type=ws&path=%2FTelegram-WangCai2%F0%9F%87%A8%F0%9F%87%B3&host=notls.lukongtou.eu.org&packetEncoding=xudp&sni=notls.lukongtou.eu.org&fp=chrome&encryption=none#法国/鲁贝/France/Roubaix
+vless://564082ff-cf3c-48db-9e10-8ad2312847b4@node12.mxvpn.dev:443?security=reality&type=tcp&packetEncoding=none&sni=node12.mxvpn.dev&fp=firefox&flow=xtls-rprx-vision&sid=bbc68cec8bb8d2e3&pbk=TlpXTLz1Y-v8B6q9MX55U6eypjfL0LCSNE5zQP4yRHw#%F0%9F%87%AB%F0%9F%87%B7FR_1%7C2.8MB%2Fs
+vless://564082ff-cf3c-48db-9e10-8ad2312847b4@node12.mxvpn.dev:443?sni=node12.mxvpn.dev&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#%F0%9F%87%AB%F0%9F%87%B7FR_1%7C2.8MB/s
 vless://b320eba7-5380-4bd1-b5e6-32daab16066f@fr-d.duckray.co.uk:3443?encryption=none&type=grpc&mode=gun&security=reality&sni=api.github.com&fp=random&pbk=Ps_w7KP3VFrZv1niWfX3synmJq_d2c7sVSckxa3sgio#%F0%9F%87%AB%F0%9F%87%B7%20France
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.154.172:22222?#%F0%9F%87%AB%F0%9F%87%B7FR_1%7C3.5MB/s
-vless://f9255507-1b65-433f-bfd8-193b35e068e2@185.133.35.140:80?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&amp;security=none&amp;encryption=none&amp;host=s5.868001.xyz&amp;type=ws#法国/鲁贝/France/Roubaix

@@ -1,2 +1,1 @@
-trojan://KV63147582@89.39.70.233:443?fp=chrome&security=tls&sni=game-firefly.rooster465.autos&type=tcp#%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A+V2CROSS.COM
-trojan://c19d1432-8b3e-4818-8837-3d160cf65908@138.2.45.243:443?security=tls#罗马尼亚/Romania
+vless://telegramjoin%3ATurboConfigs@104.252.89.161:80?encryption=none&type=tcp&headerType=http&host=paly.google.com#罗马尼亚/Romania

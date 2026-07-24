@@ -1,2 +1,1 @@
-trojan://WG39087154@grateful-unicorn.rooster465.autos:443?allowInsecure=0#%F0%9F%87%AE%F0%9F%87%AAIE_2%7C1.6MB/s
-trojan://WG39087154@grateful-unicorn.rooster465.autos:443?allowInsecure=1&sni=grateful-unicorn.rooster465.autos#%F0%9F%87%AE%F0%9F%87%AAIE_1%7C2.5MB/s
+trojan://XG59623478@3.249.67.252:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=singular-lark.rooster465.autos#爱尔兰/都柏林/Ireland/Dublin

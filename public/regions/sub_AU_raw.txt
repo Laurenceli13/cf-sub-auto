@@ -1,2 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiSU9vaTVUdUltRzJLY2N4VjctamNBN0Nleit2dW4tY19F@104.156.233.234:27116#澳大利亚/悉尼/Australia/Sydney
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@apibgp.ianai.it.com:62286?allowInsecure=1&sni=www.tesla.com&flow=xtls-rprx-vision-udp443&fp=ios&security=tls#%F0%9F%87%A6%F0%9F%87%BAAU_1%7C3.5MB/s
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUV0c3SjFLUjVLc1BhVjVxWkkrcmlldWVLeHhhZlpTcENI@45.77.232.213:15675#澳大利亚/悉尼/Australia/Sydney

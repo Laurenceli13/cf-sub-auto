@@ -1,1 +1,2 @@
-trojan://Aimer@167.68.4.199:2053?ed=2560&eh=Sec-WebSocket-Protocol&host=epge.muarua.filegear-sg.me&path=/?proxyip=ts.hpc.tw&sni=epge.muarua.filegear-sg.me&type=ws#匈牙利/Hungary
+vless://695d21df-7abf-423c-84f8-3a93382e5d46@152.233.41.13:16923?security=reality&type=grpc&mode=gun&serviceName=neurex&packetEncoding=none&sni=api-maps.yandex.ru&fp=firefox&sid=10ffb85da1c2d986&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA#%F0%9F%87%AD%F0%9F%87%BAHU_1%7C3.5MB%2Fs
+vless://695d21df-7abf-423c-84f8-3a93382e5d46@152.233.41.13:16923?sni=api-maps.yandex.ru&type=grpc&serviceName=neurex&fp=firefox&security=tls#%F0%9F%87%AD%F0%9F%87%BAHU_1%7C3.5MB/s
