@@ -1,3 +1,1 @@
-vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.116:443?sni=storage.yandex.net&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#%F0%9F%87%B9%F0%9F%87%B7TR_1%7C2.4MB/s
-vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.88:443?security=reality&type=tcp&packetEncoding=xudp&sni=storage.yandex.net&fp=firefox&flow=xtls-rprx-vision&sid=c6ef72e4635d15a5&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&encryption=none#%F0%9F%87%B9%F0%9F%87%B7TR_1%7C1.6MB%2Fs
-vmess://04621bae-ab36-11ec-b909-0242ac120002@5.188.190.252:22324?encryption=auto&security=none&type=tcp#土耳其/伊斯坦布尔/Türkiye/Istanbul
+vless://b6749f13-cd63-4bc4-b165-5d120b7a1ff4@turkey-naran.fizikade.ir:5039?security=reality&encryption=none&pbk=fv-InxuZSzLlHc83OANs4U2windIUSwPilOpJkMgtW0&headerType=none&fp=safari&type=tcp&sni=www.yahoo.com&sid=2e8424a2696cb606#土耳其/伊斯坦布尔/Türkiye/Istanbul

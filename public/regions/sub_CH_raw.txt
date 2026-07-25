@@ -1,3 +1,1 @@
-trojan://lKwC5b3iFW@179.237.75.28:61235?security=reality&pbk=oNsecxmNieB69yz09GhDj87Bcz4vgeokWlrZO1qJlmY&host=yahoo.com&headerType=http&fp=firefox&spx=%2F&type=tcp&sni=yahoo.com#瑞士/Switzerland
-vless://695d21df-7abf-423c-84f8-3a93382e5d46@152.233.31.68:16923?security=reality&type=grpc&mode=gun&serviceName=neurex&packetEncoding=none&sni=api-maps.yandex.ru&fp=firefox&sid=10ffb85da1c2d986&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA#%F0%9F%87%A8%F0%9F%87%ADCH_1%7C2.1MB%2Fs
-vless://695d21df-7abf-423c-84f8-3a93382e5d46@152.233.31.68:16923?sni=api-maps.yandex.ru&type=grpc&serviceName=neurex&fp=firefox&security=tls#%F0%9F%87%A8%F0%9F%87%ADCH_1%7C2.1MB/s
+vless://8bba3194-4856-46d1-8319-075817d87eb1@fi2.cyphervpn.pro:443?sni=fi2.cyphervpn.pro&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#%F0%9F%87%A8%F0%9F%87%ADCH_1%7C1.8MB/s
