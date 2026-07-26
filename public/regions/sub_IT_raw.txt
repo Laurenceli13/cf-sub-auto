@@ -1,2 +1,1 @@
-vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@it02.myxasecure.space:443?sni=it02.myxasecure.space&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#%F0%9F%87%AE%F0%9F%87%B9IT_1%7C1.5MB/s
-vless://71cada65-d23e-418c-88e4-a06188d14689@31.77.154.248:443?security=reality&encryption=none&pbk=T7cxFOGNMLKqZiEustm2sOfwOovHyHnLcGDWfSmaU1c&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=it-one.quiet-rogue.site#意大利/Italy
+trojan://54080134-2cba-4535-8599-95650bd9aa54@152.67.160.174:443?security=tls#意大利/Italy

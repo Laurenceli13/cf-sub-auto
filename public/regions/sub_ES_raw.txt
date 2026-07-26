@@ -1,3 +1,3 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXU3lMNFhUd05zZHY@108.181.121.226:8388#西班牙/巴塞罗那/Spain/Barcelona
-vless://806b803b-7dad-4f13-b525-f3b1ab50e44e@sp.skysafe.online:2027?security=reality&type=xhttp&path=%2Fpatch&packetEncoding=xudp&sni=sp.skysafe.online&fp=qq&sid=6ba7b8109dad11d1&pbk=EApxy12MeXpqt-78odxizwcXT6hX9f8XeAcbMDVRAV0&mode=auto#%F0%9F%87%AA%F0%9F%87%B8ES_1%7C1.7MB%2Fs
-vless://e51796bb-3305-ac88-f39d-22fd9dd63b4f@130.49.77.3:443?security=reality&type=xhttp&path=%2F&packetEncoding=xudp&sni=download.nvidia.com&fp=chrome&pbk=hwwiWVqYq5b7S0JaXNSxjWSEv_1OUFMaWJGHzeAGyRM&mode=auto&encryption=none#%F0%9F%87%AA%F0%9F%87%B8ES_2%7C1.8MB%2Fs
+vless://806b803b-7dad-4f13-b525-f3b1ab50e44e@sp.skysafe.online:2027?sni=sp.skysafe.online&fp=qq&security=tls#%F0%9F%87%AA%F0%9F%87%B8ES_2%7C1.7MB/s
+vless://e51796bb-3305-ac88-f39d-22fd9dd63b4f@130.49.77.3:443?sni=download.nvidia.com&fp=chrome&security=tls#%F0%9F%87%AA%F0%9F%87%B8ES_1%7C2.6MB/s
+vmess://04621bae-ab36-11ec-b909-0242ac120002@85.90.217.42:22324?encryption=auto&security=none&type=tcp#西班牙/马德里/Spain/Madrid

@@ -1,1 +1,1 @@
-vless://8bba3194-4856-46d1-8319-075817d87eb1@fi2.cyphervpn.pro:443?sni=fi2.cyphervpn.pro&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#%F0%9F%87%A8%F0%9F%87%ADCH_1%7C1.8MB/s
+vless://X_market2-X_market2-X_market2@83.228.224.216:443?security=reality&type=tcp&packetEncoding=none&sni=login.yahoo.com&fp=chrome&flow=xtls-rprx-vision&sid=2be362&pbk=vg43fiz32nRwXq8vKPd9gkeL5kc16cfd-ToD5lXjjCs&encryption=mlkem768x25519plus.native.0rtt.yckLlN-VzDeh6pgODr7-KW69as1tzkpHy05Pgoh3UFI#%F0%9F%87%A8%F0%9F%87%ADCH_1%7C1.6MB%2Fs
