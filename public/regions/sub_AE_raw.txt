@@ -1,1 +1,2 @@
-trojan://MITIVPN@94.140.0.100:443?allowInsecure=0&sni=95r.ir&type=ws&host=95r.ir&path=/MiTiVPN=Usa#12%7CAE_speednode_0001
+vless://fc1b3bda-b226-452a-8c5c-b0e36a1f8f88@31.58.182.250:443?sni=eu-central.cendora.ru&flow=xtls-rprx-vision-udp443&fp=qq&security=tls#%F0%9F%87%A6%F0%9F%87%AAAE_2%7C2.0MB/s
+vless://fc1b3bda-b226-452a-8c5c-b0e36a1f8f88@94.183.255.19:443?sni=eu-west.cendora.ru&flow=xtls-rprx-vision-udp443&fp=qq&security=tls#%F0%9F%87%A6%F0%9F%87%AAAE_1%7C2.0MB/s

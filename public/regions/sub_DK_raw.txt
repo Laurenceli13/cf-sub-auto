@@ -1,2 +1,1 @@
-vless://0108c657-a9bd-4c99-9179-74050cf78889@159.195.33.82:443?allowInsecure=0&sni=de.sellflow.org&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#12%7CDK_speednode_0004
-vless://0108c657-a9bd-4c99-9179-74050cf78889@159.195.33.82:443?allowInsecure=0&sni=de.sellflow.org&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#DK_speednode_0004
+vless://da7685a7-15ef-41e4-a0d9-009bb4be7220@84.75.161.38:443?sni=auto.malina24.xyz&flow=xtls-rprx-vision-udp443&fp=edge&security=tls#%F0%9F%87%A9%F0%9F%87%B0DK_1%7C2.5MB/s

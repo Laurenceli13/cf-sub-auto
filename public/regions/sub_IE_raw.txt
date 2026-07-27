@@ -1,5 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzQ3cyYmhSWm1KaHBtZ3JM@4.210.67.30:443#爱尔兰/都柏林/Ireland/Dublin
-vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@pl05.myxasecure.space:443?allowInsecure=0&sni=pl05.myxasecure.space&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#12%7CIE_speednode_0010
-vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@pl05.myxasecure.space:443?allowInsecure=0&sni=pl05.myxasecure.space&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#IE_speednode_0010
-vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@pl07.myxasecure.space:443?allowInsecure=0&sni=pl07.myxasecure.space&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#12%7CIE_speednode_0009
-vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@pl07.myxasecure.space:443?allowInsecure=0&sni=pl07.myxasecure.space&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#IE_speednode_0009
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5WEdteVRKQzhERGQwbEZS@23.100.56.187:443#爱尔兰/都柏林/Ireland/Dublin

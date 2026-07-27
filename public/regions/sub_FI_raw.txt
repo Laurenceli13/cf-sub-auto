@@ -1,9 +1,6 @@
-hysteria2://4z2oldt85p494bgb@assets.gateway-stream.com:52060?insecure=0&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=l960g2kn19nphlra#%F0%9F%87%AB%F0%9F%87%AEFI-%F0%9F%9A%80%40VPNine1
-hysteria2://4z2oldt85p494bgb@assets.gateway-stream.com:52060?insecure=0&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=l960g2kn19nphlra#8%7C%F0%9F%87%AB%F0%9F%87%AEFI-%40VPNine1
-hysteria2://4z2oldt85p494bgb@soskeynets.gateway-stream.com:52060?insecure=0&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=l960g2kn19nphlra#%F0%9F%87%AB%F0%9F%87%AE122132%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me/S...%20%231
-hysteria2://4z2oldt85p494bgb@soskeynets.gateway-stream.com:52060?insecure=0&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=l960g2kn19nphlra#8%7C%F0%9F%87%AB%F0%9F%87%AE122132%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me/S...
+hysteria2://4z2oldt85p494bgb@assets.gateway-stream.com:52021?insecure=0&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=mtg2vchyir6la3et#%F0%9F%87%AB%F0%9F%87%AEFI-%F0%9F%9A%80%40VPNine1
+hysteria2://4z2oldt85p494bgb@assets.gateway-stream.com:52021?insecure=0&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=mtg2vchyir6la3et#8%7C%F0%9F%87%AB%F0%9F%87%AEFI-%40VPNine1
+hysteria2://4z2oldt85p494bgb@soskeynets.gateway-stream.com:52021?insecure=0&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=mtg2vchyir6la3et#%F0%9F%87%AB%F0%9F%87%AE123108%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me/S...%20%231
+hysteria2://4z2oldt85p494bgb@soskeynets.gateway-stream.com:52021?insecure=0&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=mtg2vchyir6la3et#8%7C%F0%9F%87%AB%F0%9F%87%AE123108%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me/S...
 hysteria2://o3774es6cfv74kaf@musicclips.videolinks.ru:8443/?obfs=salamander&obfs-password=8zzng75tz4tf82pj&sni=musicclips.videolinks.ru#芬兰/赫尔辛基/Finland/Helsinki
-hysteria2://o3774es6cfv74kaf@musicclips.videolinks.ru:8443?insecure=0&sni=musicclips.videolinks.ru&obfs=salamander&obfs-password=8zzng75tz4tf82pj#%F0%9F%87%AB%F0%9F%87%AEFI_2%7C2.1MB/s
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@188.215.31.230:2090?#%F0%9F%87%AB%F0%9F%87%AEFI_3%7C2.0MB/s
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@31.57.62.191:2090?#%F0%9F%87%AB%F0%9F%87%AEFI_4%7C1.6MB/s
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?allowInsecure=1&sni=/?#%F0%9F%87%AB%F0%9F%87%AEFI_1%7C2.2MB/s
+vless://TELEGRAM-NUFiLTER-2@199.232.78.159:443?sni=ssl.fastly.com&type=ws&host=pan1.global.ssl.fastly.net&path=/TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER?ed=2053fp=chrome&security=tls#%F0%9F%87%AB%F0%9F%87%AEFI_1%7C2.5MB/s

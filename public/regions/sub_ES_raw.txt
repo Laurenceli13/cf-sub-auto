@@ -1,3 +1,1 @@
-vless://806b803b-7dad-4f13-b525-f3b1ab50e44e@sp.skysafe.online:2027?sni=sp.skysafe.online&fp=qq&security=tls#%F0%9F%87%AA%F0%9F%87%B8ES_2%7C1.7MB/s
-vless://e51796bb-3305-ac88-f39d-22fd9dd63b4f@130.49.77.3:443?sni=download.nvidia.com&fp=chrome&security=tls#%F0%9F%87%AA%F0%9F%87%B8ES_1%7C2.6MB/s
-vmess://04621bae-ab36-11ec-b909-0242ac120002@85.90.217.42:22324?encryption=auto&security=none&type=tcp#西班牙/马德里/Spain/Madrid
+vless://e51796bb-3305-ac88-f39d-22fd9dd63b4f@130.49.77.3:443?sni=download.nvidia.com&fp=chrome&security=tls#%F0%9F%87%AA%F0%9F%87%B8ES_1%7C2.4MB/s

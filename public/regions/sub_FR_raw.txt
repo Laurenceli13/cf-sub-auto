@@ -1,5 +1,4 @@
-trojan://54080134-2cba-4535-8599-95650bd9aa54@152.67.160.174:443?security=tls#法国/巴黎/France/Paris
-vless://2cc99ce2-186b-4cfd-83fe-df5bf5484519@45.38.228.148:443?sni=www.speedtest.net&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%AB%F0%9F%87%B7FR_1%7C3.2MB/s
+vless://a0b067ac-162d-4237-956d-10b8b471d3f5@54.37.75.187:443?security=reality&encryption=none&pbk=DHsthrDRMCGcOyJd4xTce_4CCSAJZGwxCdfNrkB_Pgs&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=479826bdfc3eb86e#法国/France
 vless://a1750ade-801f-4e3e-a5d2-de825771205d@151.80.147.30:443?security=reality&encryption=none&pbk=Ij3Iz1jqht6zLOy9uI0iusTy4n1oIr7gpgTwRTtA8kY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=speedtest.net&sid=42b395462da31c0e#法国/鲁贝/France/Roubaix
 vless://b320eba7-5380-4bd1-b5e6-32daab16066f@fr-d.duckray.co.uk:3443?encryption=none&type=grpc&mode=gun&security=reality&sni=api.github.com&fp=random&pbk=Ps_w7KP3VFrZv1niWfX3synmJq_d2c7sVSckxa3sgio#%F0%9F%87%AB%F0%9F%87%B7%20France
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@de.vpnbase.net:80?path=%2Fhttp&security=none&encryption=none&host=de.vpnbase.net&type=ws#法国/France
+vless://b6af5776-fede-4765-b86c-806e827e9a07@germany.superbuba.top:443?sni=germany.superbuba.top&flow=xtls-rprx-vision-udp443&fp=random&security=tls#%F0%9F%87%AB%F0%9F%87%B7FR_1%7C3.3MB/s
