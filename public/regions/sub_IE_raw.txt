@@ -1,1 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5WEdteVRKQzhERGQwbEZS@23.100.56.187:443#爱尔兰/都柏林/Ireland/Dublin
+vless://817c009c-bfaa-47b4-b5b8-2930f83568ca@188.211.233.229:443?sni=musicboss.eu&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#%F0%9F%87%AE%F0%9F%87%AAIE_1%7C2.2MB/s

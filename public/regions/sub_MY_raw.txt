@@ -1,3 +1,6 @@
-trojan://7e70223b-f331-41d5-9313-02b8d2df2885@kkvlvvq-a.catcat321.com:20031?allowInsecure=1&sni=hk.catxstar.com#%F0%9F%87%B2%F0%9F%87%BEMY_1%7C5.0MB/s
-trojan://7e70223b-f331-41d5-9313-02b8d2df2885@kkvlvvq-a.catcat321.com:20031?sni=hk.catxstar.com&allowInsecure=1&type=tcp#%F0%9F%87%B2%F0%9F%87%BEMY_1%7C3.2MB%2Fs
-trojan://7e70223b-f331-41d5-9313-02b8d2df2885@kkvlvvq-a.catcat321.com:20031?sni=hk.catxstar.com&allowInsecure=1&type=tcp&fp=edge#%F0%9F%87%B2%F0%9F%87%BEMY_2%7C3.3MB%2Fs
+trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@oplosgru-c.catcat321.com:20031?allowInsecure=1&sni=hk.catxstar.com#%F0%9F%87%B2%F0%9F%87%BEMY_2%7C3.4MB/s
+trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@oplosgru-c.catcat321.com:20031?sni=hk.catxstar.com&allowInsecure=1&type=tcp#%F0%9F%87%B2%F0%9F%87%BEMY_1%7C3.8MB%2Fs
+trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@oplosgru-c.catcat321.com:20048?allowInsecure=1&sni=hk.catxstar.com#%F0%9F%87%B2%F0%9F%87%BEMY_1%7C4.8MB/s
+trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@oplosgru-c.catcat321.com:20048?sni=hk.catxstar.com&type=tcp&fp=chrome#%F0%9F%87%B2%F0%9F%87%BEMY_2%7C4.0MB%2Fs
+vless://d6dc1358-1bb5-4a9d-92fd-3e255567e3fc@94.126.206.29:443?allowInsecure=1&sni=apple.com&flow=xtls-rprx-vision-udp443&fp=qq&security=tls#12%7CMY_speednode_0005
+vless://d6dc1358-1bb5-4a9d-92fd-3e255567e3fc@94.126.206.29:443?allowInsecure=1&sni=apple.com&flow=xtls-rprx-vision-udp443&fp=qq&security=tls#MY_speednode_0005

@@ -1,1 +1,1 @@
-vless://e51796bb-3305-ac88-f39d-22fd9dd63b4f@130.49.77.3:443?sni=download.nvidia.com&fp=chrome&security=tls#%F0%9F%87%AA%F0%9F%87%B8ES_1%7C2.4MB/s
+vless://fc1b3bda-b226-452a-8c5c-b0e36a1f8f88@113.30.149.20:443?sni=eu-west.cendora.ru&flow=xtls-rprx-vision-udp443&fp=qq&security=tls#%F0%9F%87%AA%F0%9F%87%B8ES_1%7C1.8MB/s

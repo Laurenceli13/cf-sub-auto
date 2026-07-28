@@ -1,2 +1,2 @@
-trojan://ZY07256934@closing-crow.rooster465.autos:443?security=tls#加拿大/多伦多/Canada/Toronto
-vmess://eyJhZGQiOiIxNTguNTEuMTIxLjYzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJzZXJpYnVzLm9yZyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoibGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6IkNBIPCfh6jwn4emIHwgQFJheWRpa2FseCB8IDE0OTEiLCJzY3kiOiJhdXRvIiwic25pIjoic2VyaWJ1cy5vcmciLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==#加拿大/蒙特利尔/Canada/Montreal
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyODE4@20.124.221.217:2818#加拿大/多伦多/Canada/Toronto
+trojan://9c822f05-cfdc-479a-9534-60f3d4127435@138.2.113.248:443?security=tls#加拿大/Canada

@@ -1,10 +1,1 @@
-vless://7896c501-248f-4068-bc2f-363c91ba5122@45.198.87.102:8443?allowInsecure=1&sni=storage.yandex.net&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#12%7CID_speednode_0012
-vless://7896c501-248f-4068-bc2f-363c91ba5122@45.198.87.102:8443?allowInsecure=1&sni=storage.yandex.net&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#ID_speednode_0012
-vless://7896c501-248f-4068-bc2f-363c91ba5122@45.198.87.13:8443?allowInsecure=1&sni=storage.yandex.net&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#12%7CID_speednode_0010
-vless://7896c501-248f-4068-bc2f-363c91ba5122@45.198.87.13:8443?allowInsecure=1&sni=storage.yandex.net&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#ID_speednode_0010
-vless://7896c501-248f-4068-bc2f-363c91ba5122@45.198.87.168:8443?allowInsecure=1&sni=storage.yandex.net&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#12%7CID_speednode_0009
-vless://7896c501-248f-4068-bc2f-363c91ba5122@45.198.87.168:8443?allowInsecure=1&sni=storage.yandex.net&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#ID_speednode_0009
-vless://7896c501-248f-4068-bc2f-363c91ba5122@45.198.87.203:8443?allowInsecure=1&sni=storage.yandex.net&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#12%7CID_speednode_0011
-vless://7896c501-248f-4068-bc2f-363c91ba5122@45.198.87.203:8443?allowInsecure=1&sni=storage.yandex.net&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#ID_speednode_0011
-vless://7896c501-248f-4068-bc2f-363c91ba5122@45.198.87.33:8443?allowInsecure=1&sni=storage.yandex.net&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#12%7CID_speednode_0013
-vless://7896c501-248f-4068-bc2f-363c91ba5122@45.198.87.33:8443?allowInsecure=1&sni=storage.yandex.net&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#ID_speednode_0013
+trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@oplosgru-c.catcat321.com:20056?sni=hk.catxstar.com&allowInsecure=1&type=tcp#%F0%9F%87%AE%F0%9F%87%A9ID_1%7C3.3MB%2Fs

@@ -1,1 +1,4 @@
-vless://274e7cbc-887a-4502-8e1e-2302fb6e7bec@45.59.125.228:443?sni=www.amd.com&fp=chrome&security=tls#%F0%9F%87%A8%F0%9F%87%ADCH_1%7C2.4MB/s
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4cDZxZHV5YTMzYnZsODYz@best.kovira2.ir:25026#%F0%9F%87%A8%F0%9F%87%ADCH_1%7C3.4MB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4cDZxZHV5YTMzYnZsODYz@best.kovira2.ir:25026#瑞士/Switzerland
+vless://1f29762d-3f23-4207-9e39-f774de5d49ba@fat-sp.arpozan.cloud:18443?sni=max.ru&fp=qq&security=tls#%F0%9F%87%A8%F0%9F%87%ADCH_1%7C2.0MB/s
+vless://7e447981-8fcd-4f6a-99e3-88b13842c5f5@212.233.121.186:443?sni=yandex.ru&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#%F0%9F%87%A8%F0%9F%87%ADCH_2%7C3.4MB/s

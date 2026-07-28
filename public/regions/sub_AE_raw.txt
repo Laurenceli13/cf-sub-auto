@@ -1,2 +1,1 @@
-vless://fc1b3bda-b226-452a-8c5c-b0e36a1f8f88@31.58.182.250:443?sni=eu-central.cendora.ru&flow=xtls-rprx-vision-udp443&fp=qq&security=tls#%F0%9F%87%A6%F0%9F%87%AAAE_2%7C2.0MB/s
-vless://fc1b3bda-b226-452a-8c5c-b0e36a1f8f88@94.183.255.19:443?sni=eu-west.cendora.ru&flow=xtls-rprx-vision-udp443&fp=qq&security=tls#%F0%9F%87%A6%F0%9F%87%AAAE_1%7C2.0MB/s
+vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@pl08.myxasecure.space:443?security=reality&type=tcp&packetEncoding=none&sni=pl08.myxasecure.space&fp=firefox&flow=xtls-rprx-vision&sid=d67ec5a8fc40ebea&pbk=OCLtjVdRxsou3429LRfjkDYgiAPs24TSgSeFZpChCEw#%F0%9F%87%A6%F0%9F%87%AAAE_1%7C2.5MB%2Fs

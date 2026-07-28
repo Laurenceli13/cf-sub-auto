@@ -1,1 +1,1 @@
-trojan://54080134-2cba-4535-8599-95650bd9aa54@152.67.160.174:443?security=tls#意大利/Italy
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.129:8880?mode=gun&security=&encryption=none&authority=%76%32%72%61%79%4e%70%6c%75%73%2d%2d%76%32%72%61%79%4e%70%6c%75%73%2d%2d%76%32%72%61%79%4e%70%6c%75%73&type=grpc&sni=sca30.mysilipdir.com#意大利/Italy

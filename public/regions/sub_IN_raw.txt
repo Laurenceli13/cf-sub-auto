@@ -1,1 +1,2 @@
-trojan://ZY07256934@closing-crow.rooster465.autos:443?security=tls#印度/孟买/India/Mumbai
+trojan://9c822f05-cfdc-479a-9534-60f3d4127435@138.2.113.248:443?security=tls#印度/孟买/India/Mumbai
+vless://7d6d3391-7bf8-46bf-bd2e-01e82a790017@109.163.239.147:443?sni=cdn3-25.yahoo.com&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#%F0%9F%87%AE%F0%9F%87%B3IN_1%7C2.0MB/s
