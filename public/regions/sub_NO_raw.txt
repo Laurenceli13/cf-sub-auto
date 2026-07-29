@@ -1,3 +1,1 @@
-trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@Hkdcrtc-e.catcat321.com:20085?allowInsecure=1&sni=hk.catxstar.com#%F0%9F%87%B3%F0%9F%87%B4NO_1%7C1.7MB/s
-trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@Hkdcrtc-e.catcat321.com:20085?sni=hk.catxstar.com&allowInsecure=1&type=tcp#%F0%9F%87%B3%F0%9F%87%B4NO_2%7C2.7MB%2Fs
-vless://5c2a674b-bf9d-4461-b56d-a9c2bc299d9a@5.254.121.232:443?security=reality&type=tcp&packetEncoding=none&sni=cdn9-40.yahoo.com&fp=firefox&flow=xtls-rprx-vision&sid=299a6ca1f217c457&pbk=CMkW1axrhEXoiJ6anMz9XEjlfqlAtEZya7L0b5ZPMyw#%F0%9F%87%B3%F0%9F%87%B4NO_1%7C2.9MB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@185.213.23.63:990#挪威/奥斯陆/Norway/Oslo

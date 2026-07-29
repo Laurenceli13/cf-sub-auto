@@ -1,1 +1,7 @@
-vless://c97b2158-64c9-1f55-8167-72970d347288@157.22.19.5:443?sni=download.nvidia.com&fp=chrome&security=tls#%F0%9F%87%A8%F0%9F%87%B3CN_1%7C2.4MB/s
+trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@Hkdcrtc-e.catcat321.com:20066?allowInsecure=1&sni=hk.catxstar.com#CN_speednode_0006
+trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@hkdcrtc-e.catcat321.com:20041?allowInsecure=1#CN_speednode_0004
+trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@hkdcrtc-e.catcat321.com:20041?allowInsecure=1&sni=de.catxstar.com#CN_speednode_0003
+trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@hkdcrtc-e.catcat321.com:20041?allowInsecure=1&sni=hkdcrtc-e.catcat321.com#CN_speednode_0005
+trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@hkdcrtc-e.catcat321.com:20066?allowInsecure=1&sni=hkdcrtc-e.catcat321.com#CN_speednode_0007
+trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@hkdcrtc-e.catcat321.com:20129?allowInsecure=1#CN_speednode_0008
+trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@rr2.tube-cat.com:9450?allowInsecure=1#12%7CCN_speednode_0002
