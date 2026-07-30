@@ -1,4 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprdnJvdjR2ZDRpc3piM2F3@koviraaa.kovira2.ir:25026#%F0%9F%87%A8%F0%9F%87%ADCH_1%7C3.4MB/s
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprdnJvdjR2ZDRpc3piM2F3@koviraaa.kovira2.ir:25026#瑞士/Switzerland
-vless://f5f77177-4937-4f40-b6fc-7c4278151f01@83.228.229.139:8443?security=none&type=xhttp&path=%2F&host=chatgpt.com&packetEncoding=xudp&mode=auto&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&encryption=none#%F0%9F%87%A8%F0%9F%87%ADCH_2%7C2.1MB%2Fs
-vless://f5f77177-4937-4f40-b6fc-7c4278151f01@koviraaa.kovira2.ir:8443?security=none&type=xhttp&path=%2F&host=chatgpt.com&packetEncoding=xudp&mode=auto&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&encryption=none#%F0%9F%87%A8%F0%9F%87%ADCH_1%7C2.1MB%2Fs
+hysteria2://Uq5DgLZRU6hpn7ydRcePOeOk4i1c2tJIEk3rMZMUobo@144.31.107.101:25447?insecure=1&sni=devideo.h2corp.org#%F0%9F%87%A8%F0%9F%87%ADCH_1%7C3.4MB%2Fs
+hysteria2://Uq5DgLZRU6hpn7ydRcePOeOk4i1c2tJIEk3rMZMUobo@144.31.107.101:25447?insecure=1&sni=devideo.h2corp.org&obfs=&obfs-password=#%F0%9F%87%A8%F0%9F%87%ADCH_1%7C3.4MB/s

@@ -1,13 +1,5 @@
-hysteria2://dongtaiwang.com@62.210.124.146:22000?insecure=1&sni=www.microsoft.com#法国/巴黎/France/Paris
+hysteria2://dongtaiwang.com@62.210.124.146:22000/?insecure=1&sni=www.microsoft.com#法国/巴黎/France/Paris
+hysteria2://github.com%2FAlvin9999-newpac%2Ffanqiang@62.210.7.139:60111?insecure=1&sni=bing.com#%F0%9F%87%AB%F0%9F%87%B7FR_1%7C2.6MB%2Fs
+hysteria2://github.com/Alvin9999-newpac/fanqiang@62.210.7.139:60111?insecure=1&sni=bing.com#%F0%9F%87%AB%F0%9F%87%B7FR_1%7C2.6MB/s
 vless://7b4b7d4e-7a53-4c0c-bd8e-9f3b1b2c7f21@51.91.158.180:443?security=reality&encryption=none&pbk=wwH_L9FmhJ7AyOBKm9J8YGKdVo1G-QlDEuw5-s3eGEM&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=9a4c7d2f8e1b6a3c#法国/France
 vless://b320eba7-5380-4bd1-b5e6-32daab16066f@fr-d.duckray.co.uk:3443?encryption=none&type=grpc&mode=gun&security=reality&sni=api.github.com&fp=random&pbk=Ps_w7KP3VFrZv1niWfX3synmJq_d2c7sVSckxa3sgio#%F0%9F%87%AB%F0%9F%87%B7%20France
-vless://c7e9c591-2764-423a-afca-efbd010fd396@152.228.134.105:2053?allowInsecure=1&sni=forfreeuse.sub-flow.online&type=ws&host=forfreeuse.sub-flow.online&path=/fp=chrome&security=tls#12%7CFR_speednode_0008
-vless://cfde0aba-0985-4034-ab92-50b1534b126c@199.232.170.156:80?allowInsecure=1&sni=BankMelat.glObal.ssl.faStly.nEt&type=ws&host=BankMelat.glObal.ssl.faStly.nEt&path=/#FR_speednode_0012
-vless://cfde0aba-0985-4034-ab92-50b1534b126c@199.232.170.177:80?allowInsecure=1&sni=BankMelat.glObal.ssl.faStly.nEt&type=ws&host=BankMelat.glObal.ssl.faStly.nEt&path=/#12%7CFR_speednode_0009
-vless://cfde0aba-0985-4034-ab92-50b1534b126c@199.232.170.181:80?allowInsecure=1&sni=BankMelat.glObal.ssl.faStly.nEt&type=ws&host=BankMelat.glObal.ssl.faStly.nEt&path=/#FR_speednode_0014
-vless://cfde0aba-0985-4034-ab92-50b1534b126c@199.232.170.209:80?allowInsecure=1&sni=BankMelat.glObal.ssl.faStly.nEt&type=ws&host=BankMelat.glObal.ssl.faStly.nEt&path=/#FR_speednode_0015
-vless://cfde0aba-0985-4034-ab92-50b1534b126c@199.232.170.214:80?allowInsecure=1&sni=BankMelat.glObal.ssl.faStly.nEt&type=ws&host=BankMelat.glObal.ssl.faStly.nEt&path=/#FR_speednode_0013
-vless://cfde0aba-0985-4034-ab92-50b1534b126c@199.232.170.219:80?allowInsecure=1&sni=BankMelat.glObal.ssl.faStly.nEt&type=ws&host=BankMelat.glObal.ssl.faStly.nEt&path=/#FR_speednode_0016
-vless://cfde0aba-0985-4034-ab92-50b1534b126c@199.232.170.227:80?allowInsecure=1&sni=BankMelat.glObal.ssl.faStly.nEt&type=ws&host=BankMelat.glObal.ssl.faStly.nEt&path=/#FR_speednode_0019
-vless://cfde0aba-0985-4034-ab92-50b1534b126c@199.232.170.27:80?allowInsecure=1&sni=BankMelat.glObal.ssl.faStly.nEt&type=ws&host=BankMelat.glObal.ssl.faStly.nEt&path=/#FR_speednode_0018
-vless://cfde0aba-0985-4034-ab92-50b1534b126c@199.232.170.67:80?allowInsecure=1&sni=BankMelat.glObal.ssl.faStly.nEt&type=ws&host=BankMelat.glObal.ssl.faStly.nEt&path=/#FR_speednode_0017

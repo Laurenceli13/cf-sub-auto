@@ -1,6 +1,2 @@
-trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@oplosgru-c.catcat321.com:20031?allowInsecure=1&sni=hk.catxstar.com#%F0%9F%87%B2%F0%9F%87%BEMY_2%7C3.4MB/s
-trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@oplosgru-c.catcat321.com:20031?sni=hk.catxstar.com&allowInsecure=1&type=tcp#%F0%9F%87%B2%F0%9F%87%BEMY_1%7C3.8MB%2Fs
-trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@oplosgru-c.catcat321.com:20048?allowInsecure=1&sni=hk.catxstar.com#%F0%9F%87%B2%F0%9F%87%BEMY_1%7C4.8MB/s
-trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@oplosgru-c.catcat321.com:20048?sni=hk.catxstar.com&type=tcp&fp=chrome#%F0%9F%87%B2%F0%9F%87%BEMY_2%7C4.0MB%2Fs
-vless://d6dc1358-1bb5-4a9d-92fd-3e255567e3fc@94.126.206.29:443?allowInsecure=1&sni=apple.com&flow=xtls-rprx-vision-udp443&fp=qq&security=tls#12%7CMY_speednode_0005
-vless://d6dc1358-1bb5-4a9d-92fd-3e255567e3fc@94.126.206.29:443?allowInsecure=1&sni=apple.com&flow=xtls-rprx-vision-udp443&fp=qq&security=tls#MY_speednode_0005
+hysteria2://ba845a48-cfcb-48c4-ab8c-0836e360112e@20.17.157.51:56787?insecure=1&sni=ajax.microsoft.com#%F0%9F%87%B2%F0%9F%87%BEMY_1%7C2.1MB%2Fs
+hysteria2://ba845a48-cfcb-48c4-ab8c-0836e360112e@20.17.157.51:56787?insecure=1&sni=ajax.microsoft.com&obfs=&obfs-password=#%F0%9F%87%B2%F0%9F%87%BEMY_1%7C2.1MB/s

@@ -1,5 +1,10 @@
-hysteria2://6c077487-06af-4fb1-9e46-d485d98f0a31@45.88.43.116:52454?insecure=1&sni=www.bing.com#%F0%9F%87%AF%F0%9F%87%B5JP_1%7C3.2MB%2Fs
-hysteria2://6c077487-06af-4fb1-9e46-d485d98f0a31@45.88.43.116:52454?insecure=1&sni=www.bing.com&obfs=&obfs-password=#%F0%9F%87%AF%F0%9F%87%B5JP_1%7C3.4MB/s
-trojan://BxceQaOe@18.163.208.174:45691?allowInsecure=1&sni=t.me%252Fripaojiedian#%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
-trojan://BxceQaOe@18.163.208.174:45691?allowInsecure=1&sni=t.me%252Fripaojiedian#10%2C11%7C%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
-vmess://eyJhZGQiOiIxNDAuODMuNTEuMTYxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJqcDAyLmEwYS54eXoiLCJpZCI6IjY3MzNjMzU3LWJhMTEtNGU5Zi1mMDBmLTdkODdmMjc3NmZmOSIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9jY3R2MTMubTN1OCIsInBvcnQiOiIyNTY4NiIsInBzIjoiSlAg8J+Hr/Cfh7UgfCBAUmF5ZGlrYWx4IHwgMzQ2OSIsInNjeSI6ImF1dG8iLCJzbmkiOiJqcDAyLmEwYS54eXoiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=#日本/Japan
+trojan://4d048fc6-d944-41dd-b327-10856adcc82d@zi.you.usdtvfk.top:443?security=tls&sni=zi.you.usdtvfk.top#日本/东京/Japan/Tokyo
+trojan://BxceQaOe@18.163.208.174:45691?allowInsecure=1&sni=t.me%252Fripaojiedian#10%7C%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
+trojan://BxceQaOe@54.46.46.228:41421?allowInsecure=1&sni=t.me%252Fripaojiedian#11%7C%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
+trojan://d1960ba9f0f6353353994fa844cf817b@18.163.111.105:38937?allowInsecure=0&sni=www.nintendogames.net#10%7C%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
+trojan://d1960ba9f0f6353353994fa844cf817b@18.167.12.183:4099?allowInsecure=0&sni=www.nintendogames.net#10%7C%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC3%7C%40ripaojiedian
+trojan://d1960ba9f0f6353353994fa844cf817b@18.181.205.36:38937?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP_2%7C5.0MB/s
+trojan://d1960ba9f0f6353353994fa844cf817b@18.181.205.36:38937?sni=www.nintendogames.net&type=tcp#%F0%9F%87%AF%F0%9F%87%B5JP_2%7C5.0MB%2Fs
+trojan://d1960ba9f0f6353353994fa844cf817b@43.199.32.78:40138?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP_1%7C2.6MB/s
+trojan://d1960ba9f0f6353353994fa844cf817b@43.199.32.78:40138?sni=www.nintendogames.net&type=tcp#%F0%9F%87%AF%F0%9F%87%B5JP_1%7C2.6MB%2Fs
+vmess://ewogICAgImFkZCI6ICI0NS43Ni4yMDIuNDUiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICIiLAogICAgImlkIjogIjA3MWE4YTcxLWM2NTYtNGZiNi1hOTA4LTRlNDJlYjcyMjQzZCIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi9saWtzdXpjcCIsCiAgICAicG9ydCI6IDQwMTAsCiAgICAicHMiOiAi8J+Hr/Cfh7VKUC00NS43Ni4yMDIuNDUtNjExMiIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9#日本/Japan

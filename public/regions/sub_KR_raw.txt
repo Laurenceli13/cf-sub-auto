@@ -1,5 +1,4 @@
-vless://11e57eeb-ffdf-4983-a9fa-ad352dea7253@154.193.55.183:443?allowInsecure=1&sni=storage.yandex.net&flow=xtls-rprx-vision-udp443&fp=random&security=tls#12%7CKR_speednode_0012
-vless://11e57eeb-ffdf-4983-a9fa-ad352dea7253@154.193.55.183:443?allowInsecure=1&sni=storage.yandex.net&flow=xtls-rprx-vision-udp443&fp=random&security=tls#KR_speednode_0032
-vless://d0b1d140-2c56-11f1-aa57-8f36e190ad40@8mc0z4qk-7n2r-5t9x-0r6p-3a4w8k1d9e2.edge.ccdn3.work:20158?security=reality&type=tcp&packetEncoding=xudp&sni=www.bilibili.com&fp=firefox&flow=xtls-rprx-vision&sid=33f6498052e5cb1a&pbk=zYijLoutrnnrwLpLXaL9KAIT9siijcdajF8blOfgSxM#%F0%9F%87%B0%F0%9F%87%B7KR_1%7C2.3MB%2Fs
-vless://f75814f6-8f81-4847-b792-168c41f2dc85@154.193.55.183:443?allowInsecure=1&sni=storage.yandex.net&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#12%7CKR_speednode_0011
-vless://f75814f6-8f81-4847-b792-168c41f2dc85@154.193.55.183:443?allowInsecure=1&sni=storage.yandex.net&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#KR_speednode_0031
+vless://11e57eeb-ffdf-4983-a9fa-ad352dea7253@154.193.55.183:443?allowInsecure=1&sni=storage.yandex.net&flow=xtls-rprx-vision-udp443&fp=random&security=tls#12%7CKR_speednode_0007
+vless://11e57eeb-ffdf-4983-a9fa-ad352dea7253@154.193.55.183:443?allowInsecure=1&sni=storage.yandex.net&flow=xtls-rprx-vision-udp443&fp=random&security=tls#KR_speednode_0007
+vless://f75814f6-8f81-4847-b792-168c41f2dc85@154.193.55.183:443?allowInsecure=1&sni=storage.yandex.net&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#12%7CKR_speednode_0008
+vless://f75814f6-8f81-4847-b792-168c41f2dc85@154.193.55.183:443?allowInsecure=1&sni=storage.yandex.net&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#KR_speednode_0008
