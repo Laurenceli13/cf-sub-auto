@@ -1,1 +1,1 @@
-vless://29ca503d-e6b8-4509-b666-48133f450857@104.155.124.198:443?&security=tls&fp=random&sni=learn00.evany.de5.net&type=ws&headerType=none&host=learn00.evany.de5.net&path=%2Ffdip%3Dtw.william.us.ci%21txt#比利时/布鲁塞尔/Belgium/Brussels
+vless://c28ee61d-0d43-4e69-8e6a-6397ed0ffc03@109.69.218.168:443?security=reality&type=tcp&packetEncoding=xudp&sni=agile-raptor.cdn.cachefleet.com&fp=random&flow=xtls-rprx-vision&pbk=cv_KJnMzQUZruACPbH-BCgLWrYqPm2dbUymg-gW_sVc&encryption=none#%F0%9F%87%A7%F0%9F%87%AABE_1%7C2.5MB%2Fs

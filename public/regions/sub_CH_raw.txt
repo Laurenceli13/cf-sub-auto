@@ -1,2 +1,1 @@
-hysteria2://Uq5DgLZRU6hpn7ydRcePOeOk4i1c2tJIEk3rMZMUobo@144.31.107.101:25447?insecure=1&sni=devideo.h2corp.org#%F0%9F%87%A8%F0%9F%87%ADCH_1%7C3.4MB%2Fs
-hysteria2://Uq5DgLZRU6hpn7ydRcePOeOk4i1c2tJIEk3rMZMUobo@144.31.107.101:25447?insecure=1&sni=devideo.h2corp.org&obfs=&obfs-password=#%F0%9F%87%A8%F0%9F%87%ADCH_1%7C3.4MB/s
+vless://b4bc10bf-80f9-40c9-b4e5-29817c2f0992@83.228.196.3:8082?mode=gun&security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=grpc&serviceName=vless-grpc-reality&sni=id.vk.com#瑞士/Switzerland
