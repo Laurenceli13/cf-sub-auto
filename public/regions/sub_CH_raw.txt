@@ -1,1 +1,5 @@
-vless://b4bc10bf-80f9-40c9-b4e5-29817c2f0992@83.228.196.3:8082?mode=gun&security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=grpc&serviceName=vless-grpc-reality&sni=id.vk.com#瑞士/Switzerland
+vless://6878235f-af14-4901-ba6d-4be8dc371456@185.130.114.211:443?security=reality&type=raw&packetEncoding=xudp&sni=yandex.ru&fp=chrome&flow=xtls-rprx-vision&pbk=CF49-iS9dsHBwvqYFoDs_T3Me8TT0FpNW2kibGBkVXY&encryption=none#%F0%9F%87%A8%F0%9F%87%ADCH_2%7C1003KB%2Fs
+vless://6878235f-af14-4901-ba6d-4be8dc371456@185.130.114.211:443?sni=yandex.ru&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%A8%F0%9F%87%ADCH_2%7C1003KB/s
+vless://7c0ae486-6e09-465c-9232-67a50f329eb9@45.195.2.114:443?security=reality&type=tcp&packetEncoding=none&alpn=http%2F1.1&sni=storage.yandex.net&fp=qq&flow=xtls-rprx-vision&sid=d515d6cfdfe60b02&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc#%F0%9F%87%A8%F0%9F%87%ADCH_1%7C1.3MB%2Fs
+vless://7c0ae486-6e09-465c-9232-67a50f329eb9@45.195.2.114:443?sni=storage.yandex.net&alpn=http/1.1&flow=xtls-rprx-vision-udp443&fp=qq&security=tls#%F0%9F%87%A8%F0%9F%87%ADCH_1%7C1.3MB/s
+vless://c7e9c591-2764-423a-afca-efbd010fd396@185.195.69.119:2053?path=%2F&security=tls&encryption=none&host=forfreeuse.sub-flow.online&fp=chrome&type=ws&sni=forfreeuse.sub-flow.online#瑞士/Switzerland

@@ -1,1 +1,4 @@
-vless://3e0cbd37-467f-4988-a72f-b37cd4a97959@nodedivice.chickenkiller.com:443?security=reality&encryption=none&pbk=IhbpvWBZmJEzDs4eI2zoFmL_a-1J_7Z7Sepyrn7-xF8&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=nodefulcrum.mooo.com&sid=6547735997055a35#意大利/Italy
+vless://245bb424-b186-4738-8f42-bdbde719d4c9@104.21.18.41:443?security=tls&type=ws&path=%2Fnova-geo-psiphon-it&host=pinalo.zenvorix.ir&packetEncoding=none&alpn=h2&sni=pinalo.zenvorix.ir&fp=chrome#%F0%9F%87%AE%F0%9F%87%B9IT_1%7C3.0MB%2Fs
+vless://245bb424-b186-4738-8f42-bdbde719d4c9@104.21.18.41:443?sni=pinalo.zenvorix.ir&alpn=h2&type=ws&host=pinalo.zenvorix.ir&path=/nova-geo-psiphon-itfp=chrome&security=tls#%F0%9F%87%AE%F0%9F%87%B9IT_1%7C3.0MB/s
+vless://a5bea439-6176-4b5d-a891-bd31fc3530c9@taoccqyacf7e.dop66.com:5039?security=reality&type=tcp&packetEncoding=xudp&sni=www.yahoo.com&fp=chrome&sid=2e8424a2696cb606&pbk=fv-InxuZSzLlHc83OANs4U2windIUSwPilOpJkMgtW0&encryption=none#%F0%9F%87%AE%F0%9F%87%B9IT_2%7C4.1MB%2Fs
+vless://a5bea439-6176-4b5d-a891-bd31fc3530c9@taoccqyacf7e.dop66.com:5039?sni=www.yahoo.com&fp=chrome&security=tls#%F0%9F%87%AE%F0%9F%87%B9IT_2%7C4.1MB/s

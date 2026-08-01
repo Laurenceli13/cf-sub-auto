@@ -1,3 +1,2 @@
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@103.115.109.49:443?insecure=1&sni=https%3A%2F%2Ft.me%2Foneclickvpnkeys#台湾/台北市/Taiwan/Taipei
-trojan://i99Cef@209.248.32.115:28101?sni=download.windowsupdate.com&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%B9%F0%9F%87%BCTW_1%7C2.7MB%2Fs
-trojan://i99Cef@209.248.32.116:28101?sni=download.windowsupdate.com&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%B9%F0%9F%87%BCTW_2%7C3.6MB%2Fs
+vless://e443eff4-272f-44d7-bac3-8cca6c325a68@64.225.108.188:32221?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#台湾/板橋/Taiwan/Banqiao

@@ -1,1 +1,4 @@
-vless://884d811f-577b-421e-aabb-608660b0ecfa@82.202.158.151:9893?sni=www.io.ozone.ru&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#%F0%9F%87%AD%F0%9F%87%BAHU_1%7C2.5MB/s
+vless://1a0bd0ba-df37-4d86-84ee-5f6eb4210d07@hu001.kubservice.icu:443?security=reality&type=tcp&packetEncoding=none&sni=hu001.kubservice.icu&fp=qq&flow=xtls-rprx-vision&pbk=z-TKWOWgZLfzQ-wNdwXQqVwaUgCmbchM2Xtrk1NGynU#%F0%9F%87%AD%F0%9F%87%BAHU_1%7C4.0MB%2Fs
+vless://1a0bd0ba-df37-4d86-84ee-5f6eb4210d07@hu001.kubservice.icu:443?sni=hu001.kubservice.icu&flow=xtls-rprx-vision-udp443&fp=qq&security=tls#%F0%9F%87%AD%F0%9F%87%BAHU_1%7C4.0MB/s
+vless://f055899d-026b-49b5-88ed-0227795082da@2.26.139.184:443?security=reality&type=tcp&packetEncoding=xudp&sni=kukuruza.mycdn-me.ru&fp=firefox&flow=xtls-rprx-vision&sid=e17b4d9a8c1f3526&pbk=-qRasoN1QIcSdRL937b6s-Y2qOb-9OFmlaHBi7UcOSM&encryption=none#%F0%9F%87%AD%F0%9F%87%BAHU_2%7C1.4MB%2Fs
+vless://f055899d-026b-49b5-88ed-0227795082da@2.26.139.184:443?sni=kukuruza.mycdn-me.ru&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#%F0%9F%87%AD%F0%9F%87%BAHU_2%7C1.4MB/s

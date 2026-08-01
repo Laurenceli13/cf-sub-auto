@@ -1,1 +1,4 @@
-vless://3ad1d277-5715-4ca1-84db-5baea72f822d@201.51.2.248:443?security=reality&type=tcp&packetEncoding=xudp&sni=ads.x5.ru&fp=firefox&flow=xtls-rprx-vision&sid=496ee75c2f91f51d&pbk=tZEzySB7soxBmNn2NPyzvUZtC7H1O0pyZx5M60_X2g4&encryption=none#%F0%9F%87%A7%F0%9F%87%B7BR_1%7C1.5MB%2Fs
+vless://28d0edc6-93c9-4465-bac9-720274d8b8c4@status.netraidly.ru:40443?allowInsecure=1&sni=deepl.com&flow=xtls-rprx-vision-udp443&fp=qq&security=tls#12%7CBR_speednode_0003
+vless://28d0edc6-93c9-4465-bac9-720274d8b8c4@status.netraidly.ru:40443?allowInsecure=1&sni=deepl.com&flow=xtls-rprx-vision-udp443&fp=qq&security=tls#BR_speednode_0003
+vless://831f56ff-d117-4a72-bb2b-a5e44eab6fbf@pro-ru-bridge.emrata.top:443?allowInsecure=0&sni=pro-ru-bridge.emrata.top&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#12%7CBR_speednode_0002
+vless://831f56ff-d117-4a72-bb2b-a5e44eab6fbf@pro-ru-bridge.emrata.top:443?allowInsecure=0&sni=pro-ru-bridge.emrata.top&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#BR_speednode_0002
