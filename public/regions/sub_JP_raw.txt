@@ -1,8 +1,3 @@
-trojan://BxceQaOe@35.76.126.253:9408?allowInsecure=1&sni=t.me%252Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5JP_1%7C5.3MB/s
-trojan://BxceQaOe@35.76.126.253:9408?allowInsecure=1&sni=t.me%252Fripaojiedian#11%7C%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
-trojan://BxceQaOe@35.76.126.253:9408?sni=t.me%25252Fripaojiedian&allowInsecure=1&type=tcp#%F0%9F%87%AF%F0%9F%87%B5JP_1%7C5.3MB%2Fs
-trojan://BxceQaOe@43.198.187.59:49811?allowInsecure=1&sni=t.me%252Fripaojiedian#10%7C%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
-trojan://d1960ba9f0f6353353994fa844cf817b@3.114.9.167:38937?allowInsecure=0&sni=www.nintendogames.net#10%7C%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
-trojan://d1960ba9f0f6353353994fa844cf817b@3.114.9.167:40138?allowInsecure=0&sni=www.nintendogames.net#10%7C%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC3%7C%40ripaojiedian
-vmess://eyJ2IjoiMiIsImFkZCI6IjE3Mi4xMTEuMTQ2LjY0IiwicG9ydCI6IjgwIiwiaWQiOiIwNWI4Yzc4My03ZjU5LTQ3ZjktOTkyMy0wNmE0NjU2NzlmNmEiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6IiIsInRscyI6IiIsInBhdGgiOiIvdm1lc3MvIiwicHMiOiJKUCDwn4ev8J+HtSB8IEBSYXlkaWthbHggfCBBQTVDMTciLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==#日本/东京/Japan/Tokyo
-vmess://eyJhZGQiOiIxNjEuMzMuMTM5LjEzOCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiMTYxLjMzLjEzOS4xMzgiLCJpZCI6IjE2MTBmOGRjLTA2NjEtNDAzMi1hYzZhLWE3MjUwNjAzZjYwOCIsIm5ldCI6IndzIiwicGF0aCI6Ii8xNjEwZjhkYy0wNjYxLTQwMzItYWM2YS1hNzI1MDYwM2Y2MDgtdm0iLCJwb3J0IjoiNTg5MDUiLCJwcyI6IkpQIPCfh6/wn4e1IHwgQFJheWRpa2FseCB8IDczNDNFMyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJub25lIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9#日本/印西市/Japan/Inzai
+trojan://BxceQaOe@16.163.123.222:7630?allowInsecure=1&sni=t.me%252Fripaojiedian#%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
+trojan://BxceQaOe@35.76.126.253:9408?allowInsecure=1&sni=t.me%252Fripaojiedian#10%2C11%7C%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
+vmess://eyJhZGQiOiIxNDAuODMuNTEuMTYxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJqcDAyLmEwYS54eXoiLCJpZCI6IjY3MzNjMzU3LWJhMTEtNGU5Zi1mMDBmLTdkODdmMjc3NmZmOSIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9jY3R2MTMubTN1OCIsInBvcnQiOiIyNTY4NiIsInBzIjoiSlAg8J+Hr/Cfh7UgfCBAUmF5ZGlrYWx4IHwgRDU5QzdGIiwic2N5IjoiYXV0byIsInNuaSI6ImpwMDIuYTBhLnh5eiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==#日本/Japan

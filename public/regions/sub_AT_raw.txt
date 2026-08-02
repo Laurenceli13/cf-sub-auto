@@ -1,2 +1,1 @@
-vless://3df0d1ae-a205-4602-a9a1-f0d518dcc826@152.53.47.153:16923?sni=api-maps.yandex.ru&type=grpc&serviceName=neurex&fp=firefox&security=tls#%F0%9F%87%A6%F0%9F%87%B9AT_1%7C2.1MB/s
-vless://ab044a84-8263-42ab-a1f1-2fd5ebace70d@152.53.47.153:16923?security=reality&type=grpc&mode=gun&serviceName=neurex&packetEncoding=xudp&sni=api-maps.yandex.ru&fp=firefox&sid=10ffb85da1c2d986&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&encryption=none#%F0%9F%87%A6%F0%9F%87%B9AT_1%7C2.3MB%2Fs
+vless://ab7d5ea9-6eca-47c3-b14b-67378fc2d7c2@152.53.114.186:443?security=reality&type=tcp&packetEncoding=xudp&sni=as.tunnelx.space&fp=firefox&flow=xtls-rprx-vision&sid=4e9b0c2d1a3f5768&pbk=UO3EObgU3xUrhIGEE0gfCn5ZOz8YxNcwwW6ZaYzD3SA&encryption=none#%F0%9F%87%A6%F0%9F%87%B9AT_1%7C1.1MB%2Fs

@@ -1,2 +1,1 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.192.224.30:8880?type=ws&host=vms.lifetime17.workers.dev#A%20-%20%F0%9F%87%B8%F0%9F%87%A8%20SC%2003%20TG%3A%20%40nodpai
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.197.64.30:8880?type=ws&host=vms.lifetime36.workers.dev&path=/#A%20-%20%F0%9F%87%B8%F0%9F%87%A8%20SC%2001%20TG%3A%20%40nodpai
+vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@45.130.125.207:443?allowInsecure=0&sni=terazhediii.info&type=ws&host=terazhediii.info&path=/hdgrbwsfp=chrome&security=tls#12%7CSC_speednode_0145

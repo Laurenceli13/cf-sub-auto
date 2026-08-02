@@ -1,1 +1,2 @@
-vless://808a0627-05e5-47b3-8d27-edd65020ef09@37.142.205.77:20443?security=reality&encryption=none&pbk=p8q3yhwdryc9YfL-xSO78M03SIF5LrizXc_7R9ARYQ8&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=://microsoft.com&sid=183d612c#%E4%BB%A5%E8%89%B2%E5%88%97+V2CROSS.COM
+vless://f50822b7-02ec-4611-83bd-ff29411e0e10@45.140.204.171:57000?security=reality&type=grpc&mode=gun&serviceName=grpc-pl57k-9f3a&packetEncoding=none&sni=finance.yahoo.com&fp=firefox&sid=ba&pbk=hZ2suCOyxMqdLE9YexeRtoG5r5isMoztbDrfMbiOIEY#%F0%9F%87%AE%F0%9F%87%B1IL_1%7C1.4MB%2Fs
+vless://f50822b7-02ec-4611-83bd-ff29411e0e10@45.140.204.171:57000?sni=finance.yahoo.com&type=grpc&serviceName=grpc-pl57k-9f3a&fp=firefox&security=tls#%F0%9F%87%AE%F0%9F%87%B1IL_1%7C3.5MB/s

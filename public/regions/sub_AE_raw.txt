@@ -1,2 +1,2 @@
-vless://5e243126-4a2a-84b6-782a-73b14797fb5f@45.88.13.3:993?allowInsecure=0&sni=download.nvidia.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#12%7CAE_speednode_0001
-vless://5e243126-4a2a-84b6-782a-73b14797fb5f@45.88.13.3:993?allowInsecure=0&sni=download.nvidia.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#AE_speednode_0001
+vless://2a088d58-eb38-47bd-b74d-ac392ee12ccd@151.243.190.41:25513?sni=proxy11.h1guro.ovh&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#%F0%9F%87%A6%F0%9F%87%AAAE_1%7C3.6MB/s
+vless://a5ea9247-79f3-4655-aece-3fb51e1e669e@78.40.195.56:443?security=reality&type=tcp&packetEncoding=xudp&sni=19.07-7.yunus.guru&fp=firefox&flow=xtls-rprx-vision&sid=c6d439fd92614ab0&pbk=APXp2igsjxFmGkpb3L98I__FTySIY6saN6skP2y0ank&encryption=none#%F0%9F%87%A6%F0%9F%87%AAAE_1%7C1.1MB%2Fs

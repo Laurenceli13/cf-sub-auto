@@ -1,1 +1,1 @@
-hysteria2://grape_288923@194.247.182.201:8443?insecure=1&security=tls&sni=grape-coffee-fi.gleeze.com#%E4%B9%8C%E5%85%8B%E5%85%B0+V2CROSS.COM
+vless://504d0b6e-400d-45ec-b2d0-1c79006ebc16@193.41.5.187:443?security=reality&type=tcp&packetEncoding=none&sni=web.pomedor.ru&fp=firefox&sid=0858af97f4e7324d&pbk=aFsY-EZjSNTomlAFShKwQIQMJ5pHiZQXXJpWvcz8WkQ#%F0%9F%87%BA%F0%9F%87%A6UA_1%7C1.6MB%2Fs

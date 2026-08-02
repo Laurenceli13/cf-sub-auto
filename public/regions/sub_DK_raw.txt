@@ -1,1 +1,1 @@
-vless://da7685a7-15ef-41e4-a0d9-009bb4be7220@84.75.161.38:443?sni=auto.malina24.xyz&flow=xtls-rprx-vision-udp443&fp=edge&security=tls#%F0%9F%87%A9%F0%9F%87%B0DK_1%7C2.5MB/s
+vless://2a088d58-eb38-47bd-b74d-ac392ee12ccd@87.58.205.70:6437?sni=tesla.com&type=grpc&serviceName=grpc&fp=firefox&security=tls#%F0%9F%87%A9%F0%9F%87%B0DK_1%7C2.3MB/s
