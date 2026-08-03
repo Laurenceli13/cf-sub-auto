@@ -1,3 +1,3 @@
 hysteria2://0ansucp5k6aop125@185.47.172.226:32950?security=tls&obfs=salamander&obfs-password=dnwx30hvcobf7xcf&insecure=0&sni=185.47.172.226#意大利/Italy
-vless://7c0ae486-6e09-465c-9232-67a50f329eb9@45.195.2.114:443?allowInsecure=0&sni=storage.yandex.net&alpn=http/1.1&flow=xtls-rprx-vision-udp443&fp=qq&security=tls#12%7CIT_speednode_0013
-vless://7c0ae486-6e09-465c-9232-67a50f329eb9@45.195.2.114:443?allowInsecure=0&sni=storage.yandex.net&alpn=http/1.1&flow=xtls-rprx-vision-udp443&fp=qq&security=tls#IT_speednode_0013
+vless://ef6c9625-62de-4b9d-b7e2-0d4a9f67a9b2@4.232.64.201:443?allowInsecure=1&sni=sni.ehb.cc.cd&type=ws&host=sni.ehb.cc.cd&path=/proxyip=ProxyIP.CMLiussss.netfp=chrome&security=tls#12%7CIT_speednode_0066
+vless://ef6c9625-62de-4b9d-b7e2-0d4a9f67a9b2@4.232.64.201:443?allowInsecure=1&sni=sni.ehb.cc.cd&type=ws&host=sni.ehb.cc.cd&path=/proxyip=ProxyIP.CMLiussss.netfp=chrome&security=tls#IT_speednode_0066

@@ -1,2 +1,1 @@
-vless://ab7d5ea9-6eca-47c3-b14b-67378fc2d7c2@ch.tunnelx.space:443?security=reality&type=tcp&packetEncoding=none&sni=ch.tunnelx.space&fp=firefox&flow=xtls-rprx-vision&sid=10a5c8e2f4b7d936&pbk=q_lfutznS1iTS7bGphTIGMYVeht-8clcf_IfzIf4mBQ#%F0%9F%87%A8%F0%9F%87%ADCH_1%7C1.2MB%2Fs
-vless://c7e9c591-2764-423a-afca-efbd010fd396@185.195.69.119:2053?path=%2F&security=tls&encryption=none&host=forfreeuse.sub-flow.online&fp=chrome&type=ws&sni=forfreeuse.sub-flow.online#瑞士/Switzerland
+vless://b4bc10bf-80f9-40c9-b4e5-29817c2f0992@83.228.196.3:8082?mode=gun&security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=grpc&serviceName=vless-grpc-reality&sni=id.vk.com#瑞士/Switzerland
