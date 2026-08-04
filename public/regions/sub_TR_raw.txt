@@ -1,11 +1,6 @@
-hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@taga2.api3-max.ru:443/?sni=taga2.api3-max.ru#土耳其/伊斯坦布尔/Türkiye/Istanbul
-vless://444f3779-cc79-4289-b22b-f75bc84be25e@soskeynets.ssdhdd.org:443?security=reality&type=tcp&packetEncoding=xudp&sni=tasnimnews.ir&fp=chrome&sid=3b225391611b29e5&pbk=pvY1bX3eh_RHA2foDr82nB-0UgXu1uO7xjtYKRSFuCs&encryption=none#%F0%9F%87%B9%F0%9F%87%B7TR_2%7C1.2MB%2Fs
-vless://444f3779-cc79-4289-b22b-f75bc84be25e@soskeynets.ssdhdd.org:443?sni=tasnimnews.ir&fp=chrome&security=tls#%F0%9F%87%B9%F0%9F%87%B7TR_2%7C1.2MB/s
-vless://504d0b6e-400d-45ec-b2d0-1c79006ebc16@62.133.63.94:2053?allowInsecure=1&sni=web.stapika.ru&fp=firefox&security=tls#12%7CTR_speednode_0238
-vless://504d0b6e-400d-45ec-b2d0-1c79006ebc16@62.133.63.94:2053?allowInsecure=1&sni=web.stapika.ru&fp=firefox&security=tls#TR_speednode_0238
-vless://5e243126-4a2a-84b6-782a-73b14797fb5f@170.168.97.3:8443?security=reality&type=grpc&mode=gun&serviceName=TunService&packetEncoding=none&sni=download.nvidia.com&fp=chrome&pbk=D2SXHZRRYM0WcFChGWd57XB-U73aIsGfMpe2-Gq5XSs#%F0%9F%87%B9%F0%9F%87%B7TR_1%7C1.9MB%2Fs
-vless://5e243126-4a2a-84b6-782a-73b14797fb5f@170.168.97.3:8443?sni=download.nvidia.com&type=grpc&serviceName=TunService&fp=chrome&security=tls#%F0%9F%87%B9%F0%9F%87%B7TR_1%7C1.9MB/s
-vless://ab7d5ea9-6eca-47c3-b14b-67378fc2d7c2@87.120.106.126:443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=tr.tunnelx.space&fp=firefox&flow=xtls-rprx-vision&sid=4e9b5c2d1a3f5728&pbk=zvbLa6BrfAeAKIg4TZ2AASiEZ9ntYCSEFhgkbqWwkQg#%F0%9F%87%B9%F0%9F%87%B7TR_3%7C2.0MB%2Fs
-vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&flow=xtls-rprx-vision&sni=r1.mizulina.top#土耳其/Türkiye
-vless://ef6c9625-62de-4b9d-b7e2-0d4a9f67a9b2@195.16.74.73:443?allowInsecure=1&sni=sni.ehb.cc.cd&type=ws&host=sni.ehb.cc.cd&path=/proxyip=ProxyIP.CMLiussss.netfp=chrome&security=tls#12%7CTR_speednode_0239
-vless://ef6c9625-62de-4b9d-b7e2-0d4a9f67a9b2@195.16.74.73:443?allowInsecure=1&sni=sni.ehb.cc.cd&type=ws&host=sni.ehb.cc.cd&path=/proxyip=ProxyIP.CMLiussss.netfp=chrome&security=tls#TR_speednode_0239
+hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@143.246.136.159:443?sni=taga2.api3-max.ru#土耳其/伊斯坦布尔/Türkiye/Istanbul
+vless://5e243126-4a2a-84b6-782a-73b14797fb5f@170.168.97.3:443?sni=download.nvidia.com&fp=chrome&security=tls#%F0%9F%87%B9%F0%9F%87%B7TR_2%7C1.7MB/s
+vless://5e243126-4a2a-84b6-782a-73b14797fb5f@170.168.97.3:8443?sni=download.nvidia.com&type=grpc&serviceName=TunService&fp=chrome&security=tls#%F0%9F%87%B9%F0%9F%87%B7TR_1%7C2.5MB/s
+vless://e6d41d6f-d58a-7650-bba4-d7f0dde3ba4d@170.168.97.3:8443?security=reality&type=grpc&mode=gun&serviceName=TunService&packetEncoding=xudp&sni=download.nvidia.com&fp=firefox&pbk=D2SXHZRRYM0WcFChGWd57XB-U73aIsGfMpe2-Gq5XSs#%F0%9F%87%B9%F0%9F%87%B7TR_1%7C1.0MB%2Fs
+vless://e6d41d6f-d58a-7650-bba4-d7f0dde3ba4d@170.168.97.3:993?sni=download.nvidia.com&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#%F0%9F%87%B9%F0%9F%87%B7TR_3%7C2.1MB/s
+vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.229:443?sni=storage.yandex.net&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#%F0%9F%87%B9%F0%9F%87%B7TR_4%7C2.6MB/s

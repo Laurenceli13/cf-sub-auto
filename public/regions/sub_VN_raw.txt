@@ -1,1 +1,1 @@
-vmess://eyJ2IjogIjIiLCAicHMiOiAi5Lqa5aSq5Zyw5Yy6IDAwMiIsICJhZGQiOiAiMTAzLjE2Ni4xODQuMTM0IiwgInBvcnQiOiAiMjc0NjciLCAiaWQiOiAiOTM2MzcxMDUtYmNlYS00YTY4LWIwODktMWJiNjA5MWYwYjE2IiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJodHRwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIn0=#越南/Vietnam
+vless://d516ffe9-f519-3c47-872b-666249bdc7b7@family.bucket.9.kfc-520.com:10033?security=reality&type=tcp&packetEncoding=none&sni=www.hp.com&fp=firefox&flow=xtls-rprx-vision&sid=667925235980&pbk=mQvQHrpr_4068cLt-AOl44mQN6YccQv7yLfCP5Kp9HU#%F0%9F%87%BB%F0%9F%87%B3VN_1%7C2.4MB%2Fs

@@ -1,1 +1,2 @@
-trojan://61605c66-6d41-4b9d-a496-b9898f3f95d0@jp-h1.sshub.xyz:443?security=tls#挪威/奥斯陆/Norway/Oslo
+hysteria2://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@138.124.68.188:443?security=tls&sni=usa1.spectrumproxy.shop#%E6%8C%AA%E5%A8%81+V2CROSS.COM
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpySXZ6TkNCUF90NW9kU1c0RGlNTER3@91.107.189.98:1080#挪威/奥斯陆/Norway/Oslo

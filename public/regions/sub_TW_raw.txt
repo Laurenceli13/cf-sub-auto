@@ -1,5 +1,1 @@
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@160.187.100.109:443?insecure=1&sni=vpn-tw-002.fastervpn.world#台湾/台北市/Taiwan/Taipei
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyODc4OTk4OC04ODdlLTRlNDEtODNjZC0yN2JiZmI3OTk5YWQ=@xunlinknode.csdjhajkshdjkas.com:40028#%F0%9F%87%B9%F0%9F%87%BCTW_1%7C4.2MB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyODc4OTk4OC04ODdlLTRlNDEtODNjZC0yN2JiZmI3OTk5YWQ=@xunlinknode.csdjhajkshdjkas.com:40028#%F0%9F%87%B9%F0%9F%87%BCTW_1%7C4.2MB/s
-vless://431fe973-a43a-4fac-bf83-2a772e0d0625@60.249.101.14:10000?allowInsecure=0#12%7CTW_speednode_0240
-vless://431fe973-a43a-4fac-bf83-2a772e0d0625@60.249.101.14:10000?allowInsecure=0#TW_speednode_0240
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@103.115.109.49:443?insecure=1&sni=https%3A%2F%2Ft.me%2Foneclickvpnkeys#台湾/台北市/Taiwan/Taipei

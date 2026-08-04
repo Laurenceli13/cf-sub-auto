@@ -1,6 +1,6 @@
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.228.71:62145?#%F0%9F%87%A8%F0%9F%87%B4CO_1%7C1005KB/s
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.228.71:62145?security=none&type=tcp&packetEncoding=xudp#%F0%9F%87%A8%F0%9F%87%B4CO_1%7C1005KB%2Fs
-vless://ab7d5ea9-6eca-47c3-b14b-67378fc2d7c2@87.120.106.126:443?allowInsecure=1&sni=tr.tunnelx.space&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#12%7CCO_speednode_0012
-vless://ab7d5ea9-6eca-47c3-b14b-67378fc2d7c2@87.120.106.126:443?allowInsecure=1&sni=tr.tunnelx.space&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#CO_speednode_0012
-vless://ab7d5ea9-6eca-47c3-b14b-67378fc2d7c2@tr.tunnelx.space:443?allowInsecure=1&sni=tr.tunnelx.space&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#12%7CCO_speednode_0011
-vless://ab7d5ea9-6eca-47c3-b14b-67378fc2d7c2@tr.tunnelx.space:443?allowInsecure=1&sni=tr.tunnelx.space&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#CO_speednode_0011
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.172.130:62145?security=none&type=tcp&packetEncoding=xudp#%F0%9F%87%A8%F0%9F%87%B4CO_1%7C2.0MB%2Fs
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.185.228:62145?security=none&type=tcp&packetEncoding=xudp#%F0%9F%87%A8%F0%9F%87%B4CO_2%7C1.4MB%2Fs
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.223.179:62145?#哥伦比亚/Colombia
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.226.24:62145?#%F0%9F%87%A8%F0%9F%87%B4CO_1%7C2.8MB/s
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.226.24:62145?security=none&type=tcp&packetEncoding=xudp#%F0%9F%87%A8%F0%9F%87%B4CO_4%7C1.0MB%2Fs
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.227.98:62145?security=none&type=tcp&packetEncoding=none#%F0%9F%87%A8%F0%9F%87%B4CO_3%7C1.6MB%2Fs
