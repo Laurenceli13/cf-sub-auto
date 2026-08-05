@@ -1,2 +1,7 @@
-hysteria2://71cada65-d23e-418c-88e4-a06188d14689@87.121.105.108:443?sni=swe-one.quiet-rogue.site#瑞典/斯德哥尔摩/Sweden/Stockholm
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.61.13.49:443#%F0%9F%87%B8%F0%9F%87%AASE_1%7C2.6MB%2Fs
+hysteria2://71cada65-d23e-418c-88e4-a06188d14689@87.121.105.108:443/?sni=swe-one.quiet-rogue.site#瑞典/斯德哥尔摩/Sweden/Stockholm
+hysteria2://71cada65-d23e-418c-88e4-a06188d14689@swe-one.quiet-rogue.site:443?sni=swe-one.quiet-rogue.site#%F0%9F%87%B8%F0%9F%87%AASE_3%7C2.9MB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDeHRjWmFPU0ZZaUpubG95VFpKMHoy@89.22.234.121:443#瑞典/Sweden
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.61.13.49:443#%F0%9F%87%B8%F0%9F%87%AASE_4%7C1.0MB%2Fs
+vless://6f436a44-f703-93da-7e45-615824a39d3b@teain.org:1000?security=reality&type=tcp&packetEncoding=xudp&sni=knox.cdn-apple.com&fp=chrome&sid=a62d513cd709744a&pbk=ECxm-BdHYhxYK9MtN33NkkrFSdFZXp-OB-yhN8AleRY&encryption=none#%F0%9F%87%B8%F0%9F%87%AASE_2%7C3.3MB%2Fs
+vless://f1c496bf-d2ab-45be-bc13-051d60d227b7@84.32.99.238:443?security=reality&type=xhttp&path=%2Fapi%2Fv1%2Fdata&host=recaptcha.net.cn&packetEncoding=none&sni=recaptcha.net.cn&fp=firefox&pbk=UtbgFz4_cQT5v3SkjxgQ4QfOu7SLHkXXeO1pcxxTrT8&mode=auto#%F0%9F%87%B8%F0%9F%87%AASE_1%7C1.1MB%2Fs
+vless://f1c496bf-d2ab-45be-bc13-051d60d227b7@84.32.99.238:443?sni=recaptcha.net.cn&fp=firefox&security=tls#%F0%9F%87%B8%F0%9F%87%AASE_1%7C1.9MB/s

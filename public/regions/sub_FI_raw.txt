@@ -1,2 +1,5 @@
-hysteria2://0puq3lmwv7qtp76t@assets.gateway-stream.com:52034?insecure=1&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=w0tx1ju9iix6913p#%F0%9F%87%AB%F0%9F%87%AE%40V2rayng_Fast
-hysteria2://71cada65-d23e-418c-88e4-a06188d14689@2.26.85.26:443?sni=fi-one.quiet-rogue.site#芬兰/赫尔辛基/Finland/Helsinki
+hysteria2://22j0d00lev7mq0yv@musicclips.videolinks.ru:8443?insecure=1&obfs=salamander&obfs-password=8zzng75tz4tf82pj&sni=musicclips.videolinks.ru#%F0%9F%87%AB%F0%9F%87%AEFI_1%7C2.3MB%2Fs
+hysteria2://22j0d00lev7mq0yv@musicclips.videolinks.ru:8443?insecure=1&sni=musicclips.videolinks.ru&obfs=salamander&obfs-password=8zzng75tz4tf82pj#%E8%8A%AC%E5%85%B0
+hysteria2://71cada65-d23e-418c-88e4-a06188d14689@2.26.85.26:443/?sni=fi-one.quiet-rogue.site#芬兰/赫尔辛基/Finland/Helsinki
+vless://59b2ff61-808d-4dcc-b74a-fa283ff82c42@46.8.237.5:2084?security=none&type=grpc&mode=gun&serviceName=grpc&packetEncoding=xudp&encryption=none#%F0%9F%87%AB%F0%9F%87%AEFI_2%7C2.5MB%2Fs
+vless://631ee34f-4faf-0003-b49d-e6f50403cf0e@194.180.189.189:443?security=reality&type=tcp&packetEncoding=xudp&sni=anyfile2file.com&fp=firefox&flow=xtls-rprx-vision&sid=64c1fe36c7846400&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&encryption=none#%F0%9F%87%AB%F0%9F%87%AEFI_3%7C2.9MB%2Fs

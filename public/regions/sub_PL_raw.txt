@@ -1,3 +1,1 @@
-vless://28863986-75fb-4b2f-b006-65e62194358d@plc.kosmosapp.ru:16923?sni=yandex.ru&type=grpc&serviceName=neurex&fp=firefox&security=tls#%F0%9F%87%B5%F0%9F%87%B1PL_1%7C3.2MB/s
-vless://cf0310b0-2cd6-4ae1-b4c4-e029e7fb0ee3@plb.kosmosapp.ru:16923?security=reality&type=grpc&mode=gun&serviceName=neurex&packetEncoding=xudp&sni=maps.yandex.ru&fp=chrome&sid=10ffb85da1c2d986&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&encryption=none#%F0%9F%87%B5%F0%9F%87%B1PL_1%7C1.9MB%2Fs
 vless://f6a2cd4a-b755-4b9f-b854-40101e28e217@144.31.113.56:58427?security=reality&encryption=none&pbk=NCqZzVFlyDITdXB28eEHBgHVqlqpllm1BoJ4wImYHl4&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=ymail.com&sid=6a58#波兰/华沙/Poland/Warsaw

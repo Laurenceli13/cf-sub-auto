@@ -1,3 +1,2 @@
-hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@93.114.194.117:8443?sni=grape-zet-ro-turbo.bumbleshrimp.com#罗马尼亚/Romania
-hysteria2://uj7XGZGUqRlmdpk6rysyZMN333RWsxTFj0hBIMaFV-NUCd5r@185.225.19.39:443?insecure=0&sni=ro.h2corp.org#8%7CRomania
-hysteria2://uj7XGZGUqRlmdpk6rysyZMN333RWsxTFj0hBIMaFV-NUCd5r@185.225.19.39:443?insecure=0&sni=ro.h2corp.org#Romania%20%F0%9F%87%B7%F0%9F%87%B4
+hy2://6fe3a600-4bcf-4040-81eb-ccd29231db2b@155.117.19.221:30001/?insecure=1#罗马尼亚/Romania
+hysteria2://Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s@77.74.123.134:8443?sni=grape-zet-turbo-nl.yyuyy.com#%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A
