@@ -1,5 +1,2 @@
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@160.187.100.109:443?insecure=1&sni=vpn-tw-002.fastervpn.world#台湾/台北市/Taiwan/Taipei
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg001286ek2.cybervena.com:50099#台湾/板橋/Taiwan/Banqiao
-trojan://55354c2b8ee339571bd657a9bb9858cc@speed-01.aliyun-web-tracker.cn:39221?allowInsecure=1&sni=speed-01.aliyun-web-tracker.cn#%F0%9F%87%B9%F0%9F%87%BCTW_2%7C2.8MB/s
-trojan://55354c2b8ee339571bd657a9bb9858cc@speed-01.aliyun-web-tracker.cn:39221?sni=speed-01.aliyun-web-tracker.cn&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%B9%F0%9F%87%BCTW_1%7C1.6MB%2Fs
-vless://431fe973-a43a-4fac-bf83-2a772e0d0625@60.249.101.14:10000?security=none&encryption=none&type=tcp&path=%2f#台湾/Taiwan
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@103.115.109.49:443?insecure=1&sni=https%3A%2F%2Ft.me%2Foneclickvpnkeys#台湾/台北市/Taiwan/Taipei
+trojan://55354c2b8ee339571bd657a9bb9858cc@speed-01.aliyun-web-tracker.cn:39221?sni=speed-01.aliyun-web-tracker.cn&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%B9%F0%9F%87%BCTW_2%7C1.2MB%2Fs
