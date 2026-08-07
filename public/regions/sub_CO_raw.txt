@@ -1,3 +1,4 @@
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.176.140:62145?#%F0%9F%87%A8%F0%9F%87%B4CO_1%7C1.2MB/s
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.186.161:62145?security=none&type=tcp&packetEncoding=xudp#%F0%9F%87%A8%F0%9F%87%B4CO_1%7C1.2MB%2Fs
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.210.122:62145?security=none&type=tcp&packetEncoding=xudp#%F0%9F%87%A8%F0%9F%87%B4CO_2%7C1.4MB%2Fs
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.187.58:62145?#%F0%9F%87%A8%F0%9F%87%B4CO_1%7C1.7MB/s
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.187.58:62145?security=none&type=tcp&packetEncoding=xudp#%F0%9F%87%A8%F0%9F%87%B4CO_1%7C1.7MB%2Fs
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.211.212:62145?#%F0%9F%87%A8%F0%9F%87%B4CO_2%7C3.1MB/s
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.211.212:62145?security=none&type=tcp&packetEncoding=xudp#%F0%9F%87%A8%F0%9F%87%B4CO_2%7C3.1MB%2Fs

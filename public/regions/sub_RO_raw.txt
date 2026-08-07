@@ -1,4 +1,4 @@
 hy2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@205.237.109.213:8443/?sni=grape-turbo-fr.roxa.org#罗马尼亚/Romania
-hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@76.164.202.215:8443?insecure=1&sni=mercedes-grape.yyuyy.com#%F0%9F%87%B7%F0%9F%87%B4RO_1%7C3.2MB%2Fs
-hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@76.164.202.216:8443?insecure=1&sni=mercedes-grape.yyuyy.com#%F0%9F%87%B7%F0%9F%87%B4RO_3%7C1.9MB%2Fs
 hysteria2://Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s@77.74.123.134:8443?sni=grape-zet-turbo-nl.yyuyy.com#%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A
+hysteria2://gf1@185.156.44.99:443?insecure=1&sni=www.amazon.com#%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A%20%231
+hysteria2://gf1@185.156.44.99:443?insecure=1&sni=www.amazon.com#8%7C%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A

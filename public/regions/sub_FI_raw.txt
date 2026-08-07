@@ -1,6 +1,4 @@
-hysteria2://22j0d00lev7mq0yv@musicclips.videolinks.ru:8443?insecure=1&sni=musicclips.videolinks.ru&obfs=salamander&obfs-password=8zzng75tz4tf82pj#%F0%9F%87%AB%F0%9F%87%AEFI_1%7C3.2MB/s
-hysteria2://4z2oldt85p494bgb@assets.gateway-stream.com:52074?insecure=0&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=78mszx8jbd3mfivf#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AB%F0%9F%87%AE%C2%AE%EF%B8%8FFinl...
-hysteria2://4z2oldt85p494bgb@assets.gateway-stream.com:52074?insecure=0&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=78mszx8jbd3mfivf#8%7C%F0%9F%86%94%40v2ray_configs_pool%EF%B8%8FFinland%EF%B8%8FH...
+hysteria2://22j0d00lev7mq0yv@musicclips.videolinks.ru:8443?insecure=1&sni=musicclips.videolinks.ru&obfs=salamander&obfs-password=8zzng75tz4tf82pj#%E8%8A%AC%E5%85%B0
+hysteria2://71cada65-d23e-418c-88e4-a06188d14689@2.26.85.26:443?sni=fi-one.quiet-rogue.site#芬兰/赫尔辛基/Finland/Helsinki
 hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@185.79.138.71:8443?sni=hopp-legend-se.roxa.org#%E8%8A%AC%E5%85%B0%20%231
-hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@185.79.138.71:8443?sni=hopp-legend-se.roxa.org#7%7C%E8%8A%AC%E5%85%B0
-hysteria2://ik0zt621uw9iqvsi@assets.gateway-stream.com:52001?security=tls&obfs=salamander&obfs-password=527zd9w4nuaccd7g&insecure=0&sni=assets.gateway-stream.com#芬兰/赫尔辛基/Finland/Helsinki
+hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@185.79.138.71:8443?sni=hopp-legend-se.roxa.org#8%7C%E8%8A%AC%E5%85%B0
