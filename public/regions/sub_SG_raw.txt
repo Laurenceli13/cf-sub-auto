@@ -1,5 +1,9 @@
-hysteria2://9d3356a0-c07e-43cc-b30e-450bd50521b8@xjp1.mangshe.xyz:2055?insecure=1&sni=xjp1.mangshe.xyz#%E6%96%B0%E5%8A%A0%E5%9D%A1
+hy2://9d3356a0-c07e-43cc-b30e-450bd50521b8@xjp3.mangshe.xyz:2060/?insecure=1&sni=xjp3.mangshe.xyz#新加坡/新加坡/Singapore/Singapore
 hysteria2://f64c72a1-7e1f-4dd1-8929-7e41682542e2@sg3.xiaoliyu.cyou:4466?insecure=1&sni=sg3.xiaoliyu.cyou#%E6%96%B0%E5%8A%A0%E5%9D%A1%20%231
 hysteria2://f64c72a1-7e1f-4dd1-8929-7e41682542e2@sg3.xiaoliyu.cyou:4466?insecure=1&sni=sg3.xiaoliyu.cyou#8%7C%E6%96%B0%E5%8A%A0%E5%9D%A1
-trojan://d1960ba9f0f6353353994fa844cf817b@18.163.100.58:51396?allowInsecure=1&sni=www.nintendogames.net#%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40ripaojiedian
-trojan://d1960ba9f0f6353353994fa844cf817b@18.163.100.58:51396?allowInsecure=1&sni=www.nintendogames.net#11%2C12%7C%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40ripaojiedian
+trojan://6ec301428255a78a1d826988d86cc87e@18.163.100.58:36580?allowInsecure=1&sni=www.nintendogames.net#%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40ripaojiedian
+trojan://6ec301428255a78a1d826988d86cc87e@18.163.100.58:36580?allowInsecure=1&sni=www.nintendogames.net#11%2C12%7C%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40ripaojiedian
+trojan://MiTiVPN@104.18.32.47:443?allowInsecure=1&sni=fls-bbg--MiTiVPN---MiTiVPN-u.aPp-cLoud.IR&alpn=http/1.1&type=ws&path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/F-ls#%F0%9F%87%B8%F0%9F%87%ACSG_3%7C2.1MB/s
+trojan://MiTiVPN@104.18.32.47:443?sni=fls-bbg--MiTiVPN---MiTiVPN-u.aPp-cLoud.IR&allowInsecure=1&type=ws&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FF-ls&alpn=http%2F1.1&fp=chrome#%F0%9F%87%B8%F0%9F%87%ACSG_3%7C2.1MB%2Fs
+vless://4d10c997-4781-4cd9-82c3-15453523e12c@172.64.146.86:443?security=tls&type=ws&path=%2Fsg-melbi&host=support.zoom.us.yxls.eu.cc&packetEncoding=xudp&sni=support.zoom.us.yxls.eu.cc&fp=chrome&encryption=none#%F0%9F%87%B8%F0%9F%87%ACSG_2%7C2.2MB%2Fs
+vless://4d10c997-4781-4cd9-82c3-15453523e12c@172.64.146.86:443?sni=support.zoom.us.yxls.eu.cc&type=ws&host=support.zoom.us.yxls.eu.cc&path=/sg-melbifp=chrome&security=tls#%F0%9F%87%B8%F0%9F%87%ACSG_2%7C2.2MB/s

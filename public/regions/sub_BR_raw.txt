@@ -1,3 +1,1 @@
 hysteria2://5bc8aea0-04a6-4fcf-9a04-1a51518396a8@167.234.251.78:35000?insecure=1&sni=www.apple.com#%E5%B7%B4%E8%A5%BF
-trojan://581e14a5fcc14107b9326cc54f047891@177.3.208.169:443?allowInsecure=0&sni=titandarkness.mooo.com&type=grpc&serviceName=/43588/G43plZahWW#%F0%9F%87%A7%F0%9F%87%B7BR_1%7C2.5MB/s
-trojan://581e14a5fcc14107b9326cc54f047891@177.3.208.169:443?sni=titandarkness.mooo.com&type=grpc&serviceName=%2F43588%2FG43plZahWW&mode=gun&fp=chrome#%F0%9F%87%A7%F0%9F%87%B7BR_1%7C2.5MB%2Fs

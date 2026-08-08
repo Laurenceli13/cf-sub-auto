@@ -1,12 +1,7 @@
-hysteria2://68b4b16e-2759-47a4-8a69-33118edf5ce6@finlandi.blokinet3.ru:443?insecure=1&sni=finlandi.blokinet3.ru#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0%20%231
-hysteria2://68b4b16e-2759-47a4-8a69-33118edf5ce6@finlandi.blokinet3.ru:443?insecure=1&sni=finlandi.blokinet3.ru#8%7C%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0
-hysteria2://99800091-8337-4112-8756-8cc60eb1ffa8@nl2.unlockvpn.online:10808?sni=nl2.unlockvpn.online#%F0%9F%87%B3%F0%9F%87%B1135881%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me/S...
+hysteria2://68b4b16e-2759-47a4-8a69-33118edf5ce6@finlandi.blokinet3.ru:443?insecure=1&sni=finlandi.blokinet3.ru#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0
 hysteria2://LzMWgm6LaNWCm11bFTbynDPq2TqQj03t@5.255.102.165:443?insecure=1&sni=www.microsoft.com#%F0%9F%87%B3%F0%9F%87%B1
 hysteria2://Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s@86.107.178.66:8443?insecure=1&sni=grape-zet-turbo-nl.yyuyy.com#%E8%8D%B7%E5%85%B0%20%231
 hysteria2://Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s@86.107.178.66:8443?insecure=1&sni=grape-zet-turbo-nl.yyuyy.com#8%7C%E8%8D%B7%E5%85%B0%20%231
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#%F0%9F%87%B3%F0%9F%87%B1%20-%20NL%20-%20%40FreeOnlineVPN
-hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#9%7C%F0%9F%87%B3%F0%9F%87%B1%20-%20NL%20-%20%40FreeOnlineVPN
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@84.235.167.4:62145?#%F0%9F%87%B3%F0%9F%87%B1NL_7%7C4.0MB/s
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@84.235.167.4:62145?security=none&type=tcp&packetEncoding=xudp#%F0%9F%87%B3%F0%9F%87%B1NL_7%7C4.0MB%2Fs
-vless://c04bf2df-2b7f-44da-a893-3792d3910fd8@208.123.185.159:443?security=reality&type=tcp&packetEncoding=none&sni=nd12.skorostnet.space&fp=firefox&flow=xtls-rprx-vision&sid=fdda9806fe5d8584&pbk=aBNWkd8CVkuimbtzgsDNsIUIENI-PQuKkpUInLncz2o#%F0%9F%87%B3%F0%9F%87%B1NL_1%7C2.0MB%2Fs
-vless://c04bf2df-2b7f-44da-a893-3792d3910fd8@208.123.185.159:443?sni=nd12.skorostnet.space&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#%F0%9F%87%B3%F0%9F%87%B1NL_1%7C2.0MB/s
+hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#9%7C%20-%20NL%20-%20%40FreeOnlineVPN
+hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@205.237.109.216:8443?sni=grape-turbo-fr.roxa.org#%E8%8D%B7%E5%85%B0%20%233

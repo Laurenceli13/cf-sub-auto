@@ -1,2 +1,1 @@
-hysteria2://9d3356a0-c07e-43cc-b30e-450bd50521b8@xby.mangshe.xyz:2056?insecure=1&sni=mg2.mangshe.xyz#%F0%9F%87%BF%F0%9F%87%A6ZA_1%7C2.2MB%2Fs
-vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.188:443?security=reality&type=tcp&packetEncoding=xudp&sni=storage.yandex.net&fp=chrome&flow=xtls-rprx-vision&sid=c6ef72e4635d15a5&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&encryption=none#%E5%8D%97%E9%9D%9E+V2CROSS.COM
+vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.78:443?security=reality&encryption=none&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=c6ef72e4635d15a5#%E5%8D%97%E9%9D%9E+V2CROSS.COM
