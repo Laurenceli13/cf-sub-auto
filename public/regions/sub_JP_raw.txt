@@ -1,4 +1,8 @@
+hy2://STYyftThFn@freedom.chenlan.top:12765/?insecure=1&sni=freedom.chenlan.top#日本/Japan
 hy2://STYyftThFn@freedom.chenlan.top:12765/?insecure=1&sni=freedom.chenlan.top#日本/东京/Japan/Tokyo
-trojan://BxceQaOe@43.198.126.41:9408?allowInsecure=1&sni=t.me%252Fripaojiedian#%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
-trojan://BxceQaOe@43.198.126.41:9408?allowInsecure=1&sni=t.me%252Fripaojiedian#11%2C12%7C%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
-vless://44ebd5d8-c8a3-408c-8195-1cb1e97c5c21@64.176.61.124:443?security=reality&encryption=none&pbk=kOzjn-aqsOrs5AXRAYKOsU-xY-NdK3Q8ZH0XdwitFRI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=products.amd.com&sid=069fba81c72d1e#日本/Japan
+hysteria2://0c3bd8c8-53db-4126-a98f-d12d908d5301@jpa.nnpy.org:11000?insecure=1&sni=www.bing.com#%F0%9F%87%AF%F0%9F%87%B5JP
+hysteria2://0c3bd8c8-53db-4126-a98f-d12d908d5301@jpa.nnpy.org:11000?insecure=1&sni=www.bing.com#8%7CJP
+hysteria2://STYyftThFn@freedom.chenlan.top:12765?insecure=1&sni=freedom.chenlan.top#%F0%9F%87%AF%F0%9F%87%B5JP%20%231
+hysteria2://STYyftThFn@freedom.chenlan.top:12765?insecure=1&sni=freedom.chenlan.top#8%7C%F0%9F%87%AF%F0%9F%87%B5JP
+trojan://BxceQaOe@18.167.76.203:4099?allowInsecure=1&sni=t.me%252Fripaojiedian#%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
+trojan://BxceQaOe@18.167.76.203:4099?allowInsecure=1&sni=t.me%252Fripaojiedian#11%2C12%7C%E6%97%A5%E6%9C%AC%7C%40ripaojiedian

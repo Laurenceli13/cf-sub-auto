@@ -1,1 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2dG0wa21iZG56UzFYb0xD@20.223.129.129:443#爱尔兰/都柏林/Ireland/Dublin
+vless://05568b55-9f89-43cd-b91e-221a975f54bc@g2.fastping24.com:8443?encryption=none&type=tcp&security=tls&headerType=none&sni=ads1.fastping24.com&insecure=0&allowInsecure=0#爱尔兰/都柏林/Ireland/Dublin
