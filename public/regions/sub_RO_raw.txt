@@ -1,4 +1,4 @@
-hy2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@93.114.194.119:8443/?insecure=1&sni=grape-zet-ro-turbo.bumbleshrimp.com#罗马尼亚/Romania
+hy2://71cada65-d23e-418c-88e4-a06188d14689@de-two.quiet-rogue.site:443/?sni=de-two.quiet-rogue.site#罗马尼亚/Romania
 hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@76.164.202.217:8443?insecure=1&sni=mercedes-grape.yyuyy.com#%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A
 hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@76.164.202.220:8443?sni=mercedes-grape.yyuyy.com#%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A%20%231
 hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@76.164.202.220:8443?sni=mercedes-grape.yyuyy.com#8%7C%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A
@@ -12,3 +12,4 @@ hysteria2://gf1@185.156.44.99:443?insecure=1&sni=www.amazon.com#%E7%BD%97%E9%A9%
 hysteria2://gf1@185.156.44.99:443?insecure=1&sni=www.amazon.com#8%7C%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A%20%234
 hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@205.237.109.220:8443?sni=grape-turbo-fr.roxa.org#%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A%20%236
 hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@205.237.109.220:8443?sni=grape-turbo-fr.roxa.org#8%7C%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A%20%235
+hysteria2://uj7XGZGUqRlmdpk6rysyZMN333RWsxTFj0hBIMaFV-NUCd5r@185.225.19.39:443?security=tls&sni=ro.h2corp.org#罗马尼亚/雅西/Romania/Iași

@@ -1,4 +1,1 @@
-vless://a5ea9247-79f3-4655-aece-3fb51e1e669e@176.123.2.210:443?allowInsecure=0&sni=rezerv23.yunus.guru&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#12%7CMD_speednode_0077
-vless://a5ea9247-79f3-4655-aece-3fb51e1e669e@176.123.2.210:443?allowInsecure=0&sni=rezerv23.yunus.guru&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#MD_speednode_0077
-vless://a5ea9247-79f3-4655-aece-3fb51e1e669e@rezerv23.yunus.guru:443?allowInsecure=1&sni=rezerv23.yunus.guru&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#12%7CMD_speednode_0076
-vless://a5ea9247-79f3-4655-aece-3fb51e1e669e@rezerv23.yunus.guru:443?allowInsecure=1&sni=rezerv23.yunus.guru&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#MD_speednode_0076
+hysteria2://uj7XGZGUqRlmdpk6rysyZMN333RWsxTFj0hBIMaFV-NUCd5r@185.225.19.39:443?security=tls&sni=ro.h2corp.org#%E6%91%A9%E5%B0%94%E5%A4%9A%E7%93%A6+V2CROSS.COM

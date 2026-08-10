@@ -1,1 +1,1 @@
-vless://05568b55-9f89-43cd-b91e-221a975f54bc@g2.fastping24.com:8443?encryption=none&type=tcp&security=tls&headerType=none&sni=ads1.fastping24.com&insecure=0&allowInsecure=0#爱尔兰/都柏林/Ireland/Dublin
+trojan://UO36402987@54.216.124.178:443?sni=warm-bass.rooster465.autos#爱尔兰/都柏林/Ireland/Dublin

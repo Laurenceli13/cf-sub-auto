@@ -1,3 +1,1 @@
-vless://05568b55-9f89-43cd-b91e-221a975f54bc@g2.fastping24.com:8443?encryption=none&type=tcp&security=tls&headerType=none&sni=ads1.fastping24.com&insecure=0&allowInsecure=0#挪威/奥斯陆/Norway/Oslo
-vless://e9824072-c700-4aa2-bcbb-7e6cc2d895aa@109.163.239.4:443?security=reality&type=raw&packetEncoding=xudp&sni=cdn9-40.yahoo.com&fp=chrome&flow=xtls-rprx-vision&sid=2f3e735aedc55aaf&pbk=CMkW1axrhEXoiJ6anMz9XEjlfqlAtEZya7L0b5ZPMyw&encryption=none#%F0%9F%87%B3%F0%9F%87%B4NO_1%7C4.5MB%2Fs
-vless://e9824072-c700-4aa2-bcbb-7e6cc2d895aa@109.163.239.4:443?sni=cdn9-40.yahoo.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%B3%F0%9F%87%B4NO_1%7C1.5MB/s
+trojan://e23f408a-012e-4030-8b31-02022031cb50@129.146.135.157:443?security=tls#挪威/奥斯陆/Norway/Oslo

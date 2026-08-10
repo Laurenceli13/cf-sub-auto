@@ -1,6 +1,12 @@
 hysteria2://5bc8aea0-04a6-4fcf-9a04-1a51518396a8@129.151.250.154:35000?insecure=1&sni=www.lamer.com.hk#%E6%B3%95%E5%9B%BD
-hysteria2://f64c72a1-7e1f-4dd1-8929-7e41682542e2@fr2.xiaoliyu.cyou:10086?insecure=1&sni=fr2.xiaoliyu.cyou&obfs=salamander&obfs-password=T@T*FP7uq=!t#%E6%B3%95%E5%9B%BD%20%231
-hysteria2://github.com/Alvin9999-newpac/fanqiang@62.210.7.139:60111/?insecure=1&sni=bing.com#法国/巴黎/France/Paris
+hysteria2://95e8532b-cc69-42d4-9553-e3c23292b15b@iq5ny.pleiades.codes:8443?sni=iq5ny.pleiades.codes#%E6%B3%95%E5%9B%BD%20%231
+hysteria2://95e8532b-cc69-42d4-9553-e3c23292b15b@iq5ny.pleiades.codes:8443?sni=iq5ny.pleiades.codes#8%7C%E6%B3%95%E5%9B%BD
+hysteria2://d1a0857bc1eb833a9edf96be4c1f999e@host-vds2-fr.kvncococ.org:55443?sni=host-vds2-fr.kvncococ.org#%E6%B3%95%E5%9B%BD%20%232
+hysteria2://d1a0857bc1eb833a9edf96be4c1f999e@host-vds2-fr.kvncococ.org:55443?sni=host-vds2-fr.kvncococ.org#8%7C%E6%B3%95%E5%9B%BD%20%231
+hysteria2://f64c72a1-7e1f-4dd1-8929-7e41682542e2@fr2.xiaoliyu.cyou:10086?insecure=1&sni=fr2.xiaoliyu.cyou&obfs=salamander&obfs-password=T@T*FP7uq=!t#%E6%B3%95%E5%9B%BD%20%233
 hysteria2://kjq3gpn1xom1ted9@assets.gateway-stream.com:52030?sni=assets.gateway-stream.com#%F0%9F%87%AB%F0%9F%87%B7%40ShadowFlux2%F0%9F%91%88%F0%9F%A6%81%F0%9F%8C%9EA2
+ss://YWVzLTEyOC1nY206U3lTV0RhUDhybTFORUswd2RMZG9hVjVDbGtTakZEZnc=@antony.athforce.ir:51058#法国/France
+trojan://QV31589740@great-krill.rooster465.autos:443?sni=great-krill.rooster465.autos&fp=chrome&type=tcp&path=%2f#法国/巴黎/France/Paris
+vless://8fdf6dde-a1ca-456d-9b18-86b74d5768e6@193.233.255.11:443?security=reality&type=tcp&packetEncoding=none&sni=fr.sellflow.org&fp=firefox&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#%F0%9F%87%AB%F0%9F%87%B7FR_1%7C2.6MB%2Fs
+vless://8fdf6dde-a1ca-456d-9b18-86b74d5768e6@193.233.255.11:443?sni=fr.sellflow.org&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#%F0%9F%87%AB%F0%9F%87%B7FR_1%7C2.6MB/s
 vless://b320eba7-5380-4bd1-b5e6-32daab16066f@fr-d.duckray.co.uk:3443?encryption=none&type=grpc&mode=gun&security=reality&sni=api.github.com&fp=random&pbk=Ps_w7KP3VFrZv1niWfX3synmJq_d2c7sVSckxa3sgio#%F0%9F%87%AB%F0%9F%87%B7%20France
-vless://fd7234b9-803a-42ca-ab05-f2d547bb130a@ir.varnaroleplay.ir:8445?security=reality&type=xhttp&path=%2FDeliveryMarket&host=pnl.yasicloud.ir&packetEncoding=xudp&sni=www.varzesh3.com&fp=chrome&sid=f9fe9522b62bac68&pbk=7Udu8M44zSpjPJ-t0Fan1kAaykeB3PkKBCCoJCoxOjk&mode=auto&encryption=none#%F0%9F%87%AB%F0%9F%87%B7FR_2%7C1.5MB%2Fs

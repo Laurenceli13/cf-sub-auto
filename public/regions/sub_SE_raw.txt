@@ -1,2 +1,2 @@
-hy2://Apt1923_N9x234gn_Nal5Nx3j_s@142.111.244.75:8443/?sni=grape-power-pl.ddnsguru.com#瑞典/斯德哥尔摩/Sweden/Stockholm
+hysteria2://71cada65-d23e-418c-88e4-a06188d14689@87.121.105.108:443?sni=swe-one.quiet-rogue.site#瑞典/斯德哥尔摩/Sweden/Stockholm
 hysteria2://Apt1923_N9x234gn_Nal5Nx3j_s@142.111.244.75:8443?sni=grape-power-pl.ddnsguru.com#%E7%91%9E%E5%85%B8

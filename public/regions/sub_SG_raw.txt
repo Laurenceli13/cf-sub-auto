@@ -1,8 +1,5 @@
-hysteria2://18cf8030-1ceb-4b7d-8c0c-c036413c144e@sg3.xiaoliyu.cyou:4466?insecure=1&sni=sg3.xiaoliyu.cyou#%F0%9F%87%B8%F0%9F%87%ACSG_1%7C1.0MB%2Fs
-hysteria2://9d3356a0-c07e-43cc-b30e-450bd50521b8@194.87.10.67:2060?insecure=1&sni=xjp3.mangshe.xyz#新加坡/新加坡/Singapore/Singapore
 hysteria2://9d3356a0-c07e-43cc-b30e-450bd50521b8@xjp1.mangshe.xyz:2055?insecure=1&sni=xjp1.mangshe.xyz#%E6%96%B0%E5%8A%A0%E5%9D%A1
 hysteria2://f64c72a1-7e1f-4dd1-8929-7e41682542e2@sg3.xiaoliyu.cyou:4466?insecure=1&sni=sg3.xiaoliyu.cyou#%E6%96%B0%E5%8A%A0%E5%9D%A1%20%231
 hysteria2://f64c72a1-7e1f-4dd1-8929-7e41682542e2@sg3.xiaoliyu.cyou:4466?insecure=1&sni=sg3.xiaoliyu.cyou#8%7C%E6%96%B0%E5%8A%A0%E5%9D%A1
 trojan://6ec301428255a78a1d826988d86cc87e@57.183.7.187:45747?allowInsecure=1&sni=www.nintendogames.net#%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40ripaojiedian
 trojan://6ec301428255a78a1d826988d86cc87e@57.183.7.187:45747?allowInsecure=1&sni=www.nintendogames.net#11%2C12%7C%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40ripaojiedian
-vless://3496fc54-209f-4932-93b8-37375e2f20dd@cf.090227.xyz:80?security=none&type=ws&path=%2F%3Fed%3D2048&host=new.204240.cyou&packetEncoding=xudp#%F0%9F%87%B8%F0%9F%87%ACSG_2%7C5.1MB%2Fs
