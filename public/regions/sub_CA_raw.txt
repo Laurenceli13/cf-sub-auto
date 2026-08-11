@@ -1,2 +1,1 @@
-trojan://e23f408a-012e-4030-8b31-02022031cb50@129.146.135.157:443?security=tls#加拿大/Canada
-vmess://eyJ2IjoiMiIsImFkZCI6IjIzLjE2Mi4yMDAuMTk4IiwicG9ydCI6IjE4MDAwIiwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InJhdyIsInR5cGUiOiIiLCJ0bHMiOiIiLCJwcyI6IkNBIPCfh6jwn4emIHwgQFJheWRpa2FseCB8IDRCQTNBNiJ9#加拿大/多伦多/Canada/Toronto
+hysteria2://AstroVPN_official@ptserv.accuratenetworkchecker.ir:36896?sni=lms22.gelzaro.ir&obfs=salamander&obfs-password=hmvyfx1tpnz6pp3k#加拿大/多伦多/Canada/Toronto

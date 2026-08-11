@@ -1,1 +1,3 @@
-trojan://UO36402987@54.216.124.178:443?sni=warm-bass.rooster465.autos#爱尔兰/都柏林/Ireland/Dublin
+vless://02e2d68f-9982-4467-ad47-00cbeeae30e6@89.125.37.74:443?allowInsecure=1&sni=se-cdn.ru&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#13%7CIE_speednode_0016
+vless://02e2d68f-9982-4467-ad47-00cbeeae30e6@89.125.37.74:443?allowInsecure=1&sni=se-cdn.ru&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#IE_speednode_0016
+vless://4bb35928-40bb-4bf3-95f1-9efdc4169147@159.223.209.139:46964?security=none&encryption=none&headerType=none&type=tcp#爱尔兰/都柏林/Ireland/Dublin

@@ -1,5 +1,17 @@
+hysteria2://6a3fe9d0-0d68-4f29-ae99-5771d4217a45@140.99.130.34:4466?insecure=1&sni=sg3.xiaoliyu.cyou#新加坡/新加坡/Singapore/Singapore
 hysteria2://9d3356a0-c07e-43cc-b30e-450bd50521b8@xjp1.mangshe.xyz:2055?insecure=1&sni=xjp1.mangshe.xyz#%E6%96%B0%E5%8A%A0%E5%9D%A1
 hysteria2://f64c72a1-7e1f-4dd1-8929-7e41682542e2@sg3.xiaoliyu.cyou:4466?insecure=1&sni=sg3.xiaoliyu.cyou#%E6%96%B0%E5%8A%A0%E5%9D%A1%20%231
 hysteria2://f64c72a1-7e1f-4dd1-8929-7e41682542e2@sg3.xiaoliyu.cyou:4466?insecure=1&sni=sg3.xiaoliyu.cyou#8%7C%E6%96%B0%E5%8A%A0%E5%9D%A1
 trojan://6ec301428255a78a1d826988d86cc87e@57.183.7.187:45747?allowInsecure=1&sni=www.nintendogames.net#%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40ripaojiedian
 trojan://6ec301428255a78a1d826988d86cc87e@57.183.7.187:45747?allowInsecure=1&sni=www.nintendogames.net#11%2C12%7C%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40ripaojiedian
+trojan://BxceQaOe@18.163.120.239:32434?allowInsecure=1&sni=t.me%252Fripaojiedian#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A13%7C%40ripaojiedian
+vless://2c029086-e4b3-4f22-82d8-b84dd70f243c@8.35.211.224:8443?allowInsecure=1&sni=pphmsubs.911388.xyz&type=ws&host=pphmsubs.911388.xyz&path=/fp=chrome&security=tls#%F0%9F%87%B8%F0%9F%87%ACSG_2%7C5.2MB/s
+vless://2c029086-e4b3-4f22-82d8-b84dd70f243c@8.35.211.224:8443?security=tls&type=ws&path=%2F&host=pphmsubs.911388.xyz&packetEncoding=none&allowInsecure=1&sni=pphmsubs.911388.xyz&fp=chrome#%F0%9F%87%B8%F0%9F%87%ACSG_2%7C5.2MB%2Fs
+vless://2c029086-e4b3-4f22-82d8-b84dd70f243c@8.39.125.209:2083?allowInsecure=1&sni=pphmsubs.911388.xyz&type=ws&host=pphmsubs.911388.xyz&path=/fp=chrome&security=tls#%F0%9F%87%B8%F0%9F%87%ACSG_3%7C4.4MB/s
+vless://2c029086-e4b3-4f22-82d8-b84dd70f243c@8.39.125.209:2083?security=tls&type=ws&path=%2F&host=pphmsubs.911388.xyz&packetEncoding=none&allowInsecure=1&sni=pphmsubs.911388.xyz&fp=chrome#%F0%9F%87%B8%F0%9F%87%ACSG_3%7C4.4MB%2Fs
+vless://53b59cb5-c741-3399-9065-93dc34685f5b@155.117.199.12:31871?security=reality&type=tcp&packetEncoding=xudp&sni=cdnjs.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=bc8e3658db7d1323&pbk=JrWOojSFwFA93YjsiQkDydTItQzNAsXsHU24HuWGWjA#%F0%9F%87%B8%F0%9F%87%ACSG_5%7C2.9MB%2Fs
+vless://53b59cb5-c741-3399-9065-93dc34685f5b@155.117.199.12:31871?sni=cdnjs.cloudflare.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%B8%F0%9F%87%ACSG_5%7C2.9MB/s
+vless://5b06a1b1-8839-4969-874a-3b501528275b@188.164.248.32:2087?allowInsecure=1&sni=jcxjcnasvip.jcdenas.top&type=ws&host=jcxjcnasvip.jcdenas.top&path=/fp=chrome&security=tls#%F0%9F%87%B8%F0%9F%87%ACSG_1%7C5.1MB/s
+vless://5b06a1b1-8839-4969-874a-3b501528275b@188.164.248.32:2087?security=tls&type=ws&path=%2F&host=jcxjcnasvip.jcdenas.top&packetEncoding=none&allowInsecure=1&sni=jcxjcnasvip.jcdenas.top&fp=chrome#%F0%9F%87%B8%F0%9F%87%ACSG_1%7C5.1MB%2Fs
+vless://5b06a1b1-8839-4969-874a-3b501528275b@188.164.248.72:2083?allowInsecure=1&sni=jcxjcnasvip.jcdenas.top&type=ws&host=jcxjcnasvip.jcdenas.top&path=/fp=chrome&security=tls#%F0%9F%87%B8%F0%9F%87%ACSG_4%7C4.8MB/s
+vless://5b06a1b1-8839-4969-874a-3b501528275b@188.164.248.72:2083?security=tls&type=ws&path=%2F&host=jcxjcnasvip.jcdenas.top&packetEncoding=none&allowInsecure=1&sni=jcxjcnasvip.jcdenas.top&fp=chrome#%F0%9F%87%B8%F0%9F%87%ACSG_4%7C4.8MB%2Fs

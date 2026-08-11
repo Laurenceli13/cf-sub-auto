@@ -1,1 +1,4 @@
 hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@taga10.api3-max.ru:443?#%E5%9C%9F%E8%80%B3%E5%85%B6
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMSFp6ZjR5MGoyV1FsWnNUaDBOelB4Vm1UWXVmUi1UQQ==@sub.almavpn.shop:1080#%F0%9F%87%B9%F0%9F%87%B7TR_1%7C4.2MB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMSFp6ZjR5MGoyV1FsWnNUaDBOelB4Vm1UWXVmUi1UQQ==@sub.almavpn.shop:1080#%F0%9F%87%B9%F0%9F%87%B7TR_1%7C4.2MB/s
+vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?path=%2Fhttp&security=none&encryption=none&type=ws#土耳其/伊斯坦布尔/Türkiye/Istanbul

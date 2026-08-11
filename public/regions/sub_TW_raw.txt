@@ -1,1 +1,1 @@
-vless://a2f6da81-64bd-4b86-b806-5658e161b7e4@103.227.225.198:32355?security=none&type=tcp&path=%2f#台湾/台北市/Taiwan/Taipei
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@103.115.109.49:443?insecure=1&sni=https%3A%2F%2Ft.me%2Foneclickvpnkeys#台湾/台北市/Taiwan/Taipei

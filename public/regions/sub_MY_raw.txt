@@ -1,2 +1,2 @@
-hysteria2://ba845a48-cfcb-48c4-ab8c-0836e360112e@20.17.157.51:56787?insecure=1&sni=ajax.microsoft.com#%F0%9F%87%B2%F0%9F%87%BEMY_1%7C2.1MB%2Fs
-hysteria2://ba845a48-cfcb-48c4-ab8c-0836e360112e@20.17.157.51:56787?insecure=1&sni=ajax.microsoft.com&obfs=&obfs-password=#%F0%9F%87%B2%F0%9F%87%BEMY_1%7C2.1MB/s
+vless://53b59cb5-c741-3399-9065-93dc34685f5b@155.117.199.12:29709?security=reality&type=tcp&packetEncoding=none&sni=cdnjs.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=bc8e3658db7d1323&pbk=JrWOojSFwFA93YjsiQkDydTItQzNAsXsHU24HuWGWjA#%F0%9F%87%B2%F0%9F%87%BEMY_1%7C2.9MB%2Fs
+vless://53b59cb5-c741-3399-9065-93dc34685f5b@155.117.199.12:29709?sni=cdnjs.cloudflare.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%B2%F0%9F%87%BEMY_1%7C2.9MB/s

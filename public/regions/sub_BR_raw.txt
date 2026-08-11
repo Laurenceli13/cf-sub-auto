@@ -1,3 +1,5 @@
 hysteria2://5bc8aea0-04a6-4fcf-9a04-1a51518396a8@167.234.251.78:35000?insecure=1&sni=www.apple.com#%E5%B7%B4%E8%A5%BF
 hysteria2://df8d55f9-fb51-442d-902a-bf8160dc051b@brb.nnpy.org:11100?insecure=1&sni=www.bing.com#%F0%9F%87%A7%F0%9F%87%B7BR
 hysteria2://df8d55f9-fb51-442d-902a-bf8160dc051b@brb.nnpy.org:11100?insecure=1&sni=www.bing.com#8%7CBR
+vless://11b7e901-e970-4491-9c7d-13c153e39e5b@177.3.213.230:5443?security=tls&type=tcp&packetEncoding=xudp&sni=get.wlrus.cfd&fp=edge&encryption=none#%F0%9F%87%A7%F0%9F%87%B7BR_2%7C3.1MB%2Fs
+vless://11b7e901-e970-4491-9c7d-13c153e39e5b@177.3.213.230:5443?sni=get.wlrus.cfd&fp=edge&security=tls#%F0%9F%87%A7%F0%9F%87%B7BR_2%7C3.1MB/s
