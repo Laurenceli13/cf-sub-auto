@@ -1,10 +1,7 @@
-hysteria2://9abff4cd-ac3b-40ce-a3e7-f71f445d670f@82.47.32.31:443?insecure=1&sni=iosapps.itunes.apple.com#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443?insecure=1#%F0%9F%87%AD%F0%9F%87%B0HK
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443?insecure=1#8%7C%F0%9F%87%AD%F0%9F%87%B0HK
-trojan://6ec301428255a78a1d826988d86cc87e@57.183.7.187:39412?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF3%7C%40ripaojiedian
-trojan://BxceQaOe@16.162.190.25:35151?allowInsecure=1&sni=t.me%2Fripaojiedian#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF4%7C%40ripaojiedian
-trojan://BxceQaOe@18.167.76.203:35151?allowInsecure=1&sni=t.me%2Fripaojiedian#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF5%7C%40ripaojiedian
-vless://53b59cb5-c741-3399-9065-93dc34685f5b@155.117.199.12:9713?security=reality&type=tcp&packetEncoding=none&sni=cdnjs.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=bc8e3658db7d1323&pbk=JrWOojSFwFA93YjsiQkDydTItQzNAsXsHU24HuWGWjA#%F0%9F%87%AD%F0%9F%87%B0HK_1%7C1.3MB%2Fs
-vless://53b59cb5-c741-3399-9065-93dc34685f5b@155.117.199.12:9713?sni=cdnjs.cloudflare.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%AD%F0%9F%87%B0HK_1%7C1.3MB/s
-vless://53b59cb5-c741-3399-9065-93dc34685f5b@188.253.123.164:29715?security=reality&type=tcp&packetEncoding=none&sni=cdnjs.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=bc8e3658db7d1323&pbk=JrWOojSFwFA93YjsiQkDydTItQzNAsXsHU24HuWGWjA#%F0%9F%87%AD%F0%9F%87%B0HK_4%7C4.7MB%2Fs
-vless://53b59cb5-c741-3399-9065-93dc34685f5b@188.253.123.164:29715?sni=cdnjs.cloudflare.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%AD%F0%9F%87%B0HK_4%7C4.7MB/s
+trojan://BxceQaOe@16.162.3.11:27161?allowInsecure=1&sni=t.me%2Fripaojiedian#13%7CHK_speednode_0013
+trojan://BxceQaOe@16.162.3.11:27161?allowInsecure=1&sni=t.me%2Fripaojiedian#HK_speednode_0013
+trojan://BxceQaOe@16.162.3.11:27161?allowInsecure=1&sni=t.me/ripaojiedian#13%7CHK_speednode_0012
+trojan://BxceQaOe@16.162.3.11:27161?allowInsecure=1&sni=t.me/ripaojiedian#HK_speednode_0012
+vless://16b3793b-3335-4832-b1fd-877b2c5e15d6@34.124.166.13:20243?security=reality&type=tcp&packetEncoding=none&sni=www.spotify.com&fp=firefox&flow=xtls-rprx-vision&sid=214dd1031b8a&pbk=fB0gzruxHdrID18WQclmC5QGVCrHTqOwnqFosxh2TnY#%F0%9F%87%AD%F0%9F%87%B0HK_1%7C2.0MB%2Fs
+vless://16b3793b-3335-4832-b1fd-877b2c5e15d6@34.124.166.13:20243?sni=www.spotify.com&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#%F0%9F%87%AD%F0%9F%87%B0HK_1%7C2.0MB/s

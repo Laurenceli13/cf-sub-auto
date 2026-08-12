@@ -1,8 +1,4 @@
 hysteria2://68b4b16e-2759-47a4-8a69-33118edf5ce6@ang.leontunel.ru:443?sni=ang.leontunel.ru#%E8%8B%B1%E5%9B%BD
 hysteria2://99800091-8337-4112-8756-8cc60eb1ffa8@nl7.unlockvpn.online:10808?sni=nl7.unlockvpn.online#%E8%8B%B1%E5%9B%BD%20%231
 hysteria2://99800091-8337-4112-8756-8cc60eb1ffa8@nl7.unlockvpn.online:10808?sni=nl7.unlockvpn.online#8%7C%E8%8B%B1%E5%9B%BD
-hysteria2://9abff4cd-ac3b-40ce-a3e7-f71f445d670f@5.183.102.113:443?insecure=1&sni=iosapps.itunes.apple.com#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BD
-hysteria2://9abff4cd-ac3b-40ce-a3e7-f71f445d670f@5.183.102.113:443?insecure=1&sni=iosapps.itunes.apple.com#8%7C%E8%8B%B1%E5%9B%BD%20%231
-vless://02e2d68f-9982-4467-ad47-00cbeeae30e6@2.27.26.140:443?allowInsecure=1&sni=aq.cdn-global.pro&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#13%7CGB_speednode_0007
-vless://02e2d68f-9982-4467-ad47-00cbeeae30e6@2.27.26.140:443?allowInsecure=1&sni=aq.cdn-global.pro&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#GB_speednode_0007
-vless://122f8c58-f173-4f4a-acb8-86172ba5e10d@hostvds-nl-nl.kvnfreetest.uk:21443?security=reality&encryption=none&pbk=PEPivzCg5cBehVQUMVJLNPx3A9hy719Fq7HQsXMp4Ro&headerType=none&fp=chrome&type=tcp&sni=cloudflare.com#GB%20VLESS-326%20%7C%20free-nodes
+hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@205.237.109.221:8443?sni=grape-turbo-fr.roxa.org#%E8%8B%B1%E5%9B%BD%20%232

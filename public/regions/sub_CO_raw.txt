@@ -1,5 +1,1 @@
 hysteria2://k1dom6dyqelryllv@assets.gateway-stream.com:52076?insecure=0&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=zducqb7ro143x0t2#%F0%9F%87%A8%F0%9F%87%B4
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.189.106:62145?#%F0%9F%87%A8%F0%9F%87%B4CO_1%7C2.4MB/s
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.189.106:62145?security=none&type=tcp&packetEncoding=xudp#%F0%9F%87%A8%F0%9F%87%B4CO_1%7C2.4MB%2Fs
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.234.207:62145?#%F0%9F%87%A8%F0%9F%87%B4CO_2%7C3.0MB/s
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.234.207:62145?security=none&type=tcp&packetEncoding=xudp#%F0%9F%87%A8%F0%9F%87%B4CO_2%7C3.0MB%2Fs

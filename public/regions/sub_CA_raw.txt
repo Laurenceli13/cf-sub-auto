@@ -1,1 +1,2 @@
-hysteria2://AstroVPN_official@ptserv.accuratenetworkchecker.ir:36896?sni=lms22.gelzaro.ir&obfs=salamander&obfs-password=hmvyfx1tpnz6pp3k#加拿大/多伦多/Canada/Toronto
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHNXA2d3c0bzY3SEI=@108.181.118.10:8388#加拿大/Canada
+vless://fdb12587-1c15-4883-8d7a-9894641e183c@104.17.19.109:2083?encryption=none&type=ws&host=nova-mango-vault-2e63.wolf-fbi-red.workers.dev&path=%2F%3Fu%3D3e3fff3b5b&security=tls&fp=random&sni=nova-mango-vault-2e63.wolf-fbi-red.workers.dev#加拿大/多伦多/Canada/Toronto
