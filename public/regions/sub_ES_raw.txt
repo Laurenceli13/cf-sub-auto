@@ -1,1 +1,2 @@
 hysteria2://18cf8030-1ceb-4b7d-8c0c-c036413c144e@es1.xiaoliyu.cyou:4433?insecure=1&sni=es1.xiaoliyu.cyou#%E8%A5%BF%E7%8F%AD%E7%89%99
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXU3lMNFhUd05zZHY@108.181.121.226:8388#西班牙/巴塞罗那/Spain/Barcelona

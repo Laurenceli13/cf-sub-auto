@@ -1,7 +1,6 @@
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443?insecure=1#%F0%9F%87%AD%F0%9F%87%B0HK
+hysteria2://ec19e705-c8fe-4e9c-8cbe-c47038da0620@hk1.ktmhyld.com:18385?insecure=1#%F0%9F%87%AD%F0%9F%87%B0%20HK
+hysteria2://ec19e705-c8fe-4e9c-8cbe-c47038da0620@hk1.ktmhyld.com:18385?insecure=1#8%7C%20HK
 trojan://BxceQaOe@16.162.3.11:27161?allowInsecure=1&sni=t.me%2Fripaojiedian#13%7CHK_speednode_0013
 trojan://BxceQaOe@16.162.3.11:27161?allowInsecure=1&sni=t.me%2Fripaojiedian#HK_speednode_0013
 trojan://BxceQaOe@16.162.3.11:27161?allowInsecure=1&sni=t.me/ripaojiedian#13%7CHK_speednode_0012
 trojan://BxceQaOe@16.162.3.11:27161?allowInsecure=1&sni=t.me/ripaojiedian#HK_speednode_0012
-vless://16b3793b-3335-4832-b1fd-877b2c5e15d6@34.124.166.13:20243?security=reality&type=tcp&packetEncoding=none&sni=www.spotify.com&fp=firefox&flow=xtls-rprx-vision&sid=214dd1031b8a&pbk=fB0gzruxHdrID18WQclmC5QGVCrHTqOwnqFosxh2TnY#%F0%9F%87%AD%F0%9F%87%B0HK_1%7C2.0MB%2Fs
-vless://16b3793b-3335-4832-b1fd-877b2c5e15d6@34.124.166.13:20243?sni=www.spotify.com&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#%F0%9F%87%AD%F0%9F%87%B0HK_1%7C2.0MB/s

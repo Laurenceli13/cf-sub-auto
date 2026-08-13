@@ -1,5 +1,1 @@
 hysteria2://5bc8aea0-04a6-4fcf-9a04-1a51518396a8@167.234.251.78:35000?insecure=1&sni=www.apple.com#%E5%B7%B4%E8%A5%BF
-hysteria2://df8d55f9-fb51-442d-902a-bf8160dc051b@brb.nnpy.org:11100?insecure=1&sni=www.bing.com#%F0%9F%87%A7%F0%9F%87%B7BR
-hysteria2://df8d55f9-fb51-442d-902a-bf8160dc051b@brb.nnpy.org:11100?insecure=1&sni=www.bing.com#8%7CBR
-vless://fc1b3bda-b226-452a-8c5c-b0e36a1f8f88@201.50.115.23:443?allowInsecure=1&sni=eu-central.cendora.ru&flow=xtls-rprx-vision-udp443&fp=qq&security=tls#%F0%9F%87%A7%F0%9F%87%B7BR_1%7C2.5MB/s
-vless://fc1b3bda-b226-452a-8c5c-b0e36a1f8f88@201.50.115.23:443?security=reality&type=tcp&packetEncoding=xudp&allowInsecure=1&sni=eu-central.cendora.ru&fp=qq&flow=xtls-rprx-vision&sid=00bca5982f82d083&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI#%F0%9F%87%A7%F0%9F%87%B7BR_1%7C2.5MB%2Fs

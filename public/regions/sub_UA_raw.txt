@@ -1,2 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxNmIzNzkzYi0zMzM1LTQ4MzItYjFmZC04NzdiMmM1ZTE1ZDY=@xhkt5.ddns.net:12014#%F0%9F%87%BA%F0%9F%87%A6UA_1%7C1.9MB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxNmIzNzkzYi0zMzM1LTQ4MzItYjFmZC04NzdiMmM1ZTE1ZDY=@xhkt5.ddns.net:12014#%F0%9F%87%BA%F0%9F%87%A6UA_1%7C1.9MB/s
+vless://316dda83-17f1-4f29-a05f-b84b7f991b82@82.118.18.202:443?security=reality&type=tcp&packetEncoding=none&sni=www.cloudflare.com&fp=firefox&flow=xtls-rprx-vision&sid=720148f2fea16d0f&pbk=HDiwGAN66V77CrlCWrDZupEiSQk204dkWRjJok0zYhk#%F0%9F%87%BA%F0%9F%87%A6UA_1%7C2.7MB%2Fs
+vless://316dda83-17f1-4f29-a05f-b84b7f991b82@82.118.18.202:443?sni=www.cloudflare.com&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#%F0%9F%87%BA%F0%9F%87%A6UA_1%7C2.7MB/s
