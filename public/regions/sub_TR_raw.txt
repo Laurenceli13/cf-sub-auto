@@ -1,2 +1,1 @@
-vless://6423193f-06ec-4ca6-b8a4-74e21dbb3970@tr2ri.mobleamiri10.ir:1050?security=reality&encryption=none&pbk=W6rwa-_z6GYG3cmVxqVjOOn7LsvpAFllkbATsO-CnxU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=bc6d2d6095e5f634#土耳其/伊斯坦布尔/Türkiye/Istanbul
-vless://ae9bcc43-5fd8-4891-b06e-1c93e2747ed9@45.74.178.41:719?path=%2Fapi%2Fv2%2Fxtrnwqjbkr%3Fed%3D2560&security=none&encryption=none&host=play.google.com&type=ws#土耳其/Türkiye
+vless://af348651-1624-4710-b55f-0307a22d891f@213.136.92.67:443?security=reality&encryption=none&pbk=jvJPfOHtnr2sH79qG-rEtJHFbr36_7Ag7ARsUmtSDQo&host=status.play.google.com&headerType=none&fp=ios&spx=%2F&type=tcp&sni=status.play.google.com&sid=5030#土耳其/伊斯坦布尔/Türkiye/Istanbul
