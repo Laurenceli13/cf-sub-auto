@@ -1,2 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMWFlMGZjZS05MzQwLTRmMmUtODgyZC1mZGIyMjE4ZTJlMmI@36.224.177.236:50099#台湾/板橋/Taiwan/Banqiao
-vless://431fe973-a43a-4fac-bf83-2a772e0d0625@220.130.75.247:10000?security=none&encryption=none&headerType=none&type=tcp#台湾/半线/Taiwan/Changhua
+hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443/?insecure=1&security=tls&sni=127.0.0.1#台湾/台北市/Taiwan/Taipei
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443?insecure=1&sni=vpn-tw-002.fastervpn.world&obfs=&obfs-password=#%F0%9F%87%B9%F0%9F%87%BCTW_1%7C4.0MB/s

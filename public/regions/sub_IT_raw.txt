@@ -1,1 +1,2 @@
-hysteria2://4ff4adfb8e7a4bae9c959c54fa5af52f@assets.gateway-stream.com:52003?security=tls&obfs=salamander&alpn=h3&obfs-password=5xo4v7u2pv8bktvb&insecure=0&sni=assets.gateway-stream.com#意大利/巴勒莫市/Italy/Palermo
+ss://YWVzLTI1Ni1nY206ZDFmYTJmNGI5OGEzOGJjOA@194.87.47.61:10901#意大利/巴勒莫市/Italy/Palermo
+vless://44927d9f-1a75-4c03-ab8c-79898adaaece@46.28.68.63:443?flow=xtls-rprx-vision&fp=firefox&pbk=LS-zg9fF_5TvNfMCIKngy5AMue1hF-hsk3hShsHGXT4&security=tls&sid=e5fa48b9363c6a88&sni=www.cloudflare.com#意大利/Italy

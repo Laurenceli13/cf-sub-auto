@@ -1,2 +1,6 @@
-hysteria2://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@138.124.68.188:443/?sni=usa1.spectrumproxy.shop#俄罗斯联邦/莫斯科/Russia/Moscow
+hysteria2://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@138.124.68.188:443?sni=usa1.spectrumproxy.shop#俄罗斯联邦/莫斯科/Russia/Moscow
 hysteria2://95e8532b-cc69-42d4-9553-e3c23292b15b@176.124.222.180:8443?sni=j47lq.pleiades.codes#%E4%BF%84%E7%BD%97%E6%96%AF
+hysteria2://gf1@5.129.235.85:443?insecure=1&sni=www.linux.com#%E4%BF%84%E7%BD%97%E6%96%AF%20%231
+trojan://7484d7c8-b010-373e-9c2a-2b9d20f8c963@los3.doubledou.win:6520?security=tls#俄罗斯联邦/Russia
+vless://4a334454-22f7-491b-9bec-583e1e8a2773@5.188.140.5:2096?security=reality&type=grpc&mode=gun&serviceName=grpc&packetEncoding=xudp&sni=strm.yandex.net&fp=chrome&sid=1ed136481e0ede74&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&encryption=none#%F0%9F%87%B7%F0%9F%87%BARU_1%7C1.6MB%2Fs
+vless://a5a544bf-e4b3-4651-9ff4-de3461910d87@104.18.32.47:443?sni=rus.aba-hum.store&alpn=h3&fp=chrome&security=tls#%F0%9F%87%B7%F0%9F%87%BARU_1%7C3.9MB/s

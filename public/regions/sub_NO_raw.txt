@@ -1,1 +1,1 @@
-trojan://M08tvzYWtUEJNtbpHp@194.124.216.192:443?security=tls#挪威/奥斯陆/Norway/Oslo
+trojan://7484d7c8-b010-373e-9c2a-2b9d20f8c963@los3.doubledou.win:6520?security=tls#挪威/奥斯陆/Norway/Oslo

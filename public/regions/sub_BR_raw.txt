@@ -1,1 +1,1 @@
-hysteria2://5bc8aea0-04a6-4fcf-9a04-1a51518396a8@167.234.251.78:35000?insecure=1&sni=www.apple.com#%E5%B7%B4%E8%A5%BF
+vless://ba222add-6ac1-45f1-9a18-f91cb38e324f@201.51.1.84:16923?security=reality&type=grpc&mode=gun&serviceName=neurex&packetEncoding=xudp&sni=api-maps.yandex.ru&fp=firefox&sid=10ffb85da1c2d986&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA#%F0%9F%87%A7%F0%9F%87%B7BR_1%7C2.4MB%2Fs

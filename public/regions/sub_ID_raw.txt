@@ -1,1 +1,1 @@
-trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@oplosgru-c.catcat321.com:20056?sni=hk.catxstar.com&allowInsecure=1&type=tcp#%F0%9F%87%AE%F0%9F%87%A9ID_1%7C3.3MB%2Fs
+hy2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@us54.mechvpn.online:443/?sni=us54.mechvpn.online#印度尼西亚/Indonesia

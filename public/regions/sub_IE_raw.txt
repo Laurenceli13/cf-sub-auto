@@ -1,1 +1,2 @@
-vless://af348651-1624-4710-b55f-0307a22d891f@213.136.92.67:443?security=reality&encryption=none&pbk=jvJPfOHtnr2sH79qG-rEtJHFbr36_7Ag7ARsUmtSDQo&host=status.play.google.com&headerType=none&fp=ios&spx=%2F&type=tcp&sni=status.play.google.com&sid=5030#爱尔兰/都柏林/Ireland/Dublin
+trojan://7484d7c8-b010-373e-9c2a-2b9d20f8c963@los3.doubledou.win:6520?security=tls#爱尔兰/都柏林/Ireland/Dublin
+trojan://FH72359861@3.253.78.205:443?sni=balanced-heron.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AE%F0%9F%87%AAIE_1%7C2.3MB%2Fs
