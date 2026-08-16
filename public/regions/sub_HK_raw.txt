@@ -1,10 +1,11 @@
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.89:443?insecure=1#%F0%9F%87%AD%F0%9F%87%B0HK
 hysteria2://ec19e705-c8fe-4e9c-8cbe-c47038da0620@hk1.ktmhyld.com:18385?insecure=1#%F0%9F%87%AD%F0%9F%87%B0%20HK
-hysteria2://ec19e705-c8fe-4e9c-8cbe-c47038da0620@hk1.ktmhyld.com:18385?insecure=1#8%7C%20HK
-trojan://6ec301428255a78a1d826988d86cc87e@43.198.107.164:7674?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF3%7C%40ripaojiedian
+hysteria2://ec19e705-c8fe-4e9c-8cbe-c47038da0620@hk1.ktmhyld.com:18385?insecure=1#8%7C%F0%9F%87%AD%F0%9F%87%B0%20HK
+ss://Y2hhY2hhMjAtaWV0ZjpwYXNzd2Q=@cn01.somethingstranges.com:8103#%F0%9F%87%AD%F0%9F%87%B0HK_3%7C4.9MB/s
+ss://Y2hhY2hhMjAtaWV0ZjpwYXNzd2Q=@cn01.somethingstranges.com:8103/?plugin=simple-obfs%3Bobfs%3Dhttp%3Bobfs-host%3D43309-nIao34iu.download.microsoft.com#%F0%9F%87%AD%F0%9F%87%B0HK_3%7C4.9MB%2Fs
 trojan://BxceQaOe@16.162.3.11:27161?allowInsecure=1&sni=t.me%2Fripaojiedian#13%7CHK_speednode_0013
 trojan://BxceQaOe@16.162.3.11:27161?allowInsecure=1&sni=t.me%2Fripaojiedian#HK_speednode_0013
 trojan://BxceQaOe@16.162.3.11:27161?allowInsecure=1&sni=t.me/ripaojiedian#13%7CHK_speednode_0012
 trojan://BxceQaOe@16.162.3.11:27161?allowInsecure=1&sni=t.me/ripaojiedian#HK_speednode_0012
-trojan://BxceQaOe@18.163.113.86:11035?allowInsecure=1&sni=t.me%2Fripaojiedian#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF4%7C%40ripaojiedian
-trojan://BxceQaOe@18.163.113.86:25982?allowInsecure=1&sni=t.me%2Fripaojiedian#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF5%7C%40ripaojiedian
-vless://B1BF44DF-BADD-44EE-826A-12C27206993D@95.40.100.129:10126?security=reality&type=grpc&mode=gun&serviceName=update&packetEncoding=none&sni=s0.awsstatic.com&fp=chrome&sid=686c0ef0&pbk=wOu-BMrXvk9KX23JZrlpUlF4SMjDcejm0vNECdhy5xE#%F0%9F%87%AD%F0%9F%87%B0HK_1%7C2.5MB%2Fs
+vless://B1BF44DF-BADD-44EE-826A-12C27206993D@95.40.100.129:10126?security=reality&type=grpc&mode=gun&serviceName=update&packetEncoding=xudp&sni=s0.awsstatic.com&fp=chrome&sid=686c0ef0&pbk=wOu-BMrXvk9KX23JZrlpUlF4SMjDcejm0vNECdhy5xE&encryption=none#%F0%9F%87%AD%F0%9F%87%B0HK_2%7C4.0MB%2Fs
+vless://B1BF44DF-BADD-44EE-826A-12C27206993D@95.40.100.129:10126?sni=s0.awsstatic.com&type=grpc&serviceName=update&fp=chrome&security=tls#%F0%9F%87%AD%F0%9F%87%B0HK_2%7C4.0MB/s

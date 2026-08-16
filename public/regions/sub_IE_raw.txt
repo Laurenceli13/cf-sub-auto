@@ -1,2 +1,1 @@
-trojan://7484d7c8-b010-373e-9c2a-2b9d20f8c963@los3.doubledou.win:6520?security=tls#爱尔兰/都柏林/Ireland/Dublin
-trojan://FH72359861@3.253.78.205:443?sni=balanced-heron.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AE%F0%9F%87%AAIE_1%7C2.3MB%2Fs
+trojan://b8808043-6566-4923-9195-e66bfb553d57@51.38.99.96:443?security=tls&sni=ba24.ir#爱尔兰/都柏林/Ireland/Dublin

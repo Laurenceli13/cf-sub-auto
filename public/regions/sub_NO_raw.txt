@@ -1,1 +1,1 @@
-trojan://7484d7c8-b010-373e-9c2a-2b9d20f8c963@los3.doubledou.win:6520?security=tls#挪威/奥斯陆/Norway/Oslo
+trojan://b8808043-6566-4923-9195-e66bfb553d57@51.38.99.96:443?security=tls&sni=ba24.ir#挪威/奥斯陆/Norway/Oslo
