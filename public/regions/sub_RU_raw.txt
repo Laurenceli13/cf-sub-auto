@@ -1,5 +1,7 @@
 hysteria2://2a0099ded5baa93c55823af39229c5b1@185-22-155-81.liao.kdns.fr:50160/?sni=185-22-155-81.liao.kdns.fr#俄罗斯联邦/Russia
+hysteria2://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@usa1.spectrumproxy.shop:443/?sni=usa1.spectrumproxy.shop#俄罗斯联邦/莫斯科/Russia/Moscow
+hysteria2://921db318-1694-4408-9cc7-c93df39f7f8e@ru-i-2.monkeyisland.xyz:443?insecure=1&sni=ru-i-2.monkeyisland.xyz#%F0%9F%87%B7%F0%9F%87%BA%7CRU%7C%40wxgqlfx%7C229
+hysteria2://921db318-1694-4408-9cc7-c93df39f7f8e@ru-i-2.monkeyisland.xyz:443?insecure=1&sni=ru-i-2.monkeyisland.xyz#9%7C%F0%9F%87%BA%7CRU%7C%40wxgqlfx%7C229
 hysteria2://95e8532b-cc69-42d4-9553-e3c23292b15b@176.124.222.180:8443?sni=j47lq.pleiades.codes#%E4%BF%84%E7%BD%97%E6%96%AF
-hysteria2://b268a3a1-3826-44a3-9ffb-3ac2095300ca@89.169.47.112:443/?sni=game.hambot.ru#俄罗斯联邦/莫斯科/Russia/Moscow
-vless://2c634977-584e-4e1f-b501-1b70c77a6743@194.55.239.211:9001?security=reality&type=grpc&mode=gun&serviceName=grpc-reality&packetEncoding=xudp&sni=api-maps.yandex.ru&fp=safari&sid=6ba85179e30d4fc2&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&encryption=none#%F0%9F%87%B7%F0%9F%87%BARU_1%7C2.0MB%2Fs
-vless://2c634977-584e-4e1f-b501-1b70c77a6743@194.55.239.211:9001?sni=api-maps.yandex.ru&type=grpc&serviceName=grpc-reality&fp=safari&security=tls#%F0%9F%87%B7%F0%9F%87%BARU_1%7C2.0MB/s
+vless://8071f3cc-994f-4fe2-bb87-cdc79559cb56@31.177.111.144:443?sni=ads.x5.ru&type=grpc&serviceName=grpc&fp=firefox&security=tls#%F0%9F%87%B7%F0%9F%87%BARU_1%7C3.7MB/s
+vless://87b320fe-2329-498d-997b-7b956a99eecb@213.178.155.239:443?security=reality&type=grpc&mode=gun&serviceName=bridge-akenai-grpc-max&packetEncoding=xudp&sni=max.ru&fp=chrome&sid=be7d4026&pbk=dg-XAKwtCTyYz0HN94sbNCM8xLwY4lBHkUa883nTFn8#%F0%9F%87%B7%F0%9F%87%BARU_1%7C2.2MB%2Fs

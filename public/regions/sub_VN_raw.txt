@@ -1,1 +1,1 @@
-vless://d516ffe9-f519-3c47-872b-666249bdc7b7@family.bucket.9.kfc-520.com:10033?security=reality&type=tcp&packetEncoding=none&sni=www.hp.com&fp=firefox&flow=xtls-rprx-vision&sid=667925235980&pbk=mQvQHrpr_4068cLt-AOl44mQN6YccQv7yLfCP5Kp9HU#%F0%9F%87%BB%F0%9F%87%B3VN_1%7C2.4MB%2Fs
+vless://2a88deea-221d-3f06-9846-4067c6f725ee@family.bucket.8.kfc-520.com:10033?security=reality&type=tcp&packetEncoding=none&sni=www.hp.com&fp=firefox&flow=xtls-rprx-vision&sid=667925235980&pbk=mQvQHrpr_4068cLt-AOl44mQN6YccQv7yLfCP5Kp9HU#%F0%9F%87%BB%F0%9F%87%B3VN_1%7C1.4MB%2Fs

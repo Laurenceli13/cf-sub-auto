@@ -1,1 +1,1 @@
-vless://cf0310b0-2cd6-4ae1-b4c4-e029e7fb0ee3@hua.kosmosapp.ru:16923?security=reality&type=grpc&mode=gun&serviceName=neurex&packetEncoding=xudp&sni=mail.yandex.ru&fp=firefox&sid=10ffb85da1c2d986&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&encryption=none#%F0%9F%87%AD%F0%9F%87%BAHU_1%7C1.3MB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0OFVRV0pWZXREcjdFVGlPWEYrYUVRPT0@217.70.14.216:8443#匈牙利/布达佩斯/Hungary/Budapest

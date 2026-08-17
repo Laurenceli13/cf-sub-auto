@@ -1,2 +1,1 @@
-ss://YWVzLTI1Ni1nY206ZDFmYTJmNGI5OGEzOGJjOA@194.87.47.61:10901#意大利/巴勒莫市/Italy/Palermo
-vless://44927d9f-1a75-4c03-ab8c-79898adaaece@46.28.68.63:443?flow=xtls-rprx-vision&fp=firefox&pbk=LS-zg9fF_5TvNfMCIKngy5AMue1hF-hsk3hShsHGXT4&security=tls&sid=e5fa48b9363c6a88&sni=www.cloudflare.com#意大利/Italy
+trojan://b8808043-6566-4923-9195-e66bfb553d57@51.38.99.96:443?security=tls&sni=ba24.ir#意大利/Italy
