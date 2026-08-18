@@ -1,1 +1,1 @@
-trojan://b8808043-6566-4923-9195-e66bfb553d57@51.38.99.96:443?security=tls&sni=ba24.ir#挪威/奥斯陆/Norway/Oslo
+vless://6ede8d99-be53-4b7f-9183-255325c71bf2@198.41.209.56:8443?encryption=none&type=httpupgrade&security=tls&path=%2F&sni=fdsa.cjdpars-m.ir&insecure=0&allowInsecure=0#挪威/奥斯陆/Norway/Oslo

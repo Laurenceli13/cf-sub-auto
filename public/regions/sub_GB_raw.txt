@@ -1,5 +1,7 @@
 hysteria2://725bc0b69e720cd5a2cd209252507c6e@94-229-64-108.liao.kdns.fr:50160?insecure=1&sni=94-229-64-108.liao.kdns.fr#%F0%9F%87%AC%F0%9F%87%A7%7CGB%7C%40wxgqlfx%7C19
 hysteria2://725bc0b69e720cd5a2cd209252507c6e@94-229-64-108.liao.kdns.fr:50160?insecure=1&sni=94-229-64-108.liao.kdns.fr#9%7C%7CGB%7C%40wxgqlfx%7C19
 hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@205.237.109.221:8443?sni=grape-turbo-fr.roxa.org#%E8%8B%B1%E5%9B%BD
-vless://62a08ea5-0564-47b4-a92c-25be07ad6358@31.77.154.46:443?security=reality&type=grpc&mode=gun&serviceName=grpc&packetEncoding=xudp&sni=360.yandex.ru&fp=firefox&sid=6ba85179e30d4fc2&pbk=ne8wv6o6AYcQoVvz30PiTjSxviGa3_Kw5ClIEDdg-3A#%F0%9F%87%AC%F0%9F%87%A7GB_2%7C2.5MB%2Fs
-vless://6688ef96-b385-48a6-9094-ed1a42b95066@89.23.116.27:61443?security=reality&type=grpc&mode=gun&serviceName=grpc&packetEncoding=xudp&sni=5post-gate.x5.ru&fp=firefox&pbk=RnSMVp5KuKRxvnHm5fyhqicDZa3cBTZ-PN82_6RV2AA#%F0%9F%87%AC%F0%9F%87%A7GB_1%7C1.6MB%2Fs
+vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@195.184.247.249:443?security=reality&type=tcp&packetEncoding=xudp&sni=savesafe.co&fp=firefox&flow=xtls-rprx-vision&sid=f63805c3ecc7a483&pbk=6z3YcVP0f2pK3iANKIkBUZOgNeErDjxY83mHZG5jrnI&encryption=none#%F0%9F%87%AC%F0%9F%87%A7GB_2%7C2.5MB%2Fs
+vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@195.184.247.249:443?sni=savesafe.co&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#%F0%9F%87%AC%F0%9F%87%A7GB_2%7C2.5MB/s
+vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@195.184.247.251:443?security=reality&type=tcp&packetEncoding=xudp&sni=savesafe.co&fp=firefox&flow=xtls-rprx-vision&sid=f63805c3ecc7a483&pbk=6z3YcVP0f2pK3iANKIkBUZOgNeErDjxY83mHZG5jrnI&encryption=none#%F0%9F%87%AC%F0%9F%87%A7GB_3%7C1.1MB%2Fs
+vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@195.184.247.251:443?sni=savesafe.co&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#%F0%9F%87%AC%F0%9F%87%A7GB_3%7C1.1MB/s

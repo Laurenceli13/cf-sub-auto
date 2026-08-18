@@ -1,1 +1,2 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.197.75.50:8880?security=none&type=ws&path=/?ed=2560&https://t.me/youtube@ZYFXS🇨🇳&host=vms.lifetime37.workers.dev&packetEncoding=xudp&encryption=none#%E5%8D%97%E9%9D%9E+V2CROSS.COM
+vless://00706a0e-de50-40f0-b6e0-e50b8d727d88@109.121.44.41:443?security=reality&type=raw&packetEncoding=xudp&sni=www.amd.com&fp=qq&flow=xtls-rprx-vision&sid=2c5d0e9f&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4#%F0%9F%87%BF%F0%9F%87%A6ZA_1%7C1.8MB%2Fs
+vless://00706a0e-de50-40f0-b6e0-e50b8d727d88@109.121.44.41:443?sni=www.amd.com&flow=xtls-rprx-vision-udp443&fp=qq&security=tls#%F0%9F%87%BF%F0%9F%87%A6ZA_1%7C1.8MB/s
