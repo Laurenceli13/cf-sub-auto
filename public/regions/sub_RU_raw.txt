@@ -1,5 +1,9 @@
-hysteria2://2a0099ded5baa93c55823af39229c5b1@185.22.155.81:50160?sni=185-22-155-81.liao.kdns.fr#俄罗斯联邦/Russia
-hysteria2://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@usa1.spectrumproxy.shop:443/?sni=usa1.spectrumproxy.shop#俄罗斯联邦/莫斯科/Russia/Moscow
 hysteria2://921db318-1694-4408-9cc7-c93df39f7f8e@ru-i-2.monkeyisland.xyz:443?insecure=1&sni=ru-i-2.monkeyisland.xyz#%F0%9F%87%B7%F0%9F%87%BA%7CRU%7C%40wxgqlfx%7C229
 hysteria2://921db318-1694-4408-9cc7-c93df39f7f8e@ru-i-2.monkeyisland.xyz:443?insecure=1&sni=ru-i-2.monkeyisland.xyz#9%7C%F0%9F%87%BA%7CRU%7C%40wxgqlfx%7C229
 hysteria2://95e8532b-cc69-42d4-9553-e3c23292b15b@176.124.222.180:8443?sni=j47lq.pleiades.codes#%E4%BF%84%E7%BD%97%E6%96%AF
+ss://YWVzLTI1Ni1nY206MWVhZGQ0ZTRhMzdiNjYwMQ@45.8.158.176:10801#俄罗斯联邦/莫斯科/Russia/Moscow
+trojan://7166e17c-286a-4aca-8383-250506f47166e17c-286a-4aca-8383-250506f4e1d3@bauhinia01.abzoones.xyz:36116?security=tls#俄罗斯联邦/Russia
+vless://5c025078-2eae-4c53-bad1-5e491f33395e@translate.magazinetut.online:443?security=tls&type=tcp&packetEncoding=none&sni=translate.magazinetut.online&fp=chrome&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BARU_1%7C1.0MB%2Fs
+vless://5c025078-2eae-4c53-bad1-5e491f33395e@translate.magazinetut.online:443?sni=translate.magazinetut.online&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%B7%F0%9F%87%BARU_1%7C1.0MB/s
+vless://b8783764-ad60-58bb-b2c9-349bfd373a72@russia.cloudpath.live:443?security=reality&type=tcp&packetEncoding=none&sni=ads.x5.ru&fp=chrome&sid=acc4dfcc&pbk=FfcdBaTRPP5DDUiPmDRFOOghIw8h6-i9j_QyHQI3FUw#%F0%9F%87%B7%F0%9F%87%BARU_2%7C1.5MB%2Fs
+vless://b8783764-ad60-58bb-b2c9-349bfd373a72@russia.cloudpath.live:443?sni=ads.x5.ru&fp=chrome&security=tls#%F0%9F%87%B7%F0%9F%87%BARU_2%7C1.5MB/s

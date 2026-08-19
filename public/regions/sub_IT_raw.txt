@@ -1,1 +1,3 @@
-ss://YWVzLTI1Ni1nY206ZmJjZWM3Njk1M2EyZDE3Mw@166.88.130.218:30331#意大利/巴勒莫市/Italy/Palermo
+ss://YWVzLTI1Ni1nY206ZDFmYTJmNGI5OGEzOGJjOA@194.87.47.204:10901#意大利/巴勒莫市/Italy/Palermo
+vless://b8783764-ad60-58bb-b2c9-349bfd373a72@italy.cloudpath.live:443?security=reality&type=tcp&packetEncoding=none&sni=microsoft.com&fp=chrome&sid=01ba48a6&pbk=6_kbS64_FjhE3kBpCUoUx6hl5frrrdyuUSCQks_ch3o#%F0%9F%87%AE%F0%9F%87%B9IT_1%7C1.2MB%2Fs
+vless://b8783764-ad60-58bb-b2c9-349bfd373a72@italy.cloudpath.live:443?sni=microsoft.com&fp=chrome&security=tls#%F0%9F%87%AE%F0%9F%87%B9IT_1%7C1.2MB/s

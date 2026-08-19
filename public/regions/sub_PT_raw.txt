@@ -1,0 +1,2 @@
+vless://b8783764-ad60-58bb-b2c9-349bfd373a72@portugal.cloudpath.live:443?security=reality&type=raw&packetEncoding=xudp&sni=microsoft.com&fp=chrome&sid=a2bc06f6&pbk=ypuuTzPXRNn_eQnp8EY-1G7WB5X8XojivIdyN_bQTik#%F0%9F%87%B5%F0%9F%87%B9PT_1%7C2.0MB%2Fs
+vless://b8783764-ad60-58bb-b2c9-349bfd373a72@portugal.cloudpath.live:443?sni=microsoft.com&fp=chrome&security=tls#%F0%9F%87%B5%F0%9F%87%B9PT_1%7C2.0MB/s
