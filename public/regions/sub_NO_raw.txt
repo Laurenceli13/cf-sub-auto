@@ -1,1 +1,1 @@
-vless://6ede8d99-be53-4b7f-9183-255325c71bf2@198.41.209.56:8443?encryption=none&type=httpupgrade&security=tls&path=%2F&sni=fdsa.cjdpars-m.ir&insecure=0&allowInsecure=0#挪威/奥斯陆/Norway/Oslo
+trojan://f1963001-20c7-464b-8a66-c15ba6f798d0@tw01.henet.top:30000?security=tls#挪威/奥斯陆/Norway/Oslo

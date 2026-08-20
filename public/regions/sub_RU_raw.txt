@@ -1,9 +1,4 @@
-hysteria2://921db318-1694-4408-9cc7-c93df39f7f8e@ru-i-2.monkeyisland.xyz:443?insecure=1&sni=ru-i-2.monkeyisland.xyz#%F0%9F%87%B7%F0%9F%87%BA%7CRU%7C%40wxgqlfx%7C229
-hysteria2://921db318-1694-4408-9cc7-c93df39f7f8e@ru-i-2.monkeyisland.xyz:443?insecure=1&sni=ru-i-2.monkeyisland.xyz#9%7C%F0%9F%87%BA%7CRU%7C%40wxgqlfx%7C229
-hysteria2://95e8532b-cc69-42d4-9553-e3c23292b15b@176.124.222.180:8443?sni=j47lq.pleiades.codes#%E4%BF%84%E7%BD%97%E6%96%AF
-ss://YWVzLTI1Ni1nY206MWVhZGQ0ZTRhMzdiNjYwMQ@45.8.158.176:10801#俄罗斯联邦/莫斯科/Russia/Moscow
-trojan://7166e17c-286a-4aca-8383-250506f47166e17c-286a-4aca-8383-250506f4e1d3@bauhinia01.abzoones.xyz:36116?security=tls#俄罗斯联邦/Russia
-vless://5c025078-2eae-4c53-bad1-5e491f33395e@translate.magazinetut.online:443?security=tls&type=tcp&packetEncoding=none&sni=translate.magazinetut.online&fp=chrome&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BARU_1%7C1.0MB%2Fs
-vless://5c025078-2eae-4c53-bad1-5e491f33395e@translate.magazinetut.online:443?sni=translate.magazinetut.online&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%B7%F0%9F%87%BARU_1%7C1.0MB/s
-vless://b8783764-ad60-58bb-b2c9-349bfd373a72@russia.cloudpath.live:443?security=reality&type=tcp&packetEncoding=none&sni=ads.x5.ru&fp=chrome&sid=acc4dfcc&pbk=FfcdBaTRPP5DDUiPmDRFOOghIw8h6-i9j_QyHQI3FUw#%F0%9F%87%B7%F0%9F%87%BARU_2%7C1.5MB%2Fs
-vless://b8783764-ad60-58bb-b2c9-349bfd373a72@russia.cloudpath.live:443?sni=ads.x5.ru&fp=chrome&security=tls#%F0%9F%87%B7%F0%9F%87%BARU_2%7C1.5MB/s
+trojan://f1963001-20c7-464b-8a66-c15ba6f798d0@tw01.henet.top:30000?security=tls#俄罗斯联邦/莫斯科/Russia/Moscow
+vless://32ed7262-74d2-40ea-a038-6bf074bc463e@185.168.195.211:21527?security=reality&type=tcp&sid=823ec0b7b5084ffe&pbk=SsIiRnSI27T6_EU71nUXgFfE0NmJhsA2UwhR5WC25UY&fp=chrome&sni=www.apple.com&spx=%2F&headerType=none&encryption=none#俄罗斯联邦/Russia
+vless://fe0138b5-ca60-4a67-91aa-b5a49266eeb5@212.233.99.132:443?security=reality&type=raw&packetEncoding=xudp&sni=ru.chick-team.ru&fp=firefox&flow=xtls-rprx-vision&sid=ab532d3308daa67b&pbk=NBiCX_Tj3BeMAyG-GbLLKpGjW_qacm3A2Mz5mN8v3Xk&encryption=none#%F0%9F%87%B7%F0%9F%87%BARU_1%7C2.7MB%2Fs
+vless://fe0138b5-ca60-4a67-91aa-b5a49266eeb5@212.233.99.132:443?sni=ru.chick-team.ru&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#%F0%9F%87%B7%F0%9F%87%BARU_1%7C2.7MB/s
