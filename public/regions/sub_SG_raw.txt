@@ -1,5 +1,12 @@
+hy2://P6qkAwznuC076mbIR2cGPg==@43.156.90.144:34567/?insecure=1&sni=bing.com#新加坡/新加坡/Singapore/Singapore
 hysteria2://1427eb10-7529-4d38-a6a2-01b337868b37@sg2.xiaoliyu.cyou:1935?insecure=1&sni=sg2.xiaoliyu.cyou#%F0%9F%87%B8%F0%9F%87%ACSG
 hysteria2://1427eb10-7529-4d38-a6a2-01b337868b37@sg2.xiaoliyu.cyou:1935?insecure=1&sni=sg2.xiaoliyu.cyou#8%7CSG
-hysteria2://6a3fe9d0-0d68-4f29-ae99-5771d4217a45@140.99.130.34:4466?insecure=1&sni=sg3.xiaoliyu.cyou#新加坡/新加坡/Singapore/Singapore
-trojan://6ec301428255a78a1d826988d86cc87e@16.162.100.124:45744?allowInsecure=1&sni=www.nintendogames.net#%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40ripaojiedian
-trojan://6ec301428255a78a1d826988d86cc87e@16.162.100.124:45744?allowInsecure=1&sni=www.nintendogames.net#11%2C12%7C%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40ripaojiedian
+hysteria2://9gWt2z3KdC9VI8kAQYVvvSvhT9e05CfI@vip-sg-1.hkd4fwmg.vip:12645?insecure=1&sni=vip-sg-1.hkd4fwmg.vip#8%7CSG%20%231
+hysteria2://9gWt2z3KdC9VI8kAQYVvvSvhT9e05CfI@vip-sg-1.hkd4fwmg.vip:12645?insecure=1&sni=vip-sg-1.hkd4fwmg.vip#SG
+hysteria2://P6qkAwznuC076mbIR2cGPg%3D%3D@43.156.90.144:34567?insecure=1&sni=bing.com#%F0%9F%87%B8%F0%9F%87%ACSG%20%231
+hysteria2://P6qkAwznuC076mbIR2cGPg%3D%3D@43.156.90.144:34567?insecure=1&sni=bing.com#8%7C%F0%9F%87%B8%F0%9F%87%ACSG
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@47.129.155.42:443?insecure=1&sni=vpn-sg-001.fastervpn.world#%E6%96%B0%E5%8A%A0%E5%9D%A1
+ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206WVRFMVpXVTRaVEV5WmpjM1ltRXpaQT09OlpHWXpPV0prTWpNdE1qazBZUzAwTmc9PQ==@67.159.52.56:28000#%F0%9F%87%B8%F0%9F%87%ACSG_1%7C1011KB/s
+trojan://d5517dedef425597a1b9fdbaad99544e@18.163.126.92:45744?allowInsecure=1&sni=www.nintendogames.net#%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40ripaojiedian
+trojan://d5517dedef425597a1b9fdbaad99544e@18.163.126.92:45744?allowInsecure=1&sni=www.nintendogames.net#11%2C12%7C%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40ripaojiedian
+vmess://eyJ2IjoiMiIsInBzIjoiU0cg8J+HuPCfh6wgfCBAUmF5ZGlrYWx4IHwgMDlBQTI2IiwiYWRkIjoic2luZ2Fwb3JlMDEuemdqb2suY29tIiwicG9ydCI6IjQ0MyIsInR5cGUiOiJub25lIiwiaWQiOiI5NDY5YmY4NC02ZTJhLTRjYzItODRlOS1mMzM0MTYxYTllOTQiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsImhvc3QiOiJzaW5nYXBvcmUwMS56Z2pvay5jb20iLCJ0bHMiOiJ0bHMifQ==#新加坡/Singapore

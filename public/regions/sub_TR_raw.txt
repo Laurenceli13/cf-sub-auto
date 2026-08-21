@@ -1,2 +1,1 @@
 hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.124.105:8080?insecure=1&sni=mercedes-grape.yyuyy.com#%E5%9C%9F%E8%80%B3%E5%85%B6
-trojan://8bS8vVC5CQ2GsckhMh8IT1jv@193.124.46.65:443?alpn=http%2F1.1&fp=chrome#土耳其/伊斯坦布尔/Türkiye/Istanbul
