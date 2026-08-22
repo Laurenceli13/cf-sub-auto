@@ -1,4 +1,7 @@
-hysteria2://Apt1923_N9x234gn_Nal5Nx3j_s@222.167.212.80:8443?sni=grape-power-pl.ddnsguru.com#%E8%8A%AC%E5%85%B0
-hysteria2://C91FbOXGY9XRymrcEebtax9R1Nj62UizoT8S6kCb7xwey8IE@fast.wwwinternetvideo.click:443?security=tls&insecure=1&sni=fast.wwwinternetvideo.click#芬兰/赫尔辛基/Finland/Helsinki
-hysteria2://m3bqxk03mg221yi2@95.217.96.131:52000?insecure=0&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=gu74jg3ym0e21zco#%F0%9F%87%AB%F0%9F%87%AE%40FreakConfig
-hysteria2://m3bqxk03mg221yi2@95.217.96.131:52000?insecure=0&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=gu74jg3ym0e21zco#9%7C%F0%9F%87%AB%F0%9F%87%AE%40FreakConfig
+ss://2022-blake3-aes-256-gcm:AwJgml7DDpUwiU5J9RnQOXCdvkRv2TWuizZfw7QE344%3D%3AHxigGNbDO8xyNNe9tuYJQQw0ksSF7I7Bm1etSfw%2B6J4%3D@65.109.211.136:43185#%F0%9F%87%AB%F0%9F%87%AEFI_2%7C3.8MB%2Fs
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206QXdKZ21sN0REcFV3aVU1SjlSblFPWENkdmtSdjJUV3VpelpmdzdRRTM0ND06SHhpZ0dOYkRPOHh5Tk5lOXR1WUpRUXcwa3NTRjdJN0JtMWV0U2Z3KzZKND0=@65.109.211.136:43185#%F0%9F%87%AB%F0%9F%87%AEFI_2%7C3.8MB/s
+vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.245.75:9002?mode=gun&security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=firefox&type=grpc&serviceName=grpc-reality&sni=api-maps.yandex.ru#芬兰/赫尔辛基/Finland/Helsinki
+vless://8645b9cb-0d7c-440d-b300-fd44011c5019@104.18.155.141:8443?security=tls&type=ws&path=%2F&host=arvan.dearhossein-taktaz.ir&packetEncoding=xudp&sni=arvan.dearhossein-taktaz.ir&fp=chrome#%F0%9F%87%AB%F0%9F%87%AEFI_4%7C2.2MB%2Fs
+vless://8645b9cb-0d7c-440d-b300-fd44011c5019@104.18.155.141:8443?sni=arvan.dearhossein-taktaz.ir&type=ws&host=arvan.dearhossein-taktaz.ir&path=/fp=chrome&security=tls#%F0%9F%87%AB%F0%9F%87%AEFI_4%7C2.2MB/s
+vless://8645b9cb-0d7c-440d-b300-fd44011c5019@www.speedtest.net:8443?security=tls&type=ws&path=%2F&host=arvan.dearhossein-taktaz.ir&packetEncoding=xudp&alpn=http%2F1.1%2Ch3&sni=arvan.dearhossein-taktaz.ir&fp=chrome&encryption=none#%F0%9F%87%AB%F0%9F%87%AEFI_3%7C2.0MB%2Fs
+vless://8645b9cb-0d7c-440d-b300-fd44011c5019@www.speedtest.net:8443?sni=arvan.dearhossein-taktaz.ir&alpn=http/1.1%2Ch3&type=ws&host=arvan.dearhossein-taktaz.ir&path=/fp=chrome&security=tls#%F0%9F%87%AB%F0%9F%87%AEFI_3%7C2.0MB/s

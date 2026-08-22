@@ -1,4 +1,1 @@
-trojan://b8808043-6566-4923-9195-e66bfb553d57@51.38.99.96:443?security=tls&sni=ba24.ir#俄罗斯联邦/莫斯科/Russia/Moscow
-vless://22419260-5475-49d8-a29c-01905c54d1b8@89.19.223.136:443?#%F0%9F%87%B7%F0%9F%87%BARU_1%7C1.8MB/s
-vless://22419260-5475-49d8-a29c-01905c54d1b8@89.19.223.136:443?security=none&type=tcp&packetEncoding=xudp#%F0%9F%87%B7%F0%9F%87%BARU_1%7C1.8MB%2Fs
 vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.245.75:9002?mode=gun&security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=firefox&type=grpc&serviceName=grpc-reality&sni=api-maps.yandex.ru#俄罗斯联邦/Russia
