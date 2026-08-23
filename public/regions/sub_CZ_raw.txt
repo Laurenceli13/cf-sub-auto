@@ -1,1 +1,1 @@
-vless://c7e9c591-2764-423a-afca-efbd010fd396@57.129.47.4:2053?path=%2F&security=tls&encryption=none&insecure=0&host=forfreeuse.rtqa.ru&fp=chrome&type=ws&allowInsecure=0&sni=forfreeuse.rtqa.ru#捷克/Czechia
+vless://e50f1e5f-2823-4030-9dd2-6c951b6b83d0@cz.24outlook.space:2053?sni=cz.24outlook.space&alpn=h2%2Chttp/1.1&fp=chrome&security=tls#%F0%9F%87%A8%F0%9F%87%BFCZ_1%7C1.7MB/s

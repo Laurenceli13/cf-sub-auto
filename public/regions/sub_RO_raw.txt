@@ -1,1 +1,2 @@
-trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@us01.duotg.top:46292?allowInsecure=1&sni=www.microsoft.com#罗马尼亚/Romania
+hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.124.108:8443/?insecure=1&sni=hopp-germany-new.ddnsguru.com#罗马尼亚/Romania
+hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.164:8443?sni=grape-zet-ro-turbo.bumbleshrimp.com#%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A

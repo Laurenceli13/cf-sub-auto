@@ -1,1 +1,2 @@
-vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.245.75:9002?mode=gun&security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=firefox&type=grpc&serviceName=grpc-reality&sni=api-maps.yandex.ru#俄罗斯联邦/Russia
+vless://2730487f-0ed5-4f04-92d5-f95f9253d4f4@172.67.135.69:443?encryption=none&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.jovego2551.workers.dev&path=ws&security=tls&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.jovego2551.workers.dev&type=ws#俄罗斯联邦/Russia
+vless://663836b2-f676-43fb-977f-47c495b1b383@109.73.206.180:443?security=reality&type=tcp&packetEncoding=none&sni=st.ozone.ru&fp=firefox&flow=xtls-rprx-vision&sid=d484643ca8396614&pbk=6J829WZ6hhEtCmz8CfBBBP69ikMDlYPF2Lumyel6XTI#%F0%9F%87%B7%F0%9F%87%BARU_1%7C3.5MB%2Fs
