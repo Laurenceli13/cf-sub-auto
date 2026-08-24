@@ -1,1 +1,1 @@
-hysteria2://95e8532b-cc69-42d4-9553-e3c23292b15b@143.246.208.86:8443/?insecure=1&sni=iq5ny.pleiades.codes#摩尔多瓦/Moldova
+vless://1b43419a-b711-40d4-a0ee-eb5c73e60c92@94.103.0.230:443?sni=pl.prostosetup.org&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#A%20-%20%F0%9F%87%B2%F0%9F%87%A9%20MD%2001%20TG%3A%20%40nodpai

@@ -1,2 +1,1 @@
-hysteria2://b42d90fa667942aebc734d60@137.23.2.19:443?sni=rmgyvpn.rest&obfs=salamander&obfs-password=b42d90fa667942aebc734d60#%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A
-vless://1bc380b1-cff7-446f-b13f-5c0ad29fc75a@16.176.42.97:443?&security=tls&fp=chrome&sni=zero.csmaster.ggff.net&type=ws&headerType=none&host=zero.csmaster.ggff.net&path=%2F#澳大利亚/悉尼/Australia/Sydney
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@193.9.49.30:8880?type=ws&host=vms.lifetime44.workers.dev&path=/#A%20-%20%F0%9F%87%A6%F0%9F%87%BA%20AU%2001%20TG%3A%20%40nodpai

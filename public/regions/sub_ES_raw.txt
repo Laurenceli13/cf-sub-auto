@@ -1,3 +1,1 @@
-vless://16ab4d4a-fd81-4535-9b7b-346677226ce8@200.234.227.64:8443?security=reality&type=tcp&packetEncoding=xudp&sni=sp.crsmaps.com&fp=chrome&flow=xtls-rprx-vision&sid=5326cc7587a9f0&pbk=OFK3xqhyTsDoJi8emuzmOCE9Xzwi0DyZPNj0X-E4iVE&encryption=none#%F0%9F%87%AA%F0%9F%87%B8ES_1%7C3.6MB%2Fs
-vless://16ab4d4a-fd81-4535-9b7b-346677226ce8@200.234.227.64:8443?sni=sp.crsmaps.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%AA%F0%9F%87%B8ES_1%7C3.6MB/s
-vmess://04621bae-ab36-11ec-b909-0242ac120002@85.90.217.42:22324?encryption=auto&security=none&type=tcp#西班牙/马德里/Spain/Madrid
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@192.169.223.30:8880?type=ws&host=vms.lifetime42.workers.dev&path=/#A%20-%20%F0%9F%87%AA%F0%9F%87%B8%20ES%2001%20TG%3A%20%40nodpai

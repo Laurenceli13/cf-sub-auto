@@ -1,1 +1,2 @@
-vless://de27291c-15a9-4256-9ba7-ad517569877e@18.239.134.69:80?type=ws&host=d2e1v87ko56lyw.cloudfront.net:assets.opensignal.com&path=/#%F0%9F%87%B9%F0%9F%87%ADTH_1%7C1.5MB/s
+trojan://a126f35c-e832-4115-8593-b723ade3f7be@kkvlvvq-a.catcat321.com:20006?allowInsecure=1&sni=hk.catxstar.com#%F0%9F%87%B9%F0%9F%87%ADTH_1%7C2.3MB/s
+trojan://a126f35c-e832-4115-8593-b723ade3f7be@kkvlvvq-a.catcat321.com:20006?sni=hk.catxstar.com&allowInsecure=1&type=tcp#%F0%9F%87%B9%F0%9F%87%ADTH_1%7C2.3MB%2Fs

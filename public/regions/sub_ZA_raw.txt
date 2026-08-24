@@ -1,1 +1,2 @@
-vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@45.192.200.133:8443?path=%2FGOrbEh&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#%E5%8D%97%E9%9D%9E+V2CROSS.COM
+vless://94a5294d-1125-4139-8934-380c5de5552f@109.121.44.51:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.amd.com&fp=firefox&flow=xtls-rprx-vision&sid=4a7b1c8d&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&encryption=none#%F0%9F%87%BF%F0%9F%87%A6ZA_1%7C1.5MB%2Fs
+vless://94a5294d-1125-4139-8934-380c5de5552f@109.121.44.51:443?sni=www.amd.com&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#%F0%9F%87%BF%F0%9F%87%A6ZA_1%7C1.5MB/s
