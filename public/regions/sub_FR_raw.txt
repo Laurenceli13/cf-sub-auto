@@ -1,11 +1,8 @@
 hysteria2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@fr194.mechvpn.online:443?sni=fr194.mechvpn.online#%E6%B3%95%E5%9B%BD
-hysteria2://github.com%2FAlvin9999-newpac%2Ffanqiang@62.210.147.2:43115?insecure=1&sni=www.microsoft.com#%F0%9F%87%AB%F0%9F%87%B7FR_4%7C3.2MB%2Fs
-hysteria2://github.com/Alvin9999-newpac/fanqiang@62.210.147.2:43115?insecure=1&sni=www.microsoft.com#%F0%9F%87%AB%F0%9F%87%B7FR_4%7C3.2MB/s
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MzI1YTM0NS1jNzJmLTQ2MzctYThmNC0zNGY5ZWZmYjdiYTY=@211.91.158.26:21126#%F0%9F%87%AB%F0%9F%87%B7FR_2%7C2.1MB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MzI1YTM0NS1jNzJmLTQ2MzctYThmNC0zNGY5ZWZmYjdiYTY=@211.91.158.26:21126#%F0%9F%87%AB%F0%9F%87%B7FR_2%7C2.1MB/s
-trojan://humanity@104.18.152.244:443?allowInsecure=0&sni=www.ignitelimit.com&type=ws&path=/assignment#%F0%9F%87%AB%F0%9F%87%B7FR_1%7C1.7MB/s
-trojan://humanity@104.18.152.244:443?sni=www.ignitelimit.com&type=ws&path=%2Fassignment&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7FR_1%7C1.7MB%2Fs
-vless://54a54ea0-4409-4030-ad9b-44c45849c05a@152.89.253.239:7443?sni=ya.ru&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#A%20-%20%F0%9F%87%AB%F0%9F%87%B7%20FR%2003%20TG%3A%20%40nodpai
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.85.119.30:8880?type=ws&host=vms.lifetime56.workers.dev#A%20-%20%F0%9F%87%AB%F0%9F%87%B7%20FR%2001%20TG%3A%20%40nodpai
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@66.81.247.40:8880?type=ws&host=vms.lifetime44.workers.dev&path=/?ed=2560&https://t.me/youtube@ZYFXS🇨🇳#A%20-%20%F0%9F%87%AB%F0%9F%87%B7%20FR%2002%20TG%3A%20%40nodpai
+hysteria2://ac7fb60f-0b7a-465d-a002-05160ec04ed6@dora3.api3-max.ru:443?insecure=1&sni=dora3.api3-max.ru#%E6%B3%95%E5%9B%BD%20%231
+hysteria2://ac7fb60f-0b7a-465d-a002-05160ec04ed6@dora3.api3-max.ru:443?insecure=1&sni=dora3.api3-max.ru#8%7C%E6%B3%95%E5%9B%BD
+hysteria2://ac7fb60f-0b7a-465d-a002-05160ec04ed6@dora4.api3-max.ru:443?insecure=1&sni=dora4.api3-max.ru#%E6%B3%95%E5%9B%BD%20%232
+hysteria2://ac7fb60f-0b7a-465d-a002-05160ec04ed6@dora4.api3-max.ru:443?insecure=1&sni=dora4.api3-max.ru#8%7C%E6%B3%95%E5%9B%BD%20%231
+vless://a06119a7-4f1a-4592-86d9-e050a332b2b3@fr1.milkabebar.ir:17780?security=reality&type=tcp&packetEncoding=xudp&sni=amp-api-edge.apps.apple.com&fp=firefox&sid=a0fbc54d937aaccb&pbk=CHNEnURyZzZ1OQwb5SD2Ze8K9eIY2oggyrV5FOIsU28&encryption=none#%F0%9F%87%AB%F0%9F%87%B7FR_3%7C2.8MB%2Fs
+vless://a06119a7-4f1a-4592-86d9-e050a332b2b3@fr1.milkabebar.ir:17780?sni=amp-api-edge.apps.apple.com&fp=firefox&security=tls#%F0%9F%87%AB%F0%9F%87%B7FR_3%7C2.8MB/s
 vless://b320eba7-5380-4bd1-b5e6-32daab16066f@fr-d.duckray.co.uk:3443?encryption=none&type=grpc&mode=gun&security=reality&sni=api.github.com&fp=random&pbk=Ps_w7KP3VFrZv1niWfX3synmJq_d2c7sVSckxa3sgio#%F0%9F%87%AB%F0%9F%87%B7%20France

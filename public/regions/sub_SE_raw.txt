@@ -1,1 +1,3 @@
 hysteria2://3b8c82ed-fe66-472d-915e-034ccb57103f@swe.frkn.org:8443?sni=swe.frkn.org#%E7%91%9E%E5%85%B8
+vless://2dd48980-5c2a-4f3b-bc8f-e20a8ae24ab1@swa.mythos-wargame.fun:443?security=tls&type=grpc&mode=gun&serviceName=edge.sync.v1&packetEncoding=xudp&sni=swa.mythos-wargame.fun&fp=qq&encryption=none#%F0%9F%87%B8%F0%9F%87%AASE_1%7C3.4MB%2Fs
+vless://2dd48980-5c2a-4f3b-bc8f-e20a8ae24ab1@swa.mythos-wargame.fun:443?type=grpc&serviceName=edge.sync.v1&fp=qq&security=tls#%F0%9F%87%B8%F0%9F%87%AASE_1%7C3.4MB/s
