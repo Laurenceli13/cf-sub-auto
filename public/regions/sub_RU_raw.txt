@@ -1,2 +1,1 @@
-hysteria2://617z9r1mbzbm1t5z@giftcard.gisora.ir:52000?insecure=0&sni=giftcard.gisora.ir&obfs=salamander&obfs-password=09p333uviv2qal0y#%F0%9F%87%B7%F0%9F%87%BARU_1%7C1.5MB/s
-hysteria2://617z9r1mbzbm1t5z@giftcard.gisora.ir:52000?obfs=salamander&obfs-password=09p333uviv2qal0y&sni=giftcard.gisora.ir#%F0%9F%87%B7%F0%9F%87%BARU_1%7C1.5MB%2Fs
+vless://11f3e7b1-5507-46da-a268-1f70a543e40a@5.42.109.42:8443?sni=run5.wba-pn.ru&type=ws&host=&path=fp=android&security=tls#%F0%9F%87%B7%F0%9F%87%BARU_1%7C2.4MB/s

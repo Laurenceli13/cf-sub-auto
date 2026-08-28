@@ -1,23 +1,32 @@
 {
-  "updated": "2026-08-27T10:07:24Z",
-  "total": 150,
-  "alive": 150,
-  "alive_rate": 100.0,
-  "avg_latency_ms": 66.66,
+  "updated": "2026-08-28T11:38:24Z",
+  "total": 189,
+  "alive": 187,
+  "alive_rate": 98.9,
+  "avg_latency_ms": 70.42,
   "cf_ips_count": 0,
   "nodes": [
     {
-      "link": "vless://27315937-5479-49fd-867d-6b2f17246708@199.232.78.159:443?path=%2FTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%3Fed%3D2053&security=tls&encryption=none&insecure=0&host=pan1.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#%E7%BE%8E%E5%9B%BD+V2CROSS.COM",
-      "host": "199.232.78.159",
+      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@8.35.211.76:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8913",
+      "host": "8.35.211.76",
       "port": 443,
       "alive": true,
-      "latency_ms": 1.06,
+      "latency_ms": 1.42,
       "country": null,
       "protocol": "vless"
     },
     {
-      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@104.17.213.120:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8948",
-      "host": "104.17.213.120",
+      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@104.18.33.220:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8962",
+      "host": "104.18.33.220",
+      "port": 443,
+      "alive": true,
+      "latency_ms": 1.44,
+      "country": null,
+      "protocol": "vless"
+    },
+    {
+      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@104.17.61.110:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8977",
+      "host": "104.17.61.110",
       "port": 443,
       "alive": true,
       "latency_ms": 1.53,
@@ -25,26 +34,53 @@
       "protocol": "vless"
     },
     {
-      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@104.17.16.236:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8933",
-      "host": "104.17.16.236",
+      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@104.26.2.181:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8987",
+      "host": "104.26.2.181",
       "port": 443,
       "alive": true,
-      "latency_ms": 1.58,
+      "latency_ms": 1.56,
       "country": null,
       "protocol": "vless"
     },
     {
-      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@172.67.71.119:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8957",
-      "host": "172.67.71.119",
+      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@108.162.198.202:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8953",
+      "host": "108.162.198.202",
       "port": 443,
       "alive": true,
-      "latency_ms": 1.59,
+      "latency_ms": 1.56,
       "country": null,
       "protocol": "vless"
     },
     {
-      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@8.39.125.17:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8950",
-      "host": "8.39.125.17",
+      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@104.17.100.100:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8945",
+      "host": "104.17.100.100",
+      "port": 443,
+      "alive": true,
+      "latency_ms": 1.57,
+      "country": null,
+      "protocol": "vless"
+    },
+    {
+      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@104.19.32.44:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8936",
+      "host": "104.19.32.44",
+      "port": 443,
+      "alive": true,
+      "latency_ms": 1.6,
+      "country": null,
+      "protocol": "vless"
+    },
+    {
+      "link": "vless://d8a7b463-dc98-474d-a87e-8781476aef32@172.66.132.196:8880?security=none&type=ws&path=/pyip=ProxyIP.KR.CMLiussss.net&host=ancient-tree-7dc9.336-5f9.workers.dev&packetEncoding=xudp&sni=ancient-tree-7dc9.336-5f9.workers.dev#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9",
+      "host": "172.66.132.196",
+      "port": 8880,
+      "alive": true,
+      "latency_ms": 1.6,
+      "country": null,
+      "protocol": "vless"
+    },
+    {
+      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@104.17.107.37:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8934",
+      "host": "104.17.107.37",
       "port": 443,
       "alive": true,
       "latency_ms": 1.61,
@@ -52,26 +88,26 @@
       "protocol": "vless"
     },
     {
-      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@188.164.248.48:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8952",
-      "host": "188.164.248.48",
+      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@104.16.145.131:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8921",
+      "host": "104.16.145.131",
       "port": 443,
       "alive": true,
-      "latency_ms": 1.62,
+      "latency_ms": 1.63,
       "country": null,
       "protocol": "vless"
     },
     {
-      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@104.19.148.45:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8925",
-      "host": "104.19.148.45",
+      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@104.17.112.203:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8932",
+      "host": "104.17.112.203",
       "port": 443,
       "alive": true,
-      "latency_ms": 1.64,
+      "latency_ms": 1.65,
       "country": null,
       "protocol": "vless"
     },
     {
-      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@104.16.149.164:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8928",
-      "host": "104.16.149.164",
+      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@104.17.155.89:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8971",
+      "host": "104.17.155.89",
       "port": 443,
       "alive": true,
       "latency_ms": 1.66,
@@ -79,8 +115,17 @@
       "protocol": "vless"
     },
     {
-      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@104.16.247.57:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8964",
-      "host": "104.16.247.57",
+      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@104.19.147.207:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8998",
+      "host": "104.19.147.207",
+      "port": 443,
+      "alive": true,
+      "latency_ms": 1.66,
+      "country": null,
+      "protocol": "vless"
+    },
+    {
+      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@108.162.198.50:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8930",
+      "host": "108.162.198.50",
       "port": 443,
       "alive": true,
       "latency_ms": 1.68,
@@ -88,8 +133,8 @@
       "protocol": "vless"
     },
     {
-      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@104.17.149.253:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8996",
-      "host": "104.17.149.253",
+      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@108.162.198.58:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8959",
+      "host": "108.162.198.58",
       "port": 443,
       "alive": true,
       "latency_ms": 1.68,
@@ -97,17 +142,8 @@
       "protocol": "vless"
     },
     {
-      "link": "trojan://humanity@172.67.74.2:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9",
-      "host": "172.67.74.2",
-      "port": 443,
-      "alive": true,
-      "latency_ms": 1.69,
-      "country": null,
-      "protocol": "trojan"
-    },
-    {
-      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@104.17.166.125:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8911",
-      "host": "104.17.166.125",
+      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@104.17.126.46:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8935",
+      "host": "104.17.126.46",
       "port": 443,
       "alive": true,
       "latency_ms": 1.69,
@@ -115,8 +151,8 @@
       "protocol": "vless"
     },
     {
-      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@104.17.165.121:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8924",
-      "host": "104.17.165.121",
+      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@104.16.250.111:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8919",
+      "host": "104.16.250.111",
       "port": 443,
       "alive": true,
       "latency_ms": 1.7,
@@ -124,8 +160,17 @@
       "protocol": "vless"
     },
     {
-      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@104.17.118.172:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8939",
-      "host": "104.17.118.172",
+      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@104.26.14.221:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%899",
+      "host": "104.26.14.221",
+      "port": 443,
+      "alive": true,
+      "latency_ms": 1.72,
+      "country": null,
+      "protocol": "vless"
+    },
+    {
+      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@104.17.21.178:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8948",
+      "host": "104.17.21.178",
       "port": 443,
       "alive": true,
       "latency_ms": 1.73,
@@ -133,8 +178,8 @@
       "protocol": "vless"
     },
     {
-      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@198.41.208.198:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8975",
-      "host": "198.41.208.198",
+      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@172.66.2.22:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8943",
+      "host": "172.66.2.22",
       "port": 443,
       "alive": true,
       "latency_ms": 1.73,
@@ -142,26 +187,26 @@
       "protocol": "vless"
     },
     {
-      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@91.193.59.153:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8940",
-      "host": "91.193.59.153",
+      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@104.17.106.59:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8966",
+      "host": "104.17.106.59",
       "port": 443,
       "alive": true,
-      "latency_ms": 1.73,
+      "latency_ms": 1.75,
       "country": null,
       "protocol": "vless"
     },
     {
-      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@104.17.121.222:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8955",
-      "host": "104.17.121.222",
+      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@104.18.33.89:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8984",
+      "host": "104.18.33.89",
       "port": 443,
       "alive": true,
-      "latency_ms": 1.74,
+      "latency_ms": 1.75,
       "country": null,
       "protocol": "vless"
     },
     {
-      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@104.17.113.92:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8977",
-      "host": "104.17.113.92",
+      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@104.19.50.125:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8961",
+      "host": "104.19.50.125",
       "port": 443,
       "alive": true,
       "latency_ms": 1.77,
@@ -169,35 +214,44 @@
       "protocol": "vless"
     },
     {
-      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@104.17.19.236:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8968",
-      "host": "104.17.19.236",
+      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@104.17.161.93:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8927",
+      "host": "104.17.161.93",
       "port": 443,
       "alive": true,
-      "latency_ms": 1.77,
+      "latency_ms": 1.79,
       "country": null,
       "protocol": "vless"
     },
     {
-      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@104.16.240.32:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8982",
-      "host": "104.16.240.32",
+      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@104.19.144.217:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8928",
+      "host": "104.19.144.217",
       "port": 443,
       "alive": true,
-      "latency_ms": 1.78,
+      "latency_ms": 1.81,
       "country": null,
       "protocol": "vless"
     },
     {
-      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@8.39.125.47:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8910",
-      "host": "8.39.125.47",
+      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@172.66.1.167:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8925",
+      "host": "172.66.1.167",
       "port": 443,
       "alive": true,
-      "latency_ms": 1.78,
+      "latency_ms": 1.81,
       "country": null,
       "protocol": "vless"
     },
     {
-      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@172.67.67.142:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8915",
-      "host": "172.67.67.142",
+      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@172.67.73.4:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8931",
+      "host": "172.67.73.4",
+      "port": 443,
+      "alive": true,
+      "latency_ms": 1.81,
+      "country": null,
+      "protocol": "vless"
+    },
+    {
+      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@104.16.252.159:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8981",
+      "host": "104.16.252.159",
       "port": 443,
       "alive": true,
       "latency_ms": 1.82,
@@ -205,8 +259,26 @@
       "protocol": "vless"
     },
     {
-      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@104.16.245.197:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8979",
-      "host": "104.16.245.197",
+      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@104.17.208.131:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8940",
+      "host": "104.17.208.131",
+      "port": 443,
+      "alive": true,
+      "latency_ms": 1.82,
+      "country": null,
+      "protocol": "vless"
+    },
+    {
+      "link": "vless://a30a3f37-1ab2-46bd-8c6b-a26d7c775f2a@162.159.197.1:443?security=tls&type=ws&path=%2F%3Fed%3D2560&host=grc.ccwu.cc&packetEncoding=xudp&sni=grc.ccwu.cc&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8US_10%7C1.1MB%2Fs",
+      "host": "162.159.197.1",
+      "port": 443,
+      "alive": true,
+      "latency_ms": 1.82,
+      "country": null,
+      "protocol": "vless"
+    },
+    {
+      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@104.16.154.189:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8990",
+      "host": "104.16.154.189",
       "port": 443,
       "alive": true,
       "latency_ms": 1.84,
@@ -214,26 +286,17 @@
       "protocol": "vless"
     },
     {
-      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@104.17.146.216:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8985",
-      "host": "104.17.146.216",
+      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@104.17.167.184:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8922",
+      "host": "104.17.167.184",
       "port": 443,
       "alive": true,
-      "latency_ms": 1.84,
+      "latency_ms": 1.85,
       "country": null,
       "protocol": "vless"
     },
     {
-      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@104.17.103.188:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8923",
-      "host": "104.17.103.188",
-      "port": 443,
-      "alive": true,
-      "latency_ms": 1.86,
-      "country": null,
-      "protocol": "vless"
-    },
-    {
-      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@104.17.188.100:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8971",
-      "host": "104.17.188.100",
+      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@104.17.158.56:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8910",
+      "host": "104.17.158.56",
       "port": 443,
       "alive": true,
       "latency_ms": 1.86,
@@ -241,8 +304,62 @@
       "protocol": "vless"
     },
     {
-      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@104.19.33.90:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8994",
-      "host": "104.19.33.90",
+      "link": "vless://a30a3f37-1ab2-46bd-8c6b-a26d7c775f2a@172.64.229.189:443?security=tls&type=ws&path=%2F%3Fed%3D2560&host=grc.ccwu.cc&packetEncoding=xudp&sni=grc.ccwu.cc&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5JP_3%7C4.4MB%2Fs",
+      "host": "172.64.229.189",
+      "port": 443,
+      "alive": true,
+      "latency_ms": 1.86,
+      "country": null,
+      "protocol": "vless"
+    },
+    {
+      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@104.17.121.93:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8955",
+      "host": "104.17.121.93",
+      "port": 443,
+      "alive": true,
+      "latency_ms": 1.88,
+      "country": null,
+      "protocol": "vless"
+    },
+    {
+      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@104.17.162.101:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8995",
+      "host": "104.17.162.101",
+      "port": 443,
+      "alive": true,
+      "latency_ms": 1.88,
+      "country": null,
+      "protocol": "vless"
+    },
+    {
+      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@104.17.56.60:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8920",
+      "host": "104.17.56.60",
+      "port": 443,
+      "alive": true,
+      "latency_ms": 1.88,
+      "country": null,
+      "protocol": "vless"
+    },
+    {
+      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@104.19.35.134:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8939",
+      "host": "104.19.35.134",
+      "port": 443,
+      "alive": true,
+      "latency_ms": 1.88,
+      "country": null,
+      "protocol": "vless"
+    },
+    {
+      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@172.66.1.143:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8969",
+      "host": "172.66.1.143",
+      "port": 443,
+      "alive": true,
+      "latency_ms": 1.88,
+      "country": null,
+      "protocol": "vless"
+    },
+    {
+      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@104.18.33.55:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8983",
+      "host": "104.18.33.55",
       "port": 443,
       "alive": true,
       "latency_ms": 1.89,
@@ -250,8 +367,17 @@
       "protocol": "vless"
     },
     {
-      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@172.66.1.90:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8993",
-      "host": "172.66.1.90",
+      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@104.26.13.167:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8997",
+      "host": "104.26.13.167",
+      "port": 443,
+      "alive": true,
+      "latency_ms": 1.9,
+      "country": null,
+      "protocol": "vless"
+    },
+    {
+      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@104.18.33.18:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8916",
+      "host": "104.18.33.18",
       "port": 443,
       "alive": true,
       "latency_ms": 1.91,
@@ -259,26 +385,53 @@
       "protocol": "vless"
     },
     {
-      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@104.16.158.122:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8960",
-      "host": "104.16.158.122",
+      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@162.159.39.77:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8960",
+      "host": "162.159.39.77",
       "port": 443,
       "alive": true,
-      "latency_ms": 1.94,
+      "latency_ms": 1.91,
       "country": null,
       "protocol": "vless"
     },
     {
-      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@104.17.168.157:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%896",
-      "host": "104.17.168.157",
+      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@108.162.198.122:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8974",
+      "host": "108.162.198.122",
       "port": 443,
       "alive": true,
-      "latency_ms": 1.94,
+      "latency_ms": 1.92,
       "country": null,
       "protocol": "vless"
     },
     {
-      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@104.16.247.210:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8990",
-      "host": "104.16.247.210",
+      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@104.17.120.114:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8914",
+      "host": "104.17.120.114",
+      "port": 443,
+      "alive": true,
+      "latency_ms": 1.93,
+      "country": null,
+      "protocol": "vless"
+    },
+    {
+      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@104.17.173.166:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8986",
+      "host": "104.17.173.166",
+      "port": 443,
+      "alive": true,
+      "latency_ms": 1.93,
+      "country": null,
+      "protocol": "vless"
+    },
+    {
+      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@104.18.33.174:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8964",
+      "host": "104.18.33.174",
+      "port": 443,
+      "alive": true,
+      "latency_ms": 1.93,
+      "country": null,
+      "protocol": "vless"
+    },
+    {
+      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@104.17.152.226:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%891",
+      "host": "104.17.152.226",
       "port": 443,
       "alive": true,
       "latency_ms": 1.95,
@@ -286,62 +439,17 @@
       "protocol": "vless"
     },
     {
-      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@104.18.33.10:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%892",
-      "host": "104.18.33.10",
-      "port": 443,
-      "alive": true,
-      "latency_ms": 1.95,
-      "country": null,
-      "protocol": "vless"
-    },
-    {
-      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@108.162.198.14:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8981",
-      "host": "108.162.198.14",
-      "port": 443,
-      "alive": true,
-      "latency_ms": 1.95,
-      "country": null,
-      "protocol": "vless"
-    },
-    {
-      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@172.67.79.118:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8938",
-      "host": "172.67.79.118",
-      "port": 443,
-      "alive": true,
-      "latency_ms": 1.95,
-      "country": null,
-      "protocol": "vless"
-    },
-    {
-      "link": "trojan://humanity@104.18.12.149:443?security=tls&sni=www.ignitelimit.com&type=ws&path=%2Fassignment#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9",
-      "host": "104.18.12.149",
+      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@104.19.52.129:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8947",
+      "host": "104.19.52.129",
       "port": 443,
       "alive": true,
       "latency_ms": 1.96,
       "country": null,
-      "protocol": "trojan"
-    },
-    {
-      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@104.16.244.201:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8976",
-      "host": "104.16.244.201",
-      "port": 443,
-      "alive": true,
-      "latency_ms": 1.97,
-      "country": null,
       "protocol": "vless"
     },
     {
-      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@8.35.211.105:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8989",
-      "host": "8.35.211.105",
-      "port": 443,
-      "alive": true,
-      "latency_ms": 1.97,
-      "country": null,
-      "protocol": "vless"
-    },
-    {
-      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@104.17.60.146:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8916",
-      "host": "104.17.60.146",
+      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@104.16.249.134:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%892",
+      "host": "104.16.249.134",
       "port": 443,
       "alive": true,
       "latency_ms": 1.98,
@@ -349,8 +457,17 @@
       "protocol": "vless"
     },
     {
-      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@104.17.223.138:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8931",
-      "host": "104.17.223.138",
+      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@108.162.198.34:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8979",
+      "host": "108.162.198.34",
+      "port": 443,
+      "alive": true,
+      "latency_ms": 1.98,
+      "country": null,
+      "protocol": "vless"
+    },
+    {
+      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@104.16.247.74:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8965",
+      "host": "104.16.247.74",
       "port": 443,
       "alive": true,
       "latency_ms": 1.99,
@@ -358,8 +475,8 @@
       "protocol": "vless"
     },
     {
-      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@104.19.53.222:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8962",
-      "host": "104.19.53.222",
+      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@104.16.255.232:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8999",
+      "host": "104.16.255.232",
       "port": 443,
       "alive": true,
       "latency_ms": 2.0,
@@ -367,8 +484,8 @@
       "protocol": "vless"
     },
     {
-      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@104.17.172.58:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8966",
-      "host": "104.17.172.58",
+      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@104.16.244.84:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8941",
+      "host": "104.16.244.84",
       "port": 443,
       "alive": true,
       "latency_ms": 2.01,
@@ -376,8 +493,8 @@
       "protocol": "vless"
     },
     {
-      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@104.17.182.111:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8974",
-      "host": "104.17.182.111",
+      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@91.193.59.235:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8912",
+      "host": "91.193.59.235",
       "port": 443,
       "alive": true,
       "latency_ms": 2.02,
@@ -385,35 +502,8 @@
       "protocol": "vless"
     },
     {
-      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@104.19.50.62:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8973",
-      "host": "104.19.50.62",
-      "port": 443,
-      "alive": true,
-      "latency_ms": 2.02,
-      "country": null,
-      "protocol": "vless"
-    },
-    {
-      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@188.164.248.218:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8983",
-      "host": "188.164.248.218",
-      "port": 443,
-      "alive": true,
-      "latency_ms": 2.02,
-      "country": null,
-      "protocol": "vless"
-    },
-    {
-      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@104.17.63.34:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8934",
-      "host": "104.17.63.34",
-      "port": 443,
-      "alive": true,
-      "latency_ms": 2.03,
-      "country": null,
-      "protocol": "vless"
-    },
-    {
-      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@104.17.113.11:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%891",
-      "host": "104.17.113.11",
+      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@104.17.181.189:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8918",
+      "host": "104.17.181.189",
       "port": 443,
       "alive": true,
       "latency_ms": 2.05,
@@ -421,44 +511,35 @@
       "protocol": "vless"
     },
     {
-      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@104.18.33.188:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8958",
-      "host": "104.18.33.188",
+      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@104.17.158.24:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8929",
+      "host": "104.17.158.24",
       "port": 443,
       "alive": true,
-      "latency_ms": 2.06,
+      "latency_ms": 2.07,
       "country": null,
       "protocol": "vless"
     },
     {
-      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@172.66.0.88:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8959",
-      "host": "172.66.0.88",
+      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@104.18.33.178:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%895",
+      "host": "104.18.33.178",
       "port": 443,
       "alive": true,
-      "latency_ms": 2.06,
+      "latency_ms": 2.07,
       "country": null,
       "protocol": "vless"
     },
     {
-      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@172.67.68.149:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8970",
-      "host": "172.67.68.149",
+      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@104.18.33.154:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8911",
+      "host": "104.18.33.154",
       "port": 443,
       "alive": true,
-      "latency_ms": 2.06,
+      "latency_ms": 2.09,
       "country": null,
       "protocol": "vless"
     },
     {
-      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@104.16.147.4:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8963",
-      "host": "104.16.147.4",
-      "port": 443,
-      "alive": true,
-      "latency_ms": 2.1,
-      "country": null,
-      "protocol": "vless"
-    },
-    {
-      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@104.17.163.42:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8941",
-      "host": "104.17.163.42",
+      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@162.159.46.15:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8946",
+      "host": "162.159.46.15",
       "port": 443,
       "alive": true,
       "latency_ms": 2.1,
@@ -466,8 +547,8 @@
       "protocol": "vless"
     },
     {
-      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@104.17.186.27:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8956",
-      "host": "104.17.186.27",
+      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@104.17.167.226:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8978",
+      "host": "104.17.167.226",
       "port": 443,
       "alive": true,
       "latency_ms": 2.11,
@@ -475,8 +556,26 @@
       "protocol": "vless"
     },
     {
-      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@162.159.33.133:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8912",
-      "host": "162.159.33.133",
+      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@104.17.187.227:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8957",
+      "host": "104.17.187.227",
+      "port": 443,
+      "alive": true,
+      "latency_ms": 2.11,
+      "country": null,
+      "protocol": "vless"
+    },
+    {
+      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@162.159.38.139:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8926",
+      "host": "162.159.38.139",
+      "port": 443,
+      "alive": true,
+      "latency_ms": 2.11,
+      "country": null,
+      "protocol": "vless"
+    },
+    {
+      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@104.19.32.87:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8949",
+      "host": "104.19.32.87",
       "port": 443,
       "alive": true,
       "latency_ms": 2.12,
@@ -484,17 +583,17 @@
       "protocol": "vless"
     },
     {
-      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@91.193.58.134:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8937",
-      "host": "91.193.58.134",
+      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@172.67.71.99:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%898",
+      "host": "172.67.71.99",
       "port": 443,
       "alive": true,
-      "latency_ms": 2.16,
+      "latency_ms": 2.13,
       "country": null,
       "protocol": "vless"
     },
     {
-      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@104.16.148.196:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8944",
-      "host": "104.16.148.196",
+      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@104.17.149.142:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8994",
+      "host": "104.17.149.142",
       "port": 443,
       "alive": true,
       "latency_ms": 2.18,
@@ -502,8 +601,8 @@
       "protocol": "vless"
     },
     {
-      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@104.19.34.124:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8949",
-      "host": "104.19.34.124",
+      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@104.17.191.139:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8967",
+      "host": "104.17.191.139",
       "port": 443,
       "alive": true,
       "latency_ms": 2.19,
@@ -511,8 +610,17 @@
       "protocol": "vless"
     },
     {
-      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@104.16.156.146:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8943",
-      "host": "104.16.156.146",
+      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@91.193.59.249:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8951",
+      "host": "91.193.59.249",
+      "port": 443,
+      "alive": true,
+      "latency_ms": 2.19,
+      "country": null,
+      "protocol": "vless"
+    },
+    {
+      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@104.17.120.113:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8973",
+      "host": "104.17.120.113",
       "port": 443,
       "alive": true,
       "latency_ms": 2.2,
@@ -520,8 +628,8 @@
       "protocol": "vless"
     },
     {
-      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@8.39.125.117:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8997",
-      "host": "8.39.125.117",
+      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@104.19.151.29:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8937",
+      "host": "104.19.151.29",
       "port": 443,
       "alive": true,
       "latency_ms": 2.2,
@@ -529,17 +637,8 @@
       "protocol": "vless"
     },
     {
-      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@104.17.106.3:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%898",
-      "host": "104.17.106.3",
-      "port": 443,
-      "alive": true,
-      "latency_ms": 2.21,
-      "country": null,
-      "protocol": "vless"
-    },
-    {
-      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@188.164.248.104:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8917",
-      "host": "188.164.248.104",
+      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@91.193.58.121:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8972",
+      "host": "91.193.58.121",
       "port": 443,
       "alive": true,
       "latency_ms": 2.22,
@@ -547,8 +646,8 @@
       "protocol": "vless"
     },
     {
-      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@162.159.34.180:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8980",
-      "host": "162.159.34.180",
+      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@104.19.145.34:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8952",
+      "host": "104.19.145.34",
       "port": 443,
       "alive": true,
       "latency_ms": 2.24,
@@ -556,8 +655,8 @@
       "protocol": "vless"
     },
     {
-      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@104.19.54.136:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8967",
-      "host": "104.19.54.136",
+      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@104.17.109.234:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8958",
+      "host": "104.17.109.234",
       "port": 443,
       "alive": true,
       "latency_ms": 2.25,
@@ -565,44 +664,53 @@
       "protocol": "vless"
     },
     {
-      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@8.39.125.59:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8919",
-      "host": "8.39.125.59",
+      "link": "trojan://humanity@104.16.174.117:443?security=tls&sni=www.ignitelimit.com&fp=chrome&type=ws&path=%2Fassignment#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9",
+      "host": "104.16.174.117",
       "port": 443,
       "alive": true,
-      "latency_ms": 2.3,
+      "latency_ms": 2.26,
+      "country": null,
+      "protocol": "trojan"
+    },
+    {
+      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@91.193.59.109:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8924",
+      "host": "91.193.59.109",
+      "port": 443,
+      "alive": true,
+      "latency_ms": 2.26,
       "country": null,
       "protocol": "vless"
     },
     {
-      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@104.17.126.174:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8932",
-      "host": "104.17.126.174",
+      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@104.16.152.108:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8942",
+      "host": "104.16.152.108",
       "port": 443,
       "alive": true,
-      "latency_ms": 2.32,
+      "latency_ms": 2.27,
       "country": null,
       "protocol": "vless"
     },
     {
-      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@104.19.147.62:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8999",
-      "host": "104.19.147.62",
+      "link": "trojan://humanity@104.26.15.137:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9",
+      "host": "104.26.15.137",
       "port": 443,
       "alive": true,
-      "latency_ms": 2.32,
+      "latency_ms": 2.31,
+      "country": null,
+      "protocol": "trojan"
+    },
+    {
+      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@198.41.208.179:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8915",
+      "host": "198.41.208.179",
+      "port": 443,
+      "alive": true,
+      "latency_ms": 2.33,
       "country": null,
       "protocol": "vless"
     },
     {
-      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@104.26.14.59:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8986",
-      "host": "104.26.14.59",
-      "port": 443,
-      "alive": true,
-      "latency_ms": 2.32,
-      "country": null,
-      "protocol": "vless"
-    },
-    {
-      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@104.17.156.128:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8936",
-      "host": "104.17.156.128",
+      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@172.66.2.174:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8917",
+      "host": "172.66.2.174",
       "port": 443,
       "alive": true,
       "latency_ms": 2.34,
@@ -610,35 +718,35 @@
       "protocol": "vless"
     },
     {
-      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@104.18.33.133:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8920",
-      "host": "104.18.33.133",
+      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@188.164.248.182:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8991",
+      "host": "188.164.248.182",
       "port": 443,
       "alive": true,
-      "latency_ms": 2.35,
+      "latency_ms": 2.38,
       "country": null,
       "protocol": "vless"
     },
     {
-      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@104.16.149.40:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8930",
-      "host": "104.16.149.40",
+      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@104.16.243.236:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8954",
+      "host": "104.16.243.236",
       "port": 443,
       "alive": true,
-      "latency_ms": 2.36,
+      "latency_ms": 2.43,
       "country": null,
       "protocol": "vless"
     },
     {
-      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@91.193.59.198:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8922",
-      "host": "91.193.59.198",
+      "link": "trojan://humanity@141.101.90.101:443?security=tls&sni=www.ignitelimit.com&type=ws&path=%2Fassignment&Host=www.ignitelimit.com#%E6%B3%95%E5%9B%BD%E5%B7%B4%E9%BB%8E+CloudFlare%E8%8A%82%E7%82%B9",
+      "host": "141.101.90.101",
       "port": 443,
       "alive": true,
-      "latency_ms": 2.37,
+      "latency_ms": 2.44,
       "country": null,
-      "protocol": "vless"
+      "protocol": "trojan"
     },
     {
-      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@104.17.101.54:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8929",
-      "host": "104.17.101.54",
+      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@162.159.39.44:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8938",
+      "host": "162.159.39.44",
       "port": 443,
       "alive": true,
       "latency_ms": 2.44,
@@ -646,17 +754,8 @@
       "protocol": "vless"
     },
     {
-      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@104.17.24.27:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8946",
-      "host": "104.17.24.27",
-      "port": 443,
-      "alive": true,
-      "latency_ms": 2.44,
-      "country": null,
-      "protocol": "vless"
-    },
-    {
-      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@108.162.198.23:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%894",
-      "host": "108.162.198.23",
+      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@162.159.38.33:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8968",
+      "host": "162.159.38.33",
       "port": 443,
       "alive": true,
       "latency_ms": 2.45,
@@ -664,62 +763,62 @@
       "protocol": "vless"
     },
     {
-      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@104.17.157.145:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%897",
-      "host": "104.17.157.145",
+      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@162.159.42.145:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8988",
+      "host": "162.159.42.145",
       "port": 443,
       "alive": true,
-      "latency_ms": 2.46,
+      "latency_ms": 2.45,
       "country": null,
       "protocol": "vless"
     },
     {
-      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@104.17.150.21:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8978",
-      "host": "104.17.150.21",
+      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@198.41.209.246:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%893",
+      "host": "198.41.209.246",
       "port": 443,
       "alive": true,
-      "latency_ms": 2.47,
+      "latency_ms": 2.48,
       "country": null,
       "protocol": "vless"
     },
     {
-      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@172.66.3.49:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8927",
-      "host": "172.66.3.49",
+      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@104.16.247.254:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8970",
+      "host": "104.16.247.254",
       "port": 443,
       "alive": true,
-      "latency_ms": 2.51,
+      "latency_ms": 2.49,
       "country": null,
       "protocol": "vless"
     },
     {
-      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@8.35.211.61:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%893",
-      "host": "8.35.211.61",
+      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@104.17.144.168:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8963",
+      "host": "104.17.144.168",
       "port": 443,
       "alive": true,
-      "latency_ms": 2.52,
+      "latency_ms": 2.61,
       "country": null,
       "protocol": "vless"
     },
     {
-      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@104.19.32.198:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8987",
-      "host": "104.19.32.198",
+      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@104.17.58.90:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8923",
+      "host": "104.17.58.90",
       "port": 443,
       "alive": true,
-      "latency_ms": 2.56,
+      "latency_ms": 2.62,
       "country": null,
       "protocol": "vless"
     },
     {
-      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@104.19.150.143:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8988",
-      "host": "104.19.150.143",
+      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@172.67.68.248:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%897",
+      "host": "172.67.68.248",
       "port": 443,
       "alive": true,
-      "latency_ms": 2.58,
+      "latency_ms": 2.64,
       "country": null,
       "protocol": "vless"
     },
     {
-      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@104.26.0.176:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8965",
-      "host": "104.26.0.176",
+      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@188.164.248.9:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8996",
+      "host": "188.164.248.9",
       "port": 443,
       "alive": true,
       "latency_ms": 2.65,
@@ -727,26 +826,26 @@
       "protocol": "vless"
     },
     {
-      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@91.193.58.137:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8972",
-      "host": "91.193.58.137",
+      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@104.17.166.33:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8933",
+      "host": "104.17.166.33",
       "port": 443,
       "alive": true,
-      "latency_ms": 2.69,
+      "latency_ms": 2.67,
       "country": null,
       "protocol": "vless"
     },
     {
-      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@8.35.211.157:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8961",
-      "host": "8.35.211.157",
+      "link": "trojan://humanity@104.21.46.3:443?security=tls&sni=www.ignitelimit.com&type=ws&path=%2Fassignment#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9",
+      "host": "104.21.46.3",
       "port": 443,
       "alive": true,
       "latency_ms": 2.7,
       "country": null,
-      "protocol": "vless"
+      "protocol": "trojan"
     },
     {
-      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@108.162.198.144:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%895",
-      "host": "108.162.198.144",
+      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@198.41.208.253:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8985",
+      "host": "198.41.208.253",
       "port": 443,
       "alive": true,
       "latency_ms": 2.78,
@@ -754,174 +853,255 @@
       "protocol": "vless"
     },
     {
-      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@104.19.144.181:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8914",
-      "host": "104.19.144.181",
+      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@104.17.220.149:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8993",
+      "host": "104.17.220.149",
       "port": 443,
       "alive": true,
-      "latency_ms": 2.81,
+      "latency_ms": 2.83,
       "country": null,
       "protocol": "vless"
     },
     {
-      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@8.35.211.80:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8918",
-      "host": "8.35.211.80",
+      "link": "trojan://humanity@104.18.152.244:443?security=tls&sni=www.ignitelimit.com&type=ws&path=%2Fassignment&Host=www.ignitelimit.com#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9",
+      "host": "104.18.152.244",
       "port": 443,
       "alive": true,
-      "latency_ms": 2.82,
+      "latency_ms": 2.87,
+      "country": null,
+      "protocol": "trojan"
+    },
+    {
+      "link": "trojan://humanity@216.24.57.1:443?security=tls&sni=www.ignitelimit.com&type=ws&path=%2Fassignment&Host=www.ignitelimit.com#%E7%BE%8E%E5%9B%BD+%E5%8A%A0%E5%B7%9E",
+      "host": "216.24.57.1",
+      "port": 443,
+      "alive": true,
+      "latency_ms": 3.0,
+      "country": null,
+      "protocol": "trojan"
+    },
+    {
+      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@8.35.211.4:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8944",
+      "host": "8.35.211.4",
+      "port": 443,
+      "alive": true,
+      "latency_ms": 3.1,
       "country": null,
       "protocol": "vless"
     },
     {
-      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@104.17.217.10:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8921",
-      "host": "104.17.217.10",
+      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@188.164.248.48:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8950",
+      "host": "188.164.248.48",
       "port": 443,
       "alive": true,
-      "latency_ms": 2.84,
+      "latency_ms": 3.15,
       "country": null,
       "protocol": "vless"
     },
     {
-      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@104.19.54.161:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8951",
-      "host": "104.19.54.161",
+      "link": "trojan://humanity@104.18.152.143:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9",
+      "host": "104.18.152.143",
       "port": 443,
       "alive": true,
-      "latency_ms": 2.89,
+      "latency_ms": 3.32,
+      "country": null,
+      "protocol": "trojan"
+    },
+    {
+      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@8.39.125.237:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8975",
+      "host": "8.39.125.237",
+      "port": 443,
+      "alive": true,
+      "latency_ms": 3.59,
       "country": null,
       "protocol": "vless"
     },
     {
-      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@108.162.198.105:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8992",
-      "host": "108.162.198.105",
+      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@172.67.72.229:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8976",
+      "host": "172.67.72.229",
       "port": 443,
       "alive": true,
-      "latency_ms": 2.94,
+      "latency_ms": 3.97,
       "country": null,
       "protocol": "vless"
     },
     {
-      "link": "vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@104.18.46.234:8080?security=none&type=ws&path=/?ed=2560security=tls&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr&packetEncoding=xudp&sni=8nj2r.2k8t.f88.hh.vavava.kdns.fr#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9",
-      "host": "104.18.46.234",
-      "port": 8080,
+      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@8.39.125.32:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%896",
+      "host": "8.39.125.32",
+      "port": 443,
       "alive": true,
-      "latency_ms": 2.96,
+      "latency_ms": 3.98,
       "country": null,
       "protocol": "vless"
     },
     {
-      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@91.193.58.135:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8935",
-      "host": "91.193.58.135",
+      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@172.67.67.55:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8982",
+      "host": "172.67.67.55",
       "port": 443,
       "alive": true,
-      "latency_ms": 2.97,
+      "latency_ms": 4.26,
       "country": null,
       "protocol": "vless"
     },
     {
-      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@104.19.147.28:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8913",
-      "host": "104.19.147.28",
+      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@8.39.125.60:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8992",
+      "host": "8.39.125.60",
       "port": 443,
       "alive": true,
-      "latency_ms": 3.01,
+      "latency_ms": 4.52,
       "country": null,
       "protocol": "vless"
     },
     {
-      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@104.19.33.229:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%899",
-      "host": "104.19.33.229",
+      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@8.35.211.53:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8956",
+      "host": "8.35.211.53",
       "port": 443,
       "alive": true,
-      "latency_ms": 3.02,
+      "latency_ms": 4.59,
       "country": null,
       "protocol": "vless"
     },
     {
-      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@104.17.56.17:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8995",
-      "host": "104.17.56.17",
+      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@198.41.208.247:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8980",
+      "host": "198.41.208.247",
       "port": 443,
       "alive": true,
-      "latency_ms": 3.45,
+      "latency_ms": 5.67,
       "country": null,
       "protocol": "vless"
     },
     {
-      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@8.35.211.91:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8969",
-      "host": "8.35.211.91",
+      "link": "trojan://humanity@130.250.137.171:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#%E5%8A%A0%E6%8B%BF%E5%A4%A7+V2CROSS.COM",
+      "host": "130.250.137.171",
       "port": 443,
       "alive": true,
-      "latency_ms": 3.58,
+      "latency_ms": 5.83,
+      "country": null,
+      "protocol": "trojan"
+    },
+    {
+      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@8.35.211.186:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%894",
+      "host": "8.35.211.186",
+      "port": 443,
+      "alive": true,
+      "latency_ms": 5.84,
       "country": null,
       "protocol": "vless"
     },
     {
-      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@104.17.178.50:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8991",
-      "host": "104.17.178.50",
+      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@8.35.211.46:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8989",
+      "host": "8.35.211.46",
       "port": 443,
       "alive": true,
-      "latency_ms": 3.65,
+      "latency_ms": 5.91,
       "country": null,
       "protocol": "vless"
     },
     {
-      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@104.18.33.149:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8984",
-      "host": "104.18.33.149",
+      "link": "trojan://humanity@104.18.152.97:443?security=tls&sni=www.ignitelimit.com&type=ws&path=%2Fassignment#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9",
+      "host": "104.18.152.97",
       "port": 443,
       "alive": true,
-      "latency_ms": 3.7,
+      "latency_ms": 6.09,
+      "country": null,
+      "protocol": "trojan"
+    },
+    {
+      "link": "trojan://humanity@104.18.152.207:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9",
+      "host": "104.18.152.207",
+      "port": 443,
+      "alive": true,
+      "latency_ms": 6.58,
+      "country": null,
+      "protocol": "trojan"
+    },
+    {
+      "link": "trojan://humanity@104.16.174.148:443?security=tls&sni=www.ignitelimit.com&fp=chrome&type=ws&path=%2Fassignment#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9",
+      "host": "104.16.174.148",
+      "port": 443,
+      "alive": true,
+      "latency_ms": 6.68,
+      "country": null,
+      "protocol": "trojan"
+    },
+    {
+      "link": "trojan://humanity@104.16.174.14:443?security=tls&sni=www.ignitelimit.com&fp=chrome&type=ws&path=%2Fassignment#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9",
+      "host": "104.16.174.14",
+      "port": 443,
+      "alive": true,
+      "latency_ms": 6.95,
+      "country": null,
+      "protocol": "trojan"
+    },
+    {
+      "link": "hysteria2://suAmQS9LlInNq4Wumh-FUF4GGlpgmG_g@159.223.157.129:8443?insecure=1&sni=www.microsoft.com#%F0%9F%93%8D75%40oneclickvpnkeys",
+      "host": "159.223.157.129",
+      "port": 8443,
+      "alive": true,
+      "latency_ms": 7.83,
+      "country": null,
+      "protocol": "hysteria2"
+    },
+    {
+      "link": "vless://0eb057bc-f4b2-425b-80c9-1ed982916480@38.77.133.141:443?security=reality&type=tcp&packetEncoding=none&sni=www.apple.com&fp=safari&flow=xtls-rprx-vision&sid=bcef3e3d8584fa99&pbk=mdw878be71y6U91o8i8ZruIkVILhcKf43yO98TGXZgo#%F0%9F%87%BA%F0%9F%87%B8US_8%7C2.8MB%2Fs",
+      "host": "38.77.133.141",
+      "port": 443,
+      "alive": true,
+      "latency_ms": 8.55,
       "country": null,
       "protocol": "vless"
     },
     {
-      "link": "vless://bdb71be0-0fe6-4df7-970f-f271ad77d8ab@tandfonline.com:443?security=tls&type=xhttp&path=%2Fapi&host=1.lovemehrad.dpdns.org&packetEncoding=xudp&alpn=h3%2Ch2%2Chttp%2F1.1&sni=1.lovemehrad.dpdns.org&fp=chrome&mode=auto&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%2C%22xmux%22%3A%7B%22maxConnections%22%3A%226%22%2C%22cMaxReuseTimes%22%3A%220%22%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%2C%22hKeepAlivePeriod%22%3A0%7D%7D&encryption=none#%F0%9F%87%B9%F0%9F%87%B7TR_1%7C1.6MB%2Fs",
-      "host": "tandfonline.com",
+      "link": "ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@16.54.243.229:443#%F0%9F%87%A8%F0%9F%87%A6CA_1%7C1.7MB%2Fs",
+      "host": "16.54.243.229",
       "port": 443,
       "alive": true,
-      "latency_ms": 5.25,
+      "latency_ms": 23.08,
+      "country": null,
+      "protocol": "ss"
+    },
+    {
+      "link": "vless://a30a3f37-1ab2-46bd-8c6b-a26d7c775f2a@polestar.com:443?security=tls&type=ws&path=%2F%3Fed%3D2560&host=grc.ccwu.cc&packetEncoding=xudp&sni=grc.ccwu.cc&fp=chrome#%F0%9F%87%B8%F0%9F%87%ACSG_4%7C2.3MB%2Fs",
+      "host": "polestar.com",
+      "port": 443,
+      "alive": true,
+      "latency_ms": 43.74,
       "country": null,
       "protocol": "vless"
     },
     {
-      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@162.159.39.216:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8953",
-      "host": "162.159.39.216",
+      "link": "vless://f81362b3-ba06-467e-8d3e-821bdf4ffd8d@panel.homelanderwins.com:443?sni=panel.homelanderwins.com&alpn=h2%2Chttp/1.1%2Ch3&type=ws&host=&path=/fp=qq&security=tls#%F0%9F%87%A9%F0%9F%87%AADE_5%7C2.4MB/s",
+      "host": "panel.homelanderwins.com",
       "port": 443,
       "alive": true,
-      "latency_ms": 8.41,
+      "latency_ms": 44.51,
       "country": null,
       "protocol": "vless"
     },
     {
-      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@162.159.44.106:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8945",
-      "host": "162.159.44.106",
-      "port": 443,
+      "link": "ss://2022-blake3-chacha20-poly1305:IAaq%2FdxoRe2IQqHLE2jF0%2Bo1l54hnnu5%2Fwf3KBwri%2Fk%3D@129.146.127.111:50356#%F0%9F%87%BA%F0%9F%87%B8US_4%7C2.8MB%2Fs",
+      "host": "129.146.127.111",
+      "port": 50356,
       "alive": true,
-      "latency_ms": 9.13,
+      "latency_ms": 53.26,
       "country": null,
-      "protocol": "vless"
+      "protocol": "ss"
     },
     {
-      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@162.159.38.37:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8954",
-      "host": "162.159.38.37",
-      "port": 443,
+      "link": "ss://2022-blake3-chacha20-poly1305:BI4AF0V668f8NeHizVA1o5N4bjpjTOdN2tf0lo%2BU7xA%3D@129.146.200.6:50356#%F0%9F%87%BA%F0%9F%87%B8US_1%7C3.0MB%2Fs",
+      "host": "129.146.200.6",
+      "port": 50356,
       "alive": true,
-      "latency_ms": 9.36,
+      "latency_ms": 55.03,
       "country": null,
-      "protocol": "vless"
+      "protocol": "ss"
     },
     {
-      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@162.159.39.18:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8998",
-      "host": "162.159.39.18",
-      "port": 443,
+      "link": "vless://f06c6039-a489-3d78-a676-ed43be6deca3@155.117.199.13:39211?allowInsecure=0&sni=cdnjs.cloudflare.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#US_speednode_0142",
+      "host": "155.117.199.13",
+      "port": 39211,
       "alive": true,
-      "latency_ms": 9.37,
-      "country": null,
-      "protocol": "vless"
-    },
-    {
-      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@162.159.39.20:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8947",
-      "host": "162.159.39.20",
-      "port": 443,
-      "alive": true,
-      "latency_ms": 9.39,
-      "country": null,
+      "latency_ms": 55.37,
+      "country": "US",
       "protocol": "vless"
     },
     {
@@ -929,34 +1109,7 @@
       "host": "155.117.199.13",
       "port": 29893,
       "alive": true,
-      "latency_ms": 9.49,
-      "country": "US",
-      "protocol": "vless"
-    },
-    {
-      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@162.159.44.253:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8926",
-      "host": "162.159.44.253",
-      "port": 443,
-      "alive": true,
-      "latency_ms": 9.59,
-      "country": null,
-      "protocol": "vless"
-    },
-    {
-      "link": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@162.159.39.208:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tamoai.ccwu.cc&fp=chrome&sni=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%8942",
-      "host": "162.159.39.208",
-      "port": 443,
-      "alive": true,
-      "latency_ms": 9.69,
-      "country": null,
-      "protocol": "vless"
-    },
-    {
-      "link": "vless://f06c6039-a489-3d78-a676-ed43be6deca3@155.117.199.13:39211?allowInsecure=0&sni=cdnjs.cloudflare.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#US_speednode_0142",
-      "host": "155.117.199.13",
-      "port": 39211,
-      "alive": true,
-      "latency_ms": 10.15,
+      "latency_ms": 57.97,
       "country": "US",
       "protocol": "vless"
     },
@@ -965,259 +1118,268 @@
       "host": "155.117.199.13",
       "port": 39399,
       "alive": true,
-      "latency_ms": 10.58,
+      "latency_ms": 58.79,
       "country": "US",
       "protocol": "vless"
     },
     {
-      "link": "vless://c2cc86b4-4481-4807-ac9e-24e2d7041248@172.96.141.206:8443?security=reality&type=raw&packetEncoding=xudp&sni=room.rootvana.top&fp=safari&flow=xtls-rprx-vision&sid=b85875a13da4&pbk=Y0zCjvOLHuHWgv4HUyqb9O0lSMnTrl26XO8qwnWoQXw#%F0%9F%87%BA%F0%9F%87%B8US_13%7C1021KB%2Fs",
-      "host": "172.96.141.206",
-      "port": 8443,
+      "link": "ss://2022-blake3-chacha20-poly1305:wjV2%2BjrmPW6u2A4raFZnCiHhu8SiqhZr9X2pCw2MKkQ%3D@129.146.116.232:50356#%F0%9F%87%BA%F0%9F%87%B8US_5%7C1.1MB%2Fs",
+      "host": "129.146.116.232",
+      "port": 50356,
       "alive": true,
-      "latency_ms": 12.29,
-      "country": null,
-      "protocol": "vless"
-    },
-    {
-      "link": "vless://4d35953d-eeca-4811-bda7-e95292514bab@web-production-8db71.up.railway.app:443?alpn=http/1.1&type=ws&host=&path=/ws/4d35953d-eeca-4811-bda7-e95292514babfp=chrome&security=tls#%F0%9F%87%BA%F0%9F%87%B8US_12%7C1.1MB/s",
-      "host": "web-production-8db71.up.railway.app",
-      "port": 443,
-      "alive": true,
-      "latency_ms": 15.17,
-      "country": null,
-      "protocol": "vless"
-    },
-    {
-      "link": "trojan://humanity@join-telegram-channel.tirexnet.kdns.fr:443?alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9",
-      "host": "join-telegram-channel.tirexnet.kdns.fr",
-      "port": 443,
-      "alive": true,
-      "latency_ms": 44.95,
-      "country": null,
-      "protocol": "trojan"
-    },
-    {
-      "link": "vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@cdn.asshole.eu.cc:2095/?type=ws&encryption=none&flow=&host=cdn.asshole.eu.cc&path=/#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9",
-      "host": "cdn.asshole.eu.cc",
-      "port": 2095,
-      "alive": true,
-      "latency_ms": 87.61,
-      "country": null,
-      "protocol": "vless"
-    },
-    {
-      "link": "trojan://a126f35c-e832-4115-8593-b723ade3f7be@kkvlvvq-a.catcat321.com:20066?allowInsecure=1&sni=hk.catxstar.com#%F0%9F%87%BA%F0%9F%87%A6UA_2%7C1.7MB/s",
-      "host": "kkvlvvq-a.catcat321.com",
-      "port": 20066,
-      "alive": true,
-      "latency_ms": 126.47,
-      "country": null,
-      "protocol": "trojan"
-    },
-    {
-      "link": "trojan://a126f35c-e832-4115-8593-b723ade3f7be@hkdcrtc-e.catcat321.com:20066?allowInsecure=1&sni=hk.catxstar.com#%F0%9F%87%BA%F0%9F%87%A6UA_1%7C2.8MB/s",
-      "host": "hkdcrtc-e.catcat321.com",
-      "port": 20066,
-      "alive": true,
-      "latency_ms": 129.29,
-      "country": null,
-      "protocol": "trojan"
-    },
-    {
-      "link": "vless://9f7dddc4-6c77-4e2c-bfa4-7e5afdfd48f8@151.245.106.49:2053?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=firefox&sid=58186df4a95a1504&pbk=Wg07hKwQjSVmOsEHn7X1iLAXR2wkKRSyv8TZmq9ZsRA#%E4%BC%8A%E6%9C%97+V2CROSS.COM",
-      "host": "151.245.106.49",
-      "port": 2053,
-      "alive": true,
-      "latency_ms": 134.15,
-      "country": null,
-      "protocol": "vless"
-    },
-    {
-      "link": "ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.171.235.36:443#%F0%9F%87%AC%F0%9F%87%A7GB_1%7C4.2MB%2Fs",
-      "host": "18.171.235.36",
-      "port": 443,
-      "alive": true,
-      "latency_ms": 136.62,
+      "latency_ms": 64.42,
       "country": null,
       "protocol": "ss"
     },
     {
-      "link": "vless://9ce4c9e2-1dcc-abe8-9abf-9bf8bc1269f6@193.219.99.66:8443?security=tls&type=ws&path=%2Fpg%2F10086-dfc816f117c491730%7C%20%E5%A4%A7%E5%98%A4%E5%B8%9D%E5%9B%BD%20%7C%20uk%20%7C%20193.219.99.66%3A8443&host=8.o.8.e.t.g.7.w.8.n.e.1.l.e.us.art-us.kdns.fr&packetEncoding=none&allowInsecure=1&sni=8.o.8.e.t.g.7.w.8.n.e.1.l.e.us.art-us.kdns.fr#%F0%9F%87%AC%F0%9F%87%A7GB_2%7C2.2MB%2Fs",
-      "host": "193.219.99.66",
+      "link": "vless://48572af1-d091-457b-a86e-4a457e99927f@38.107.236.166:8443?security=tls&type=ws&path=%2Fvless%2F&host=3h-unitedstates3.09vpn.com&packetEncoding=xudp&allowInsecure=1&sni=3h-unitedstates3.09vpn.com#%F0%9F%87%BA%F0%9F%87%B8US_6%7C1.8MB%2Fs",
+      "host": "38.107.236.166",
       "port": 8443,
       "alive": true,
-      "latency_ms": 138.25,
+      "latency_ms": 65.69,
       "country": null,
       "protocol": "vless"
     },
     {
-      "link": "vless://dabb9a19-03ab-4cdf-8963-d3c45eb0f80d@89.105.195.35:443?security=reality&type=tcp&packetEncoding=xudp&sni=nl3.freeinternat.com&fp=chrome&flow=xtls-rprx-vision&sid=6aa2d2e950441a9a&pbk=pgG2grngQEtOFJImLfz0AEm-O2IodM2jCY4aMCYQI1U&encryption=none#%F0%9F%87%B3%F0%9F%87%B1NL_1%7C2.1MB%2Fs",
-      "host": "89.105.195.35",
-      "port": 443,
+      "link": "vless://690FC783-6CE9-4137-8559-40DBA8EDAD31@us5-r.link-t7.com:10242?security=reality&type=grpc&mode=gun&serviceName=movie&packetEncoding=none&sni=s0.awsstatic.com&fp=chrome&sid=686c0ef0&pbk=wOu-BMrXvk9KX23JZrlpUlF4SMjDcejm0vNECdhy5xE#%F0%9F%87%BA%F0%9F%87%B8US_2%7C1.8MB%2Fs",
+      "host": "us5-r.link-t7.com",
+      "port": 10242,
       "alive": true,
-      "latency_ms": 143.29,
+      "latency_ms": 68.02,
       "country": null,
       "protocol": "vless"
     },
     {
-      "link": "hysteria2://ef18d810-719c-4bf1-83c6-615d01f217eb@jp.cryptoofarm.com:443?insecure=1&sni=jp.cryptoofarm.com#%E6%97%A5%E6%9C%AC%20%231",
-      "host": "jp.cryptoofarm.com",
+      "link": "vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.222.68:62145?security=none&type=tcp&packetEncoding=none#%F0%9F%87%A8%F0%9F%87%B4CO_1%7C1.5MB%2Fs",
+      "host": "157.137.222.68",
+      "port": 62145,
+      "alive": true,
+      "latency_ms": 68.14,
+      "country": null,
+      "protocol": "vless"
+    },
+    {
+      "link": "ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.246.9.69:443#%F0%9F%87%AE%F0%9F%87%AAIE_2%7C1.0MB%2Fs",
+      "host": "54.246.9.69",
       "port": 443,
       "alive": true,
-      "latency_ms": 147.17,
+      "latency_ms": 71.71,
+      "country": null,
+      "protocol": "ss"
+    },
+    {
+      "link": "ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.250.223.202:443#%F0%9F%87%AE%F0%9F%87%AAIE_1%7C4.1MB%2Fs",
+      "host": "3.250.223.202",
+      "port": 443,
+      "alive": true,
+      "latency_ms": 71.74,
+      "country": null,
+      "protocol": "ss"
+    },
+    {
+      "link": "vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@84.235.161.202:62145?security=none&type=tcp&packetEncoding=none#%F0%9F%87%B3%F0%9F%87%B1NL_2%7C1.3MB%2Fs",
+      "host": "84.235.161.202",
+      "port": 62145,
+      "alive": true,
+      "latency_ms": 85.74,
+      "country": null,
+      "protocol": "vless"
+    },
+    {
+      "link": "hysteria2://3b8c82ed-fe66-472d-915e-034ccb57103f@us.frkn.org:443?insecure=1&sni=us.frkn.org#%E7%BE%8E%E5%9B%BD",
+      "host": "us.frkn.org",
+      "port": 443,
+      "alive": true,
+      "latency_ms": 86.31,
       "country": null,
       "protocol": "hysteria2"
     },
     {
-      "link": "vless://dabb9a19-03ab-4cdf-8963-d3c45eb0f80d@85.159.92.161:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=firefox&flow=xtls-rprx-vision&sid=97ac193c0962477c&pbk=QdGXMBWibJZdfDmDk3YcCMxNPd0yd_CkHAOt2yDYJCE#%F0%9F%87%AC%F0%9F%87%A7GB_4%7C2.6MB%2Fs",
-      "host": "85.159.92.161",
-      "port": 443,
+      "link": "ss://2022-blake3-chacha20-poly1305:aJDDrOnNoK7sY%2BNppl9cwE3IsZKyeANsnXUcJETinYU%3D@144.24.228.8:61312#%F0%9F%87%AC%F0%9F%87%A7GB_1%7C1.2MB%2Fs",
+      "host": "144.24.228.8",
+      "port": 61312,
       "alive": true,
-      "latency_ms": 147.95,
+      "latency_ms": 88.1,
+      "country": null,
+      "protocol": "ss"
+    },
+    {
+      "link": "vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@144.21.35.32:62145?security=none&type=tcp&packetEncoding=none#%F0%9F%87%B3%F0%9F%87%B1NL_1%7C1.3MB%2Fs",
+      "host": "144.21.35.32",
+      "port": 62145,
+      "alive": true,
+      "latency_ms": 88.2,
       "country": null,
       "protocol": "vless"
     },
     {
-      "link": "trojan://BxceQaOe@18.163.115.126:9408?allowInsecure=1&sni=t.me%252Fripaojiedian#%E6%97%A5%E6%9C%AC%7C%40ripaojiedian",
-      "host": "18.163.115.126",
-      "port": 9408,
+      "link": "vless://423b1d79-08c4-403f-9d5e-c541f791b55f@87.121.221.200:13443?sni=auto.cendora.ru&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#%F0%9F%87%B3%F0%9F%87%B1NL_5%7C2.1MB/s",
+      "host": "87.121.221.200",
+      "port": 13443,
       "alive": true,
-      "latency_ms": 150.4,
+      "latency_ms": 88.42,
+      "country": null,
+      "protocol": "vless"
+    },
+    {
+      "link": "ss://2022-blake3-chacha20-poly1305:OhJ%2Bo%2BjqsyaohqiWcu%2FvD8tSPwbeclDci6Iw6Nz1aaY%3D@144.24.230.85:61312#%F0%9F%87%AC%F0%9F%87%A7GB_3%7C1.3MB%2Fs",
+      "host": "144.24.230.85",
+      "port": 61312,
+      "alive": true,
+      "latency_ms": 91.4,
+      "country": null,
+      "protocol": "ss"
+    },
+    {
+      "link": "vless://cd922ef2-6d9f-4f9d-acd5-9921da8be3b8@45.76.39.145:29672?security=none&type=tcp&headerType=http&path=%2F&host=zula.ir&method=GET&packetEncoding=none#%F0%9F%87%B3%F0%9F%87%B1NL_4%7C3.5MB%2Fs",
+      "host": "45.76.39.145",
+      "port": 29672,
+      "alive": true,
+      "latency_ms": 91.65,
+      "country": null,
+      "protocol": "vless"
+    },
+    {
+      "link": "ss://2022-blake3-chacha20-poly1305:MLVcvtR%2FUBSlUEC3IwyukwjvKvvRvw9x6Op6LVBX0GA%3D@129.151.82.158:61312#%F0%9F%87%AC%F0%9F%87%A7GB_2%7C1.0MB%2Fs",
+      "host": "129.151.82.158",
+      "port": 61312,
+      "alive": true,
+      "latency_ms": 91.75,
+      "country": null,
+      "protocol": "ss"
+    },
+    {
+      "link": "ss://2022-blake3-chacha20-poly1305:nBUnNjOjb%2F9X9%2BVprc%2FAkrCNcCbkHhNLQehcSFfrS9M%3D@130.61.84.183:59924#%F0%9F%87%A9%F0%9F%87%AADE_1%7C3.6MB%2Fs",
+      "host": "130.61.84.183",
+      "port": 59924,
+      "alive": true,
+      "latency_ms": 92.67,
+      "country": null,
+      "protocol": "ss"
+    },
+    {
+      "link": "ss://2022-blake3-chacha20-poly1305:IrAOLcmiZJ3pvgUluPeP0O59kPd6FLCTr1thF8LfKXU%3D@129.151.85.23:61312#%F0%9F%87%AC%F0%9F%87%A7GB_4%7C1.6MB%2Fs",
+      "host": "129.151.85.23",
+      "port": 61312,
+      "alive": true,
+      "latency_ms": 93.55,
+      "country": null,
+      "protocol": "ss"
+    },
+    {
+      "link": "hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?insecure=0&sni=hy2.aspidnet.xyz&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3#%40meliproxyy%20%232",
+      "host": "130.49.161.70",
+      "port": 443,
+      "alive": true,
+      "latency_ms": 94.27,
+      "country": null,
+      "protocol": "hysteria2"
+    },
+    {
+      "link": "vless://b88f4768-c394-4b66-995e-ebb786e89e1b@194.110.207.70:443?allowInsecure=1&sni=frantax.my3cx.de&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#%F0%9F%87%B3%F0%9F%87%B4NO_1%7C1.7MB/s",
+      "host": "194.110.207.70",
+      "port": 443,
+      "alive": true,
+      "latency_ms": 94.68,
+      "country": null,
+      "protocol": "vless"
+    },
+    {
+      "link": "ss://2022-blake3-chacha20-poly1305:0x6PTrJCGMD7Pz0EQnpRsIKEJ3Cy55hPKAAgJiA58ic%3D@158.180.50.45:59924#%F0%9F%87%A9%F0%9F%87%AADE_2%7C2.3MB%2Fs",
+      "host": "158.180.50.45",
+      "port": 59924,
+      "alive": true,
+      "latency_ms": 96.57,
+      "country": null,
+      "protocol": "ss"
+    },
+    {
+      "link": "vless://a30a3f37-1ab2-46bd-8c6b-a26d7c775f2a@skk.moe:443?security=tls&type=ws&path=%2F%3Fed%3D2560&host=grc.ccwu.cc&packetEncoding=xudp&sni=grc.ccwu.cc&fp=chrome#%F0%9F%87%A9%F0%9F%87%AADE_4%7C1.5MB%2Fs",
+      "host": "skk.moe",
+      "port": 443,
+      "alive": true,
+      "latency_ms": 97.14,
+      "country": null,
+      "protocol": "vless"
+    },
+    {
+      "link": "hysteria2://cd74c0a406664a5bc0bac098220a2468@nl1.sferavpn.pro:443?insecure=1&sni=nl1.sferavpn.pro&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0#%E7%BE%8E%E5%9B%BD%20%232",
+      "host": "nl1.sferavpn.pro",
+      "port": 443,
+      "alive": true,
+      "latency_ms": 101.64,
+      "country": null,
+      "protocol": "hysteria2"
+    },
+    {
+      "link": "vless://423b1d79-08c4-403f-9d5e-c541f791b55f@31.59.125.49:443?allowInsecure=1&sni=eu-central.cendora.ru&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#%F0%9F%87%AE%F0%9F%87%B7IR_1%7C3.7MB/s",
+      "host": "31.59.125.49",
+      "port": 443,
+      "alive": true,
+      "latency_ms": 101.97,
+      "country": null,
+      "protocol": "vless"
+    },
+    {
+      "link": "hysteria2://865e271f7c97b549b024255c9d02cebe9cc0c2c070a82b1e11bb11b9cd88dd01@217.60.33.215:443?insecure=1&sni=streambox.wwwinternetvideo.click#%F0%9F%87%A6%F0%9F%87%AAAE_2%7C3.1MB%2Fs",
+      "host": "217.60.33.215",
+      "port": 443,
+      "alive": true,
+      "latency_ms": 105.04,
+      "country": null,
+      "protocol": "hysteria2"
+    },
+    {
+      "link": "vless://50767b5d-7e5d-4aee-af39-5a07d36ccc36@pl20.mechvpn.online:443?flow=xtls-rprx-vision-udp443&fp=qq&security=tls#%F0%9F%87%A6%F0%9F%87%AAAE_2%7C3.6MB/s",
+      "host": "pl20.mechvpn.online",
+      "port": 443,
+      "alive": true,
+      "latency_ms": 105.68,
+      "country": null,
+      "protocol": "vless"
+    },
+    {
+      "link": "vless://88f9c3c2-b3dc-44aa-9490-8e9bc8133535@141.133.172.211:443?security=reality&type=tcp&packetEncoding=xudp&sni=w-mebel.pro&fp=firefox&flow=xtls-rprx-vision&sid=c603efb3ddaf633d&pbk=R7NfFaabgh-0a2KR0Bfmn3a-O6mDT550OgXUDygDKBs&encryption=none#%F0%9F%87%B8%F0%9F%87%A8SC_1%7C2.3MB%2Fs",
+      "host": "141.133.172.211",
+      "port": 443,
+      "alive": true,
+      "latency_ms": 108.32,
+      "country": null,
+      "protocol": "vless"
+    },
+    {
+      "link": "hysteria2://50767b5d-7e5d-4aee-af39-5a07d36ccc36@uk59.mechvpn.online:443?insecure=1&alpn=h3&sni=uk59.mechvpn.online#%F0%9F%87%BA%F0%9F%87%B8US_17%7C4.6MB/s",
+      "host": "uk59.mechvpn.online",
+      "port": 443,
+      "alive": true,
+      "latency_ms": 112.74,
+      "country": null,
+      "protocol": "hysteria2"
+    },
+    {
+      "link": "vless://ae8e0f7d-b661-41ca-b55d-d8c383adb2f8@131.123.42.150:443?sni=bul2.helper-internet.com&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#%F0%9F%87%BA%F0%9F%87%B8US_25%7C3.4MB/s",
+      "host": "131.123.42.150",
+      "port": 443,
+      "alive": true,
+      "latency_ms": 116.65,
+      "country": null,
+      "protocol": "vless"
+    },
+    {
+      "link": "trojan://humanity@join-telegram-channel-tirexnet.trex.kdns.fr:443?allowInsecure=0&sni=www.ignitelimit.com&type=ws&path=/assignment#%F0%9F%87%AB%F0%9F%87%B7FR_1%7C1.7MB/s",
+      "host": "join-telegram-channel-tirexnet.trex.kdns.fr",
+      "port": 443,
+      "alive": true,
+      "latency_ms": 121.43,
       "country": null,
       "protocol": "trojan"
     },
     {
-      "link": "vless://9ce4c9e2-1dcc-abe8-9abf-9bf8bc1269f6@213.183.51.211:443?security=tls&type=ws&path=%2Fpg%2F10086-dfc816f117c49173&host=j.n.i.l.6.m.7.3.o.t.e.s.j.3.us.art-us.kdns.fr&packetEncoding=xudp&sni=j.n.i.l.6.m.7.3.o.t.e.s.j.3.us.art-us.kdns.fr&fp=chrome&encryption=none#%F0%9F%87%B3%F0%9F%87%B1NL_2%7C1.3MB%2Fs",
-      "host": "213.183.51.211",
-      "port": 443,
+      "link": "vless://11f3e7b1-5507-46da-a268-1f70a543e40a@5.42.109.42:8443?sni=run5.wba-pn.ru&type=ws&host=&path=fp=android&security=tls#%F0%9F%87%B7%F0%9F%87%BARU_1%7C2.4MB/s",
+      "host": "5.42.109.42",
+      "port": 8443,
       "alive": true,
-      "latency_ms": 150.78,
-      "country": null,
-      "protocol": "vless"
-    },
-    {
-      "link": "hysteria2://2691cbe7c20cced8b0aeb12c812d09077e5b3eec7669fb8f@144.31.148.87:443?insecure=1&sni=replay.wwwinternetvideo.click#%F0%9F%8D%9149%40oneclickvpnkeys",
-      "host": "144.31.148.87",
-      "port": 443,
-      "alive": true,
-      "latency_ms": 153.13,
-      "country": null,
-      "protocol": "hysteria2"
-    },
-    {
-      "link": "hysteria2://f4927789e58bcd24b6f6@h.zz2233.cyou:10444?sni=h.zz2233.cyou#%F0%9F%87%AD%F0%9F%87%B0%20HK",
-      "host": "h.zz2233.cyou",
-      "port": 10444,
-      "alive": true,
-      "latency_ms": 155.35,
-      "country": null,
-      "protocol": "hysteria2"
-    },
-    {
-      "link": "hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@45.192.12.93:443?sni=admin.wwwinternetvideo.click#%F0%9F%8D%9154%40oneclickvpnkeys",
-      "host": "45.192.12.93",
-      "port": 443,
-      "alive": true,
-      "latency_ms": 160.28,
-      "country": null,
-      "protocol": "hysteria2"
-    },
-    {
-      "link": "hysteria2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@fr194.mechvpn.online:443?sni=fr194.mechvpn.online#%E6%B3%95%E5%9B%BD",
-      "host": "fr194.mechvpn.online",
-      "port": 443,
-      "alive": true,
-      "latency_ms": 164.05,
-      "country": null,
-      "protocol": "hysteria2"
-    },
-    {
-      "link": "hysteria2://cd74c0a406664a5bc0bac098220a2468@nl1.sferavpn.pro:443?insecure=1&sni=nl1.sferavpn.pro&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0#%E7%BE%8E%E5%9B%BD%20%231",
-      "host": "nl1.sferavpn.pro",
-      "port": 443,
-      "alive": true,
-      "latency_ms": 167.97,
-      "country": null,
-      "protocol": "hysteria2"
-    },
-    {
-      "link": "hysteria2://b492c1192f7aa3433c9818baf5ebb4ff@134.185.87.191:443?insecure=1&security=tls&sni=sb.jmx666.eu.cc#%E7%BE%8E%E5%9B%BD+Eastman",
-      "host": "134.185.87.191",
-      "port": 443,
-      "alive": true,
-      "latency_ms": 168.16,
-      "country": null,
-      "protocol": "hysteria2"
-    },
-    {
-      "link": "vless://9ce4c9e2-1dcc-abe8-9abf-9bf8bc1269f6@95.85.243.240:443?allowInsecure=1&sni=8.o.8.e.t.g.7.w.8.n.e.1.l.e.us.art-us.kdns.fr&type=ws&host=8.o.8.e.t.g.7.w.8.n.e.1.l.e.us.art-us.kdns.fr&path=/pg/10086-dfc816f117c49173security=tls#%F0%9F%87%B8%F0%9F%87%AASE_2%7C1.1MB/s",
-      "host": "95.85.243.240",
-      "port": 443,
-      "alive": true,
-      "latency_ms": 173.68,
-      "country": null,
-      "protocol": "vless"
-    },
-    {
-      "link": "hysteria2://865e271f7c97b549b024255c9d02cebe9cc0c2c070a82b1e11bb11b9cd88dd01@streambox.wwwinternetvideo.click:443?insecure=1&sni=streambox.wwwinternetvideo.click#%E6%B3%A2%E5%85%B0%20%231",
-      "host": "streambox.wwwinternetvideo.click",
-      "port": 443,
-      "alive": true,
-      "latency_ms": 179.08,
-      "country": null,
-      "protocol": "hysteria2"
-    },
-    {
-      "link": "vless://c6cff605-90cf-4953-bf97-0a44e43f229d@nl4.murhost.network:443?security=reality&type=tcp&packetEncoding=xudp&sni=nl4.murhost.network&fp=firefox&flow=xtls-rprx-vision&sid=f41bc0b00ca1a978&pbk=XOcyZvF63CHDPnh3UCL-u-X8HYeNGiRtrwDVRLBC1DI#%F0%9F%87%BA%F0%9F%87%B8US_14%7C1.5MB%2Fs",
-      "host": "nl4.murhost.network",
-      "port": 443,
-      "alive": true,
-      "latency_ms": 181.97,
-      "country": null,
-      "protocol": "vless"
-    },
-    {
-      "link": "hysteria2://cd74c0a406664a5bc0bac098220a2468@de1.sferavpn.pro:443?insecure=1&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&sni=de1.sferavpn.pro#%F0%9F%87%A9%F0%9F%87%AADE_1%7C2.1MB%2Fs",
-      "host": "de1.sferavpn.pro",
-      "port": 443,
-      "alive": true,
-      "latency_ms": 182.38,
-      "country": null,
-      "protocol": "hysteria2"
-    },
-    {
-      "link": "hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?insecure=0&sni=hy2.aspidnet.xyz&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3#%40Daily_Configs%20%3A%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84",
-      "host": "130.49.161.70",
-      "port": 443,
-      "alive": true,
-      "latency_ms": 188.84,
-      "country": null,
-      "protocol": "hysteria2"
-    },
-    {
-      "link": "hysteria2://2vwMMy8t5Sjl5lfK9dNF1OrU9d0K25V2RNWLbTKwJ6o@pixelcast.wwwinternetvideo.click:443?insecure=1&sni=pixelcast.wwwinternetvideo.click#%E5%BE%B7%E5%9B%BD",
-      "host": "pixelcast.wwwinternetvideo.click",
-      "port": 443,
-      "alive": true,
-      "latency_ms": 196.71,
-      "country": null,
-      "protocol": "hysteria2"
-    },
-    {
-      "link": "hysteria2://t8t2qojzsykqazfu@assets.gateway-stream.com:52009?insecure=0&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=kf1lypzqidy6pimt#%40v2ray313%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86%20%E2%9D%A4%EF%B8%8F",
-      "host": "assets.gateway-stream.com",
-      "port": 52009,
-      "alive": true,
-      "latency_ms": 198.53,
-      "country": null,
-      "protocol": "hysteria2"
-    },
-    {
-      "link": "vless://de27291c-15a9-4256-9ba7-ad517569877e@18.239.134.69:80?security=none&type=ws&path=/&host=d2e1v87ko56lyw.cloudfront.net:assets.opensignal.com&packetEncoding=xudp&encryption=none#%E7%BE%8E%E5%9B%BD+%E9%BA%BB%E7%9C%81%E7%90%86%E5%B7%A5%E5%AD%A6%E9%99%A2",
-      "host": "18.239.134.69",
-      "port": 80,
-      "alive": true,
-      "latency_ms": 200.21,
+      "latency_ms": 129.88,
       "country": null,
       "protocol": "vless"
     },
@@ -1226,115 +1388,25 @@
       "host": "194.135.34.130",
       "port": 443,
       "alive": true,
-      "latency_ms": 202.44,
+      "latency_ms": 138.95,
       "country": null,
       "protocol": "hysteria2"
     },
     {
-      "link": "hysteria2://t8t2qojzsykqazfu@assets.gateway-stream.com:52026?insecure=0&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=d6pv15sghiq1onts#%40Azaranv2ray",
-      "host": "assets.gateway-stream.com",
-      "port": 52026,
-      "alive": true,
-      "latency_ms": 205.57,
-      "country": null,
-      "protocol": "hysteria2"
-    },
-    {
-      "link": "hysteria2://t8t2qojzsykqazfu@assets.gateway-stream.com:52008?alpn=h3&fp=chrome&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=93lc6r07zfx4crct#dc-udp-%F0%9F%87%A7%F0%9F%87%AA%20Belgium-Brussels",
-      "host": "assets.gateway-stream.com",
-      "port": 52008,
-      "alive": true,
-      "latency_ms": 207.97,
-      "country": null,
-      "protocol": "hysteria2"
-    },
-    {
-      "link": "vless://D8ED7FFD-7AA8-4EEB-9020-18A1A38AE6CC@sg3-r.link-t7.com:10038?security=reality&type=grpc&mode=gun&serviceName=update&packetEncoding=xudp&sni=d1.awsstatic.com&fp=chrome&sid=686c0ef0&pbk=wOu-BMrXvk9KX23JZrlpUlF4SMjDcejm0vNECdhy5xE&encryption=none#%F0%9F%87%B8%F0%9F%87%ACSG_1%7C4.9MB%2Fs",
-      "host": "sg3-r.link-t7.com",
-      "port": 10038,
-      "alive": true,
-      "latency_ms": 214.71,
-      "country": null,
-      "protocol": "vless"
-    },
-    {
-      "link": "trojan://humanity@2.144.21.112:40443?fp=chrome&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#%E4%BC%8A%E6%9C%97+V2CROSS.COM",
-      "host": "2.144.21.112",
-      "port": 40443,
-      "alive": true,
-      "latency_ms": 227.42,
-      "country": null,
-      "protocol": "trojan"
-    },
-    {
-      "link": "vless://49c37551-2843-4cd0-87ff-b75f5938a6d9@5.57.32.153:80?encryption=none&security=none&type=tcp&headerType=none#%E4%BC%8A%E6%9C%97+V2CROSS.COM",
-      "host": "5.57.32.153",
-      "port": 80,
-      "alive": true,
-      "latency_ms": 227.93,
-      "country": null,
-      "protocol": "vless"
-    },
-    {
-      "link": "vless://995e6b4d-1d71-4542-95c7-dda552b6cd1c@gateway.mediacorphub.org:443?security=tls&type=grpc&mode=gun&serviceName=home.v1.ObjectService&packetEncoding=xudp&sni=gateway.mediacorphub.org&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1NL_5%7C1.2MB%2Fs",
-      "host": "gateway.mediacorphub.org",
+      "link": "hysteria2://cd74c0a406664a5bc0bac098220a2468@ru1.sferavpn.pro:443?sni=ru1.sferavpn.pro&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0#%F0%9F%93%8D45%40oneclickvpnkeys",
+      "host": "ru1.sferavpn.pro",
       "port": 443,
       "alive": true,
-      "latency_ms": 228.67,
-      "country": null,
-      "protocol": "vless"
-    },
-    {
-      "link": "hysteria2://3b8c82ed-fe66-472d-915e-034ccb57103f@us.frkn.org:443?insecure=1&security=tls&sni=us.frkn.org#%E8%8B%B1%E5%9B%BD+%E4%BC%A6%E6%95%A6Virgin+Media",
-      "host": "us.frkn.org",
-      "port": 443,
-      "alive": true,
-      "latency_ms": 260.81,
+      "latency_ms": 141.48,
       "country": null,
       "protocol": "hysteria2"
     },
     {
-      "link": "hysteria2://GSPOBvG-ZwYcBFMr0ekFGO_Zga3wK6v_@hy2-switzerlandgopota.unlimited-access.ru:443?sni=hy2-switzerlandgopota.unlimited-access.ru#%F0%9F%A5%8E80%40oneclickvpnkeys",
-      "host": "hy2-switzerlandgopota.unlimited-access.ru",
+      "link": "vless://50767b5d-7e5d-4aee-af39-5a07d36ccc36@pl18.mechvpn.online:443?flow=xtls-rprx-vision-udp443&fp=qq&security=tls#%F0%9F%87%A6%F0%9F%87%AAAE_1%7C1.6MB/s",
+      "host": "pl18.mechvpn.online",
       "port": 443,
       "alive": true,
-      "latency_ms": 264.99,
-      "country": null,
-      "protocol": "hysteria2"
-    },
-    {
-      "link": "vless://76680848-41e6-4700-0962-85930e685ebe@s4.zynetraq.ir:2087?security=tls&type=xhttp&path=%2FBetForward&host=s4.zynetraq.ir&packetEncoding=xudp&alpn=h2%2Chttp%2F1.1%2Ch3&pcs=1aeacc25d232c936f0199a487fc17da95ba59fb6c06656846214cec835d3ac23&sni=s4.zynetraq.ir&fp=chrome&mode=auto&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&encryption=none#%F0%9F%87%A9%F0%9F%87%AADE_3%7C1.2MB%2Fs",
-      "host": "s4.zynetraq.ir",
-      "port": 2087,
-      "alive": true,
-      "latency_ms": 420.98,
-      "country": null,
-      "protocol": "vless"
-    },
-    {
-      "link": "hysteria2://umnDU7jgFYUjpVjVM2sW9HL0rRYLJNgzVwRu2HzWEhyZKkRx@de.1.22.washing.help:443?insecure=1&sni=germany1.h2corp.local#%F0%9F%A5%8E66%40oneclickvpnkeys",
-      "host": "de.1.22.washing.help",
-      "port": 443,
-      "alive": true,
-      "latency_ms": 560.04,
-      "country": null,
-      "protocol": "hysteria2"
-    },
-    {
-      "link": "hysteria2://umnDU7jgFYUjpVjVM2sW9HL0rRYLJNgzVwRu2HzWEhyZKkRx@5.83.129.11:443?insecure=1&sni=germany1.h2corp.local#%F0%9F%A5%8E62%40oneclickvpnkeys",
-      "host": "5.83.129.11",
-      "port": 443,
-      "alive": true,
-      "latency_ms": 571.25,
-      "country": null,
-      "protocol": "hysteria2"
-    },
-    {
-      "link": "vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.101.192.180:62145?&type=tcp&headerType=none&path=%2F#%E7%BE%8E%E5%9B%BD+V2CROSS.COM",
-      "host": "158.101.192.180",
-      "port": 62145,
-      "alive": true,
-      "latency_ms": 662.41,
+      "latency_ms": 142.78,
       "country": null,
       "protocol": "vless"
     },
@@ -1343,18 +1415,297 @@
       "host": "hysteria.udpgw.com",
       "port": 8443,
       "alive": true,
-      "latency_ms": 681.52,
+      "latency_ms": 142.88,
       "country": null,
       "protocol": "hysteria2"
+    },
+    {
+      "link": "hysteria2://cd74c0a406664a5bc0bac098220a2468@de1.sferavpn.pro:443?insecure=1&sni=de1.sferavpn.pro&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0#%F0%9F%93%8D56%40oneclickvpnkeys",
+      "host": "de1.sferavpn.pro",
+      "port": 443,
+      "alive": true,
+      "latency_ms": 149.7,
+      "country": null,
+      "protocol": "hysteria2"
+    },
+    {
+      "link": "vless://8e8e4592-6088-4d00-b061-ef5456d0eb9c@hys41.wba-pn.ru:443?type=ws&host=&path=fp=qq&security=tls#%F0%9F%87%B3%F0%9F%87%B1NL_6%7C3.0MB/s",
+      "host": "hys41.wba-pn.ru",
+      "port": 443,
+      "alive": true,
+      "latency_ms": 160.29,
+      "country": null,
+      "protocol": "vless"
+    },
+    {
+      "link": "hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@hy2.aspidnet.xyz:443?insecure=1&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3#%F0%9F%93%8D59%40oneclickvpnkeys",
+      "host": "hy2.aspidnet.xyz",
+      "port": 443,
+      "alive": true,
+      "latency_ms": 165.16,
+      "country": null,
+      "protocol": "hysteria2"
+    },
+    {
+      "link": "hysteria2://t8t2qojzsykqazfu@assets.gateway-stream.com:52026?insecure=0&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=d6pv15sghiq1onts#%40Azaranv2ray",
+      "host": "assets.gateway-stream.com",
+      "port": 52026,
+      "alive": true,
+      "latency_ms": 172.79,
+      "country": null,
+      "protocol": "hysteria2"
+    },
+    {
+      "link": "hysteria2://BPvdjudCGodsF67hRP3xgBYvcKp48coTsh6ANydLhQs%3D@fin14qr.wwwinternetvideo.click:443?sni=fin14qr.wwwinternetvideo.click#%F0%9F%87%A6%F0%9F%87%AAAE_3%7C3.1MB%2Fs",
+      "host": "fin14qr.wwwinternetvideo.click",
+      "port": 443,
+      "alive": true,
+      "latency_ms": 174.55,
+      "country": null,
+      "protocol": "hysteria2"
+    },
+    {
+      "link": "hysteria2://2vwMMy8t5Sjl5lfK9dNF1OrU9d0K25V2RNWLbTKwJ6o@pixelcast.wwwinternetvideo.click:443?insecure=1&sni=pixelcast.wwwinternetvideo.click#%E5%BE%B7%E5%9B%BD",
+      "host": "pixelcast.wwwinternetvideo.click",
+      "port": 443,
+      "alive": true,
+      "latency_ms": 194.55,
+      "country": null,
+      "protocol": "hysteria2"
+    },
+    {
+      "link": "vless://690FC783-6CE9-4137-8559-40DBA8EDAD31@kr2-r.link-t7.com:10047?security=reality&type=grpc&mode=gun&serviceName=update&packetEncoding=none&sni=s0.awsstatic.com&fp=chrome&sid=686c0ef0&pbk=wOu-BMrXvk9KX23JZrlpUlF4SMjDcejm0vNECdhy5xE#%F0%9F%87%B0%F0%9F%87%B7KR_2%7C5.5MB%2Fs",
+      "host": "kr2-r.link-t7.com",
+      "port": 10047,
+      "alive": true,
+      "latency_ms": 194.82,
+      "country": null,
+      "protocol": "vless"
+    },
+    {
+      "link": "hysteria2://865e271f7c97b549b024255c9d02cebe9cc0c2c070a82b1e11bb11b9cd88dd01@streambox.wwwinternetvideo.click:443?insecure=1&sni=streambox.wwwinternetvideo.click#%E6%B3%A2%E5%85%B0%20%231",
+      "host": "streambox.wwwinternetvideo.click",
+      "port": 443,
+      "alive": true,
+      "latency_ms": 197.48,
+      "country": null,
+      "protocol": "hysteria2"
+    },
+    {
+      "link": "vless://3407a014-429c-497c-a859-3e597d1a8520@jp24.443ds443.com:3004?security=reality&type=tcp&packetEncoding=none&sni=www.bing.com&fp=qq&flow=xtls-rprx-vision&sid=249370f34b72&pbk=Bx2gZKaI2U6a_Ks00IhZKPdrqIc0hCf58lgcw_RN8gc#%F0%9F%87%B8%F0%9F%87%ACSG_3%7C4.3MB%2Fs",
+      "host": "jp24.443ds443.com",
+      "port": 3004,
+      "alive": true,
+      "latency_ms": 201.56,
+      "country": null,
+      "protocol": "vless"
+    },
+    {
+      "link": "hysteria2://ef18d810-719c-4bf1-83c6-615d01f217eb@jp.cryptoofarm.com:443?insecure=1&sni=jp.cryptoofarm.com#%E6%97%A5%E6%9C%AC%20%232",
+      "host": "jp.cryptoofarm.com",
+      "port": 443,
+      "alive": true,
+      "latency_ms": 207.0,
+      "country": null,
+      "protocol": "hysteria2"
+    },
+    {
+      "link": "vless://690FC783-6CE9-4137-8559-40DBA8EDAD31@jp3-r.link-t7.com:10033?security=reality&type=grpc&mode=gun&serviceName=update&packetEncoding=none&sni=s0.awsstatic.com&fp=chrome&sid=686c0ef0&pbk=wOu-BMrXvk9KX23JZrlpUlF4SMjDcejm0vNECdhy5xE#%F0%9F%87%AF%F0%9F%87%B5JP_1%7C4.3MB%2Fs",
+      "host": "jp3-r.link-t7.com",
+      "port": 10033,
+      "alive": true,
+      "latency_ms": 208.33,
+      "country": null,
+      "protocol": "vless"
+    },
+    {
+      "link": "vless://690FC783-6CE9-4137-8559-40DBA8EDAD31@kr3-r.link-t7.com:10048?security=reality&type=grpc&mode=gun&serviceName=update&packetEncoding=none&sni=s0.awsstatic.com&fp=chrome&sid=686c0ef0&pbk=wOu-BMrXvk9KX23JZrlpUlF4SMjDcejm0vNECdhy5xE#%F0%9F%87%B0%F0%9F%87%B7KR_3%7C4.8MB%2Fs",
+      "host": "kr3-r.link-t7.com",
+      "port": 10048,
+      "alive": true,
+      "latency_ms": 212.54,
+      "country": null,
+      "protocol": "vless"
+    },
+    {
+      "link": "vless://399c4c9b-27e1-37f1-9dce-22ccc2727a86@82.38.46.66:15003?sni=www.cloudflare.com&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#%F0%9F%87%AD%F0%9F%87%B0HK_2%7C4.4MB/s",
+      "host": "82.38.46.66",
+      "port": 15003,
+      "alive": true,
+      "latency_ms": 214.32,
+      "country": null,
+      "protocol": "vless"
+    },
+    {
+      "link": "vless://65e294c6-9733-40cd-ade4-9bcf4017a1bd@f43a79a4ff5a203af43a79a4ff5a203a.drwrdoh.org:2025?sni=amp-api-edge.apps.apple.com&fp=edge&security=tls#%F0%9F%87%B9%F0%9F%87%B7TR_1%7C1.4MB/s",
+      "host": "f43a79a4ff5a203af43a79a4ff5a203a.drwrdoh.org",
+      "port": 2025,
+      "alive": true,
+      "latency_ms": 218.29,
+      "country": null,
+      "protocol": "vless"
+    },
+    {
+      "link": "vless://690FC783-6CE9-4137-8559-40DBA8EDAD31@kr1-r.link-t7.com:10046?security=reality&type=grpc&mode=gun&serviceName=update&packetEncoding=none&sni=s0.awsstatic.com&fp=chrome&sid=686c0ef0&pbk=wOu-BMrXvk9KX23JZrlpUlF4SMjDcejm0vNECdhy5xE#%F0%9F%87%B0%F0%9F%87%B7KR_1%7C3.1MB%2Fs",
+      "host": "kr1-r.link-t7.com",
+      "port": 10046,
+      "alive": true,
+      "latency_ms": 230.45,
+      "country": null,
+      "protocol": "vless"
+    },
+    {
+      "link": "vless://690FC783-6CE9-4137-8559-40DBA8EDAD31@kr4-r.link-t7.com:10049?security=reality&type=grpc&mode=gun&serviceName=update&packetEncoding=none&sni=s0.awsstatic.com&fp=chrome&sid=686c0ef0&pbk=wOu-BMrXvk9KX23JZrlpUlF4SMjDcejm0vNECdhy5xE#%F0%9F%87%B0%F0%9F%87%B7KR_4%7C4.9MB%2Fs",
+      "host": "kr4-r.link-t7.com",
+      "port": 10049,
+      "alive": true,
+      "latency_ms": 235.34,
+      "country": null,
+      "protocol": "vless"
+    },
+    {
+      "link": "vless://690FC783-6CE9-4137-8559-40DBA8EDAD31@sg2-r.link-t7.com:10037?security=reality&type=grpc&mode=gun&serviceName=update&packetEncoding=none&sni=s0.awsstatic.com&fp=chrome&sid=686c0ef0&pbk=wOu-BMrXvk9KX23JZrlpUlF4SMjDcejm0vNECdhy5xE#%F0%9F%87%B8%F0%9F%87%ACSG_2%7C4.1MB%2Fs",
+      "host": "sg2-r.link-t7.com",
+      "port": 10037,
+      "alive": true,
+      "latency_ms": 241.34,
+      "country": null,
+      "protocol": "vless"
+    },
+    {
+      "link": "vless://690FC783-6CE9-4137-8559-40DBA8EDAD31@sg3-r.link-t7.com:10038?security=reality&type=grpc&mode=gun&serviceName=update&packetEncoding=none&sni=d1.awsstatic.com&fp=chrome&sid=686c0ef0&pbk=wOu-BMrXvk9KX23JZrlpUlF4SMjDcejm0vNECdhy5xE#%F0%9F%87%B8%F0%9F%87%ACSG_1%7C1.3MB%2Fs",
+      "host": "sg3-r.link-t7.com",
+      "port": 10038,
+      "alive": true,
+      "latency_ms": 245.68,
+      "country": null,
+      "protocol": "vless"
+    },
+    {
+      "link": "ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@121.46.230.138:65443#%F0%9F%87%B0%F0%9F%87%B7KR_6%7C1.4MB%2Fs",
+      "host": "121.46.230.138",
+      "port": 65443,
+      "alive": true,
+      "latency_ms": 245.96,
+      "country": null,
+      "protocol": "ss"
+    },
+    {
+      "link": "ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@121.46.230.233:65443#%F0%9F%87%BA%F0%9F%87%B8US_1%7C1.9MB/s",
+      "host": "121.46.230.233",
+      "port": 65443,
+      "alive": true,
+      "latency_ms": 247.66,
+      "country": null,
+      "protocol": "ss"
+    },
+    {
+      "link": "vless://de27291c-15a9-4256-9ba7-ad517569877e@18.239.134.69:80?type=ws&host=d2e1v87ko56lyw.cloudfront.net:assets.opensignal.com&path=/#%F0%9F%87%BA%F0%9F%87%B8US_2%7C3.1MB/s",
+      "host": "18.239.134.69",
+      "port": 80,
+      "alive": true,
+      "latency_ms": 251.82,
+      "country": null,
+      "protocol": "vless"
+    },
+    {
+      "link": "vless://41f4cb15-5a3f-3934-89fe-b4177146adf4@s592.wagahaha.xyz:18443?encryption=none&type=tcp&headerType=&fp=firefox&host=bcccc2bas591.csgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u643766ubcccc2bas591.csgfw.top&serviceName=&mode=&alpn=h2%2Chttp%2F1.1#%E4%BA%9A%E5%A4%AA%E5%9C%B0%E5%8C%BA+V2CROSS.COM",
+      "host": "s592.wagahaha.xyz",
+      "port": 18443,
+      "alive": true,
+      "latency_ms": 265.77,
+      "country": null,
+      "protocol": "vless"
     },
     {
       "link": "hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?insecure=0&sni=fiproxy1.lockdwn.com&obfs=salamander&obfs-password=uw9b2qq5rx#%E2%9C%85%20%20%40vistav2ray%20%20%F0%9F%91%88%F0%9F%91%88%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%85%D8%A7%20%E2%9C%85",
       "host": "31.76.80.69",
       "port": 443,
       "alive": true,
-      "latency_ms": 717.19,
+      "latency_ms": 265.98,
       "country": null,
       "protocol": "hysteria2"
+    },
+    {
+      "link": "vless://fbef76ca-9bf2-415d-9872-4700c8ca7673@hk6.miyazono-kaori.com:443?sni=www.hsbc.com.hk&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%AD%F0%9F%87%B0HK_4%7C4.3MB/s",
+      "host": "hk6.miyazono-kaori.com",
+      "port": 443,
+      "alive": true,
+      "latency_ms": 294.36,
+      "country": null,
+      "protocol": "vless"
+    },
+    {
+      "link": "vless://399c4c9b-27e1-37f1-9dce-22ccc2727a86@nian.001.url111.kcloud02.top:15003?sni=www.cloudflare.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%AD%F0%9F%87%B0HK_3%7C4.7MB/s",
+      "host": "nian.001.url111.kcloud02.top",
+      "port": 15003,
+      "alive": true,
+      "latency_ms": 301.59,
+      "country": null,
+      "protocol": "vless"
+    },
+    {
+      "link": "hysteria2://f4927789e58bcd24b6f6@h.zz2233.cyou:10444?sni=h.zz2233.cyou#%F0%9F%87%AD%F0%9F%87%B0%20HK",
+      "host": "h.zz2233.cyou",
+      "port": 10444,
+      "alive": true,
+      "latency_ms": 335.1,
+      "country": null,
+      "protocol": "hysteria2"
+    },
+    {
+      "link": "vless://9aff0732-7ce4-4b34-ba20-e67c6df64fdd@gr2.panel11.ru:443?sni=gr2.panel11.ru&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%A6%F0%9F%87%AAAE_3%7C3.5MB/s",
+      "host": "gr2.panel11.ru",
+      "port": 443,
+      "alive": true,
+      "latency_ms": 344.32,
+      "country": null,
+      "protocol": "vless"
+    },
+    {
+      "link": "trojan://HOrViv@209.248.32.117:28102?sni=ctldl.windowsupdate.com&allowInsecure=1&type=tcp#%F0%9F%87%AF%F0%9F%87%B5JP_2%7C1.4MB%2Fs",
+      "host": "209.248.32.117",
+      "port": 28102,
+      "alive": true,
+      "latency_ms": 709.12,
+      "country": null,
+      "protocol": "trojan"
+    },
+    {
+      "link": "ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6M0NvSWtTOWtrZW95R1FzeTd0UUQxOUlHUUpkdnd1NzZ0VEt5YWxyN21Lcz0=@163.176.246.48:59319#%F0%9F%87%A7%F0%9F%87%B7BR_1%7C2.0MB/s",
+      "host": "163.176.246.48",
+      "port": 59319,
+      "alive": true,
+      "latency_ms": 1131.02,
+      "country": null,
+      "protocol": "ss"
+    },
+    {
+      "link": "trojan://humanity@2.144.21.112:40443?security=tls&sni=www.ignitelimit.com&fp=chrome&type=ws&path=%2Fassignment#%E4%BC%8A%E6%9C%97+V2CROSS.COM",
+      "host": "2.144.21.112",
+      "port": 40443,
+      "alive": true,
+      "latency_ms": 1201.77,
+      "country": null,
+      "protocol": "trojan"
+    },
+    {
+      "link": "hysteria2://cd74c0a406664a5bc0bac098220a2468@2.27.59.206:443?insecure=1&sni=de1.sferavpn.pro&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0#%F0%9F%93%8D52%40oneclickvpnkeys",
+      "host": "2.27.59.206",
+      "port": 443,
+      "alive": false,
+      "latency_ms": null,
+      "country": null,
+      "protocol": "hysteria2"
+    },
+    {
+      "link": "vless://41f4cb15-5a3f-3934-89fe-b4177146adf4@185.119.19.105:18153?encryption=none&type=tcp&headerType=&fp=firefox&host=71136167s8746.gogocs.xyz&path=&flow=xtls-rprx-vision&security=tls&sni=u643766u71136167s8746.gogocs.xyz&serviceName=&mode=&alpn=h2%2Chttp%2F1.1#%E5%BE%B7%E5%9B%BD+V2CROSS.COM",
+      "host": "185.119.19.105",
+      "port": 18153,
+      "alive": false,
+      "latency_ms": null,
+      "country": null,
+      "protocol": "vless"
     }
   ]
 }
