@@ -1,1 +1,2 @@
-vless://11f3e7b1-5507-46da-a268-1f70a543e40a@5.42.109.42:8443?sni=run5.wba-pn.ru&type=ws&host=&path=fp=android&security=tls#%F0%9F%87%B7%F0%9F%87%BARU_1%7C2.4MB/s
+vless://be3c103d-2c93-4f8e-adb9-2631537f80eb@de55.tranzit-net.ru:443?security=reality&type=tcp&packetEncoding=xudp&sni=d.tranzit-net.ru&fp=firefox&flow=xtls-rprx-vision&pbk=IAdOYYmEMPFAhpVUhqfML58AVtYPdAb71R_HAPf0N0k&encryption=none#%F0%9F%87%B7%F0%9F%87%BARU_1%7C3.5MB%2Fs
+vless://be3c103d-2c93-4f8e-adb9-2631537f80eb@de55.tranzit-net.ru:443?sni=d.tranzit-net.ru&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#%F0%9F%87%B7%F0%9F%87%BARU_1%7C3.5MB/s

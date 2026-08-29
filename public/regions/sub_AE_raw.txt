@@ -1,6 +1,2 @@
-hysteria2://865e271f7c97b549b024255c9d02cebe9cc0c2c070a82b1e11bb11b9cd88dd01@217.60.33.215:443?insecure=1&sni=streambox.wwwinternetvideo.click#%F0%9F%87%A6%F0%9F%87%AAAE_2%7C3.1MB%2Fs
-hysteria2://865e271f7c97b549b024255c9d02cebe9cc0c2c070a82b1e11bb11b9cd88dd01@streambox.wwwinternetvideo.click:443?insecure=1&sni=streambox.wwwinternetvideo.click#%F0%9F%87%A6%F0%9F%87%AAAE_1%7C1.1MB%2Fs
-hysteria2://BPvdjudCGodsF67hRP3xgBYvcKp48coTsh6ANydLhQs%3D@fin14qr.wwwinternetvideo.click:443?sni=fin14qr.wwwinternetvideo.click#%F0%9F%87%A6%F0%9F%87%AAAE_3%7C3.1MB%2Fs
-vless://50767b5d-7e5d-4aee-af39-5a07d36ccc36@pl18.mechvpn.online:443?flow=xtls-rprx-vision-udp443&fp=qq&security=tls#%F0%9F%87%A6%F0%9F%87%AAAE_1%7C1.6MB/s
-vless://50767b5d-7e5d-4aee-af39-5a07d36ccc36@pl20.mechvpn.online:443?flow=xtls-rprx-vision-udp443&fp=qq&security=tls#%F0%9F%87%A6%F0%9F%87%AAAE_2%7C3.6MB/s
-vless://9aff0732-7ce4-4b34-ba20-e67c6df64fdd@gr2.panel11.ru:443?sni=gr2.panel11.ru&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%A6%F0%9F%87%AAAE_3%7C3.5MB/s
+vless://df9f5aca-eda0-428f-a752-e53866153d12@srv-21bac9.vless.monster:8765?allowInsecure=1&sni=srv-21bac9.vless.monster&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%A6%F0%9F%87%AAAE_1%7C1.3MB/s
+vless://df9f5aca-eda0-428f-a752-e53866153d12@srv-21bac9.vless.monster:8765?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=srv-21bac9.vless.monster&fp=chrome&flow=xtls-rprx-vision&sid=1bcc9177f3124b25&pbk=M08l5tDmJUYELykZCNYQyFgtR9Zc-A4ZGlUSLcUeS2c#%F0%9F%87%A6%F0%9F%87%AAAE_1%7C1.3MB%2Fs

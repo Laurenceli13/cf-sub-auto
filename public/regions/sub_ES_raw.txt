@@ -1,1 +1,2 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@192.169.223.30:8880?type=ws&host=vms.lifetime42.workers.dev&path=/#A%20-%20%F0%9F%87%AA%F0%9F%87%B8%20ES%2001%20TG%3A%20%40nodpai
+vless://898537d9-ce3a-4937-bbef-c0fa61c07791@93.189.94.67:48296?security=reality&type=tcp&packetEncoding=xudp&sni=www.sony.com&fp=chrome&flow=xtls-rprx-vision&sid=109657bb2dbe99&pbk=ga1wUMMknP4pwJfUNOOvD9I35XV4q3c73byXPYbRxBE&encryption=none#%F0%9F%87%AA%F0%9F%87%B8ES_1%7C2.7MB%2Fs
+vless://898537d9-ce3a-4937-bbef-c0fa61c07791@93.189.94.67:48296?sni=www.sony.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%AA%F0%9F%87%B8ES_1%7C2.7MB/s

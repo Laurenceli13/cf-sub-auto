@@ -1,2 +1,2 @@
-vless://53b59cb5-c741-3399-9065-93dc34685f5b@155.117.199.12:29709?security=reality&type=tcp&packetEncoding=none&sni=cdnjs.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=bc8e3658db7d1323&pbk=JrWOojSFwFA93YjsiQkDydTItQzNAsXsHU24HuWGWjA#%F0%9F%87%B2%F0%9F%87%BEMY_1%7C2.9MB%2Fs
-vless://53b59cb5-c741-3399-9065-93dc34685f5b@155.117.199.12:29709?sni=cdnjs.cloudflare.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%B2%F0%9F%87%BEMY_1%7C2.9MB/s
+vless://cb3c9f84-903b-4701-9107-701b6347b0aa@56.69.197.40:22732?security=reality&type=tcp&packetEncoding=none&sni=www.amd.com&fp=firefox&flow=xtls-rprx-vision&sid=2a2aa1d1366cef&pbk=vHWs24ZHKIvNpToXCwB68TK0mybgKe1Yfq1Jdnas5TU#%F0%9F%87%B2%F0%9F%87%BEMY_1%7C3.5MB%2Fs
+vless://cb3c9f84-903b-4701-9107-701b6347b0aa@56.69.197.40:22732?sni=www.amd.com&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#%F0%9F%87%B2%F0%9F%87%BEMY_1%7C3.5MB/s

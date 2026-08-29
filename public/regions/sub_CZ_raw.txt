@@ -1,2 +1,2 @@
-hysteria2://OD6gGbGU9a@195.133.24.124:443?sni=hys26.wba-pn.ru#%F0%9F%87%A8%F0%9F%87%BFCZ_2%7C2.0MB%2Fs
-hysteria2://OD6gGbGU9a@hys26.wba-pn.ru:443?insecure=1&sni=hys26.wba-pn.ru#%F0%9F%87%A8%F0%9F%87%BFCZ_1%7C2.9MB%2Fs
+hysteria2://41f0d6d3-4a45-4635-8225-2abd2284189b@lmny.mangshe.xyz:2056?insecure=1&sni=lmny.mangshe.xyz#%F0%9F%87%A8%F0%9F%87%BFCZ_2%7C1.7MB%2Fs
+hysteria2://41f0d6d3-4a45-4635-8225-2abd2284189b@lmny.mangshe.xyz:2056?insecure=1&sni=lmny.mangshe.xyz#%F0%9F%87%A8%F0%9F%87%BFCZ_2%7C1.7MB/s

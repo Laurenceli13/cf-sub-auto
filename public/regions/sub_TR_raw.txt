@@ -1,4 +1,4 @@
 hysteria2://1ba59989-225e-4f1c-ab62-9bd7366009cb@194.135.34.130:443?insecure=1&sni=194.135.34.130#%E5%9C%9F%E8%80%B3%E5%85%B6
 hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.124.105:8080?insecure=1&sni=mercedes-grape.yyuyy.com#%E5%9C%9F%E8%80%B3%E5%85%B6%20%231
+hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.124.114:8080?insecure=1&sni=hopp-germany-new.ddnsguru.com#%E5%9C%9F%E8%80%B3%E5%85%B6%20%232
 hysteria2://ac7fb60f-0b7a-465d-a002-05160ec04ed6@gora4.api3-max.ru:443?insecure=1&sni=gora4.api3-max.ru#%E5%9C%9F%E8%80%B3%E5%85%B6%20%233
-vless://65e294c6-9733-40cd-ade4-9bcf4017a1bd@f43a79a4ff5a203af43a79a4ff5a203a.drwrdoh.org:2025?sni=amp-api-edge.apps.apple.com&fp=edge&security=tls#%F0%9F%87%B9%F0%9F%87%B7TR_1%7C1.4MB/s

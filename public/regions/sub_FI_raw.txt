@@ -1,3 +1,7 @@
+hysteria2://76ivwa51ce2gauym@giftcard.gateway-stream.com:52031?insecure=0&alpn=h3&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#%F0%9F%87%AB%F0%9F%87%AE%20ConfigV2RayNG
+hysteria2://76ivwa51ce2gauym@giftcard.gateway-stream.com:52037?insecure=0&alpn=h3&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#%F0%9F%87%AB%F0%9F%87%AEConfigV2RayNG
 hysteria2://83deb5ce-cd1c-41a6-8ec5-2ebc91f6f861@31.76.70.109:8443?sni=quic.tyr-agentstvo.tech#%E8%8A%AC%E5%85%B0
+hysteria2://901113fb-2ddd-4472-84bf-307de471f32f@lv.katanalink.net:443?insecure=1&sni=lv.katanalink.net#%F0%9F%87%AB%F0%9F%87%AEFI_1%7C1.9MB%2Fs
+hysteria2://901113fb-2ddd-4472-84bf-307de471f32f@lv.katanalink.net:443?insecure=1&sni=lv.katanalink.net#%F0%9F%87%AB%F0%9F%87%AEFI_1%7C1.9MB/s
 hysteria2://becd3b04-62a8-4b74-be67-be746008b4c2@45.149.147.194:443?insecure=1&sni=hys-mesh.spliceflowtech.com#%E8%8A%AC%E5%85%B0%20%231
 hysteria2://xf2ak19a4uajprxg@giftcard.gateway-stream.com:52090?insecure=0&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#Telegram%20%F0%9F%86%94%40cnetvpn%20%F0%9F%87%AB%F0%9F%87%AE

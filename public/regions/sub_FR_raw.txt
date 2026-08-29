@@ -1,5 +1,7 @@
 hysteria2://ac7fb60f-0b7a-465d-a002-05160ec04ed6@dora3.api3-max.ru:443?insecure=1&sni=dora3.api3-max.ru#%E6%B3%95%E5%9B%BD
 hysteria2://ac7fb60f-0b7a-465d-a002-05160ec04ed6@dora4.api3-max.ru:443?insecure=1&sni=dora4.api3-max.ru#%E6%B3%95%E5%9B%BD%20%231
-trojan://humanity@join-telegram-channel-tirexnet.trex.kdns.fr:443?allowInsecure=0&sni=www.ignitelimit.com&type=ws&path=/assignment#%F0%9F%87%AB%F0%9F%87%B7FR_1%7C1.7MB/s
-vless://4f9b1ec3-b3d7-4dcc-8035-d813ab89785f@2.26.129.246:443?sni=ukrop.mycdn-me.ru&flow=xtls-rprx-vision-udp443&fp=qq&security=tls#%F0%9F%87%AB%F0%9F%87%B7FR_5%7C2.3MB/s
+trojan://humanity@104.26.14.137:443?allowInsecure=0&sni=www.ignitelimit.com&type=ws&path=/assignment#%F0%9F%87%AB%F0%9F%87%B7FR_2%7C1.1MB/s
+trojan://humanity@104.26.14.137:443?sni=www.ignitelimit.com&type=ws&path=%2Fassignment&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7FR_2%7C1.1MB%2Fs
+trojan://humanity@render.com:443?allowInsecure=0&sni=www.ignitelimit.com&type=ws&path=/assignment#%F0%9F%87%AB%F0%9F%87%B7FR_1%7C2.1MB/s
+trojan://humanity@render.com:443?sni=www.ignitelimit.com&type=ws&path=%2Fassignment&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7FR_1%7C2.1MB%2Fs
 vless://b320eba7-5380-4bd1-b5e6-32daab16066f@fr-d.duckray.co.uk:3443?encryption=none&type=grpc&mode=gun&security=reality&sni=api.github.com&fp=random&pbk=Ps_w7KP3VFrZv1niWfX3synmJq_d2c7sVSckxa3sgio#%F0%9F%87%AB%F0%9F%87%B7%20France
