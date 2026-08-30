@@ -1,1 +1,2 @@
+hysteria2://60e2a548-96aa-4850-a279-1edab743c39b@md1.cnyvpn.com:443?insecure=1&sni=md1.cnyvpn.com#%E6%91%A9%E5%B0%94%E5%A4%9A%E7%93%A6
 vless://1b43419a-b711-40d4-a0ee-eb5c73e60c92@94.103.0.230:443?sni=pl.prostosetup.org&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#A%20-%20%F0%9F%87%B2%F0%9F%87%A9%20MD%2001%20TG%3A%20%40nodpai

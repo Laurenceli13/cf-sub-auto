@@ -1,5 +1,1 @@
-hysteria2://GSPOBvG-ZwYcBFMr0ekFGO_Zga3wK6v_@hy2-germany.unlimited-access.ru:8443?insecure=1&sni=hy2-germany.unlimited-access.ru#%F0%9F%87%BA%F0%9F%87%A6UKraine
-trojan://a126f35c-e832-4115-8593-b723ade3f7be@hkdcrtc-e.catcat321.com:20066?allowInsecure=1&sni=hk.catxstar.com#%F0%9F%87%BA%F0%9F%87%A6UA_1%7C2.8MB/s
-trojan://a126f35c-e832-4115-8593-b723ade3f7be@hkdcrtc-e.catcat321.com:20066?sni=hk.catxstar.com&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%BA%F0%9F%87%A6UA_1%7C2.8MB%2Fs
-trojan://a126f35c-e832-4115-8593-b723ade3f7be@kkvlvvq-a.catcat321.com:20066?allowInsecure=1&sni=hk.catxstar.com#%F0%9F%87%BA%F0%9F%87%A6UA_2%7C1.7MB/s
-trojan://a126f35c-e832-4115-8593-b723ade3f7be@kkvlvvq-a.catcat321.com:20066?sni=hk.catxstar.com&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%BA%F0%9F%87%A6UA_2%7C1.7MB%2Fs
+vless://e459d26c-0957-4695-b1ac-0719e8df64f6@82.118.20.109:443?security=reality&encryption=none&pbk=U1X__Tg779LinTpcP65AVLHtxAGPSKzr04K1Fq_mDy8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=146c918c71da5d81#%E4%B9%8C%E5%85%8B%E5%85%B0+V2CROSS.COM

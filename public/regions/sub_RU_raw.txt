@@ -1,2 +1,1 @@
-vless://be3c103d-2c93-4f8e-adb9-2631537f80eb@de55.tranzit-net.ru:443?security=reality&type=tcp&packetEncoding=xudp&sni=d.tranzit-net.ru&fp=firefox&flow=xtls-rprx-vision&pbk=IAdOYYmEMPFAhpVUhqfML58AVtYPdAb71R_HAPf0N0k&encryption=none#%F0%9F%87%B7%F0%9F%87%BARU_1%7C3.5MB%2Fs
-vless://be3c103d-2c93-4f8e-adb9-2631537f80eb@de55.tranzit-net.ru:443?sni=d.tranzit-net.ru&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#%F0%9F%87%B7%F0%9F%87%BARU_1%7C3.5MB/s
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.67.215.30:8880?type=ws&host=vms.lifetime48.workers.dev&path=/#A%20-%20%F0%9F%87%B7%F0%9F%87%BA%20RU%2001%20TG%3A%20%40nodpai

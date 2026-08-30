@@ -1,3 +1,1 @@
-trojan://7e70223b-f331-41d5-9313-02b8d2df2885@kkvlvvq-a.catcat321.com:20065?allowInsecure=1&sni=hk.catxstar.com#%F0%9F%87%AE%F0%9F%87%B9IT_1%7C1.2MB/s
-trojan://7e70223b-f331-41d5-9313-02b8d2df2885@kkvlvvq-a.catcat321.com:20065?sni=hk.catxstar.com&allowInsecure=1&type=tcp#%F0%9F%87%AE%F0%9F%87%B9IT_1%7C1.2MB%2Fs
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.206.12.40:8880?type=ws&host=vms.lifetime44.workers.dev&path=/?ed=2560&https://t.me/youtube@ZYFXS🇨🇳#A%20-%20%F0%9F%87%AE%F0%9F%87%B9%20IT%2001%20TG%3A%20%40nodpai

@@ -1,3 +1,1 @@
-vless://e9076558-2c9b-4c39-9b52-220f932c570f@172.105.104.54:58676?security=reality&type=raw&packetEncoding=xudp&sni=www.intel.com&fp=firefox&flow=xtls-rprx-vision&sid=ee94ded352b795&pbk=HmBdCe_lUZzLsEhgj5X-SZTK0Sbl-0sSqVfG5om1hg8&encryption=none#%F0%9F%87%A8%F0%9F%87%A6CA_2%7C1.5MB%2Fs
-vless://e9076558-2c9b-4c39-9b52-220f932c570f@172.105.104.54:58676?security=reality&type=tcp&packetEncoding=xudp&sni=www.intel.com&fp=chrome&flow=xtls-rprx-vision&sid=ee94ded352b795&pbk=HmBdCe_lUZzLsEhgj5X-SZTK0Sbl-0sSqVfG5om1hg8&encryption=none#%F0%9F%87%A8%F0%9F%87%A6CA_1%7C1.1MB%2Fs
-vless://e9076558-2c9b-4c39-9b52-220f932c570f@172.105.104.54:58676?sni=www.intel.com&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#%F0%9F%87%A8%F0%9F%87%A6CA_2%7C1.5MB/s
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@50.62.195.50:8880?type=ws&host=vms.lifetime38.workers.dev&path=/?ed=2560#A%20-%20%F0%9F%87%A8%F0%9F%87%A6%20CA%2001%20TG%3A%20%40nodpai

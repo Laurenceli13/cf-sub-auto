@@ -1,2 +1,1 @@
-vless://ee9e2135-c444-4adb-aaa5-a0efa1a74fdf@82.117.255.26:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=firefox&flow=xtls-rprx-vision&sid=b395baf965957d93&pbk=gMcijHp0RNZF6l556BaOxu1bKNIFON0_JjXhJzpioAk#%F0%9F%87%B7%F0%9F%87%B4RO_3%7C2.3MB%2Fs
-vless://ee9e2135-c444-4adb-aaa5-a0efa1a74fdf@82.117.255.26:443?sni=www.cloudflare.com&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#%F0%9F%87%B7%F0%9F%87%B4RO_3%7C2.3MB/s
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@194.53.53.30:8880?type=ws&host=vms.lifetime51.workers.dev&path=/#A%20-%20%F0%9F%87%B7%F0%9F%87%B4%20RO%2002%20TG%3A%20%40nodpai

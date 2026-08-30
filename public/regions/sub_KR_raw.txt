@@ -1,11 +1,1 @@
-hysteria2://1671a252e2a97dc2bda4e515475931da@132.226.226.189:50160?insecure=1&sni=www.bing.com#%E9%9F%A9%E5%9B%BD
-hysteria2://9cfc9458e48c028ec03ff86ebc71c744@150-230-252-217.liao.kdns.fr:50160?insecure=1&sni=150-230-252-217.liao.kdns.fr#%F0%9F%87%B0%F0%9F%87%B7KR_4%7C2.8MB%2Fs
-hysteria2://9cfc9458e48c028ec03ff86ebc71c744@150-230-252-217.liao.kdns.fr:50160?insecure=1&sni=150-230-252-217.liao.kdns.fr#%F0%9F%87%B0%F0%9F%87%B7KR_4%7C2.8MB/s
-ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@121.46.230.138:65443#%F0%9F%87%B0%F0%9F%87%B7KR_1%7C1.7MB%2Fs
-ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@121.46.230.138:65443#%F0%9F%87%B0%F0%9F%87%B7KR_1%7C1.7MB/s
-vless://690FC783-6CE9-4137-8559-40DBA8EDAD31@kr1-r.link-t7.com:10046?security=reality&type=grpc&mode=gun&serviceName=update&packetEncoding=none&sni=s0.awsstatic.com&fp=chrome&sid=686c0ef0&pbk=wOu-BMrXvk9KX23JZrlpUlF4SMjDcejm0vNECdhy5xE#%F0%9F%87%B0%F0%9F%87%B7KR_3%7C5.1MB%2Fs
-vless://690FC783-6CE9-4137-8559-40DBA8EDAD31@kr1-r.link-t7.com:10046?sni=s0.awsstatic.com&type=grpc&serviceName=update&fp=chrome&security=tls#%F0%9F%87%B0%F0%9F%87%B7KR_3%7C5.1MB/s
-vless://690FC783-6CE9-4137-8559-40DBA8EDAD31@kr2-r.link-t7.com:10047?security=reality&type=grpc&mode=gun&serviceName=update&packetEncoding=none&sni=s0.awsstatic.com&fp=chrome&sid=686c0ef0&pbk=wOu-BMrXvk9KX23JZrlpUlF4SMjDcejm0vNECdhy5xE#%F0%9F%87%B0%F0%9F%87%B7KR_2%7C5.3MB%2Fs
-vless://690FC783-6CE9-4137-8559-40DBA8EDAD31@kr2-r.link-t7.com:10047?sni=s0.awsstatic.com&type=grpc&serviceName=update&fp=chrome&security=tls#%F0%9F%87%B0%F0%9F%87%B7KR_2%7C5.3MB/s
-vless://83973343-90db-423d-a5f7-2e3b56aeb8f4@43.202.46.25:28482?security=reality&type=tcp&packetEncoding=xudp&sni=www.intel.com&fp=firefox&flow=xtls-rprx-vision&sid=fa1e592603c283&pbk=8fsYG_Pg35aeg1E5Gc3HUaXou2OUQee4ukxVk99iR0s#%F0%9F%87%B0%F0%9F%87%B7KR_5%7C4.8MB%2Fs
-vless://83973343-90db-423d-a5f7-2e3b56aeb8f4@43.202.46.25:28482?sni=www.intel.com&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#%F0%9F%87%B0%F0%9F%87%B7KR_5%7C4.8MB/s
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@72.167.230.30:8880?type=ws&host=vms.lifetime51.workers.dev#A%20-%20%F0%9F%87%B0%F0%9F%87%B7%20KR%2002%20TG%3A%20%40nodpai
