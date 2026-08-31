@@ -1,2 +1,2 @@
-vless://94a5294d-1125-4139-8934-380c5de5552f@109.121.44.51:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.amd.com&fp=firefox&flow=xtls-rprx-vision&sid=4a7b1c8d&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&encryption=none#%F0%9F%87%BF%F0%9F%87%A6ZA_1%7C3.2MB%2Fs
-vless://94a5294d-1125-4139-8934-380c5de5552f@109.121.44.51:443?sni=www.amd.com&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#%F0%9F%87%BF%F0%9F%87%A6ZA_1%7C3.2MB/s
+vless://94a5294d-1125-4139-8934-380c5de5552f@109.121.44.51:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.amd.com&fp=firefox&flow=xtls-rprx-vision&sid=4a7b1c8d&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&encryption=none#%F0%9F%87%BF%F0%9F%87%A6ZA_1%7C3.7MB%2Fs
+vless://94a5294d-1125-4139-8934-380c5de5552f@109.121.44.51:443?sni=www.amd.com&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#%F0%9F%87%BF%F0%9F%87%A6ZA_1%7C3.7MB/s

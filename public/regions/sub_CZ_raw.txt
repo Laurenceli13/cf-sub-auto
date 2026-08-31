@@ -1,2 +1,2 @@
-hysteria2://41f0d6d3-4a45-4635-8225-2abd2284189b@lmny.mangshe.xyz:2056?insecure=1&sni=lmny.mangshe.xyz#%F0%9F%87%A8%F0%9F%87%BFCZ_2%7C1.7MB%2Fs
-hysteria2://41f0d6d3-4a45-4635-8225-2abd2284189b@lmny.mangshe.xyz:2056?insecure=1&sni=lmny.mangshe.xyz#%F0%9F%87%A8%F0%9F%87%BFCZ_2%7C1.7MB/s
+vless://31e0b987-6ef0-4f61-9257-bdc57120a7f2@api.yandex-developer.org:443?security=reality&type=tcp&packetEncoding=xudp&sni=api.yandex-developer.org&fp=chrome&flow=xtls-rprx-vision&sid=122218f4c1f172e4&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&encryption=none#%F0%9F%87%A8%F0%9F%87%BFCZ_1%7C3.2MB%2Fs
+vless://31e0b987-6ef0-4f61-9257-bdc57120a7f2@api.yandex-developer.org:443?sni=api.yandex-developer.org&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%A8%F0%9F%87%BFCZ_1%7C3.2MB/s

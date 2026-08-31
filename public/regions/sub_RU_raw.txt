@@ -1,1 +1,6 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.67.215.30:8880?type=ws&host=vms.lifetime48.workers.dev&path=/#A%20-%20%F0%9F%87%B7%F0%9F%87%BA%20RU%2001%20TG%3A%20%40nodpai
+vless://338efc17-02d7-433b-902a-e7d4771dc802@147.45.229.3:443?security=tls&type=ws&path=%2Fapi%2Fuser&packetEncoding=none&alpn=http%2F1.1&sni=gaaga.korgivps.ru&fp=firefox#%F0%9F%87%B7%F0%9F%87%BARU_1%7C2.4MB%2Fs
+vless://338efc17-02d7-433b-902a-e7d4771dc802@147.45.229.3:443?sni=gaaga.korgivps.ru&alpn=http/1.1&type=ws&path=/api/userfp=firefox&security=tls#%F0%9F%87%B7%F0%9F%87%BARU_1%7C2.4MB/s
+vless://423b1d79-08c4-403f-9d5e-c541f791b55f@178.250.186.139:8443?security=reality&type=tcp&packetEncoding=xudp&sni=auto.cendora.ru&fp=chrome&flow=xtls-rprx-vision&sid=a7f3c91b2e6d84c0&pbk=gc9oXe37KCCm3J1dJ03wdGsnxPBdeEkRPOvl_t-vfVM&encryption=none#%F0%9F%87%B7%F0%9F%87%BARU_2%7C3.1MB%2Fs
+vless://423b1d79-08c4-403f-9d5e-c541f791b55f@178.250.186.139:8443?sni=auto.cendora.ru&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%B7%F0%9F%87%BARU_2%7C3.1MB/s
+vless://e103b504-eb8c-4ddb-8c60-9921133e77d4@46.17.40.56:40000?security=reality&type=xhttp&packetEncoding=xudp&sni=aws.amazon.com&fp=edge&sid=49443d1a&pbk=vqnE1wKOqp4JXotgCl4SI2CBJ7ys3080cZjL83r9pmE&mode=auto&encryption=none#%F0%9F%87%B7%F0%9F%87%BARU_3%7C1.6MB%2Fs
+vless://e103b504-eb8c-4ddb-8c60-9921133e77d4@46.17.40.56:40000?sni=aws.amazon.com&fp=edge&security=tls#%F0%9F%87%B7%F0%9F%87%BARU_3%7C1.6MB/s

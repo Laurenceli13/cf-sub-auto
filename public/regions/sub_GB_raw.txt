@@ -1,2 +1,8 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.193.30.30:8880?type=ws&host=vms.lifetime09.workers.dev#A%20-%20%F0%9F%87%AC%F0%9F%87%A7%20GB%2001%20TG%3A%20%40nodpai
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.80.110.30:8880?type=ws&host=vms.lifetime51.workers.dev#A%20-%20%F0%9F%87%AC%F0%9F%87%A7%20GB%2003%20TG%3A%20%40nodpai
+hysteria2://0bacdaea-099b-462b-b625-d7d44c89aace@94.156.250.67:55000?insecure=1&sni=www.bing.com#UK
+hysteria2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@uk196.mechvpn.online:443?#%E8%8B%B1%E5%9B%BD
+hysteria2://8674df07-56b3-43ea-b687-aef2b1a20137@31.76.22.210:443?insecure=1&sni=crt.ultimagamest.com#%F0%9F%87%AC%F0%9F%87%A7GB
+hysteria2://GSPOBvG-ZwYcBFMr0ekFGO_Zga3wK6v_@hy2-germany.unlimited-access.ru:8443?insecure=1&sni=hy2-germany.unlimited-access.ru#%E8%8B%B1%E5%9B%BD%20%231
+hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@103.246.248.234:8080?insecure=1&sni=hopp-legend-se.roxa.org#%E8%8B%B1%E5%9B%BD%20%232
+hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@138.124.0.168:8080?sni=hopp-legend-se.roxa.org#%E8%8B%B1%E5%9B%BD%20%233
+vless://13b54a52-a29f-4737-9941-26f54a4f87c4@31.76.88.150:443?security=reality&type=xhttp&path=%2Fvideo%2Fdownload&host=evovpn.pro&packetEncoding=xudp&sni=www.yandex.ru&fp=firefox&sid=b4c823&pbk=ZKd5bjQ8ACciPQo_0ol7WEkUYUjGXaK9fMciQkFurF4&encryption=none#%F0%9F%87%AC%F0%9F%87%A7GB_6%7C1.3MB%2Fs
+vless://13b54a52-a29f-4737-9941-26f54a4f87c4@31.76.88.150:443?sni=www.yandex.ru&fp=firefox&security=tls#%F0%9F%87%AC%F0%9F%87%A7GB_6%7C1.3MB/s
