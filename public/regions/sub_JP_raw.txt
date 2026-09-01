@@ -1,6 +1,6 @@
 hysteria2://Foc_Mcxi45rM9v3ve_N92fdrK_10_Ssc5@185.39.31.117:8443?insecure=1&sni=grape-beer.yyuyy.com#%E6%97%A5%E6%9C%AC
 hysteria2://a9081889-1949-49ba-a2aa-7054515716de@c2.bestai.beauty:3488?insecure=1&sni=c2.bestai.beauty#%E6%97%A5%E6%9C%AC%20%231
 hysteria2://mdq80x0xv9wt7520@giftcard.gateway-stream.com:52046?alpn=h3&fp=chrome&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#dc-udp-%F0%9F%87%AF%F0%9F%87%B5%20Japan-Tokyo
+ss://Y2hhY2hhMjAtaWV0ZjpwYXNzd2Q=@cn12.somethingstranges.com:8406#%F0%9F%87%AF%F0%9F%87%B5JP_2%7C4.0MB/s
 trojan://BxceQaOe@18.167.96.176:9408?allowInsecure=1&sni=t.me%252Fripaojiedian#%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
-vless://399c4c9b-27e1-37f1-9dce-22ccc2727a86@nian.001.url111.kcloud02.top:15007?security=reality&type=tcp&packetEncoding=none&sni=www.bing.com&fp=chrome&flow=xtls-rprx-vision&sid=2c4d005b&pbk=qVNutDFjEp3v2wjeUl_Yy6l9TXawXfSjAsFj3iktmRA#%F0%9F%87%AF%F0%9F%87%B5JP_1%7C3.0MB%2Fs
-vless://399c4c9b-27e1-37f1-9dce-22ccc2727a86@nian.001.url111.kcloud02.top:15007?sni=www.bing.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%AF%F0%9F%87%B5JP_1%7C3.0MB/s
+vless://16e80f38-e97e-4b14-ba89-77d87a3e637f@wangcai.cf.877774.xyz:443?security=tls&type=ws&path=%2Fsg-orcl&host=ex3r.qzz.io&packetEncoding=xudp&sni=ex3r.qzz.io&fp=chrome&encryption=none#%F0%9F%87%AF%F0%9F%87%B5JP_1%7C4.7MB%2Fs

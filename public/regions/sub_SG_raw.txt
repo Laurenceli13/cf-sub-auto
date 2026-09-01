@@ -4,9 +4,9 @@ hysteria2://VL0N0IPJ5Tqj672H7FsxYw%3D%3D@18.136.199.31:12451?sni=c.hbapp.xyz&obf
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.229.54.166:443?insecure=1&sni=vpn-sg-001.fastervpn.world#%F0%9F%87%B8%F0%9F%87%ACSG%20%232
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.229.82.184:443?insecure=1&sni=vpn-sg-001.fastervpn.world#%E6%96%B0%E5%8A%A0%E5%9D%A1%20%231
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.254.190.23:443?insecure=1&sni=vpn-sg-001.fastervpn.world#%E6%96%B0%E5%8A%A0%E5%9D%A1%20%232
-ss://Y2hhY2hhMjAtaWV0ZjpwYXNzd2Q=@cn07.somethingstranges.com:8206#%F0%9F%87%B8%F0%9F%87%ACSG_3%7C3.8MB/s
-ss://Y2hhY2hhMjAtaWV0ZjpwYXNzd2Q=@cn07.somethingstranges.com:8206/?plugin=simple-obfs%3Bobfs%3Dhttp%3Bobfs-host%3D37949-LD4JNZAf.download.microsoft.com#%F0%9F%87%B8%F0%9F%87%ACSG_3%7C3.8MB%2Fs
-ss://Y2hhY2hhMjAtaWV0ZjpwYXNzd2Q=@cn08.somethingstranges.com:8211#%F0%9F%87%B8%F0%9F%87%ACSG_2%7C4.0MB/s
-ss://Y2hhY2hhMjAtaWV0ZjpwYXNzd2Q=@cn08.somethingstranges.com:8211/?plugin=simple-obfs%3Bobfs%3Dhttp%3Bobfs-host%3D37949-LD4JNZAf.download.microsoft.com#%F0%9F%87%B8%F0%9F%87%ACSG_2%7C4.0MB%2Fs
-vless://e9d9f06f-d5dd-460a-998f-52efc4732636@172.64.144.180:8880?security=none&type=ws&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&host=bitter-meadow-1d60.313-0f9.workers.dev&packetEncoding=xudp#%F0%9F%87%B8%F0%9F%87%ACSG_1%7C3.4MB%2Fs
-vless://e9d9f06f-d5dd-460a-998f-52efc4732636@172.64.144.180:8880?type=ws&host=bitter-meadow-1d60.313-0f9.workers.dev&path=/pyip=ProxyIP.SG.CMLiussss.net#%F0%9F%87%B8%F0%9F%87%ACSG_1%7C3.4MB/s
+ss://Y2hhY2hhMjAtaWV0ZjpwYXNzd2Q=@cn07.somethingstranges.com:8206#%F0%9F%87%B8%F0%9F%87%ACSG_2%7C3.6MB/s
+trojan://MiTiVPN@104.18.32.47:443?sni=fls-bbg--MiTiVPN---MiTiVPN-u.aPp-cLoud.IR&allowInsecure=1&type=ws&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FF-ls&alpn=http%2F1.1&fp=chrome#%F0%9F%87%B8%F0%9F%87%ACSG_1%7C4.8MB%2Fs
+vless://31904E3E-F57B-41D1-BDB2-CB6D3A496232@sg4-r.link-t7.com:10039?sni=d1.awsstatic.com&type=grpc&serviceName=update&fp=chrome&security=tls#%F0%9F%87%B8%F0%9F%87%ACSG_1%7C4.9MB/s
+vless://7b102311-43fd-4e8f-877e-8090623c101d@188.164.248.67:443?security=tls&type=ws&path=%2F&host=vp21.cc.cd&packetEncoding=xudp&sni=vp21.cc.cd&fp=chrome#%F0%9F%87%B8%F0%9F%87%ACSG_3%7C4.1MB%2Fs
+vless://C1CE3941-AC6F-4E98-9791-3B33ABBAF64F@sg1-r.link-t7.com:10036?security=reality&type=grpc&mode=gun&serviceName=update&packetEncoding=none&sni=s0.awsstatic.com&fp=chrome&sid=686c0ef0&pbk=wOu-BMrXvk9KX23JZrlpUlF4SMjDcejm0vNECdhy5xE&encryption=none#%F0%9F%87%B8%F0%9F%87%ACSG_2%7C5.5MB%2Fs
+vless://C1CE3941-AC6F-4E98-9791-3B33ABBAF64F@sg5-r.link-t7.com:10040?sni=d1.awsstatic.com&type=grpc&serviceName=update&fp=chrome&security=tls#%F0%9F%87%B8%F0%9F%87%ACSG_3%7C3.5MB/s

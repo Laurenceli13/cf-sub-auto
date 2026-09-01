@@ -1,2 +1,1 @@
-vless://cb3c9f84-903b-4701-9107-701b6347b0aa@56.69.197.40:22732?security=reality&type=tcp&packetEncoding=none&sni=www.amd.com&fp=firefox&flow=xtls-rprx-vision&sid=2a2aa1d1366cef&pbk=vHWs24ZHKIvNpToXCwB68TK0mybgKe1Yfq1Jdnas5TU#%F0%9F%87%B2%F0%9F%87%BEMY_1%7C3.5MB%2Fs
-vless://cb3c9f84-903b-4701-9107-701b6347b0aa@56.69.197.40:22732?sni=www.amd.com&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#%F0%9F%87%B2%F0%9F%87%BEMY_1%7C3.5MB/s
+vless://2eadb97f-bba4-4471-8d55-bd461525a2dc@149.118.158.90:8443?security=tls&type=ws&path=%2F&host=eded-52n.pages.dev&packetEncoding=xudp&sni=eded-52n.pages.dev&fp=chrome#%F0%9F%87%B2%F0%9F%87%BEMY_1%7C1.7MB%2Fs
