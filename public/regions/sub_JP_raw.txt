@@ -1,6 +1,10 @@
-hysteria2://Foc_Mcxi45rM9v3ve_N92fdrK_10_Ssc5@185.39.31.117:8443?insecure=1&sni=grape-beer.yyuyy.com#%E6%97%A5%E6%9C%AC
-hysteria2://a9081889-1949-49ba-a2aa-7054515716de@c2.bestai.beauty:3488?insecure=1&sni=c2.bestai.beauty#%E6%97%A5%E6%9C%AC%20%231
+hysteria2://a9081889-1949-49ba-a2aa-7054515716de@c2.bestai.beauty:3488?insecure=1&sni=c2.bestai.beauty#%E6%97%A5%E6%9C%AC
 hysteria2://mdq80x0xv9wt7520@giftcard.gateway-stream.com:52046?alpn=h3&fp=chrome&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#dc-udp-%F0%9F%87%AF%F0%9F%87%B5%20Japan-Tokyo
-ss://Y2hhY2hhMjAtaWV0ZjpwYXNzd2Q=@cn12.somethingstranges.com:8406#%F0%9F%87%AF%F0%9F%87%B5JP_2%7C4.0MB/s
+ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@121.46.230.137:65443#%F0%9F%87%AF%F0%9F%87%B5JP_1%7C5.8MB/s
+ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@121.46.230.137:65443#%F0%9F%87%AF%F0%9F%87%B5JP_2%7C4.4MB%2Fs
+ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@121.46.230.137:65443#%F0%9F%87%AF%F0%9F%87%B5JP_2%7C4.4MB/s
 trojan://BxceQaOe@18.167.96.176:9408?allowInsecure=1&sni=t.me%252Fripaojiedian#%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
-vless://16e80f38-e97e-4b14-ba89-77d87a3e637f@wangcai.cf.877774.xyz:443?security=tls&type=ws&path=%2Fsg-orcl&host=ex3r.qzz.io&packetEncoding=xudp&sni=ex3r.qzz.io&fp=chrome&encryption=none#%F0%9F%87%AF%F0%9F%87%B5JP_1%7C4.7MB%2Fs
+vless://31904E3E-F57B-41D1-BDB2-CB6D3A496232@jp2-r.link-t7.com:10032?security=reality&type=grpc&mode=gun&serviceName=update&packetEncoding=none&sni=s0.awsstatic.com&fp=chrome&sid=686c0ef0&pbk=wOu-BMrXvk9KX23JZrlpUlF4SMjDcejm0vNECdhy5xE#%F0%9F%87%AF%F0%9F%87%B5JP_1%7C5.5MB%2Fs
+vless://31904E3E-F57B-41D1-BDB2-CB6D3A496232@jp2-r.link-t7.com:10032?sni=s0.awsstatic.com&type=grpc&serviceName=update&fp=chrome&security=tls#%F0%9F%87%AF%F0%9F%87%B5JP_1%7C5.5MB/s
+vless://31904E3E-F57B-41D1-BDB2-CB6D3A496232@jp2-r.link-t7.com:10032?sni=s0.awsstatic.com&type=grpc&serviceName=update&fp=chrome&security=tls#%F0%9F%87%AF%F0%9F%87%B5JP_2%7C4.8MB/s
+vless://71b460a1-8f78-45c5-fb3c-ab26a2a1f7b9@qp.lichao0223.cn:49152?allowInsecure=1&sni=qp.lichao0223.cn&type=ws&path=/security=tls#%F0%9F%87%AF%F0%9F%87%B5JP_3%7C1.7MB/s

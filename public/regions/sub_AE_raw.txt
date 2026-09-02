@@ -1,1 +1,1 @@
-vless://c124a209-d949-4951-8234-e2d918b3e6c0@v.expres.fr-1.keshe-voz.pw:443?sni=v.expres.fr-1.keshe-voz.pw&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#%F0%9F%87%A6%F0%9F%87%AAAE_1%7C2.6MB/s
+vless://7ab9fe4f-6699-427f-a828-9fcf2496d714@201.24.54.241:21443?sni=www.cloudflare.com&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#%F0%9F%87%A6%F0%9F%87%AAAE_1%7C1.8MB/s

@@ -1,1 +1,2 @@
 hysteria2://41f0d6d3-4a45-4635-8225-2abd2284189b@lmny.mangshe.xyz:2056?insecure=1&sni=lmny.mangshe.xyz#%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A
+vless://f5e98e30-28b8-468a-a5a5-c6c22be64055@196.245.156.30:443?sni=rm2.magazinnarubeva.ru&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%B7%F0%9F%87%B4RO_1%7C2.0MB/s

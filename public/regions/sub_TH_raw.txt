@@ -1,2 +1,2 @@
-trojan://a126f35c-e832-4115-8593-b723ade3f7be@kkvlvvq-a.catcat321.com:20006?allowInsecure=1&sni=hk.catxstar.com#%F0%9F%87%B9%F0%9F%87%ADTH_1%7C2.3MB/s
-trojan://a126f35c-e832-4115-8593-b723ade3f7be@kkvlvvq-a.catcat321.com:20006?sni=hk.catxstar.com&allowInsecure=1&type=tcp#%F0%9F%87%B9%F0%9F%87%ADTH_1%7C2.3MB%2Fs
+ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@103.169.67.34:65443#%F0%9F%87%B9%F0%9F%87%ADTH_1%7C3.3MB%2Fs
+ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@103.169.67.34:65443#%F0%9F%87%B9%F0%9F%87%ADTH_1%7C3.3MB/s

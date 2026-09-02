@@ -1,1 +1,2 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.131.209.30:8880?type=ws&host=vms.lifetime04.workers.dev&path=/#A%20-%20%F0%9F%87%AE%F0%9F%87%B1%20IL%2001%20TG%3A%20%40nodpai
+hysteria2://usa_2_hysteria2_fastlane_7xd97qbds%3AZO9NsnzCMk5WDLYrLMFJi8V2Dg3HRSpv@92.118.112.132:1935?insecure=1&sni=us3.h.fastlanehosting.ru#%F0%9F%87%AE%F0%9F%87%B1IL_1%7C4.3MB%2Fs
+hysteria2://usa_2_hysteria2_fastlane_7xd97qbds%3AZO9NsnzCMk5WDLYrLMFJi8V2Dg3HRSpv@92.118.112.132:1935?insecure=1&sni=us3.h.fastlanehosting.ru#%F0%9F%87%AE%F0%9F%87%B1IL_1%7C4.3MB/s

@@ -1,2 +1,5 @@
-vless://3499f741-a304-4212-8bb9-4d809e154e28@z0211mq18-z3rk.ru-a1.y-tun.com:40443?security=reality&type=tcp&packetEncoding=xudp&sni=api-maps.yandex.ru&fp=firefox&flow=xtls-rprx-vision&sid=a1b2c3d4e5f6789a&pbk=ZSzB9TQPGNcCiC0WLmciF5Jc8doJDvdRgbqTi8SCoEM#%F0%9F%87%B7%F0%9F%87%BARU_1%7C2.9MB%2Fs
-vless://a289a3d3-5833-4b28-8809-ae72898a98d0@ru05.abvpn.ru:443?sni=ru05.abvpn.ru&type=ws&host=ru05.abvpn.ru&path=/websocketfp=chrome&security=tls#%F0%9F%87%B7%F0%9F%87%BARU_1%7C3.4MB/s
+vless://379998c5-2a71-4202-9c74-522e0c3c5404@185.147.27.183:8443?security=tls&type=tcp&packetEncoding=none&sni=user-6a917f32.noooo.win&fp=firefox&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BARU_1%7C1.3MB%2Fs
+vless://379998c5-2a71-4202-9c74-522e0c3c5404@185.147.27.183:8443?sni=user-6a917f32.noooo.win&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#%F0%9F%87%B7%F0%9F%87%BARU_1%7C1.3MB/s
+vless://39c42b0a-b823-4c93-bb99-74b4183e518d@ru.opngtr.nl:443?security=reality&type=tcp&packetEncoding=xudp&sni=cdn.savesafe.cc&fp=qq&flow=xtls-rprx-vision&sid=3e70d4cbb01bddfd&pbk=X5QCQAU6PhQ0ZYdMfsOD8SzK2tAcKqGbqHcGKOCkHg0#%F0%9F%87%B7%F0%9F%87%BARU_2%7C3.0MB%2Fs
+vless://39c42b0a-b823-4c93-bb99-74b4183e518d@ru.opngtr.nl:443?sni=cdn.savesafe.cc&flow=xtls-rprx-vision-udp443&fp=qq&security=tls#%F0%9F%87%B7%F0%9F%87%BARU_2%7C3.0MB/s
+vless://a289a3d3-5833-4b28-8809-ae72898a98d0@ru05.abvpn.ru:443?sni=ru05.abvpn.ru&type=ws&host=ru05.abvpn.ru&path=/websocketfp=edge&security=tls#%F0%9F%87%B7%F0%9F%87%BARU_1%7C3.2MB/s
