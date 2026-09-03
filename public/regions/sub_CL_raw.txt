@@ -1,1 +1,1 @@
-trojan://Mzp+sTklU5g1c_TH17Vl5np7HSQnAd7E-Q@130.94.104.148:443?security=tls&fp=chrome&type=tcp&headerType=none&path=%2f&allow_insecure=1#智利/圣地亚哥/Chile/Santiago
+hysteria2://8f0gvz5eul6omhq4@giftcard.gateway-stream.com:52017?alpn=h3&fp=chrome&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#dc-udp-%F0%9F%87%A8%F0%9F%87%B1%20Chile-Santiago

@@ -1,1 +1,1 @@
-hysteria2://belgium_hysteria2_fastlane_a118d9y0r@113.30.152.25:443?insecure=1&sni=be1.h.fastlanehosting.ru#%E6%AF%94%E5%88%A9%E6%97%B6
+hysteria2://8f0gvz5eul6omhq4@giftcard.gateway-stream.com:52008?alpn=h3&fp=chrome&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#dc-udp-%F0%9F%87%A7%F0%9F%87%AA%20Belgium-Brussels

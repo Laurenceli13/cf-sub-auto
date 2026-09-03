@@ -1,1 +1,2 @@
-hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.141:8080?sni=grape-turbo-fr.roxa.org#%E7%91%9E%E5%A3%AB
+vless://8fb328f0-d8e0-4b11-a6db-3dadfc4f02a3@ch-xh01.tcp-reset-club.net:443?security=reality&type=xhttp&path=%2Fassets%2Fv2%2Fpkg&packetEncoding=xudp&sni=s3.netavex.com&fp=chrome&sid=f79448a30d&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&mode=packet-up&encryption=none#%F0%9F%87%A8%F0%9F%87%ADCH_1%7C2.8MB%2Fs
+vless://8fb328f0-d8e0-4b11-a6db-3dadfc4f02a3@ch-xh01.tcp-reset-club.net:443?sni=s3.netavex.com&fp=chrome&security=tls#%F0%9F%87%A8%F0%9F%87%ADCH_1%7C2.8MB/s
