@@ -1,2 +1,2 @@
-vless://75079a7f-75b5-418b-8a65-f7b2f438cd4a@212.87.190.62:2054?security=reality&type=grpc&mode=gun&serviceName=grpc-tunnel&packetEncoding=xudp&sni=dl.google.com&fp=firefox&pbk=Ojwlyprfyf5D1an18CW4gwbHOWzHhKZ7Tq9F_W6-EUY&encryption=none#%F0%9F%87%BA%F0%9F%87%A6UA_1%7C3.4MB%2Fs
-vless://75079a7f-75b5-418b-8a65-f7b2f438cd4a@212.87.190.62:2054?sni=dl.google.com&type=grpc&serviceName=grpc-tunnel&fp=firefox&security=tls#%F0%9F%87%BA%F0%9F%87%A6UA_1%7C3.4MB/s
+vless://75079a7f-75b5-418b-8a65-f7b2f438cd4a@212.87.190.62:2054?security=reality&type=grpc&mode=gun&serviceName=grpc-tunnel&packetEncoding=xudp&sni=dl.google.com&fp=firefox&pbk=Ojwlyprfyf5D1an18CW4gwbHOWzHhKZ7Tq9F_W6-EUY&encryption=none#%F0%9F%87%BA%F0%9F%87%A6UA_1%7C4.3MB%2Fs
+vless://75079a7f-75b5-418b-8a65-f7b2f438cd4a@212.87.190.62:2054?sni=dl.google.com&type=grpc&serviceName=grpc-tunnel&fp=firefox&security=tls#%F0%9F%87%BA%F0%9F%87%A6UA_1%7C4.3MB/s

@@ -1,6 +1,5 @@
 hysteria2://184cdec28da5a09450803c8debcd2cc9@138.3.208.26:50160?insecure=1&sni=www.bing.com#%E6%97%A5%E6%9C%AC
-hysteria2://a9081889-1949-49ba-a2aa-7054515716de@c2.bestai.beauty:3488?insecure=1&sni=c2.bestai.beauty#%E6%97%A5%E6%9C%AC%20%231
+hysteria2://4d6d97a82ddf959252e2ada36c3c3053@138.2.8.249:50160?insecure=1&sni=www.bing.com#%E6%97%A5%E6%9C%AC%20%231
+hysteria2://a9081889-1949-49ba-a2aa-7054515716de@c2.bestai.beauty:3488?insecure=1&sni=c2.bestai.beauty#%E6%97%A5%E6%9C%AC%20%232
 hysteria2://mdq80x0xv9wt7520@giftcard.gateway-stream.com:52046?alpn=h3&fp=chrome&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#dc-udp-%F0%9F%87%AF%F0%9F%87%B5%20Japan-Tokyo
 trojan://BxceQaOe@18.167.96.176:9408?allowInsecure=1&sni=t.me%252Fripaojiedian#%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
-vless://16e80f38-e97e-4b14-ba89-77d87a3e637f@wangcai.cf.877774.xyz:443?security=tls&type=ws&path=%2Fsg-orcl&host=ex3r.qzz.io&packetEncoding=xudp&sni=ex3r.qzz.io&fp=chrome&encryption=none#%F0%9F%87%AF%F0%9F%87%B5JP_3%7C2.0MB%2Fs
-vless://16e80f38-e97e-4b14-ba89-77d87a3e637f@wangcai.cf.877774.xyz:443?sni=ex3r.qzz.io&type=ws&host=ex3r.qzz.io&path=/sg-orclfp=chrome&security=tls#%F0%9F%87%AF%F0%9F%87%B5JP_3%7C2.0MB/s

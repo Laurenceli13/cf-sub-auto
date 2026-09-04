@@ -1,1 +1,2 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.206.12.40:8880?type=ws&host=vms.lifetime44.workers.dev&path=/?ed=2560&https://t.me/youtube@ZYFXS🇨🇳#A%20-%20%F0%9F%87%AE%F0%9F%87%B9%20IT%2001%20TG%3A%20%40nodpai
+vless://ef4f4c3d-0b16-48ad-a8d8-2d22512b3b36@91.201.67.58:443?security=tls&type=xhttp&path=%2Fassets&packetEncoding=xudp&sni=media-it.adsmoba.com&fp=chrome&mode=auto&encryption=none#%F0%9F%87%AE%F0%9F%87%B9IT_1%7C1.4MB%2Fs
+vless://ef4f4c3d-0b16-48ad-a8d8-2d22512b3b36@91.201.67.58:443?sni=media-it.adsmoba.com&fp=chrome&security=tls#%F0%9F%87%AE%F0%9F%87%B9IT_1%7C1.4MB/s

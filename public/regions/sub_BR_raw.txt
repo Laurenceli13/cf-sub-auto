@@ -1,1 +1,2 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@198.71.189.30:8880?type=ws&host=vms.lifetime04.workers.dev#A%20-%20%F0%9F%87%A7%F0%9F%87%B7%20BR%2001%20TG%3A%20%40nodpai
+vless://ec972f43-cdfa-4d88-a020-64e17eeabc99@179.255.190.30:443?security=reality&type=tcp&packetEncoding=xudp&sni=cdn-330cd9.vless.monster&fp=firefox&flow=xtls-rprx-vision&sid=6f75347fbc948997&pbk=0oHuU4mx1Uw3_lF7QZXYfwPMbuStgMRk2tk7VpCc_js&encryption=none#%F0%9F%87%A7%F0%9F%87%B7BR_1%7C2.1MB%2Fs
+vless://ec972f43-cdfa-4d88-a020-64e17eeabc99@179.255.190.30:443?sni=cdn-330cd9.vless.monster&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#%F0%9F%87%A7%F0%9F%87%B7BR_1%7C2.1MB/s
