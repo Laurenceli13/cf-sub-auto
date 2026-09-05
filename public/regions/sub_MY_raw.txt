@@ -1,1 +1,1 @@
-vless://2eadb97f-bba4-4471-8d55-bd461525a2dc@149.118.158.90:8443?security=tls&type=ws&path=%2F&host=eded-52n.pages.dev&packetEncoding=xudp&sni=eded-52n.pages.dev&fp=chrome#%F0%9F%87%B2%F0%9F%87%BEMY_1%7C1.7MB%2Fs
+vless://e8358eb5-7210-4cf8-982f-68af141b7694@56.69.159.191:53271?security=reality&type=tcp&packetEncoding=xudp&sni=www.tesla.com&fp=chrome&flow=xtls-rprx-vision&sid=0a9bd9db19578964&pbk=1P58ZYmo81kPDnL4U7SnEUA-aT2R86l-o6dbFXoeDjc#%F0%9F%87%B2%F0%9F%87%BEMY_1%7C4.3MB%2Fs
