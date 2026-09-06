@@ -1,6 +1,8 @@
+hysteria2://AstroVPN_official@ptserv.accuratenetworkchecker.ir:36896?sni=lms22.gelzaro.ir#%F0%9F%87%AC%F0%9F%87%A7163214%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me/S...
 hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@103.246.248.234:8080?insecure=1&sni=hopp-legend-se.roxa.org#%E8%8B%B1%E5%9B%BD%20%231
 hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@138.124.0.168:8080?insecure=1&sni=hopp-legend-se.roxa.org#%E8%8B%B1%E5%9B%BD%20%232
-vless://3614a2a2-b0db-43f7-9a34-b1248539d848@46.226.162.172:64584?security=none&type=tcp&packetEncoding=xudp&encryption=none#%F0%9F%87%AC%F0%9F%87%A7GB_3%7C1.4MB%2Fs
-vless://75079a7f-75b5-418b-8a65-f7b2f438cd4a@31.76.0.105:2054?security=reality&type=grpc&mode=gun&serviceName=grpc-tunnel&packetEncoding=xudp&sni=www.ibm.com&fp=chrome&pbk=zZ3j8Cw2soL_X2yrp5hOiN-Y5l0RdkY523LYkKYfQhM&encryption=none#%F0%9F%87%AC%F0%9F%87%A7GB_1%7C1.1MB%2Fs
-vless://c6037cf7-d931-4027-af06-6bfb0f10684c@50.7.92.252:443?security=reality&type=tcp&packetEncoding=xudp&sni=apiv1.jarvesitw.ru&fp=chrome&flow=xtls-rprx-vision&sid=8beb2706&pbk=ojDrVO838PScByjy1cb1-LLEpEh4LhJKG_jldp8g7xo&encryption=none#%F0%9F%87%AC%F0%9F%87%A7GB_2%7C2.7MB%2Fs
-vless://c6037cf7-d931-4027-af06-6bfb0f10684c@sv1.jarvesitw.ru:443?security=reality&type=tcp&packetEncoding=xudp&sni=apiv1.jarvesitw.ru&fp=firefox&flow=xtls-rprx-vision&sid=8beb2706&pbk=ojDrVO838PScByjy1cb1-LLEpEh4LhJKG_jldp8g7xo&encryption=none#%F0%9F%87%AC%F0%9F%87%A7GB_11%7C1.2MB%2Fs
+ss://2022-blake3-chacha20-poly1305:wtrUMVbSRSi4MlzATr%2BFjvqFCczZWFxG3hZ7%2BIWW1y0%3D@134.65.57.72:61312#%F0%9F%87%AC%F0%9F%87%A7GB_1%7C1.1MB%2Fs
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6d3RyVU1WYlNSU2k0TWx6QVRyK0ZqdnFGQ2N6WldGeEczaFo3K0lXVzF5MD0=@134.65.57.72:61312#%F0%9F%87%AC%F0%9F%87%A7GB_1%7C1.1MB/s
+vless://428e923f-e608-412b-9e51-3b09ffab551f@31.77.111.11:43439?security=reality&type=grpc&mode=gun&serviceName=streaming&packetEncoding=xudp&sni=cdn.higames.ru&fp=firefox&sid=39ad36226f3abec8&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&encryption=none#%F0%9F%87%AC%F0%9F%87%A7GB_5%7C3.7MB%2Fs
+vless://428e923f-e608-412b-9e51-3b09ffab551f@31.77.111.11:43439?sni=cdn.higames.ru&type=grpc&serviceName=streaming&fp=firefox&security=tls#%F0%9F%87%AC%F0%9F%87%A7GB_5%7C3.7MB/s
+vless://b2eed725-ce71-4ca8-967e-639669f26bc3@82.40.62.39:40421?sni=amp-api-edge.apps.apple.com&fp=chrome&security=tls#%F0%9F%87%AC%F0%9F%87%A7GB_3%7C3.0MB/s

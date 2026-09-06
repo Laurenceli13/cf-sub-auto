@@ -1,8 +1,12 @@
 hysteria2://14f7504c-bd01-4d88-bd42-80dc6bf6b202@samurai.h4ck.me:443?#%E8%8A%AC%E5%85%B0
+hysteria2://6mk75ho4jzef3uuj@giftcard.gateway-stream.com:52026?insecure=0&alpn=h3&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#%F0%9F%87%AB%F0%9F%87%AE163236%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me/S...
+hysteria2://6mk75ho4jzef3uuj@giftcard.gateway-stream.com:52057?insecure=0&alpn=h3&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#%F0%9F%87%AB%F0%9F%87%AE163237%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me/S...
 hysteria2://7c5566a7-4b55-4659-975f-06507d32fd3f@ltu-01.node.lumixnet.com:443?insecure=1&sni=ltu-01.node.lumixnet.com#%E8%8A%AC%E5%85%B0%20%231
 hysteria2://8f0gvz5eul6omhq4@giftcard.gateway-stream.com:52029?insecure=0&alpn=h3&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#-%F0%9F%87%AB%F0%9F%87%AE%20%40VConfing%20%231
 hysteria2://BPvdjudCGodsF67hRP3xgBYvcKp48coTsh6ANydLhQs%3D@fin14qr.wwwinternetvideo.click:443?insecure=1&sni=fin14qr.wwwinternetvideo.click#%E8%8A%AC%E5%85%B0%20%232
 hysteria2://becd3b04-62a8-4b74-be67-be746008b4c2@45.149.147.194:443?insecure=1&sni=hys-mesh.spliceflowtech.com#%E8%8A%AC%E5%85%B0%20%233
-hysteria2://clz08qwil91241w7@giftcard.gateway-stream.com:52029?insecure=0&alpn=h3&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#-%F0%9F%87%AB%F0%9F%87%AE%20%40VConfing%20%232
-hysteria2://fmaznn1lrzys7ddy@giftcard.gateway-stream.com:52029?alpn=h3&fp=chrome&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#dc-udp-%F0%9F%87%AB%F0%9F%87%AE%20Finland-Helsinki
+hysteria2://sxc15led4b0vp5fy@musicclips.videolinks.ru:8443?insecure=0&sni=musicclips.videolinks.ru&obfs=salamander&obfs-password=8zzng75tz4tf82pj#%F0%9F%87%AB%F0%9F%87%AEFI_1%7C2.5MB/s
+hysteria2://sxc15led4b0vp5fy@musicclips.videolinks.ru:8443?insecure=0&sni=musicclips.videolinks.ru&obfs=salamander&obfs-password=8zzng75tz4tf82pj#%F0%9F%87%AB%F0%9F%87%AEFI_2%7C4.1MB/s
+hysteria2://sxc15led4b0vp5fy@musicclips.videolinks.ru:8443?obfs=salamander&obfs-password=8zzng75tz4tf82pj&sni=musicclips.videolinks.ru#%F0%9F%87%AB%F0%9F%87%AEFI_1%7C2.5MB%2Fs
 hysteria2://xf2ak19a4uajprxg@giftcard.gateway-stream.com:52090?insecure=0&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#Telegram%20%F0%9F%86%94%40cnetvpn%20%F0%9F%87%AB%F0%9F%87%AE
+vless://95b5d1d0-a878-4a52-bf2a-c8e323457b02@k2.cloud--vpn.site:443?sni=ssl.fastly.com&alpn=h2&type=ws&host=c12.com&path=/fp=firefox&security=tls#%F0%9F%87%AB%F0%9F%87%AEFI_1%7C3.4MB/s

@@ -1,1 +1,2 @@
-vless://7ab9fe4f-6699-427f-a828-9fcf2496d714@201.24.54.241:21443?sni=www.cloudflare.com&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#%F0%9F%87%A6%F0%9F%87%AAAE_1%7C1.8MB/s
+hysteria2://sOiWCQ2AdIV0OWNuqQVyWp4JZnRxdyLROSjX@news.gazette.help:443?insecure=0&sni=news.gazette.help&obfs=&obfs-password=#%F0%9F%87%A6%F0%9F%87%AAAE_1%7C2.1MB/s
+hysteria2://sOiWCQ2AdIV0OWNuqQVyWp4JZnRxdyLROSjX@news.gazette.help:443?sni=news.gazette.help#%F0%9F%87%A6%F0%9F%87%AAAE_1%7C2.1MB%2Fs
