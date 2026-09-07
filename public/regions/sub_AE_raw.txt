@@ -1,2 +1,1 @@
-hysteria2://sOiWCQ2AdIV0OWNuqQVyWp4JZnRxdyLROSjX@news.gazette.help:443?insecure=0&sni=news.gazette.help&obfs=&obfs-password=#%F0%9F%87%A6%F0%9F%87%AAAE_1%7C2.1MB/s
-hysteria2://sOiWCQ2AdIV0OWNuqQVyWp4JZnRxdyLROSjX@news.gazette.help:443?sni=news.gazette.help#%F0%9F%87%A6%F0%9F%87%AAAE_1%7C2.1MB%2Fs
+hysteria2://sOiWCQ2AdIV0OWNuqQVyWp4JZnRxdyLROSjX@news.gazette.help:443?sni=news.gazette.help#%E9%98%BF%E8%81%94%E9%85%8B

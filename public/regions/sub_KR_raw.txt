@@ -1,2 +1,3 @@
 hysteria2://1671a252e2a97dc2bda4e515475931da@132.226.226.189:50160?insecure=1&sni=www.bing.com#%E9%9F%A9%E5%9B%BD
-ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@121.46.230.138:65443#%F0%9F%87%B0%F0%9F%87%B7KR_1%7C2.4MB/s
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.124.28.122:8686?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&sid=628b3c90c98ead4f&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&encryption=none#%F0%9F%87%B0%F0%9F%87%B7KR_1%7C1.3MB%2Fs
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.124.28.122:8686?sni=www.apple.com&fp=chrome&security=tls#%F0%9F%87%B0%F0%9F%87%B7KR_1%7C1.3MB/s
