@@ -1,9 +1,8 @@
-hysteria2://184cdec28da5a09450803c8debcd2cc9@138.3.208.26:50160?insecure=1&sni=www.bing.com#%E6%97%A5%E6%9C%AC
-hysteria2://4d6d97a82ddf959252e2ada36c3c3053@138.2.8.249:50160?insecure=1&sni=www.bing.com#%E6%97%A5%E6%9C%AC%20%231
-hysteria2://a9081889-1949-49ba-a2aa-7054515716de@c2.bestai.beauty:3488?insecure=1&sni=c2.bestai.beauty#%E6%97%A5%E6%9C%AC%20%232
+hysteria2://07a4fcf5553a80cf300374d325386038@141.147.151.58:443?insecure=1&sni=www.bing.com&obfs=salamander&obfs-password=d0dd99b2b4da604123ce17b6d17072a2#%E6%97%A5%E6%9C%AC
+hysteria2://184cdec28da5a09450803c8debcd2cc9@138.3.208.26:50160?insecure=1&sni=www.bing.com#%E6%97%A5%E6%9C%AC%20%231
+hysteria2://4d6d97a82ddf959252e2ada36c3c3053@138.2.8.249:50160?insecure=1&sni=www.bing.com#%E6%97%A5%E6%9C%AC%20%232
+hysteria2://a9081889-1949-49ba-a2aa-7054515716de@c2.bestai.beauty:3488?insecure=1&sni=c2.bestai.beauty#%E6%97%A5%E6%9C%AC%20%233
 hysteria2://mdq80x0xv9wt7520@giftcard.gateway-stream.com:52046?alpn=h3&fp=chrome&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#dc-udp-%F0%9F%87%AF%F0%9F%87%B5%20Japan-Tokyo
 trojan://BxceQaOe@35.73.128.210:3893?allowInsecure=1&sni=t.me%252Fripaojiedian#%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
-vless://341832cc-ba98-425b-8225-b3db621a0da3@saas.sin.fan:2096?security=tls&type=ws&path=%2F&host=cindy.rainfall0705.cc.cd&packetEncoding=xudp&sni=cindy.rainfall0705.cc.cd&fp=chrome&encryption=none#%F0%9F%87%AF%F0%9F%87%B5JP_2%7C3.6MB%2Fs
-vless://341832cc-ba98-425b-8225-b3db621a0da3@saas.sin.fan:2096?sni=cindy.rainfall0705.cc.cd&type=ws&host=cindy.rainfall0705.cc.cd&path=/fp=chrome&security=tls#%F0%9F%87%AF%F0%9F%87%B5JP_2%7C3.6MB/s
-vless://7b102311-43fd-4e8f-877e-8090623c101d@134.122.164.41:443?security=tls&type=ws&path=%2F&host=vp10.pages.dev&packetEncoding=xudp&sni=vp10.pages.dev&fp=firefox&encryption=none#%F0%9F%87%AF%F0%9F%87%B5JP_3%7C1.7MB%2Fs
-vless://7b102311-43fd-4e8f-877e-8090623c101d@134.122.164.41:443?sni=vp10.pages.dev&type=ws&host=vp10.pages.dev&path=/fp=firefox&security=tls#%F0%9F%87%AF%F0%9F%87%B5JP_3%7C1.7MB/s
+vless://341832cc-ba98-425b-8225-b3db621a0da3@saas.sin.fan:2096?security=tls&type=ws&path=%2F&host=cindy.rainfall0705.cc.cd&packetEncoding=xudp&sni=cindy.rainfall0705.cc.cd&fp=chrome&encryption=none#%F0%9F%87%AF%F0%9F%87%B5JP_1%7C5.2MB%2Fs
+vless://341832cc-ba98-425b-8225-b3db621a0da3@saas.sin.fan:2096?sni=cindy.rainfall0705.cc.cd&type=ws&host=cindy.rainfall0705.cc.cd&path=/fp=chrome&security=tls#%F0%9F%87%AF%F0%9F%87%B5JP_1%7C5.2MB/s

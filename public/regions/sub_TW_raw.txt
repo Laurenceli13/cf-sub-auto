@@ -1,3 +1,1 @@
 ss://YWVzLTI1Ni1nY206QnV0dGVyZmx5MTIzQHF3ZTk1Mjc=@36.33.35.105:30001#%E5%8F%B0%E6%B9%BE%7C%40ripaojiedian
-vless://b5ea4dcb-cd04-466c-bd43-f9ea10953803@83.147.13.193:443?allowInsecure=1&sni=youxuan.xiaosa.kdns.fr&type=ws&host=youxuan.xiaosa.kdns.fr&path=/fp=chrome&security=tls#%F0%9F%87%B9%F0%9F%87%BCTW_1%7C2.1MB/s
-vless://b5ea4dcb-cd04-466c-bd43-f9ea10953803@83.147.13.193:443?security=tls&type=ws&path=%2F&host=youxuan.xiaosa.kdns.fr&packetEncoding=none&allowInsecure=1&sni=youxuan.xiaosa.kdns.fr&fp=chrome#%F0%9F%87%B9%F0%9F%87%BCTW_1%7C2.1MB%2Fs

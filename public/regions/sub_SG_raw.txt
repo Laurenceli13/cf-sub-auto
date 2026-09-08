@@ -1,3 +1,8 @@
-hysteria2://0a344117cfeef3d6602e338c2f1e7957@38.180.190.215:50160?insecure=1&sni=www.bing.com#%E6%96%B0%E5%8A%A0%E5%9D%A1
-hysteria2://19f72087-4591-4d72-930b-2697078ec2be@sg1.xiaoliyu.cyou:1933?insecure=1&sni=sg1.xiaoliyu.cyou#%E6%96%B0%E5%8A%A0%E5%9D%A1%20%231
+hysteria2://19f72087-4591-4d72-930b-2697078ec2be@sg1.xiaoliyu.cyou:1933?insecure=1&sni=sg1.xiaoliyu.cyou#%E6%96%B0%E5%8A%A0%E5%9D%A1
 hysteria2://s6gt5e4mof43sfg8@giftcard.gateway-stream.com:52063?alpn=h3&fp=chrome&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#dc-udp-%F0%9F%87%B8%F0%9F%87%AC%20Singapore-Singapore
+ss://YWVzLTI1Ni1nY206ak55Mlhzd0kzZEQwVXBhbA==@192.124.176.28:8388#%F0%9F%87%B8%F0%9F%87%ACSG_4%7C1.4MB%2Fs
+ss://YWVzLTI1Ni1nY206ak55Mlhzd0kzZEQwVXBhbA==@192.124.176.28:8388#%F0%9F%87%B8%F0%9F%87%ACSG_4%7C1.4MB/s
+vless://2a88deea-221d-3f06-9846-4067c6f725ee@family.bucket.6.kfc-520.com:10018?security=reality&type=tcp&packetEncoding=xudp&sni=www.sap.com&fp=firefox&flow=xtls-rprx-vision&sid=6cfa2459bb&pbk=__YqMje4P5LY575OvzZjKJddTTn3vI6n0tMsMKCgcRY#%F0%9F%87%B8%F0%9F%87%ACSG_3%7C2.3MB%2Fs
+vless://2a88deea-221d-3f06-9846-4067c6f725ee@family.bucket.6.kfc-520.com:10018?sni=www.sap.com&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#%F0%9F%87%B8%F0%9F%87%ACSG_3%7C2.3MB/s
+vless://7b102311-43fd-4e8f-877e-8090623c101d@188.164.248.67:443?security=tls&type=ws&path=%2F&host=vp21.cc.cd&packetEncoding=xudp&sni=vp21.cc.cd&fp=chrome#%F0%9F%87%B8%F0%9F%87%ACSG_2%7C3.7MB%2Fs
+vless://7b102311-43fd-4e8f-877e-8090623c101d@188.164.248.67:443?sni=vp21.cc.cd&type=ws&host=vp21.cc.cd&path=/fp=chrome&security=tls#%F0%9F%87%B8%F0%9F%87%ACSG_2%7C3.7MB/s
