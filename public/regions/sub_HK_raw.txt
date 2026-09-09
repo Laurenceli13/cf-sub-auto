@@ -1,3 +1,1 @@
-vless://DFDBA849-E8F0-4C1B-9BD6-C4C87679B0A3@hk6-r.link-t7.com:10136?security=reality&type=grpc&mode=gun&serviceName=movie&packetEncoding=xudp&sni=s0.awsstatic.com&fp=chrome&sid=686c0ef0&pbk=wOu-BMrXvk9KX23JZrlpUlF4SMjDcejm0vNECdhy5xE&encryption=none#%F0%9F%87%AD%F0%9F%87%B0HK_1%7C5.0MB%2Fs
-vless://DFDBA849-E8F0-4C1B-9BD6-C4C87679B0A3@hk6-r.link-t7.com:10136?sni=s0.awsstatic.com&type=grpc&serviceName=movie&fp=chrome&security=tls#%F0%9F%87%AD%F0%9F%87%B0HK_1%7C5.0MB/s
-vless://DFDBA849-E8F0-4C1B-9BD6-C4C87679B0A3@hk6-r.link-t7.com:10136?sni=s0.awsstatic.com&type=grpc&serviceName=movie&fp=chrome&security=tls#%F0%9F%87%AD%F0%9F%87%B0HK_1%7C5.1MB/s
+trojan://d742752c-4231-4695-801e-f06d77f0f277@hk04.qianmoip.win:52224?allowInsecure=1&sni=taobao.com#%F0%9F%87%AD%F0%9F%87%B0HK_1%7C4.1MB/s

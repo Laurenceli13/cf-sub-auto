@@ -1,3 +1,1 @@
 hysteria2://60e2a548-96aa-4850-a279-1edab743c39b@md1.cnyvpn.com:443?insecure=1&sni=md1.cnyvpn.com#%E6%91%A9%E5%B0%94%E5%A4%9A%E7%93%A6
-vless://92089155-6602-4122-86d4-fe6de20e8c4d@31.59.150.174:9443?allowInsecure=1&sni=hotcoals.aeternavpn.space&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#%F0%9F%87%B2%F0%9F%87%A9MD_1%7C2.3MB/s
-vless://92089155-6602-4122-86d4-fe6de20e8c4d@31.59.150.174:9443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=hotcoals.aeternavpn.space&fp=firefox&flow=xtls-rprx-vision&sid=a1b2c3d4&pbk=RWu6ktBE4DFbUz_prmz-5KuolLhO53ehh19mNxhP-wI#%F0%9F%87%B2%F0%9F%87%A9MD_1%7C2.3MB%2Fs

@@ -1,1 +1,2 @@
 hysteria2://sOiWCQ2AdIV0OWNuqQVyWp4JZnRxdyLROSjX@news.gazette.help:443?sni=news.gazette.help#%E9%98%BF%E8%81%94%E9%85%8B
+vless://bbb9b9db-d7f8-4242-b053-8526899f87b5@195.58.46.35:443?sni=irangov.ir&type=grpc&serviceName=livestreamcontent&fp=chrome&security=tls#%F0%9F%87%A6%F0%9F%87%AAAE_1%7C1.2MB/s
