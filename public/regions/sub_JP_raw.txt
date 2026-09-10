@@ -3,3 +3,5 @@ hysteria2://184cdec28da5a09450803c8debcd2cc9@138.3.208.26:50160?insecure=1&sni=w
 hysteria2://4d6d97a82ddf959252e2ada36c3c3053@138.2.8.249:50160?insecure=1&sni=www.bing.com#%E6%97%A5%E6%9C%AC%20%232
 hysteria2://mdq80x0xv9wt7520@giftcard.gateway-stream.com:52046?alpn=h3&fp=chrome&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#dc-udp-%F0%9F%87%AF%F0%9F%87%B5%20Japan-Tokyo
 trojan://BxceQaOe@35.73.128.210:3893?allowInsecure=1&sni=t.me%252Fripaojiedian#%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
+vless://75bc1bab-ff62-4c7c-a946-ec49fd53f89f@node1.jjjjjj.eu.cc:443?security=tls&type=ws&path=%2Fjige%3Fed%3D2048&host=jpb2.jjjjjj.eu.cc&packetEncoding=xudp&sni=jpb2.jjjjjj.eu.cc&fp=chrome&encryption=none#%F0%9F%87%AF%F0%9F%87%B5JP_1%7C5.5MB%2Fs
+vless://75bc1bab-ff62-4c7c-a946-ec49fd53f89f@node1.jjjjjj.eu.cc:443?sni=jpb2.jjjjjj.eu.cc&type=ws&host=jpb2.jjjjjj.eu.cc&path=/jige?ed=2048fp=chrome&security=tls#%F0%9F%87%AF%F0%9F%87%B5JP_1%7C5.5MB/s

@@ -3,4 +3,4 @@ hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?insecure=1&sni=YAPC-
 hysteria2://mdq80x0xv9wt7520@giftcard.gateway-stream.com:52050?alpn=h3&fp=chrome&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#dc-udp-%F0%9F%87%B3%F0%9F%87%B1%20Netherlands-Amsterda...
 hysteria2://s6gt5e4mof43sfg8@giftcard.gateway-stream.com:52050?alpn=h3&fp=chrome&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#%F0%9F%87%B3%F0%9F%87%B15%40JKVPN
 hysteria2://s6gt5e4mof43sfg8@giftcard.gateway-stream.com:52050?insecure=0&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#Telegram%20%F0%9F%86%94%40cnetvpn%20%F0%9F%87%B3%F0%9F%87%B1
-vless://d9d0f208-d582-41d5-bb7b-742671402810@188.137.182.98:443?allowInsecure=1&sni=eu-west-nl-1.hanvpn.biz&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%B3%F0%9F%87%B1NL_7%7C4.1MB/s
+vless://e8dac4fa-295c-4232-8279-2fe14b312a42@193.57.9.120:443?sni=www.amazon.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%B3%F0%9F%87%B1NL_7%7C3.2MB/s

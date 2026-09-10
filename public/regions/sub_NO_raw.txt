@@ -1,2 +1,1 @@
-vless://ae0d03aa-6e1e-433f-864e-06b49ed2737c@151.242.169.44:443?security=reality&type=tcp&packetEncoding=xudp&sni=frantax.my3cx.de&fp=firefox&flow=xtls-rprx-vision&sid=f6b5862c1f73ab80&pbk=oXYB-DXrI08UVBRFq8MERP36betSSd7Yb6MLN88F2R4#%F0%9F%87%B3%F0%9F%87%B4NO_1%7C2.3MB%2Fs
-vless://bb736369-b88e-4f18-9453-258364819ca7@151.242.169.44:443?security=reality&type=tcp&packetEncoding=none&sni=frantax.my3cx.de&fp=firefox&flow=xtls-rprx-vision&sid=f6b5862c1f73ab80&pbk=oXYB-DXrI08UVBRFq8MERP36betSSd7Yb6MLN88F2R4#%F0%9F%87%B3%F0%9F%87%B4NO_2%7C1.4MB%2Fs
+vless://1cbeb6e4-06c0-421b-9baa-8af782d6e6cc@151.242.168.207:443?sni=kibi-institut.de&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#%F0%9F%87%B3%F0%9F%87%B4NO_1%7C1.1MB/s
