@@ -1,3 +1,1 @@
 hysteria2://g2d0ooqq3ykzsacc@giftcard.gateway-stream.com:52002?alpn=h3&fp=chrome&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#dc-udp-%F0%9F%87%A6%F0%9F%87%B9%20Austria-Vienna
-vless://edde565e-41f5-400e-84ea-7b87a3e84488@152.53.1.40:443?security=reality&type=tcp&packetEncoding=xudp&sni=at.quattro-tech.ru&fp=qq&flow=xtls-rprx-vision&sid=43dcff53849b81e6&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc#%F0%9F%87%A6%F0%9F%87%B9AT_1%7C2.6MB%2Fs
-vless://edde565e-41f5-400e-84ea-7b87a3e84488@152.53.1.40:443?sni=at.quattro-tech.ru&flow=xtls-rprx-vision-udp443&fp=qq&security=tls#%F0%9F%87%A6%F0%9F%87%B9AT_1%7C2.6MB/s

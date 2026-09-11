@@ -1,42 +1,27 @@
 {
-  "updated": "2026-09-10T05:02:58Z",
-  "total_nodes": 100,
-  "v2ray_nodes": 100,
-  "hysteria_nodes": 0,
+  "updated": "2026-09-11T04:59:39Z",
+  "total_nodes": 58,
+  "v2ray_nodes": 42,
+  "hysteria_nodes": 16,
   "regions": {
     "OTHER": {
       "name": "其他",
       "emoji": "🌐",
-      "count": 100
-    },
-    "GB": {
-      "name": "英国",
-      "emoji": "🇬🇧",
-      "count": 0
+      "count": 55
     },
     "US": {
       "name": "美国",
       "emoji": "🇺🇸",
+      "count": 3
+    },
+    "NL": {
+      "name": "荷兰",
+      "emoji": "🇳🇱",
       "count": 0
     },
     "DE": {
       "name": "德国",
       "emoji": "🇩🇪",
-      "count": 0
-    },
-    "KR": {
-      "name": "韩国",
-      "emoji": "🇰🇷",
-      "count": 0
-    },
-    "SG": {
-      "name": "新加坡",
-      "emoji": "🇸🇬",
-      "count": 0
-    },
-    "FI": {
-      "name": "芬兰",
-      "emoji": "🇫🇮",
       "count": 0
     },
     "FR": {
@@ -49,9 +34,14 @@
       "emoji": "🇯🇵",
       "count": 0
     },
-    "NL": {
-      "name": "荷兰",
-      "emoji": "🇳🇱",
+    "RU": {
+      "name": "俄罗斯",
+      "emoji": "🇷🇺",
+      "count": 0
+    },
+    "FI": {
+      "name": "芬兰",
+      "emoji": "🇫🇮",
       "count": 0
     },
     "AU": {
@@ -59,19 +49,39 @@
       "emoji": "🇦🇺",
       "count": 0
     },
+    "CA": {
+      "name": "加拿大",
+      "emoji": "🇨🇦",
+      "count": 0
+    },
+    "GB": {
+      "name": "英国",
+      "emoji": "🇬🇧",
+      "count": 0
+    },
     "AR": {
       "name": "阿根廷",
       "emoji": "🇦🇷",
       "count": 0
     },
-    "AT": {
-      "name": "奥地利",
-      "emoji": "🇦🇹",
-      "count": 0
-    },
     "PL": {
       "name": "波兰",
       "emoji": "🇵🇱",
+      "count": 0
+    },
+    "KR": {
+      "name": "韩国",
+      "emoji": "🇰🇷",
+      "count": 0
+    },
+    "CH": {
+      "name": "瑞士",
+      "emoji": "🇨🇭",
+      "count": 0
+    },
+    "SG": {
+      "name": "新加坡",
+      "emoji": "🇸🇬",
       "count": 0
     },
     "RO": {
@@ -89,14 +99,14 @@
       "emoji": "🇹🇷",
       "count": 0
     },
-    "IN": {
-      "name": "印度",
-      "emoji": "🇮🇳",
-      "count": 0
-    },
     "BR": {
       "name": "巴西",
       "emoji": "🇧🇷",
+      "count": 0
+    },
+    "AT": {
+      "name": "奥地利",
+      "emoji": "🇦🇹",
       "count": 0
     },
     "BE": {
@@ -104,19 +114,9 @@
       "emoji": "🇧🇪",
       "count": 0
     },
-    "IE": {
-      "name": "爱尔兰",
-      "emoji": "🇮🇪",
-      "count": 0
-    },
     "TW": {
       "name": "台湾",
       "emoji": "🇹🇼",
-      "count": 0
-    },
-    "NO": {
-      "name": "挪威",
-      "emoji": "🇳🇴",
       "count": 0
     }
   }

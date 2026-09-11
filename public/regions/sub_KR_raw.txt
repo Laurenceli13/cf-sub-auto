@@ -1,12 +1,2 @@
-hysteria2://1671a252e2a97dc2bda4e515475931da@132.226.226.189:50160?insecure=1&sni=www.bing.com#%E9%9F%A9%E5%9B%BD
-vless://1a17b19d-4896-4531-af79-6e91d8ef8228@3.34.197.128:8686?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&sid=628b3c90c98ead4f&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&encryption=none#%F0%9F%87%B0%F0%9F%87%B7KR_3%7C4.8MB%2Fs
-vless://1a17b19d-4896-4531-af79-6e91d8ef8228@3.34.197.128:8686?sni=www.apple.com&fp=chrome&security=tls#%F0%9F%87%B0%F0%9F%87%B7KR_3%7C4.8MB/s
-vless://D2436339-0F26-479A-8064-4D91C2B93652@kr1-r.link-t7.com:10046?security=reality&type=grpc&mode=gun&serviceName=update&packetEncoding=none&sni=s0.awsstatic.com&fp=chrome&sid=686c0ef0&pbk=wOu-BMrXvk9KX23JZrlpUlF4SMjDcejm0vNECdhy5xE#%F0%9F%87%B0%F0%9F%87%B7KR_2%7C5.2MB%2Fs
-vless://D2436339-0F26-479A-8064-4D91C2B93652@kr1-r.link-t7.com:10046?sni=s0.awsstatic.com&type=grpc&serviceName=update&fp=chrome&security=tls#%F0%9F%87%B0%F0%9F%87%B7KR_2%7C5.2MB/s
-vless://D2436339-0F26-479A-8064-4D91C2B93652@kr2-r.link-t7.com:10047?security=reality&type=grpc&mode=gun&serviceName=update&packetEncoding=none&sni=s0.awsstatic.com&fp=chrome&sid=686c0ef0&pbk=wOu-BMrXvk9KX23JZrlpUlF4SMjDcejm0vNECdhy5xE#%F0%9F%87%B0%F0%9F%87%B7KR_4%7C5.9MB%2Fs
-vless://D2436339-0F26-479A-8064-4D91C2B93652@kr2-r.link-t7.com:10047?sni=s0.awsstatic.com&type=grpc&serviceName=update&fp=chrome&security=tls#%F0%9F%87%B0%F0%9F%87%B7KR_4%7C5.9MB/s
-vless://D2436339-0F26-479A-8064-4D91C2B93652@kr3-r.link-t7.com:10048?security=reality&type=grpc&mode=gun&serviceName=update&packetEncoding=none&sni=s0.awsstatic.com&fp=chrome&sid=686c0ef0&pbk=wOu-BMrXvk9KX23JZrlpUlF4SMjDcejm0vNECdhy5xE#%F0%9F%87%B0%F0%9F%87%B7KR_5%7C4.8MB%2Fs
-vless://D2436339-0F26-479A-8064-4D91C2B93652@kr3-r.link-t7.com:10048?sni=s0.awsstatic.com&type=grpc&serviceName=update&fp=chrome&security=tls#%F0%9F%87%B0%F0%9F%87%B7KR_5%7C4.8MB/s
-vless://D2436339-0F26-479A-8064-4D91C2B93652@kr4-r.link-t7.com:10049?security=reality&type=grpc&mode=gun&serviceName=update&packetEncoding=none&sni=s0.awsstatic.com&fp=chrome&sid=686c0ef0&pbk=wOu-BMrXvk9KX23JZrlpUlF4SMjDcejm0vNECdhy5xE#%F0%9F%87%B0%F0%9F%87%B7KR_1%7C4.8MB%2Fs
-vless://D2436339-0F26-479A-8064-4D91C2B93652@kr4-r.link-t7.com:10049?sni=s0.awsstatic.com&type=grpc&serviceName=update&fp=chrome&security=tls#%F0%9F%87%B0%F0%9F%87%B7KR_1%7C4.8MB/s
-vless://D2436339-0F26-479A-8064-4D91C2B93652@kr4-r.link-t7.com:10049?sni=s0.awsstatic.com&type=grpc&serviceName=update&fp=chrome&security=tls#%F0%9F%87%B0%F0%9F%87%B7KR_1%7C5.3MB/s
+ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@121.46.230.138:65443#%F0%9F%87%B0%F0%9F%87%B7KR_1%7C2.0MB%2Fs
+ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@121.46.230.138:65443#%F0%9F%87%B0%F0%9F%87%B7KR_1%7C2.0MB/s
