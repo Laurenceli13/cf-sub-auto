@@ -2,8 +2,4 @@ hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@35.181.169.140:443?insecure=1&sni=35.181.16
 hysteria2://dsmO0439gj_nX942GJRE_9j39fbcxv52_R@85.209.157.177:8080?sni=hopp-transit.1cooldns.com#%E6%B3%95%E5%9B%BD%20%231
 hysteria2://s6gt5e4mof43sfg8@giftcard.gateway-stream.com:52030?alpn=h3&fp=chrome&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#%F0%9F%87%AB%F0%9F%87%B73%40JKVPN
 hysteria2://vz86jgszv4zszchv@giftcard.gateway-stream.com:52030?insecure=0&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#%F0%9F%87%AB%F0%9F%87%B7%40AZARBAYJAB1
-trojan://humanity@45.130.125.158:443?allowInsecure=0&sni=www.ignitelimit.com&type=ws&path=/assignment#%F0%9F%87%AB%F0%9F%87%B7FR_1%7C1001KB/s
-trojan://humanity@45.130.125.158:443?sni=www.ignitelimit.com&type=ws&path=%2Fassignment&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7FR_1%7C1001KB%2Fs
-vless://2a7793b4-a70f-42a3-aecc-1082da7a933d@151.101.109.28:443?security=tls&type=xhttp&path=%2F&host=oh3.global.ssl.fastly.net&packetEncoding=xudp&alpn=h3&sni=accounts.fastly.com&fp=chrome&mode=packet-up&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%2C%22scMinPostsIntervalMs%22%3A30%7D#%F0%9F%87%AB%F0%9F%87%B7FR_2%7C1.1MB%2Fs
-vless://2a7793b4-a70f-42a3-aecc-1082da7a933d@151.101.109.28:443?sni=accounts.fastly.com&alpn=h3&fp=chrome&security=tls#%F0%9F%87%AB%F0%9F%87%B7FR_2%7C1.1MB/s
 vless://b320eba7-5380-4bd1-b5e6-32daab16066f@fr-d.duckray.co.uk:3443?encryption=none&type=grpc&mode=gun&security=reality&sni=api.github.com&fp=random&pbk=Ps_w7KP3VFrZv1niWfX3synmJq_d2c7sVSckxa3sgio#%F0%9F%87%AB%F0%9F%87%B7%20France

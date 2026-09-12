@@ -1,7 +1,3 @@
 hysteria2://mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj@gta.internet-card.sbs:443?insecure=1&sni=gta.internet-card.sbs#%E4%BF%84%E7%BD%97%E6%96%AF
-vless://82282910-54a0-0032-b2df-86bfbce8ed36@84.38.187.134:443?security=reality&type=xhttp&path=%2Frepository&packetEncoding=xudp&sni=git.xpkg.ru&fp=edge&sid=2c9431dc7a306018&pbk=QSAIpsE696lDqkumfo7dyBt92XzrVDPTF6KogbeKhGc&encryption=none#%F0%9F%87%B7%F0%9F%87%BARU_3%7C3.3MB%2Fs
-vless://82282910-54a0-0032-b2df-86bfbce8ed36@84.38.187.134:443?sni=git.xpkg.ru&fp=edge&security=tls#%F0%9F%87%B7%F0%9F%87%BARU_3%7C3.3MB/s
-vless://82282910-54a0-0032-b2df-86bfbce8ed36@84.38.187.169:443?security=reality&type=xhttp&path=%2Fscript&packetEncoding=xudp&sni=mc.yandex.tr&fp=firefox&sid=94c9dbbf07366d96&pbk=rJMYW6mHgjs61mHxfm8Gmm_Re23sV_xe5b0IrTpLsiQ&encryption=none#%F0%9F%87%B7%F0%9F%87%BARU_2%7C3.5MB%2Fs
-vless://82282910-54a0-0032-b2df-86bfbce8ed36@84.38.187.169:443?sni=mc.yandex.tr&fp=firefox&security=tls#%F0%9F%87%B7%F0%9F%87%BARU_2%7C3.5MB/s
-vless://82282910-54a0-0032-b2df-86bfbce8ed36@93.189.63.146:443?security=reality&type=xhttp&path=%2Fstatic&host=mm.melbicom.net&packetEncoding=none&sni=mm.melbicom.net&fp=chrome&sid=3b5b38669a1a51c0&pbk=YHPoUNxsml4z6pYt-7djOb1lqnBjxCk4-2mk84pveyc#%F0%9F%87%B7%F0%9F%87%BARU_1%7C2.2MB%2Fs
-vless://82282910-54a0-0032-b2df-86bfbce8ed36@93.189.63.146:443?sni=mm.melbicom.net&fp=chrome&security=tls#%F0%9F%87%B7%F0%9F%87%BARU_1%7C2.2MB/s
+vless://52d1d193-7a49-4d2e-9d52-c2615704034b@5.35.91.96:443?security=reality&type=tcp&packetEncoding=xudp&sni=rus1.baboon.digital&fp=chrome&flow=xtls-rprx-vision&sid=c3248f699ea5d8d0&pbk=GKuFgxMDHNxodlhM5bVclxDtFSdb1vSadmpD7fYRERo&encryption=none#%F0%9F%87%B7%F0%9F%87%BARU_1%7C1.7MB%2Fs
+vless://52d1d193-7a49-4d2e-9d52-c2615704034b@5.35.91.96:443?sni=rus1.baboon.digital&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%B7%F0%9F%87%BARU_1%7C1.7MB/s

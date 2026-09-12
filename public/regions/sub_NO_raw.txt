@@ -1,1 +1,2 @@
-vless://1cbeb6e4-06c0-421b-9baa-8af782d6e6cc@151.242.168.207:443?sni=kibi-institut.de&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#%F0%9F%87%B3%F0%9F%87%B4NO_1%7C1.1MB/s
+vless://ed91e79c-f6bf-4fba-8cc0-6d45acaec22b@aldebaran.yokkastars.com:40443?security=reality&type=tcp&packetEncoding=xudp&sni=deepl.com&fp=chrome&sid=7606&pbk=dvx6zPztKbgHpYaW6J4OZQC74Uy0JS6HUVdDfbjG5V4&encryption=none#%F0%9F%87%B3%F0%9F%87%B4NO_1%7C4.0MB%2Fs
+vless://ed91e79c-f6bf-4fba-8cc0-6d45acaec22b@aldebaran.yokkastars.com:40443?sni=deepl.com&fp=chrome&security=tls#%F0%9F%87%B3%F0%9F%87%B4NO_1%7C4.0MB/s

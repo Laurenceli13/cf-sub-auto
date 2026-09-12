@@ -1,2 +1,2 @@
-vless://4fb82973-a7f1-4fc2-9958-cb21f5162f06@ch-plr-xh-pilot.tcp-reset-club.net:8443?security=reality&type=xhttp&path=%2Fassets%2Fv2%2Fpkg&packetEncoding=xudp&sni=s3.netavex.com&fp=edge&sid=e0&pbk=Gu_QdtOX6E8pZcYvDWgHKA5dxcit7hrpU27sizCEWXg&encryption=none#%F0%9F%87%A8%F0%9F%87%ADCH_4%7C3.2MB%2Fs
-vless://4fb82973-a7f1-4fc2-9958-cb21f5162f06@ch-plr-xh-pilot.tcp-reset-club.net:8443?sni=s3.netavex.com&fp=edge&security=tls#%F0%9F%87%A8%F0%9F%87%ADCH_4%7C3.2MB/s
+vless://3e46babc-192b-4f61-84ad-36aed8714b6d@193.124.125.79:161?security=reality&type=grpc&mode=gun&serviceName=lv3grpc&packetEncoding=xudp&sni=avito.st&fp=qq&pbk=D5ttWzeUeEo0oKchjhHGY7Z8jFrAB-BOz6kdQpCrZg0&encryption=none#%F0%9F%87%A8%F0%9F%87%ADCH_3%7C1.1MB%2Fs
+vless://3e46babc-192b-4f61-84ad-36aed8714b6d@193.124.125.79:161?sni=avito.st&type=grpc&serviceName=lv3grpc&fp=qq&security=tls#%F0%9F%87%A8%F0%9F%87%ADCH_3%7C1.1MB/s
