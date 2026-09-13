@@ -1,3 +1,1 @@
 hysteria2://mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj@gta.internet-card.sbs:443?insecure=1&sni=gta.internet-card.sbs#%E4%BF%84%E7%BD%97%E6%96%AF
-vless://52d1d193-7a49-4d2e-9d52-c2615704034b@5.35.91.96:443?security=reality&type=tcp&packetEncoding=xudp&sni=rus1.baboon.digital&fp=chrome&flow=xtls-rprx-vision&sid=c3248f699ea5d8d0&pbk=GKuFgxMDHNxodlhM5bVclxDtFSdb1vSadmpD7fYRERo&encryption=none#%F0%9F%87%B7%F0%9F%87%BARU_1%7C1.7MB%2Fs
-vless://52d1d193-7a49-4d2e-9d52-c2615704034b@5.35.91.96:443?sni=rus1.baboon.digital&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%B7%F0%9F%87%BARU_1%7C1.7MB/s

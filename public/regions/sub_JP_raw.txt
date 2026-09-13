@@ -1,4 +1,6 @@
 hysteria2://07a4fcf5553a80cf300374d325386038@141.147.151.58:443?insecure=1&sni=www.bing.com&obfs=salamander&obfs-password=d0dd99b2b4da604123ce17b6d17072a2#%E6%97%A5%E6%9C%AC
+hysteria2://0bffb8e71bca29788862f986caae97b3@8.211.175.129:443?insecure=1&obfs=salamander&obfs-password=5c8f1a3e7b2d9046c1f8a5e3b7d04f2a&sni=8.211.175.129#%F0%9F%87%AF%F0%9F%87%B5JP_1%7C1.1MB%2Fs
+hysteria2://0bffb8e71bca29788862f986caae97b3@8.211.175.129:443?insecure=1&sni=8.211.175.129&obfs=salamander&obfs-password=5c8f1a3e7b2d9046c1f8a5e3b7d04f2a#%F0%9F%87%AF%F0%9F%87%B5JP_1%7C1.1MB/s
 hysteria2://184cdec28da5a09450803c8debcd2cc9@138.3.208.26:50160?insecure=1&sni=www.bing.com#%E6%97%A5%E6%9C%AC%20%231
 hysteria2://4d6d97a82ddf959252e2ada36c3c3053@138.2.8.249:50160?insecure=1&sni=www.bing.com#%E6%97%A5%E6%9C%AC%20%232
 trojan://BxceQaOe@35.73.128.210:3893?allowInsecure=1&sni=t.me%252Fripaojiedian#%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
