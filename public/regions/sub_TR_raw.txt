@@ -1,3 +1,6 @@
-hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.124.118:8080?sni=hopp-germany-new.ddnsguru.com#%E5%9C%9F%E8%80%B3%E5%85%B6
-vless://3f9f2bda-0b9c-8469-7381-a73de2255619@170.168.97.8:8443?security=reality&type=grpc&mode=gun&serviceName=TunService&packetEncoding=xudp&sni=download.nvidia.com&fp=chrome&pbk=D2SXHZRRYM0WcFChGWd57XB-U73aIsGfMpe2-Gq5XSs&encryption=none#%F0%9F%87%B9%F0%9F%87%B7TR_1%7C2.6MB%2Fs
-vless://3f9f2bda-0b9c-8469-7381-a73de2255619@170.168.97.8:8443?sni=download.nvidia.com&type=grpc&serviceName=TunService&fp=chrome&security=tls#%F0%9F%87%B9%F0%9F%87%B7TR_1%7C2.6MB/s
+vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@170.168.97.8:8443?security=reality&type=grpc&mode=gun&serviceName=TunService&packetEncoding=xudp&sni=download.nvidia.com&fp=chrome&pbk=D2SXHZRRYM0WcFChGWd57XB-U73aIsGfMpe2-Gq5XSs&encryption=none#%F0%9F%87%B9%F0%9F%87%B7TR_1%7C3.6MB%2Fs
+vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@170.168.97.8:8443?sni=download.nvidia.com&type=grpc&serviceName=TunService&fp=chrome&security=tls#%F0%9F%87%B9%F0%9F%87%B7TR_1%7C3.6MB/s
+vless://953358cb-82ba-4296-960d-6d2ec3468f4c@13.143.137.164:9443?security=reality&type=tcp&packetEncoding=xudp&sni=plaincanvas.videoclothing.xyz&fp=firefox&flow=xtls-rprx-vision&sid=e336c9a786fae301&pbk=dZ0rhO_PL67-Ciwc6CHQgtde3a5EUUuReA7M-lRNCDQ&encryption=none#%F0%9F%87%B9%F0%9F%87%B7TR_2%7C3.2MB%2Fs
+vless://953358cb-82ba-4296-960d-6d2ec3468f4c@13.143.137.164:9443?sni=plaincanvas.videoclothing.xyz&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#%F0%9F%87%B9%F0%9F%87%B7TR_2%7C3.2MB/s
+vless://dca76b88-b038-e82b-45e1-1d76b476d7ca@170.168.97.8:443?security=reality&type=xhttp&path=%2F&packetEncoding=xudp&sni=download.nvidia.com&fp=chrome&pbk=D2SXHZRRYM0WcFChGWd57XB-U73aIsGfMpe2-Gq5XSs&encryption=none#%F0%9F%87%B9%F0%9F%87%B7TR_3%7C2.0MB%2Fs
+vless://dca76b88-b038-e82b-45e1-1d76b476d7ca@170.168.97.8:443?sni=download.nvidia.com&fp=chrome&security=tls#%F0%9F%87%B9%F0%9F%87%B7TR_3%7C2.0MB/s

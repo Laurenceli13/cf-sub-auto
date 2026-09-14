@@ -1,2 +1,2 @@
-ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@103.169.67.34:65443#%F0%9F%87%B9%F0%9F%87%ADTH_1%7C3.3MB%2Fs
-ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@103.169.67.34:65443#%F0%9F%87%B9%F0%9F%87%ADTH_1%7C3.3MB/s
+vless://3c52e091-6714-4915-949f-2149fe69951b@188.114.97.6:443?security=tls&type=ws&path=%2Fws&host=v2ray.simspeedup.com&packetEncoding=xudp&sni=v2ray.simspeedup.com&fp=unsafe&encryption=none#%F0%9F%87%B9%F0%9F%87%ADTH_1%7C1.3MB%2Fs
+vless://3c52e091-6714-4915-949f-2149fe69951b@188.114.97.6:443?sni=v2ray.simspeedup.com&type=ws&host=v2ray.simspeedup.com&path=/wsfp=unsafe&security=tls#%F0%9F%87%B9%F0%9F%87%ADTH_1%7C1.3MB/s

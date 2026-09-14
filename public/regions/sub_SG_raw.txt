@@ -1,3 +1,2 @@
 hysteria2://19f72087-4591-4d72-930b-2697078ec2be@sg1.xiaoliyu.cyou:1933?insecure=1&sni=sg1.xiaoliyu.cyou#%E6%96%B0%E5%8A%A0%E5%9D%A1
-vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.214.167.119:8686?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&sid=628b3c90c98ead4f&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&encryption=none#%F0%9F%87%B8%F0%9F%87%ACSG_1%7C1.5MB%2Fs
-vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.214.167.119:8686?sni=www.apple.com&fp=chrome&security=tls#%F0%9F%87%B8%F0%9F%87%ACSG_1%7C1.5MB/s
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@47.129.241.226:443?insecure=1&sni=vpn-sg-001.fastervpn.world#%F0%9F%87%B8%F0%9F%87%AC171033%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me/S...
