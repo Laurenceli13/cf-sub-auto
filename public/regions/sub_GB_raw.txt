@@ -1,6 +1,6 @@
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-uk-001.fastervpn.world:443?insecure=1&sni=vpn-uk-001.fastervpn.world#%E8%8B%B1%E5%9B%BD
 hysteria2://s6gt5e4mof43sfg8@giftcard.gateway-stream.com:52033?alpn=h3&fp=chrome&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#%F0%9F%87%AC%F0%9F%87%A74%40JKVPN
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.23.32:8080#%F0%9F%87%AC%F0%9F%87%A7GB_1%7C2.0MB%2Fs
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.23.32:8080#%F0%9F%87%AC%F0%9F%87%A7GB_1%7C2.0MB/s
-vless://15553b23-a621-4dfd-995e-2fe28d124526@2.26.101.19:24443?security=reality&type=tcp&packetEncoding=xudp&sni=se.chick-team.ru&fp=firefox&flow=xtls-rprx-vision&sid=8df4211d612176a5&pbk=uUI9qoHBKhlrPy4BRJSQQygc4jstmLKLrhRI6jqhYxw&encryption=none#%F0%9F%87%AC%F0%9F%87%A7GB_9%7C3.2MB%2Fs
-vless://15553b23-a621-4dfd-995e-2fe28d124526@2.26.101.19:24443?sni=se.chick-team.ru&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#%F0%9F%87%AC%F0%9F%87%A7GB_9%7C3.2MB/s
+vless://20dd9433-389e-4573-ba7b-689619cf13da@31.77.199.147:4443?security=reality&type=tcp&packetEncoding=xudp&sni=images.unsplash.com&fp=chrome&flow=xtls-rprx-vision&sid=7da2eae792187ab9&pbk=GvkQwcZWiXQBLzEhTVfQkyPpdgo6Opc3RtLsED9sA0A&encryption=none#%F0%9F%87%AC%F0%9F%87%A7GB_10%7C2.6MB%2Fs
+vless://20dd9433-389e-4573-ba7b-689619cf13da@31.77.199.147:4443?sni=images.unsplash.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%AC%F0%9F%87%A7GB_10%7C2.6MB/s
+vless://527462f9-95a9-4470-ba22-ba1c45903954@loc1-cdn.mycarservhpdd10.ir:43054?security=reality&type=xhttp&path=%2Fws&host=play.google.com&packetEncoding=xudp&sni=translate.google.com&fp=firefox&sid=be595a95ec409d13&pbk=YhntgPILPFepw5l3EZwsODZ8AQbjyztiUNbC0DqB1SQ&mode=auto&encryption=mlkem768x25519plus.native.0rtt.FMzsDHTFQeuALVUzD8uqH-NzPoYYu5TXFKroZ7aExHk#%F0%9F%87%AC%F0%9F%87%A7GB_11%7C2.6MB%2Fs
+vless://527462f9-95a9-4470-ba22-ba1c45903954@loc1-cdn.mycarservhpdd10.ir:43054?sni=translate.google.com&fp=firefox&security=tls#%F0%9F%87%AC%F0%9F%87%A7GB_11%7C2.6MB/s

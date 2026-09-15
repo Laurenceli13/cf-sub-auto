@@ -1,2 +1,11 @@
 hysteria2://19f72087-4591-4d72-930b-2697078ec2be@sg1.xiaoliyu.cyou:1933?insecure=1&sni=sg1.xiaoliyu.cyou#%E6%96%B0%E5%8A%A0%E5%9D%A1
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@47.129.241.226:443?insecure=1&sni=vpn-sg-001.fastervpn.world#%F0%9F%87%B8%F0%9F%87%AC171033%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me/S...
+vless://428e3a9c-7ba6-4268-ae43-91c0e5b8d677@172.64.145.195:443?allowInsecure=0&sni=cfnew.zxs1202.cc.cd&type=ws&host=cfnew.zxs1202.cc.cd&path=/?ed=2048fp=chrome&security=tls#%F0%9F%87%B8%F0%9F%87%ACSG_1%7C4.4MB/s
+vless://428e3a9c-7ba6-4268-ae43-91c0e5b8d677@172.64.145.195:443?security=tls&type=ws&path=%2F%3Fed%3D2048&host=cfnew.zxs1202.cc.cd&packetEncoding=none&sni=cfnew.zxs1202.cc.cd&fp=chrome#%F0%9F%87%B8%F0%9F%87%ACSG_1%7C4.4MB%2Fs
+vless://428e3a9c-7ba6-4268-ae43-91c0e5b8d677@172.64.154.124:443?allowInsecure=0&sni=cfnew.zxs1202.cc.cd&type=ws&host=cfnew.zxs1202.cc.cd&path=/?ed=2048fp=chrome&security=tls#%F0%9F%87%B8%F0%9F%87%ACSG_3%7C4.3MB/s
+vless://428e3a9c-7ba6-4268-ae43-91c0e5b8d677@172.64.154.124:443?security=tls&type=ws&path=%2F%3Fed%3D2048&host=cfnew.zxs1202.cc.cd&packetEncoding=none&sni=cfnew.zxs1202.cc.cd&fp=chrome#%F0%9F%87%B8%F0%9F%87%ACSG_3%7C4.3MB%2Fs
+vless://428e3a9c-7ba6-4268-ae43-91c0e5b8d677@172.64.157.90:443?allowInsecure=0&sni=cfnew.zxs1202.cc.cd&type=ws&host=cfnew.zxs1202.cc.cd&path=/?ed=2048fp=chrome&security=tls#%F0%9F%87%B8%F0%9F%87%ACSG_2%7C5.5MB/s
+vless://428e3a9c-7ba6-4268-ae43-91c0e5b8d677@172.64.157.90:443?security=tls&type=ws&path=%2F%3Fed%3D2048&host=cfnew.zxs1202.cc.cd&packetEncoding=none&sni=cfnew.zxs1202.cc.cd&fp=chrome#%F0%9F%87%B8%F0%9F%87%ACSG_2%7C5.5MB%2Fs
+vless://8102891d-7b37-4dc5-8261-9474b59b5c63@cf9.danfeng.eu.org:2096?security=tls&type=ws&path=%2Fproxyip%3Dus.xiabibi.cf&host=vip.868068.xyz&packetEncoding=xudp&sni=vip.868068.xyz&fp=random&encryption=none#%F0%9F%87%B8%F0%9F%87%ACSG_5%7C4.0MB%2Fs
+vless://8102891d-7b37-4dc5-8261-9474b59b5c63@cf9.danfeng.eu.org:2096?sni=vip.868068.xyz&type=ws&host=vip.868068.xyz&path=/proxyip=us.xiabibi.cffp=random&security=tls#%F0%9F%87%B8%F0%9F%87%ACSG_5%7C4.0MB/s
+vless://b940be1b-3998-45d2-bf7b-06e7b6c4987a@166.88.194.248:443?allowInsecure=0&sni=kkkk-xcd.pages.dev&type=ws&host=kkkk-xcd.pages.dev&path=/?ed=2048fp=chrome&security=tls#%F0%9F%87%B8%F0%9F%87%ACSG_4%7C1.8MB/s
+vless://b940be1b-3998-45d2-bf7b-06e7b6c4987a@166.88.194.248:443?security=tls&type=ws&path=%2F%3Fed%3D2048&host=kkkk-xcd.pages.dev&packetEncoding=none&sni=kkkk-xcd.pages.dev&fp=chrome#%F0%9F%87%B8%F0%9F%87%ACSG_4%7C1.8MB%2Fs
