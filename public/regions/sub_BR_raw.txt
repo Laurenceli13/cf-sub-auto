@@ -1,1 +1,3 @@
 hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@go.wwwinternetvideo.click:443?insecure=1&sni=admin.wwwinternetvideo.click#%E5%B7%B4%E8%A5%BF
+vless://eca1a05f-57c2-46c8-a5ee-a09ddfe8aeae@mul.danqela.ir:5061?security=reality&type=tcp&packetEncoding=xudp&sni=android.clients.google.com&fp=chrome&flow=xtls-rprx-vision&sid=8509f205ecd87e17&pbk=K-ra5wYRignlacUglfdjgTJOf4C4_oxKVm_T6YdgsTM&encryption=none#%F0%9F%87%A7%F0%9F%87%B7BR_1%7C1.5MB%2Fs
+vless://eca1a05f-57c2-46c8-a5ee-a09ddfe8aeae@mul.danqela.ir:5061?sni=android.clients.google.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%A7%F0%9F%87%B7BR_1%7C1.5MB/s

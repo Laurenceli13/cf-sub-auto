@@ -1,2 +1,1 @@
-vless://ef4f4c3d-0b16-48ad-a8d8-2d22512b3b36@91.201.67.58:443?security=tls&type=xhttp&path=%2Fassets&packetEncoding=xudp&sni=media-it.adsmoba.com&fp=chrome&mode=auto&encryption=none#%F0%9F%87%AE%F0%9F%87%B9IT_1%7C1.4MB%2Fs
-vless://ef4f4c3d-0b16-48ad-a8d8-2d22512b3b36@91.201.67.58:443?sni=media-it.adsmoba.com&fp=chrome&security=tls#%F0%9F%87%AE%F0%9F%87%B9IT_1%7C1.4MB/s
+vless://f1aa0323-e523-4060-986e-255124f5708b@it2s.crocodil.ir:12040?sni=play-apps-features.googleusercontent.com&flow=xtls-rprx-vision-udp443&fp=edge&security=tls#%F0%9F%87%AE%F0%9F%87%B9IT_2%7C2.5MB/s

@@ -1,2 +1,1 @@
-vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@170.168.99.8:8443?security=reality&type=grpc&mode=gun&serviceName=TunService&packetEncoding=xudp&sni=cdn.steamstatic.com&fp=chrome&pbk=R8Mogel1wypEIpcUXnGmG1cuzT9POghNhqJcw4-CLx0&encryption=none#%F0%9F%87%B8%F0%9F%87%AASE_1%7C3.3MB%2Fs
-vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@170.168.99.8:8443?sni=cdn.steamstatic.com&type=grpc&serviceName=TunService&fp=chrome&security=tls#%F0%9F%87%B8%F0%9F%87%AASE_1%7C3.3MB/s
+vless://1e4668ca-6526-84ac-2a53-28bbc209da13@170.168.99.9:443?sni=cdn.steamstatic.com&fp=chrome&security=tls#%F0%9F%87%B8%F0%9F%87%AASE_3%7C3.8MB/s

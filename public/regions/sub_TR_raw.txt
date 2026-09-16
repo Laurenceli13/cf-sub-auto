@@ -1,6 +1,3 @@
-vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@170.168.97.8:8443?security=reality&type=grpc&mode=gun&serviceName=TunService&packetEncoding=xudp&sni=download.nvidia.com&fp=chrome&pbk=D2SXHZRRYM0WcFChGWd57XB-U73aIsGfMpe2-Gq5XSs&encryption=none#%F0%9F%87%B9%F0%9F%87%B7TR_1%7C3.6MB%2Fs
-vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@170.168.97.8:8443?sni=download.nvidia.com&type=grpc&serviceName=TunService&fp=chrome&security=tls#%F0%9F%87%B9%F0%9F%87%B7TR_1%7C3.6MB/s
-vless://953358cb-82ba-4296-960d-6d2ec3468f4c@13.143.137.164:9443?security=reality&type=tcp&packetEncoding=xudp&sni=plaincanvas.videoclothing.xyz&fp=firefox&flow=xtls-rprx-vision&sid=e336c9a786fae301&pbk=dZ0rhO_PL67-Ciwc6CHQgtde3a5EUUuReA7M-lRNCDQ&encryption=none#%F0%9F%87%B9%F0%9F%87%B7TR_2%7C3.2MB%2Fs
-vless://953358cb-82ba-4296-960d-6d2ec3468f4c@13.143.137.164:9443?sni=plaincanvas.videoclothing.xyz&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#%F0%9F%87%B9%F0%9F%87%B7TR_2%7C3.2MB/s
-vless://dca76b88-b038-e82b-45e1-1d76b476d7ca@170.168.97.8:443?security=reality&type=xhttp&path=%2F&packetEncoding=xudp&sni=download.nvidia.com&fp=chrome&pbk=D2SXHZRRYM0WcFChGWd57XB-U73aIsGfMpe2-Gq5XSs&encryption=none#%F0%9F%87%B9%F0%9F%87%B7TR_3%7C2.0MB%2Fs
-vless://dca76b88-b038-e82b-45e1-1d76b476d7ca@170.168.97.8:443?sni=download.nvidia.com&fp=chrome&security=tls#%F0%9F%87%B9%F0%9F%87%B7TR_3%7C2.0MB/s
+vless://1e4668ca-6526-84ac-2a53-28bbc209da13@170.168.97.6:443?sni=download.nvidia.com&fp=chrome&security=tls#%F0%9F%87%B9%F0%9F%87%B7TR_2%7C2.3MB/s
+vless://953358cb-82ba-4296-960d-6d2ec3468f4c@13.143.137.164:9443?sni=plaincanvas.videoclothing.xyz&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#%F0%9F%87%B9%F0%9F%87%B7TR_1%7C1.7MB/s
+vless://ad297a2b-ae17-4d2d-8fce-e2eafb89b145@tr.curry-load.rutube.info:443?sni=dw.b-cdn.net&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#%F0%9F%87%B9%F0%9F%87%B7TR_3%7C3.3MB/s
