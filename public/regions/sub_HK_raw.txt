@@ -1,1 +1,2 @@
-trojan://d742752c-4231-4695-801e-f06d77f0f277@hk04.qianmoip.win:52224?allowInsecure=1&sni=taobao.com#%F0%9F%87%AD%F0%9F%87%B0HK_1%7C4.1MB/s
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@109.66.88.158:443?allowInsecure=1&sni=cdn8848.776676.xyz&type=ws&host=cdn8848.776676.xyz&path=/details?ed=2560fp=chrome&security=tls#%F0%9F%87%AD%F0%9F%87%B0HK_1%7C3.4MB/s
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@109.66.88.158:443?security=tls&type=ws&path=%2Fdetails%3Fed%3D2560&host=cdn8848.776676.xyz&packetEncoding=none&allowInsecure=1&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&sni=cdn8848.776676.xyz&fp=chrome#%F0%9F%87%AD%F0%9F%87%B0HK_1%7C3.4MB%2Fs

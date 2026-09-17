@@ -2,4 +2,3 @@ hysteria2://07a4fcf5553a80cf300374d325386038@141.147.151.58:443?insecure=1&sni=w
 hysteria2://184cdec28da5a09450803c8debcd2cc9@138.3.208.26:50160?insecure=1&sni=www.bing.com#%E6%97%A5%E6%9C%AC%20%231
 hysteria2://4d6d97a82ddf959252e2ada36c3c3053@138.2.8.249:50160?insecure=1&sni=www.bing.com#%E6%97%A5%E6%9C%AC%20%232
 trojan://BxceQaOe@35.73.128.210:3893?allowInsecure=1&sni=t.me%252Fripaojiedian#%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
-vless://928e6cce-8ced-4243-9a48-a6642edd09b0@202.144.192.76:13779?sni=tesla.com&fp=chrome&security=tls#%F0%9F%87%AF%F0%9F%87%B5JP_1%7C4.7MB/s

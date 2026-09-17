@@ -1,4 +1,1 @@
 hysteria2://sOiWCQ2AdIV0OWNuqQVyWp4JZnRxdyLROSjX@news.gazette.help:443?sni=news.gazette.help#%E9%98%BF%E8%81%94%E9%85%8B
-vless://818eaf39-544f-4d1d-977e-87be7e33eecf@151.242.160.148:8090?security=tls&type=ws&path=%2Fws&host=askuhgfdsg.space.coupons&packetEncoding=xudp&sni=askuhgfdsg.space.coupons&fp=chrome&encryption=none#%F0%9F%87%A6%F0%9F%87%AAAE_1%7C4.0MB%2Fs
-vless://818eaf39-544f-4d1d-977e-87be7e33eecf@151.242.160.148:8090?sni=askuhgfdsg.space.coupons&type=ws&host=askuhgfdsg.space.coupons&path=/wsfp=chrome&security=tls#%F0%9F%87%A6%F0%9F%87%AAAE_1%7C2.4MB/s
-vless://818eaf39-544f-4d1d-977e-87be7e33eecf@151.242.160.148:8090?sni=askuhgfdsg.space.coupons&type=ws&host=askuhgfdsg.space.coupons&path=/wsfp=chrome&security=tls#%F0%9F%87%A6%F0%9F%87%AAAE_1%7C4.0MB/s
