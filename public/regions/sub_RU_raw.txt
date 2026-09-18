@@ -1,3 +1,1 @@
 hysteria2://mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj@gta.internet-card.sbs:443?insecure=1&sni=gta.internet-card.sbs#%E4%BF%84%E7%BD%97%E6%96%AF
-ss://YWVzLTI1Ni1nY206NDkzOGU5NzU3MjRkMGVkMQ==@194.87.196.13:9011#%F0%9F%87%B7%F0%9F%87%BARU_2%7C4.1MB/s
-vless://eaf5b0da-abf3-4128-af9c-93fc11344ab9@147.45.60.91:443?sni=us.lebedvpn.cc&alpn=h3&fp=android&security=tls#%F0%9F%87%B7%F0%9F%87%BARU_3%7C3.4MB/s

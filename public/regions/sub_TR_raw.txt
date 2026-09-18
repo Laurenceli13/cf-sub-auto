@@ -1,3 +1,4 @@
-vless://1e4668ca-6526-84ac-2a53-28bbc209da13@170.168.97.6:443?sni=download.nvidia.com&fp=chrome&security=tls#%F0%9F%87%B9%F0%9F%87%B7TR_2%7C2.3MB/s
-vless://953358cb-82ba-4296-960d-6d2ec3468f4c@13.143.137.164:9443?sni=plaincanvas.videoclothing.xyz&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#%F0%9F%87%B9%F0%9F%87%B7TR_1%7C1.7MB/s
-vless://ad297a2b-ae17-4d2d-8fce-e2eafb89b145@tr.curry-load.rutube.info:443?sni=dw.b-cdn.net&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#%F0%9F%87%B9%F0%9F%87%B7TR_3%7C3.3MB/s
+vless://c26fe2f0-5c69-0015-8a1a-bf116ceb9215@jsv-ir2.jmovies.ir:443?security=reality&type=tcp&packetEncoding=xudp&sni=aparat.com&fp=firefox&sid=f373df45a687eaff&pbk=fwS6bEyF28VsSapBZZ2vz6LJmVismH0NYupk6STFRWc&encryption=none#%F0%9F%87%B9%F0%9F%87%B7TR_2%7C2.3MB%2Fs
+vless://c26fe2f0-5c69-0015-8a1a-bf116ceb9215@jsv-ir2.jmovies.ir:443?sni=aparat.com&fp=firefox&security=tls#%F0%9F%87%B9%F0%9F%87%B7TR_2%7C2.3MB/s
+vless://fafd0278-71ba-4809-8137-3c87e7d8dd58@tur11.zavqeron.ir:8443?security=reality&type=tcp&packetEncoding=none&sni=amp-api-edge.apps.apple.com&fp=qq&sid=a2eb2b8f0f0a88b1&pbk=t5qC-Lzm_NKsc6nQ8ORzyivswiRPlbPLK0hS4d3FxTY#%F0%9F%87%B9%F0%9F%87%B7TR_1%7C3.6MB%2Fs
+vless://fafd0278-71ba-4809-8137-3c87e7d8dd58@tur11.zavqeron.ir:8443?sni=amp-api-edge.apps.apple.com&fp=qq&security=tls#%F0%9F%87%B9%F0%9F%87%B7TR_1%7C3.6MB/s

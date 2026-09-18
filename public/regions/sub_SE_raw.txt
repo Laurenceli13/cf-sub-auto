@@ -1,1 +1,2 @@
-vless://1e4668ca-6526-84ac-2a53-28bbc209da13@170.168.99.9:443?sni=cdn.steamstatic.com&fp=chrome&security=tls#%F0%9F%87%B8%F0%9F%87%AASE_3%7C3.8MB/s
+vless://2bb8b13c-b3f0-2552-da05-d0929bfb36db@104.245.240.4:443?security=reality&type=xhttp&path=%2F&packetEncoding=xudp&sni=cdn.steamstatic.com&fp=chrome&pbk=R8Mogel1wypEIpcUXnGmG1cuzT9POghNhqJcw4-CLx0&mode=auto&encryption=none#%F0%9F%87%B8%F0%9F%87%AASE_1%7C2.1MB%2Fs
+vless://2bb8b13c-b3f0-2552-da05-d0929bfb36db@104.245.240.4:443?sni=cdn.steamstatic.com&fp=chrome&security=tls#%F0%9F%87%B8%F0%9F%87%AASE_1%7C2.1MB/s
