@@ -1,2 +1,3 @@
-vless://d03c34c3-98fa-42ff-80a8-6ea1d0b24ac9@1-sg.ap.ku-ke.cc:443?security=reality&type=tcp&packetEncoding=none&sni=cdn.jsdelivr.net&fp=firefox&flow=xtls-rprx-vision&sid=0195&pbk=f9DtsV6_ncVM9DmGEmImcR3YKSWGimoS2MXHnIWOyH0#%F0%9F%87%B8%F0%9F%87%ACSG_1%7C4.6MB%2Fs
-vless://d03c34c3-98fa-42ff-80a8-6ea1d0b24ac9@1-sg.ap.ku-ke.cc:443?sni=cdn.jsdelivr.net&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#%F0%9F%87%B8%F0%9F%87%ACSG_1%7C4.6MB/s
+vless://16b3793b-3335-4832-b1fd-877b2c5e15d6@36.151.187.225:12885?sni=www.spotify.com&flow=xtls-rprx-vision-udp443&fp=edge&security=tls#%F0%9F%87%B8%F0%9F%87%ACSG_2%7C4.6MB/s
+vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@124.243.136.65:443?security=tls&type=ws&path=%2F%3Fed%3D2560&host=7bzzv.umtm.n70.hh.vavava.kdns.fr&packetEncoding=none&sni=7bzzv.umtm.n70.hh.vavava.kdns.fr&fp=chrome#%F0%9F%87%B8%F0%9F%87%ACSG_1%7C3.4MB%2Fs
+vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@124.243.136.65:443?sni=7bzzv.umtm.n70.hh.vavava.kdns.fr&type=ws&host=7bzzv.umtm.n70.hh.vavava.kdns.fr&path=/?ed=2560fp=chrome&security=tls#%F0%9F%87%B8%F0%9F%87%ACSG_1%7C3.4MB/s

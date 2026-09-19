@@ -1,13 +1,5 @@
 hysteria2://8z2e26xkqsa598s3@gift-catalog.aroonia.ir:52000?insecure=0&sni=gift-catalog.aroonia.ir&obfs=salamander&obfs-password=6cmj1dymhm79hopl#Telegram%20%F0%9F%86%94%40cnetvpn%20%F0%9F%87%A9%F0%9F%87%AA
-hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@162.249.125.133:443?insecure=0&sni=hy2-new.aspidnet.xyz&obfs=salamander&obfs-password=c1b4086fea89914496c7e10967a419216566#%5B%20%F0%9F%87%A9%F0%9F%87%AA%20%5D%20%7C%20%40Cfox_SerVer%20%231
 hysteria2://TelegramVPNJey@1.1.1.1:37003?alpn=h3&fp=chrome&sni=de.jey.cc.cd&obfs=salamander&obfs-password=83v9muumcyikh5ch#Telegram%40VPNjey%F0%9F%87%A9%F0%9F%87%AA%F0%9F%87%A9%F0%9F%87%AA
 hysteria2://TelegramVPNjey@179.61.251.253:37003?alpn=h3&fp=chrome&sni=de.jey.cc.cd&obfs=salamander&obfs-password=83v9muumcyikh5ch#Telegram%40VPNjey%F0%9F%87%A9%F0%9F%87%AA%F0%9F%87%A9%F0%9F%87%AA%20%231
-hysteria2://f0098427ecce06a25089f5c18f4ac666@92.5.43.121:443?insecure=1&sni=www.bing.com&obfs=salamander&obfs-password=f832485b7363626ee836f58576aad25f#DE
-hysteria2://s6gt5e4mof43sfg8@giftcard.gateway-stream.com:52021?alpn=h3&fp=chrome&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#%F0%9F%87%A9%F0%9F%87%AA1%40RK_VPS
-hysteria2://vz86jgszv4zszchv@giftcard.gateway-stream.com:52021?insecure=0&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#%F0%9F%87%A9%F0%9F%87%AA%40AZARBAYJAB1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWdVItd0s4MnNzRldLeUxiWkFWdHY2dkFQWTNVaDFadA==@config-germany.zelnora.ir:1080#%F0%9F%87%A9%F0%9F%87%AADE_3%7C4.3MB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWdVItd0s4MnNzRldLeUxiWkFWdHY2dkFQWTNVaDFadA==@config-germany.zelnora.ir:1080#%F0%9F%87%A9%F0%9F%87%AADE_3%7C4.3MB/s
-vless://c26fe2f0-5c69-000B-8a1a-bf116ceb9215@jsv-de1.jmovies.ir:443?security=reality&type=tcp&packetEncoding=xudp&sni=numpy.org&fp=firefox&sid=f373df45a687eaff&pbk=fwS6bEyF28VsSapBZZ2vz6LJmVismH0NYupk6STFRWc&encryption=none#%F0%9F%87%A9%F0%9F%87%AADE_4%7C4.0MB%2Fs
-vless://c26fe2f0-5c69-000B-8a1a-bf116ceb9215@jsv-de1.jmovies.ir:443?sni=numpy.org&fp=firefox&security=tls#%F0%9F%87%A9%F0%9F%87%AADE_4%7C4.0MB/s
-vless://c26fe2f0-5c69-000B-8a1a-bf116ceb9215@jsv-ir2.jmovies.ir:443?security=reality&type=tcp&packetEncoding=xudp&sni=aparat.com&fp=firefox&sid=f373df45a687eaff&pbk=fwS6bEyF28VsSapBZZ2vz6LJmVismH0NYupk6STFRWc&encryption=none#%F0%9F%87%A9%F0%9F%87%AADE_5%7C1.5MB%2Fs
-vless://c26fe2f0-5c69-000B-8a1a-bf116ceb9215@jsv-ir2.jmovies.ir:443?sni=aparat.com&fp=firefox&security=tls#%F0%9F%87%A9%F0%9F%87%AADE_5%7C1.5MB/s
+vless://8ff62004-b728-4be5-b7e9-5f5c85489921@185.126.67.60:443?sni=www.vk.com&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#%F0%9F%87%A9%F0%9F%87%AADE_6%7C3.1MB/s
+vless://bc84f5cb-05b5-48db-8143-f645dc5812df@199.232.79.166:443?sni=cdn.fastly.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%A9%F0%9F%87%AADE_1%7C2.5MB/s

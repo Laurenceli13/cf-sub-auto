@@ -1,2 +1,2 @@
-ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@121.46.230.138:65443#%F0%9F%87%B0%F0%9F%87%B7KR_1%7C2.0MB%2Fs
-ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@121.46.230.138:65443#%F0%9F%87%B0%F0%9F%87%B7KR_1%7C2.0MB/s
+vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@146.56.115.180:443?security=tls&type=ws&path=%2F%3Fed%3D2560&host=7bzzv.umtm.n70.hh.vavava.kdns.fr&packetEncoding=none&sni=7bzzv.umtm.n70.hh.vavava.kdns.fr&fp=chrome#%F0%9F%87%B0%F0%9F%87%B7KR_1%7C2.7MB%2Fs
+vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@146.56.115.180:443?sni=7bzzv.umtm.n70.hh.vavava.kdns.fr&type=ws&host=7bzzv.umtm.n70.hh.vavava.kdns.fr&path=/?ed=2560fp=chrome&security=tls#%F0%9F%87%B0%F0%9F%87%B7KR_1%7C2.7MB/s
