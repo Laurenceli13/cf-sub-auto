@@ -1,2 +1,1 @@
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-au-002.fastervpn.world:443?insecure=1&sni=whatsapp.com#%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A
-vless://36e89875-9c53-482b-bc41-d3890e9da176@51.161.204.244:443?sni=www.cloudflare.com&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#%F0%9F%87%A6%F0%9F%87%BAAU_3%7C1.3MB/s

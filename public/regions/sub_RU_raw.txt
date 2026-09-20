@@ -1,2 +1,1 @@
 hysteria2://mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj@gta.internet-card.sbs:443?insecure=1&sni=gta.internet-card.sbs#%E4%BF%84%E7%BD%97%E6%96%AF
-vless://17f6daad-7238-4c23-99f6-c01e09c83dde@193.233.91.200:443?sni=cdn.callibri.ru&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#%F0%9F%87%B7%F0%9F%87%BARU_1%7C3.1MB/s

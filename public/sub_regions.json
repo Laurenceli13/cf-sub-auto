@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T04:52:27Z",
+  "updated": "2026-09-20T05:12:05Z",
   "total_nodes": 100,
   "v2ray_nodes": 100,
   "hysteria_nodes": 0,
@@ -9,29 +9,14 @@
       "emoji": "🌐",
       "count": 100
     },
-    "US": {
-      "name": "美国",
-      "emoji": "🇺🇸",
-      "count": 0
-    },
-    "FI": {
-      "name": "芬兰",
-      "emoji": "🇫🇮",
-      "count": 0
-    },
-    "JP": {
-      "name": "日本",
-      "emoji": "🇯🇵",
-      "count": 0
-    },
     "FR": {
       "name": "法国",
       "emoji": "🇫🇷",
       "count": 0
     },
-    "NL": {
-      "name": "荷兰",
-      "emoji": "🇳🇱",
+    "US": {
+      "name": "美国",
+      "emoji": "🇺🇸",
       "count": 0
     },
     "DE": {
@@ -39,14 +24,24 @@
       "emoji": "🇩🇪",
       "count": 0
     },
-    "SE": {
-      "name": "瑞典",
-      "emoji": "🇸🇪",
+    "FI": {
+      "name": "芬兰",
+      "emoji": "🇫🇮",
       "count": 0
     },
-    "BE": {
-      "name": "比利时",
-      "emoji": "🇧🇪",
+    "NL": {
+      "name": "荷兰",
+      "emoji": "🇳🇱",
+      "count": 0
+    },
+    "GB": {
+      "name": "英国",
+      "emoji": "🇬🇧",
+      "count": 0
+    },
+    "JP": {
+      "name": "日本",
+      "emoji": "🇯🇵",
       "count": 0
     },
     "TW": {
@@ -59,9 +54,9 @@
       "emoji": "🇸🇬",
       "count": 0
     },
-    "IT": {
-      "name": "意大利",
-      "emoji": "🇮🇹",
+    "PL": {
+      "name": "波兰",
+      "emoji": "🇵🇱",
       "count": 0
     },
     "AU": {
@@ -69,9 +64,9 @@
       "emoji": "🇦🇺",
       "count": 0
     },
-    "GB": {
-      "name": "英国",
-      "emoji": "🇬🇧",
+    "BR": {
+      "name": "巴西",
+      "emoji": "🇧🇷",
       "count": 0
     },
     "RU": {
@@ -79,34 +74,9 @@
       "emoji": "🇷🇺",
       "count": 0
     },
-    "KR": {
-      "name": "韩国",
-      "emoji": "🇰🇷",
-      "count": 0
-    },
-    "AT": {
-      "name": "奥地利",
-      "emoji": "🇦🇹",
-      "count": 0
-    },
-    "BR": {
-      "name": "巴西",
-      "emoji": "🇧🇷",
-      "count": 0
-    },
     "AE": {
       "name": "阿联酋",
       "emoji": "🇦🇪",
-      "count": 0
-    },
-    "CN": {
-      "name": "中国",
-      "emoji": "🇨🇳",
-      "count": 0
-    },
-    "HK": {
-      "name": "香港",
-      "emoji": "🇭🇰",
       "count": 0
     }
   }
