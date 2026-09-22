@@ -1,4 +1,4 @@
-vless://c26fe2f0-5c69-0015-8a1a-bf116ceb9215@jsv-ir2.jmovies.ir:443?security=reality&type=tcp&packetEncoding=xudp&sni=aparat.com&fp=firefox&sid=f373df45a687eaff&pbk=fwS6bEyF28VsSapBZZ2vz6LJmVismH0NYupk6STFRWc&encryption=none#%F0%9F%87%B9%F0%9F%87%B7TR_2%7C2.3MB%2Fs
-vless://c26fe2f0-5c69-0015-8a1a-bf116ceb9215@jsv-ir2.jmovies.ir:443?sni=aparat.com&fp=firefox&security=tls#%F0%9F%87%B9%F0%9F%87%B7TR_2%7C2.3MB/s
-vless://fafd0278-71ba-4809-8137-3c87e7d8dd58@tur11.zavqeron.ir:8443?security=reality&type=tcp&packetEncoding=none&sni=amp-api-edge.apps.apple.com&fp=qq&sid=a2eb2b8f0f0a88b1&pbk=t5qC-Lzm_NKsc6nQ8ORzyivswiRPlbPLK0hS4d3FxTY#%F0%9F%87%B9%F0%9F%87%B7TR_1%7C3.6MB%2Fs
-vless://fafd0278-71ba-4809-8137-3c87e7d8dd58@tur11.zavqeron.ir:8443?sni=amp-api-edge.apps.apple.com&fp=qq&security=tls#%F0%9F%87%B9%F0%9F%87%B7TR_1%7C3.6MB/s
+vless://206a4c50-2eb6-4b7f-b7a5-15c6ab7b3f4c@31.210.52.149:443?security=reality&type=tcp&packetEncoding=xudp&sni=tr-ist-5.blook.network&fp=chrome&flow=xtls-rprx-vision&sid=625a948aab4f&pbk=HabIMykoF6jIw0rAgi_t3xm_hdWTLFKIpODwNJFjznE&encryption=none#%F0%9F%87%B9%F0%9F%87%B7TR_1%7C2.1MB%2Fs
+vless://206a4c50-2eb6-4b7f-b7a5-15c6ab7b3f4c@31.210.52.149:443?sni=tr-ist-5.blook.network&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%B9%F0%9F%87%B7TR_1%7C2.1MB/s
+vless://443b2e33-8e9c-4f7b-a48a-383a93895d1e@144.225.65.177:443?#%F0%9F%87%B9%F0%9F%87%B7TR_2%7C1.8MB/s
+vless://443b2e33-8e9c-4f7b-a48a-383a93895d1e@144.225.65.177:443?security=none&type=raw&packetEncoding=xudp&encryption=none#%F0%9F%87%B9%F0%9F%87%B7TR_2%7C1.8MB%2Fs

@@ -1,1 +1,2 @@
-hysteria2://60e2a548-96aa-4850-a279-1edab743c39b@md1.cnyvpn.com:443?insecure=1&sni=md1.cnyvpn.com#%E6%91%A9%E5%B0%94%E5%A4%9A%E7%93%A6
+vless://c18b978e-1c4e-415c-8bea-07942b563a64@185.153.198.86:443?allowInsecure=1&sni=shuma.ccwu.cc&type=ws&host=shuma.ccwu.cc&path=/fp=chrome&security=tls#%F0%9F%87%B2%F0%9F%87%A9MD_1%7C2.8MB/s
+vless://c18b978e-1c4e-415c-8bea-07942b563a64@185.153.198.86:443?security=tls&type=ws&path=%2F&host=shuma.ccwu.cc&packetEncoding=none&allowInsecure=1&sni=shuma.ccwu.cc&fp=chrome#%F0%9F%87%B2%F0%9F%87%A9MD_1%7C2.8MB%2Fs

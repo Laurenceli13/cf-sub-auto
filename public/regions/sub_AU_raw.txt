@@ -1,3 +1,1 @@
-hysteria2://633bc3be486b646190661ac2387c150a@152.67.115.203:443?insecure=1&obfs=salamander&obfs-password=850a3fb1cd33a28f12d837578ae1a2e7&sni=www.bing.com#%F0%9F%87%A6%F0%9F%87%BAAU_1%7C1.1MB%2Fs
-hysteria2://633bc3be486b646190661ac2387c150a@152.67.115.203:443?insecure=1&sni=www.bing.com&obfs=salamander&obfs-password=850a3fb1cd33a28f12d837578ae1a2e7#%F0%9F%87%A6%F0%9F%87%BAAU_1%7C1.1MB/s
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-au-002.fastervpn.world:443?insecure=1&sni=whatsapp.com#%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A
