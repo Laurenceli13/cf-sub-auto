@@ -1,5 +1,2 @@
-hysteria2://HysTeria2026%21Proxy@mz.hkychina.com:8443?insecure=0&sni=mz.hkychina.com#%5B%20%F0%9F%87%AD%F0%9F%87%B0%20%5D%20%7C%20%40Cfox_SerVer
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@160.25.75.40:443?allowInsecure=1&sni=cdn8848.776676.xyz&type=ws&host=cdn8848.776676.xyz&path=/html?ed=2560fp=chrome&security=tls#%F0%9F%87%AD%F0%9F%87%B0HK_3%7C1.2MB/s
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@160.25.75.40:443?security=tls&type=ws&path=%2Fhtml%3Fed%3D2560&host=cdn8848.776676.xyz&packetEncoding=none&allowInsecure=1&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&sni=cdn8848.776676.xyz&fp=chrome#%F0%9F%87%AD%F0%9F%87%B0HK_3%7C1.2MB%2Fs
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@68.64.178.52:443?allowInsecure=1&sni=cdn8848.776676.xyz&type=ws&host=cdn8848.776676.xyz&path=/downloads/posts/programs?ed=2560fp=chrome&security=tls#%F0%9F%87%AD%F0%9F%87%B0HK_2%7C3.7MB/s
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@68.64.178.52:443?security=tls&type=ws&path=%2Fdownloads%2Fposts%2Fprograms%3Fed%3D2560&host=cdn8848.776676.xyz&packetEncoding=none&allowInsecure=1&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&sni=cdn8848.776676.xyz&fp=chrome#%F0%9F%87%AD%F0%9F%87%B0HK_2%7C3.7MB%2Fs
+hysteria2://19f72087-4591-4d72-930b-2697078ec2be@hk2.xiaoliyu.cyou:4433?insecure=1#%F0%9F%87%AD%F0%9F%87%B0HK_1%7C1.1MB/s
+hysteria2://19f72087-4591-4d72-930b-2697078ec2be@hk2.xiaoliyu.cyou:4433?insecure=1&sni=hk2.xiaoliyu.cyou#%F0%9F%87%AD%F0%9F%87%B0HK_1%7C1.1MB%2Fs

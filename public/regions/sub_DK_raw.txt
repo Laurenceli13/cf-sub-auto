@@ -1,2 +1,2 @@
-hysteria2://19f72087-4591-4d72-930b-2697078ec2be@se.xiaoliyu.cyou:4433?insecure=1#%F0%9F%87%A9%F0%9F%87%B0DK_2%7C4.0MB/s
-hysteria2://19f72087-4591-4d72-930b-2697078ec2be@se.xiaoliyu.cyou:4433?insecure=1&sni=se.xiaoliyu.cyou#%F0%9F%87%A9%F0%9F%87%B0DK_2%7C4.0MB%2Fs
+vless://c18b978e-1c4e-415c-8bea-07942b563a64@92.113.149.59:443?allowInsecure=1&sni=shuma.ccwu.cc&type=ws&host=shuma.ccwu.cc&path=/fp=chrome&security=tls#%F0%9F%87%A9%F0%9F%87%B0DK_1%7C2.2MB/s
+vless://c18b978e-1c4e-415c-8bea-07942b563a64@92.113.149.59:443?security=tls&type=ws&path=%2F&host=shuma.ccwu.cc&packetEncoding=none&allowInsecure=1&sni=shuma.ccwu.cc&fp=chrome#%F0%9F%87%A9%F0%9F%87%B0DK_1%7C2.2MB%2Fs
