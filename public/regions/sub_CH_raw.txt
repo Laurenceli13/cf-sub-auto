@@ -1,2 +1,2 @@
-vless://721bacfe-ff09-4e63-a735-686015bc1351@ch-plr-xh-pilot.tcp-reset-club.net:8443?security=reality&type=xhttp&path=%2Fassets%2Fv2%2Fpkg&packetEncoding=xudp&sni=s3.netavex.com&fp=chrome&sid=e0&pbk=Gu_QdtOX6E8pZcYvDWgHKA5dxcit7hrpU27sizCEWXg&mode=stream-one&encryption=none#%F0%9F%87%A8%F0%9F%87%ADCH_1%7C3.5MB%2Fs
-vless://721bacfe-ff09-4e63-a735-686015bc1351@ch-plr-xh-pilot.tcp-reset-club.net:8443?sni=s3.netavex.com&fp=chrome&security=tls#%F0%9F%87%A8%F0%9F%87%ADCH_1%7C3.5MB/s
+vless://6c49576d-ea4a-4441-b8ef-ba78f11694d4@84.75.255.140:443?security=reality&type=tcp&packetEncoding=xudp&sni=ch2.responsiblecare.uk&fp=chrome&flow=xtls-rprx-vision&sid=c6ff7424cb12c5ed&pbk=nilJ07r1KZ0-KhmRNYeICXGhM9HeG9uxnRaqjYz3fWg&encryption=none#%F0%9F%87%A8%F0%9F%87%ADCH_1%7C1.1MB%2Fs
+vless://6c49576d-ea4a-4441-b8ef-ba78f11694d4@84.75.255.140:443?sni=ch2.responsiblecare.uk&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%A8%F0%9F%87%ADCH_1%7C1.1MB/s

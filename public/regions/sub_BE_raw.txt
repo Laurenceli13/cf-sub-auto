@@ -1,4 +1,1 @@
-vless://6d341f6e-7b9d-4ae3-999b-00333de7bdfb@34.38.82.200:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&sid=31f187650d9530bb&pbk=v6QpErcVOVKIYLm53R3bAP8zIKCFr4HAJWW0VwBKtws&encryption=none#%F0%9F%87%A7%F0%9F%87%AABE_2%7C1.2MB%2Fs
-vless://6d341f6e-7b9d-4ae3-999b-00333de7bdfb@34.38.82.200:443?sni=www.cloudflare.com&fp=chrome&security=tls#%F0%9F%87%A7%F0%9F%87%AABE_2%7C1.2MB/s
-vless://e3fb56fe-bdbc-4f0e-b1ed-de2f7c85f254@35.195.122.169:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&sid=68e97022627fa882&pbk=i_UbRo65YEpOFuKkNVa0GEMl7xLDx9B1nmeyeNWyJQs&encryption=none#%F0%9F%87%A7%F0%9F%87%AABE_3%7C1.1MB%2Fs
-vless://e3fb56fe-bdbc-4f0e-b1ed-de2f7c85f254@35.195.122.169:443?sni=www.cloudflare.com&fp=chrome&security=tls#%F0%9F%87%A7%F0%9F%87%AABE_3%7C1.1MB/s
+vless://ff6d2dda-7b90-404e-9951-34b3124bfdfa@146.103.43.8:9543?security=reality&encryption=none&pbk=M6Ck7wUfOLhQl4582CBnaXwscPEP6SCpdEkUDzoj4Fc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandexcloud.net&sid=123abcdf#%E6%AF%94%E5%88%A9%E6%97%B6+V2CROSS.COM

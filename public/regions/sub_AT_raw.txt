@@ -1,4 +1,2 @@
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.36.30:443?security=tls&type=tcp&packetEncoding=xudp&sni=ad-dedic-3.failspace.top&fp=chrome&flow=xtls-rprx-vision&encryption=none#%F0%9F%87%A6%F0%9F%87%B9AT_2%7C1.2MB%2Fs
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.36.30:443?sni=ad-dedic-3.failspace.top&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%A6%F0%9F%87%B9AT_2%7C1.2MB/s
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@austria-dedic1.failspace.top:443?security=tls&type=tcp&packetEncoding=xudp&alpn=h2&sni=austria-dedic1.failspace.top&fp=firefox&flow=xtls-rprx-vision&encryption=none#%F0%9F%87%A6%F0%9F%87%B9AT_4%7C1.8MB%2Fs
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@austria-dedic1.failspace.top:443?sni=austria-dedic1.failspace.top&alpn=h2&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#%F0%9F%87%A6%F0%9F%87%B9AT_4%7C1.8MB/s
+trojan://600421cf-11d7-429f-a65b-c30397f1bc03@86.106.119.23:443?allowInsecure=0&sni=gr.freeguard.org#%F0%9F%87%A6%F0%9F%87%B9AT_3%7C1.8MB/s
+trojan://600421cf-11d7-429f-a65b-c30397f1bc03@86.106.119.23:443?sni=gr.freeguard.org&type=tcp&fp=chrome#%F0%9F%87%A6%F0%9F%87%B9AT_3%7C1.8MB%2Fs
