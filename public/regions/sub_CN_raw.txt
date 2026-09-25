@@ -1,1 +1,1 @@
-vless://0afc6426-606c-48e7-bd70-3c424a416842@us22.sofast.live:58011?encryption=none#%E4%B8%AD%E5%9B%BD+%E9%98%BF%E9%87%8C%E4%BA%91
+vless://399b6b23-cc40-4831-a494-61948e2df133@jp.sofast.live:52683?encryption=none&type=tcp#%E5%B9%BF%E4%B8%9C%E7%9C%81%E5%B9%BF%E5%B7%9E%E5%B8%82+%E5%8D%8E%E4%B8%BA%E4%BA%91

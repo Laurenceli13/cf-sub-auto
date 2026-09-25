@@ -1,1 +1,2 @@
-ss://YWVzLTI1Ni1nY206QnV0dGVyZmx5MTIzQHF3ZTk1Mjc=@36.33.35.105:30001#%E5%8F%B0%E6%B9%BE%7C%40ripaojiedian
+ss://YWVzLTEyOC1nY206MTdiNzBmNzItZmM0Zi00MWE3LWEzMmYtZTBiYmFkN2QxNDAw@gd.bjnet2.com:36603#%F0%9F%87%A8%F0%9F%87%B3%20%E5%8F%B0%E6%B9%BE%7C%40ripaojiedian
+ss://YWVzLTEyOC1nY206MTdiNzBmNzItZmM0Zi00MWE3LWEzMmYtZTBiYmFkN2QxNDAw@gd.bjnet2.com:36603?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D3c183f1f4eae079d708e817ae656417a.baidu.com#%E5%8F%B0%E6%B9%BE%7C%40ripaojiedian
