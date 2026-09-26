@@ -1,1 +1,1 @@
-vless://2c070f10-57e8-442b-b6cb-ff39b35d929d@95.85.245.163:442?security=reality&encryption=none&pbk=urhSusjL1QqHdmlCrvbC9yBftecrgQMuhWmfGh0CUFg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=p-nt-www-amazon-com-kalias.amazon.com&sid=ab#%E6%8D%B7%E5%85%8B+V2CROSS.COM
+vless://7a8d2c3f-d6dd-0004-81d8-cff23d8364ee@13.143.181.220:443?sni=msk1.maxtelemost.com&flow=xtls-rprx-vision-udp443&fp=safari&security=tls#%F0%9F%87%A8%F0%9F%87%BFCZ_1%7C1.2MB/s

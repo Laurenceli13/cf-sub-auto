@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T05:12:49Z",
+  "updated": "2026-09-26T05:17:27Z",
   "total_nodes": 100,
   "v2ray_nodes": 100,
   "hysteria_nodes": 0,
@@ -14,9 +14,9 @@
       "emoji": "🇺🇸",
       "count": 0
     },
-    "FR": {
-      "name": "法国",
-      "emoji": "🇫🇷",
+    "DE": {
+      "name": "德国",
+      "emoji": "🇩🇪",
       "count": 0
     },
     "NL": {
@@ -24,9 +24,29 @@
       "emoji": "🇳🇱",
       "count": 0
     },
-    "DE": {
-      "name": "德国",
-      "emoji": "🇩🇪",
+    "JP": {
+      "name": "日本",
+      "emoji": "🇯🇵",
+      "count": 0
+    },
+    "FR": {
+      "name": "法国",
+      "emoji": "🇫🇷",
+      "count": 0
+    },
+    "GB": {
+      "name": "英国",
+      "emoji": "🇬🇧",
+      "count": 0
+    },
+    "SE": {
+      "name": "瑞典",
+      "emoji": "🇸🇪",
+      "count": 0
+    },
+    "PL": {
+      "name": "波兰",
+      "emoji": "🇵🇱",
       "count": 0
     },
     "FI": {
@@ -49,14 +69,19 @@
       "emoji": "🇸🇬",
       "count": 0
     },
-    "JP": {
-      "name": "日本",
-      "emoji": "🇯🇵",
+    "ES": {
+      "name": "西班牙",
+      "emoji": "🇪🇸",
       "count": 0
     },
-    "CN": {
-      "name": "中国",
-      "emoji": "🇨🇳",
+    "CZ": {
+      "name": "捷克",
+      "emoji": "🇨🇿",
+      "count": 0
+    },
+    "MD": {
+      "name": "摩尔多瓦",
+      "emoji": "🇲🇩",
       "count": 0
     }
   }
