@@ -1,3 +1,1 @@
-vless://65cd649c-f2f5-49c4-8f57-94d9b706e846@46.243.142.42:7443?sni=shprcdn.homes&fp=firefox&security=tls#%F0%9F%87%B5%F0%9F%87%B1PL_4%7C2.6MB/s
-vless://b18d5990-96eb-4587-a386-7f8ef7591e6a@31.77.13.19:2063?security=reality&type=tcp&packetEncoding=xudp&sni=rusbid.de&fp=chrome&flow=xtls-rprx-vision&pbk=MMpt_jWc4J3oySBdf5sPDVRkiWlZmOObth6A1scM9BM&encryption=none#%F0%9F%87%B5%F0%9F%87%B1PL_1%7C2.0MB%2Fs
-vless://b18d5990-96eb-4587-a386-7f8ef7591e6a@31.77.13.19:2063?sni=rusbid.de&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%B5%F0%9F%87%B1PL_1%7C2.0MB/s
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.249.154:443?sni=plandland.failspace.top&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#%F0%9F%87%B5%F0%9F%87%B1PL_3%7C1.4MB/s

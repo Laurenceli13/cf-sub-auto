@@ -1,1 +1,1 @@
-hysteria2://41f0d6d3-4a45-4635-8225-2abd2284189b@lmny.mangshe.xyz:2056?insecure=1&sni=lmny.mangshe.xyz#%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A
+vless://721bacfe-ff09-4e63-a735-686015bc1351@ro-xh02.tcp-reset-club.net:8443?sni=s3.netavex.com&fp=chrome&security=tls#%F0%9F%87%B7%F0%9F%87%B4RO_1%7C1.7MB/s

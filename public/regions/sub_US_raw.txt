@@ -4,17 +4,9 @@ ss://YWVzLTEyOC1nY206MTdiNzBmNzItZmM0Zi00MWE3LWEzMmYtZTBiYmFkN2QxNDAw@gd.bjnet2.
 ss://YWVzLTEyOC1nY206MTdiNzBmNzItZmM0Zi00MWE3LWEzMmYtZTBiYmFkN2QxNDAw@gd2.bjnet2.com:36608#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD2-IEPL-GPT
 ss://YWVzLTEyOC1nY206MTdiNzBmNzItZmM0Zi00MWE3LWEzMmYtZTBiYmFkN2QxNDAw@gd2.bjnet2.com:36608?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D3c183f1f4eae079d708e817ae656417a.baidu.com#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD2-IEPL-GPT
 vless://055dce30-0ee3-44c3-b680-be1c95b8d6e7@107.151.250.68:443?allowInsecure=0&sni=www.bing.com&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#US_speednode_0138
-vless://1aa96574-c28b-4ee9-855d-ebdbbf1f7e90@172.67.182.133:443?security=tls&type=ws&path=%2FED3ZQPu7lqyeDGD58KabZ&host=3-m13.0dcB525d-9bF8-452C-A465-5546541729D1.kdNs.FR&packetEncoding=xudp&sni=3-M13.0DCb525D-9Bf8-452C-A465-5546541729D1.kDnS.FR&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8US_1%7C3.0MB%2Fs
-vless://1aa96574-c28b-4ee9-855d-ebdbbf1f7e90@172.67.182.133:443?sni=3-M13.0DCb525D-9Bf8-452C-A465-5546541729D1.kDnS.FR&type=ws&host=3-m13.0dcB525d-9bF8-452C-A465-5546541729D1.kdNs.FR&path=/ED3ZQPu7lqyeDGD58KabZfp=chrome&security=tls#%F0%9F%87%BA%F0%9F%87%B8US_1%7C3.0MB/s
-vless://4bf974c5-35f1-4673-8acb-4d66b678c749@mg.zhujue.us:11000?sni=s0.awsstatic.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%BA%F0%9F%87%B8US_9%7C1.3MB/s
 vless://5905d91f-c3bc-4e80-bd66-4b17beb166cb@38.244.4.1:443?allowInsecure=0&sni=www.apple.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#US_speednode_0130
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@155.46.213.30:8880?type=ws&host=vms.lifetime51.workers.dev&path=/#%F0%9F%87%BA%F0%9F%87%B8US_4%7C1.1MB/s
 vless://9638a83e-f1f7-4cc8-a602-924965d9534f@wr28-6njjgu.linenheath.site:443?allowInsecure=0&sni=www.cloudflare.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#US_speednode_0139
-vless://a11cb858-4a42-4735-b40b-4cba1560b959@p11real444.greewebservices.ir:3303?sni=amp-api-edge.apps.apple.com&fp=chrome&security=tls#%F0%9F%87%BA%F0%9F%87%B8US_1%7C2.1MB/s
-vless://a11cb858-4a42-4735-b40b-4cba1560b959@p1real7.greewebservices.ir:1290?sni=play.googleapis.com&fp=chrome&security=tls#%F0%9F%87%BA%F0%9F%87%B8US_2%7C2.5MB/s
-vless://a90c264d-3853-4eef-9a3d-628b2d02d15e@172.67.212.14:443?sni=4-m19.SoUTh-aFRiCA-OnlInE.cCWU.cC&alpn=http/1.1&type=ws&host=4-m19.sOUth-afRiCA-onLIne.cCwu.Cc&path=/CjBjB9sn5pCvaSwSccfp=chrome&security=tls#%F0%9F%87%BA%F0%9F%87%B8US_5%7C2.3MB/s
 vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@89.117.123.243:443?allowInsecure=0&sni=us.savesafe.cc&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#US_speednode_0135
-vless://c20a0bcf-aa6f-4c35-9e62-a39b47b04e73@91.206.71.8:80?type=ws&host=round-haze-8783.294.workers.dev&path=/pyip=Telegram🇨🇳+@WangCai2#%F0%9F%87%BA%F0%9F%87%B8US_3%7C1.0MB/s
 vless://ec31f6d7-c71a-413d-93aa-24296805a594@nsuc-znkbig.avonex.top:443?allowInsecure=0&sni=www.bing.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#US_speednode_0144
 vless://f06c6039-a489-3d78-a676-ed43be6deca3@155.117.199.13:29893?allowInsecure=0&sni=cdnjs.cloudflare.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#US_speednode_0136
 vless://f06c6039-a489-3d78-a676-ed43be6deca3@155.117.199.13:39211?allowInsecure=0&sni=cdnjs.cloudflare.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#US_speednode_0142

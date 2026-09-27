@@ -1,2 +1,1 @@
-trojan://600421cf-11d7-429f-a65b-c30397f1bc03@86.106.119.23:443?allowInsecure=0&sni=gr.freeguard.org#%F0%9F%87%A6%F0%9F%87%B9AT_3%7C1.8MB/s
-trojan://600421cf-11d7-429f-a65b-c30397f1bc03@86.106.119.23:443?sni=gr.freeguard.org&type=tcp&fp=chrome#%F0%9F%87%A6%F0%9F%87%B9AT_3%7C1.8MB%2Fs
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@atatat.failspace.top:443?sni=atatat.failspace.top&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%A6%F0%9F%87%B9AT_1%7C1.2MB/s
