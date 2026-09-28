@@ -1,4 +1,2 @@
-vless://206a4c50-2eb6-4b7f-b7a5-15c6ab7b3f4c@31.210.52.149:443?security=reality&type=tcp&packetEncoding=xudp&sni=tr-ist-5.blook.network&fp=chrome&flow=xtls-rprx-vision&sid=625a948aab4f&pbk=HabIMykoF6jIw0rAgi_t3xm_hdWTLFKIpODwNJFjznE&encryption=none#%F0%9F%87%B9%F0%9F%87%B7TR_1%7C2.1MB%2Fs
-vless://206a4c50-2eb6-4b7f-b7a5-15c6ab7b3f4c@31.210.52.149:443?sni=tr-ist-5.blook.network&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%B9%F0%9F%87%B7TR_1%7C2.1MB/s
-vless://443b2e33-8e9c-4f7b-a48a-383a93895d1e@144.225.65.177:443?#%F0%9F%87%B9%F0%9F%87%B7TR_2%7C1.8MB/s
-vless://443b2e33-8e9c-4f7b-a48a-383a93895d1e@144.225.65.177:443?security=none&type=raw&packetEncoding=xudp&encryption=none#%F0%9F%87%B9%F0%9F%87%B7TR_2%7C1.8MB%2Fs
+vless://52e8bce3-b255-486d-beb2-aa1b549c44b1@93.190.9.52:3090?security=none&type=grpc&mode=gun&serviceName=vless&packetEncoding=xudp&encryption=none#%F0%9F%87%B9%F0%9F%87%B7TR_1%7C3.5MB%2Fs
+vless://52e8bce3-b255-486d-beb2-aa1b549c44b1@93.190.9.52:3090?type=grpc&serviceName=vless#%F0%9F%87%B9%F0%9F%87%B7TR_1%7C3.5MB/s

@@ -1,8 +1,12 @@
 hysteria2://8z2e26xkqsa598s3@gift-catalog.aroonia.ir:52000?insecure=0&sni=gift-catalog.aroonia.ir&obfs=salamander&obfs-password=6cmj1dymhm79hopl#Telegram%20%F0%9F%86%94%40cnetvpn%20%F0%9F%87%A9%F0%9F%87%AA
-hysteria2://HystPass2026%21@2.26.54.174:8443?insecure=1&obfs=salamander&obfs-password=SalamanderKey1#%F0%9F%87%A9%F0%9F%87%AA182023%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me/S...
 hysteria2://Telegram%3DV2RayyNGvpn@91.107.150.74:443?insecure=0&sni=www.bing.com&obfs=salamander&obfs-password=V2RayyNGvpn#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig%20%231
 hysteria2://V2RayyNGvpn@168.222.43.35:443?insecure=0&sni=www.bing.com&obfs=salamander&obfs-password=V2RayyNGvpn#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig%20%232
 hysteria2://V2RayyNGvpn@91.107.150.74:443?insecure=0&sni=www.bing.com&obfs=salamander&obfs-password=V2RayyNGvpn#%F0%9F%87%A9%F0%9F%87%AA%20V2RayyNGvpn%20%F0%9F%87%A9%F0%9F%87%AA%20%232
-vless://4240b207-8e05-4c5d-b70e-fe4928ecdd55@172.64.155.209:2053?sni=pannelman.pannelman.ir&alpn=h2%2Chttp/1.1&fp=chrome&security=tls#%F0%9F%87%A9%F0%9F%87%AADE_5%7C4.2MB/s
-vless://442581ff-646e-4e99-af3e-a9d9a636a44b@freeman.curtvip.ir:20410?sni=secureconnect-pa.mtls.clients6.google.com&fp=chrome&security=tls#%F0%9F%87%A9%F0%9F%87%AADE_4%7C3.2MB/s
-vless://8feb7fa4-83a9-48e6-9240-52c6683b1d32@nahazoki.shadoww345.ir:2056?sni=dynu.com&alpn=h3%2Ch2%2Chttp/1.1&fp=chrome&security=tls#%F0%9F%87%A9%F0%9F%87%AADE_1%7C1.9MB/s
+ss://2022-blake3-chacha20-poly1305:vxAQDuju4saWX0wdawcE10nQ00PXMgJrQwgI0xdf0So%3D@130.61.85.241:59924#%F0%9F%87%A9%F0%9F%87%AADE_5%7C2.8MB%2Fs
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6dnhBUUR1anU0c2FXWDB3ZGF3Y0UxMG5RMDBQWE1nSnJRd2dJMHhkZjBTbz0=@130.61.85.241:59924#%F0%9F%87%A9%F0%9F%87%AADE_5%7C2.8MB/s
+vless://0dca2cfe-98eb-4f9d-9a47-cf87510c558b@72.4.65.116:443?security=tls&type=grpc&mode=gun&serviceName=cdn.v1.AssetService&packetEncoding=xudp&sni=assets-de2.pleiades.codes&fp=chrome&encryption=none#%F0%9F%87%A9%F0%9F%87%AADE_7%7C1.3MB%2Fs
+vless://0dca2cfe-98eb-4f9d-9a47-cf87510c558b@72.4.65.116:443?sni=assets-de2.pleiades.codes&type=grpc&serviceName=cdn.v1.AssetService&fp=chrome&security=tls#%F0%9F%87%A9%F0%9F%87%AADE_7%7C1.3MB/s
+vless://2acde116-5949-48d8-a1e6-60a1d2547deb@104.24.152.211:8880?security=none&type=ws&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net&host=lively-pine-093d.144-868.workers.dev&packetEncoding=xudp#%F0%9F%87%A9%F0%9F%87%AADE_2%7C1.2MB%2Fs
+vless://2acde116-5949-48d8-a1e6-60a1d2547deb@104.24.152.211:8880?type=ws&host=lively-pine-093d.144-868.workers.dev&path=/pyip=ProxyIP.JP.CMLiussss.net#%F0%9F%87%A9%F0%9F%87%AADE_2%7C1.2MB/s
+vless://d00d9d18-20cf-4191-be76-6f73d43a27ec@172.104.237.173:20855?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=efe9&pbk=c6Pu0_yAYxIrnYjbwIYLsKB_xhcLsk17BgojLeaIvE8&encryption=none#%F0%9F%87%A9%F0%9F%87%AADE_1%7C1.1MB%2Fs
+vless://d00d9d18-20cf-4191-be76-6f73d43a27ec@172.104.237.173:20855?sni=www.cloudflare.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%A9%F0%9F%87%AADE_1%7C1.1MB/s

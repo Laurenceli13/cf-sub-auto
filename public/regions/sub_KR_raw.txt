@@ -1,2 +1,2 @@
-hysteria2://maintell@152.70.237.123:2053?insecure=1&sni=bing.com#%F0%9F%87%B0%F0%9F%87%B7KR_1%7C2.7MB%2Fs
-hysteria2://maintell@152.70.237.123:2053?insecure=1&sni=bing.com&obfs=&obfs-password=#%F0%9F%87%B0%F0%9F%87%B7KR_1%7C2.7MB/s
+vless://5c9884a1-b641-4299-82ac-fc62da2327a7@43.108.9.116:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=random&flow=xtls-rprx-vision&sid=cd6caa470bec865e&pbk=vHl4olGSvL-LqhD2-yclHQWTupy6w02lSp3q8WVUUAU&encryption=none#%F0%9F%87%B0%F0%9F%87%B7KR_3%7C3.7MB%2Fs
+vless://5c9884a1-b641-4299-82ac-fc62da2327a7@43.108.9.116:443?sni=www.apple.com&flow=xtls-rprx-vision-udp443&fp=random&security=tls#%F0%9F%87%B0%F0%9F%87%B7KR_3%7C3.7MB/s

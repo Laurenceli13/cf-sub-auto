@@ -1,4 +1,2 @@
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@ukefast.failspace.top:443?sni=ukefast.failspace.top&alpn=h2&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#%F0%9F%87%AC%F0%9F%87%A7GB_11%7C2.1MB/s
-vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@188.166.146.136:11186?#%F0%9F%87%AC%F0%9F%87%A7GB_1%7C3.4MB/s
-vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@188.166.146.136:11186?#%F0%9F%87%AC%F0%9F%87%A7GB_1%7C4.1MB/s
-vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@188.166.146.136:11186?security=none&type=tcp&headerType=http&path=%2F&host=cafebazaar.ir&method=GET&packetEncoding=none#%F0%9F%87%AC%F0%9F%87%A7GB_1%7C4.1MB%2Fs
+vless://d00d9d18-20cf-4191-be76-6f73d43a27ec@178.79.149.80:22117?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=c7994be0&pbk=Vqwhml0SG253PsBtx9xi3GJY-hhyA6sgGUJ_wVI7Q1g&encryption=none#%F0%9F%87%AC%F0%9F%87%A7GB_1%7C2.0MB%2Fs
+vless://d00d9d18-20cf-4191-be76-6f73d43a27ec@178.79.149.80:22117?sni=www.cloudflare.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%AC%F0%9F%87%A7GB_1%7C2.0MB/s

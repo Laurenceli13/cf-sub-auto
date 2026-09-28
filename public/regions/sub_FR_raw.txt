@@ -1,4 +1,13 @@
-trojan://humanity@162.159.36.20:443?sni=www.calmlunch.com&type=ws&path=%2Fassignment&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7FR_1%7C3.5MB%2Fs
-trojan://humanity@www.speedtest.org:443?allowInsecure=0&sni=www.ignitelimit.com&type=ws&path=/assignment#%F0%9F%87%AB%F0%9F%87%B7FR_2%7C1.1MB/s
-vless://162ff214-21c8-4963-a80a-6200cbad787e@francedobo.paslanmaz.ir:4489?sni=www.tno.nl&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%AB%F0%9F%87%B7FR_1%7C1.3MB/s
+trojan://humanity@104.20.6.134:443?allowInsecure=0&sni=www.ignitelimit.com&type=ws&path=/assignment#%F0%9F%87%AB%F0%9F%87%B7FR_6%7C2.8MB/s
+trojan://humanity@104.20.6.134:443?sni=www.ignitelimit.com&type=ws&path=%2Fassignment&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7FR_6%7C2.8MB%2Fs
+trojan://humanity@104.21.46.3:443?allowInsecure=0&sni=www.ignitelimit.com&alpn=h3%2Ch2%2Chttp/1.1&type=ws&path=/assignment#%F0%9F%87%AB%F0%9F%87%B7FR_2%7C2.0MB/s
+trojan://humanity@104.21.46.3:443?sni=www.ignitelimit.com&type=ws&path=%2Fassignment&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7FR_2%7C2.0MB%2Fs
+trojan://humanity@104.21.8.107:443?allowInsecure=0&sni=www.ignitelimit.com&type=ws&path=/assignment#%F0%9F%87%AB%F0%9F%87%B7FR_3%7C1.9MB/s
+trojan://humanity@104.21.8.107:443?sni=www.ignitelimit.com&type=ws&path=%2Fassignment&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7FR_3%7C1.9MB%2Fs
+trojan://humanity@104.26.15.137:443?allowInsecure=0&sni=www.ignitelimit.com&type=ws&path=/assignment#%F0%9F%87%AB%F0%9F%87%B7FR_4%7C1.5MB/s
+trojan://humanity@104.26.15.137:443?sni=www.ignitelimit.com&type=ws&path=%2Fassignment&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7FR_4%7C1.5MB%2Fs
+trojan://humanity@172.67.149.60:443?allowInsecure=0&sni=www.ignitelimit.com&type=ws&path=/assignment#%F0%9F%87%AB%F0%9F%87%B7FR_1%7C3.2MB/s
+trojan://humanity@172.67.149.60:443?sni=www.ignitelimit.com&type=ws&path=%2Fassignment&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7FR_1%7C3.2MB%2Fs
+trojan://humanity@join-telegram-channel.tirexnet.kdns.fr:443?allowInsecure=0&sni=www.ignitelimit.com&alpn=h3%2Ch2%2Chttp/1.1&type=ws&path=/assignment#%F0%9F%87%AB%F0%9F%87%B7FR_5%7C1.1MB/s
+trojan://humanity@join-telegram-channel.tirexnet.kdns.fr:443?sni=www.ignitelimit.com&type=ws&path=%2Fassignment&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7FR_5%7C1.1MB%2Fs
 vless://b320eba7-5380-4bd1-b5e6-32daab16066f@fr-d.duckray.co.uk:3443?encryption=none&type=grpc&mode=gun&security=reality&sni=api.github.com&fp=random&pbk=Ps_w7KP3VFrZv1niWfX3synmJq_d2c7sVSckxa3sgio#%F0%9F%87%AB%F0%9F%87%B7%20France

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T05:34:26Z",
+  "updated": "2026-09-28T05:42:32Z",
   "total_nodes": 100,
   "v2ray_nodes": 100,
   "hysteria_nodes": 0,
@@ -9,24 +9,14 @@
       "emoji": "🌐",
       "count": 100
     },
-    "US": {
-      "name": "美国",
-      "emoji": "🇺🇸",
-      "count": 0
-    },
-    "DE": {
-      "name": "德国",
-      "emoji": "🇩🇪",
-      "count": 0
-    },
     "NL": {
       "name": "荷兰",
       "emoji": "🇳🇱",
       "count": 0
     },
-    "FI": {
-      "name": "芬兰",
-      "emoji": "🇫🇮",
+    "US": {
+      "name": "美国",
+      "emoji": "🇺🇸",
       "count": 0
     },
     "FR": {
@@ -34,9 +24,19 @@
       "emoji": "🇫🇷",
       "count": 0
     },
-    "HK": {
-      "name": "香港",
-      "emoji": "🇭🇰",
+    "DE": {
+      "name": "德国",
+      "emoji": "🇩🇪",
+      "count": 0
+    },
+    "JP": {
+      "name": "日本",
+      "emoji": "🇯🇵",
+      "count": 0
+    },
+    "SE": {
+      "name": "瑞典",
+      "emoji": "🇸🇪",
       "count": 0
     },
     "SG": {
@@ -44,14 +44,39 @@
       "emoji": "🇸🇬",
       "count": 0
     },
-    "TW": {
-      "name": "台湾",
-      "emoji": "🇹🇼",
+    "FI": {
+      "name": "芬兰",
+      "emoji": "🇫🇮",
       "count": 0
     },
-    "JP": {
-      "name": "日本",
-      "emoji": "🇯🇵",
+    "PL": {
+      "name": "波兰",
+      "emoji": "🇵🇱",
+      "count": 0
+    },
+    "RO": {
+      "name": "罗马尼亚",
+      "emoji": "🇷🇴",
+      "count": 0
+    },
+    "TR": {
+      "name": "土耳其",
+      "emoji": "🇹🇷",
+      "count": 0
+    },
+    "RU": {
+      "name": "俄罗斯",
+      "emoji": "🇷🇺",
+      "count": 0
+    },
+    "KR": {
+      "name": "韩国",
+      "emoji": "🇰🇷",
+      "count": 0
+    },
+    "GB": {
+      "name": "英国",
+      "emoji": "🇬🇧",
       "count": 0
     },
     "CN": {
@@ -62,21 +87,6 @@
     "UA": {
       "name": "乌克兰",
       "emoji": "🇺🇦",
-      "count": 0
-    },
-    "RO": {
-      "name": "罗马尼亚",
-      "emoji": "🇷🇴",
-      "count": 0
-    },
-    "PL": {
-      "name": "波兰",
-      "emoji": "🇵🇱",
-      "count": 0
-    },
-    "AT": {
-      "name": "奥地利",
-      "emoji": "🇦🇹",
       "count": 0
     }
   }
