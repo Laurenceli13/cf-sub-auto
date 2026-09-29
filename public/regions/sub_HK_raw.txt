@@ -1,3 +1,2 @@
-hysteria2://f15900b5-f86b-432d-a67c-45325dc66a2d@82.152.160.245:50898?insecure=1&sni=iosapps.itunes.apple.com&mport=50000-53000#%F0%9F%87%AD%F0%9F%87%B0HK_1%7C1.2MB%2Fs
-ss://YWVzLTEyOC1nY206MTdiNzBmNzItZmM0Zi00MWE3LWEzMmYtZTBiYmFkN2QxNDAw@gd.bjnet2.com:36602#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF2%7C%40ripaojiedian
-ss://YWVzLTEyOC1nY206MTdiNzBmNzItZmM0Zi00MWE3LWEzMmYtZTBiYmFkN2QxNDAw@gd2.bjnet2.com:36602#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF3%7C%40ripaojiedian
+vless://0250424c-ae75-4b6b-890f-3fe26fae36c3@85.90.197.53:443?sni=hk.152568.xyz&type=ws&host=hk.152568.xyz&path=/cdn/packages/runtime-core.tar.gzfp=edge&security=tls#%F0%9F%87%AD%F0%9F%87%B0HK_1%7C2.3MB/s
+vless://5b01dc2d-6892-49b8-8289-3f73a32e00e4@3696b38bsg.murphyweb.sbs:32134?sni=buylite.music.apple.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%AD%F0%9F%87%B0HK_2%7C4.1MB/s

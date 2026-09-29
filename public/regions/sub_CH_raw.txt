@@ -1,2 +1,2 @@
-vless://6c49576d-ea4a-4441-b8ef-ba78f11694d4@84.75.255.140:443?security=reality&type=tcp&packetEncoding=xudp&sni=ch2.responsiblecare.uk&fp=chrome&flow=xtls-rprx-vision&sid=c6ff7424cb12c5ed&pbk=nilJ07r1KZ0-KhmRNYeICXGhM9HeG9uxnRaqjYz3fWg&encryption=none#%F0%9F%87%A8%F0%9F%87%ADCH_1%7C1.1MB%2Fs
-vless://6c49576d-ea4a-4441-b8ef-ba78f11694d4@84.75.255.140:443?sni=ch2.responsiblecare.uk&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%A8%F0%9F%87%ADCH_1%7C1.1MB/s
+hysteria2://19f72087-4591-4d72-930b-2697078ec2be@ch.xiaoliyu.cyou:18333?insecure=1&sni=ch.xiaoliyu.cyou#%F0%9F%87%A8%F0%9F%87%ADCH_1%7C2.4MB%2Fs
+hysteria2://19f72087-4591-4d72-930b-2697078ec2be@ch.xiaoliyu.cyou:18333?insecure=1&sni=ch.xiaoliyu.cyou#%F0%9F%87%A8%F0%9F%87%ADCH_1%7C2.4MB/s
