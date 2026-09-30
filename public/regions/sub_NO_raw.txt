@@ -1,1 +1,2 @@
-vless://069ba4cf-e8af-4561-b11e-18bd07b0dbd3@138.124.245.191:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=N8tPKh6gTyc6L5GOmBn_3wIy707a-5QYB0FrF2HigUc&security=reality&sni=bulka.blackbigdog.com&type=tcp#%E6%8C%AA%E5%A8%81+V2CROSS.COM
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@31.76.5.149:443?security=tls&type=tcp&packetEncoding=xudp&sni=norw-mori-4.failspace.top&fp=chrome&flow=xtls-rprx-vision&encryption=none#%F0%9F%87%B3%F0%9F%87%B4NO_1%7C1.3MB%2Fs
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@31.76.5.149:443?sni=norw-mori-4.failspace.top&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%B3%F0%9F%87%B4NO_1%7C1.3MB/s

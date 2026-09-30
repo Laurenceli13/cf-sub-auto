@@ -1,10 +1,4 @@
-hysteria2://19f72087-4591-4d72-930b-2697078ec2be@sg1.xiaoliyu.cyou:18333?insecure=1&sni=sg1.xiaoliyu.cyou#%F0%9F%87%B8%F0%9F%87%ACSG_1%7C3.9MB%2Fs
-hysteria2://19f72087-4591-4d72-930b-2697078ec2be@sg1.xiaoliyu.cyou:18333?insecure=1&sni=sg1.xiaoliyu.cyou#%F0%9F%87%B8%F0%9F%87%ACSG_1%7C3.9MB/s
-hysteria2://5d0a6445-a30d-4522-bb1f-94f1d3ad63be@xjp1.mangshe.xyz:2060?insecure=1&sni=xjp1.mangshe.xyz#%F0%9F%87%B8%F0%9F%87%ACSG_2%7C1.5MB%2Fs
-hysteria2://5d0a6445-a30d-4522-bb1f-94f1d3ad63be@xjp1.mangshe.xyz:2060?insecure=1&sni=xjp1.mangshe.xyz#%F0%9F%87%B8%F0%9F%87%ACSG_2%7C1.5MB/s
-hysteria2://5d0a6445-a30d-4522-bb1f-94f1d3ad63be@xjp2.mangshe.xyz:2060?insecure=1&sni=xjp2.mangshe.xyz#%F0%9F%87%B8%F0%9F%87%ACSG_4%7C2.7MB/s
-vless://142d1453-9cfe-4045-8e54-f3fb33342185@104.18.32.47:8880?security=none&type=ws&path=%2Fpyip&host=lively-scene-744f.107-47a.workers.dev&packetEncoding=xudp&sni=lively-scene-744f.107-47a.workers.dev&encryption=none#%F0%9F%87%B8%F0%9F%87%ACSG_3%7C2.5MB%2Fs
-vless://142d1453-9cfe-4045-8e54-f3fb33342185@104.18.32.47:8880?sni=lively-scene-744f.107-47a.workers.dev&type=ws&host=lively-scene-744f.107-47a.workers.dev&path=/pyip#%F0%9F%87%B8%F0%9F%87%ACSG_3%7C2.5MB/s
-vless://1563ad16-9ac7-4214-8eb7-303f745efb07@172.64.144.180:8880?type=ws&host=silent-cake-fb8d.69-a76.workers.dev&path=/pyip=proxyip.sg.cmliussss.net#%F0%9F%87%B8%F0%9F%87%ACSG_1%7C2.0MB/s
-vless://6e59d5c5-7aa3-4c36-a4c4-e3b899525ed2@free-server.techsonic.dev:2096?allowInsecure=1&sni=free-server.techsonic.dev&type=ws&host=free-server.techsonic.dev&path=/free-server.techsonic.devfp=firefox&security=tls#%F0%9F%87%B8%F0%9F%87%ACSG_2%7C2.6MB/s
-vless://87c467e9-f0af-4b03-8fbd-65fd375d3a26@172.64.144.240:443?sni=pmpmppm.pages.dev&type=ws&host=pmpmppm.pages.dev&path=/?ed=2048fp=randomized&security=tls#%F0%9F%87%B8%F0%9F%87%ACSG_3%7C3.3MB/s
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-sg-001.fastervpn.world:443?insecure=1&sni=vpn-sg-001.fastervpn.world&obfs=&obfs-password=#%F0%9F%87%B8%F0%9F%87%ACSG_1%7C4.9MB/s
+trojan://AA885B42-133C-3828-FB69-E45105C06092@7d0a2gz0-7a0c.aws-agent.net:10135?allowInsecure=1&sni=m.ctrip.com#%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40ripaojiedian
+vless://c2569d72-0ba1-44e8-986f-be445edb5f3d@themeforest.net:8880?security=none&type=ws&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net&host=silent-union-ac36.315-33d.workers.dev&packetEncoding=xudp#%F0%9F%87%B8%F0%9F%87%ACSG_1%7C1.5MB%2Fs
+vless://c2569d72-0ba1-44e8-986f-be445edb5f3d@themeforest.net:8880?type=ws&host=silent-union-ac36.315-33d.workers.dev&path=/pyip=ProxyIP.JP.CMLiussss.net#%F0%9F%87%B8%F0%9F%87%ACSG_1%7C1.5MB/s

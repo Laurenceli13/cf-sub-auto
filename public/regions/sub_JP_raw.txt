@@ -1,2 +1,4 @@
-vless://56c673ba-865a-48ec-8dc0-fd7133a7ecfd@172.67.179.98:8880?security=none&type=ws&path=%2F&host=curly-surf-4401.75-08c.workers.dev&packetEncoding=xudp#%F0%9F%87%AF%F0%9F%87%B5JP_1%7C2.7MB%2Fs
-vless://56c673ba-865a-48ec-8dc0-fd7133a7ecfd@172.67.179.98:8880?type=ws&host=curly-surf-4401.75-08c.workers.dev&path=/#%F0%9F%87%AF%F0%9F%87%B5JP_1%7C2.7MB/s
+hysteria2://531d9e93-53be-4f05-a9c1-33490d4da2f3@45.88.43.89:52148?insecure=1&sni=www.bing.com#%F0%9F%87%AF%F0%9F%87%B5JP_1%7C4.6MB%2Fs
+hysteria2://531d9e93-53be-4f05-a9c1-33490d4da2f3@45.88.43.89:52148?insecure=1&sni=www.bing.com#%F0%9F%87%AF%F0%9F%87%B5JP_1%7C4.6MB/s
+hysteria2://531d9e93-53be-4f05-a9c1-33490d4da2f3@45.88.43.89:52148?insecure=1&sni=www.bing.com#%F0%9F%87%AF%F0%9F%87%B5JP_2%7C4.5MB/s
+vless://976bf067-9865-4184-938a-204463938c09@jp-1.gsafevpnapi.com:20270?sni=www.yahoo.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%AF%F0%9F%87%B5JP_1%7C3.6MB/s

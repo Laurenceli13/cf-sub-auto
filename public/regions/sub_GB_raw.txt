@@ -1,8 +1,6 @@
-hysteria2://5d0a6445-a30d-4522-bb1f-94f1d3ad63be@yg.mangshe.xyz:2060?insecure=1&sni=yg.mangshe.xyz#%F0%9F%87%AC%F0%9F%87%A7GB_2%7C2.5MB/s
-hysteria2://5d0a6445-a30d-4522-bb1f-94f1d3ad63be@yg.mangshe.xyz:2060?insecure=1&sni=yg.mangshe.xyz#%F0%9F%87%AC%F0%9F%87%A7GB_2%7C3.1MB%2Fs
-hysteria2://5d0a6445-a30d-4522-bb1f-94f1d3ad63be@yg.mangshe.xyz:2060?insecure=1&sni=yg.mangshe.xyz#%F0%9F%87%AC%F0%9F%87%A7GB_2%7C3.1MB/s
-ss://2022-blake3-chacha20-poly1305:%2BNt5IdazH1gH7Cg7OvFoDX8Rx3koZi3YnHbunnlAuUM%3D@129.151.66.142:61312#%F0%9F%87%AC%F0%9F%87%A7GB_3%7C3.7MB%2Fs
-ss://2022-blake3-chacha20-poly1305:Sm4F5fX%2BZJpWpkXMNbw0yYrWolYIiwknVYDwx8eus78%3D@134.65.57.26:61312#%F0%9F%87%AC%F0%9F%87%A7GB_4%7C1.3MB%2Fs
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6K050NUlkYXpIMWdIN0NnN092Rm9EWDhSeDNrb1ppM1luSGJ1bm5sQXVVTT0=@129.151.66.142:61312#%F0%9F%87%AC%F0%9F%87%A7GB_3%7C3.7MB/s
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6U200RjVmWCtaSnBXcGtYTU5idzB5WXJXb2xZSWl3a25WWUR3eDhldXM3OD0=@134.65.57.26:61312#%F0%9F%87%AC%F0%9F%87%A7GB_4%7C1.3MB/s
-vless://adc11f30-e4cb-4985-bf5e-f9ded69c019f@31.76.39.230:443?sni=nvidia.com&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#%F0%9F%87%AC%F0%9F%87%A7GB_3%7C2.4MB/s
+hysteria2://531d9e93-53be-4f05-a9c1-33490d4da2f3@5.183.102.5:52746?insecure=1&sni=iosapps.itunes.apple.com#%F0%9F%87%AC%F0%9F%87%A7GB_3%7C3.6MB%2Fs
+hysteria2://531d9e93-53be-4f05-a9c1-33490d4da2f3@5.183.102.5:52746?insecure=1&sni=iosapps.itunes.apple.com&obfs=&obfs-password=#%F0%9F%87%AC%F0%9F%87%A7GB_3%7C3.6MB/s
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6QnRiVXkwV2JVazB6TXRlaXZtSGxvTW5WSnZIMUFYQ1NWMk1QcE96dTFvcz0=@134.65.60.121:61312#%F0%9F%87%AC%F0%9F%87%A7GB_2%7C1.2MB/s
+vless://79f0aac8-656a-435b-b092-c973a3f85e02@BatManAli.Savfasf.ir:41432?#%F0%9F%87%AC%F0%9F%87%A7GB_1%7C2.3MB/s
+vless://79f0aac8-656a-435b-b092-c973a3f85e02@BatManAli.Savfasf.ir:41432?#%F0%9F%87%AC%F0%9F%87%A7GB_3%7C2.7MB/s
+vless://79f0aac8-656a-435b-b092-c973a3f85e02@BatManAli.Savfasf.ir:41432?security=none&type=tcp&packetEncoding=xudp&encryption=none#%F0%9F%87%AC%F0%9F%87%A7GB_1%7C2.3MB%2Fs

@@ -1,2 +1,2 @@
-vless://5c9884a1-b641-4299-82ac-fc62da2327a7@43.108.9.116:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=random&flow=xtls-rprx-vision&sid=cd6caa470bec865e&pbk=vHl4olGSvL-LqhD2-yclHQWTupy6w02lSp3q8WVUUAU&encryption=none#%F0%9F%87%B0%F0%9F%87%B7KR_3%7C3.7MB%2Fs
-vless://5c9884a1-b641-4299-82ac-fc62da2327a7@43.108.9.116:443?sni=www.apple.com&flow=xtls-rprx-vision-udp443&fp=random&security=tls#%F0%9F%87%B0%F0%9F%87%B7KR_3%7C3.7MB/s
+hysteria2://1671a252e2a97dc2bda4e515475931da@132.226.226.189:50160?insecure=1&sni=www.bing.com&obfs=&obfs-password=#%F0%9F%87%B0%F0%9F%87%B7KR_1%7C1.5MB/s
+trojan://AA885B42-133C-3828-FB69-E45105C06092@63182sh8-4d7b.aws-agent.net:11171?allowInsecure=1&sni=m.ctrip.com#%E9%9F%A9%E5%9B%BD%7C%40ripaojiedian

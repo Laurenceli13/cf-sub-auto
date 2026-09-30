@@ -1,2 +1,4 @@
-vless://0250424c-ae75-4b6b-890f-3fe26fae36c3@85.90.197.53:443?sni=hk.152568.xyz&type=ws&host=hk.152568.xyz&path=/cdn/packages/runtime-core.tar.gzfp=edge&security=tls#%F0%9F%87%AD%F0%9F%87%B0HK_1%7C2.3MB/s
-vless://5b01dc2d-6892-49b8-8289-3f73a32e00e4@3696b38bsg.murphyweb.sbs:32134?sni=buylite.music.apple.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%AD%F0%9F%87%B0HK_2%7C4.1MB/s
+hysteria2://8294f130408299df8cab08c80bf6f819@24.233.8.109:443?insecure=1&obfs=salamander&obfs-password=c8827ab99e316c5bd414e21afa915ddf&sni=www.bing.com#%F0%9F%87%AD%F0%9F%87%B0HK_1%7C1.6MB%2Fs
+hysteria2://8294f130408299df8cab08c80bf6f819@24.233.8.109:443?insecure=1&sni=www.bing.com&obfs=salamander&obfs-password=c8827ab99e316c5bd414e21afa915ddf#%F0%9F%87%AD%F0%9F%87%B0HK_1%7C1.6MB/s
+vless://0250424c-ae75-4b6b-890f-3fe26fae36c3@45.82.244.40:443?security=tls&type=ws&path=%2Fcdn%2Fpackages%2Fruntime-core.tar.gz&host=hk.152568.xyz&packetEncoding=xudp&sni=hk.152568.xyz&fp=edge#%F0%9F%87%AD%F0%9F%87%B0HK_2%7C2.0MB%2Fs
+vless://0250424c-ae75-4b6b-890f-3fe26fae36c3@45.82.244.40:443?sni=hk.152568.xyz&type=ws&host=hk.152568.xyz&path=/cdn/packages/runtime-core.tar.gzfp=edge&security=tls#%F0%9F%87%AD%F0%9F%87%B0HK_2%7C2.0MB/s
