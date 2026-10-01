@@ -1,2 +1,1 @@
-hysteria2://usa_2_hysteria2_fastlane_7xd97qbds%3AZO9NsnzCMk5WDLYrLMFJi8V2Dg3HRSpv@92.118.112.132:1935?insecure=1&sni=us3.h.fastlanehosting.ru#%F0%9F%87%AE%F0%9F%87%B1IL_1%7C4.3MB%2Fs
-hysteria2://usa_2_hysteria2_fastlane_7xd97qbds%3AZO9NsnzCMk5WDLYrLMFJi8V2Dg3HRSpv@92.118.112.132:1935?insecure=1&sni=us3.h.fastlanehosting.ru#%F0%9F%87%AE%F0%9F%87%B1IL_1%7C4.3MB/s
+vless://46b3a70b-b99f-4c6e-aa83-df6d842bb954@193.169.229.145:443?allowInsecure=1&sni=isr.vpnskyline.com&flow=xtls-rprx-vision&fp=chrome&security=tls#%F0%9F%87%AE%F0%9F%87%B1%5Bwww.v2nodes.com%5D%20vless-IL-1...
