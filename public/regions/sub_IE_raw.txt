@@ -1,2 +1,2 @@
 vless://fdc48be3-a615-41ac-8bd1-ed844c931048@45.141.234.138:443?sni=edgetunnel-4uw.pages.dev&type=ws&host=edgetunnel-4uw.pages.dev&path=/fp=chrome&security=tls#%F0%9F%87%AE%F0%9F%87%AA%5Bwww.v2nodes.com%5D%20vless-IE-2...%20%231
-vless://fdc48be3-a615-41ac-8bd1-ed844c931048@45.141.234.138:443?sni=edgetunnel-4uw.pages.dev&type=ws&host=edgetunnel-4uw.pages.dev&path=/fp=chromesecurity=tls#%F0%9F%87%AE%F0%9F%87%AA%5Bwww.v2nodes.com%5D%20vless-IE-3...
+vless://fdc48be3-a615-41ac-8bd1-ed844c931048@45.141.234.138:443?sni=edgetunnel-4uw.pages.dev&type=ws&host=edgetunnel-4uw.pages.dev&path=/fp=chromesecurity=tls#%F0%9F%87%AE%F0%9F%87%AA%5Bwww.v2nodes.com%5D%20vless-IE-2...%20%232

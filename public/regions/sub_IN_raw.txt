@@ -1,10 +1,9 @@
-vless://511c1563-2cb6-4064-abc6-a59ee49818a8@5.253.30.99:40443?sni=deepl.com&flow=xtls-rprx-vision&fp=chrome&security=tls#%F0%9F%87%AE%F0%9F%87%B3%5Bwww.v2nodes.com%5D%20vless-IN
-vless://51a0af77-a60c-4d9b-81a4-f50e1b38d90b@168.144.155.167:443?sni=cf3.schzyc.cc.cd&type=ws&host=cf3.schzyc.cc.cd&path=/proxyip=ProxyIP.CMLiussss.netfp=chrome&security=tls#%F0%9F%87%AE%F0%9F%87%B3%20%E5%8D%B0%E5%BA%A6%20%7C%20IND%20%231
-vless://72ea5a91-ffcc-43d2-9297-5993c3abf186@148.113.5.44:443?sni=www.cloudflare.com&flow=xtls-rprx-vision&fp=chrome&security=tls#%F0%9F%87%AE%F0%9F%87%B3%5Bwww.v2nodes.com%5D%20vless-IN-1...%20%233
+vless://5e679ccd-1586-4d5f-b87b-48251046cad8@5.253.28.240:2443?sni=deepl.com&type=grpc&serviceName=rex-eb0bf76b710ce763&fp=firefox&security=tls#%F0%9F%87%AE%F0%9F%87%B3%5Bwww.v2nodes.com%5D%20vless-IN
+vless://72ea5a91-ffcc-43d2-9297-5993c3abf186@148.113.5.44:443?sni=www.cloudflare.com&flow=xtls-rprx-vision&fp=chrome&security=tls#%F0%9F%87%AE%F0%9F%87%B3%5Bwww.v2nodes.com%5D%20vless-IN-1...%20%232
+vless://914f3806-07a1-4158-9624-e183de065a38@india.letsconnectpoint.com:443?sni=india.letsconnectpoint.com&flow=xtls-rprx-vision&fp=chrome&security=tls#%F0%9F%87%AE%F0%9F%87%B3%5Bwww.v2nodes.com%5D%20vless-IN-1...
 vless://9e3132b8-b595-444a-833a-2de44789f9d7@139.84.150.190:8443?sni=shephe.dpdns.org&type=ws&host=shephe.dpdns.org&path=/fp=chrome&security=tls#%F0%9F%87%AE%F0%9F%87%B3%5Bwww.v2nodes.com%5D%20vless-IN-1...%20%238
 vless://9e3132b8-b595-444a-833a-2de44789f9d7@139.84.150.190:8443?sni=shephe.dpdns.org&type=ws&host=shephe.dpdns.org&path=/fp=chromesecurity=tls#%F0%9F%87%AE%F0%9F%87%B3%5Bwww.v2nodes.com%5D%20vless-IN-7...
-vless://9e3132b8-b595-444a-833a-2de44789f9d7@20.219.46.208:8443?sni=shephe.dpdns.org&type=ws&host=shephe.dpdns.org&path=/fp=chrome&security=tls#%F0%9F%87%AE%F0%9F%87%B3%5Bwww.v2nodes.com%5D%20vless-IN-3...%20%231
-vless://a368752a-32fc-42f3-980a-6b049218b23f@5.253.42.159:443?sni=india.letsconnectpoint.com&flow=xtls-rprx-vision&fp=chrome&security=tls#%F0%9F%87%AE%F0%9F%87%B3%5Bwww.v2nodes.com%5D%20vless-IN-1...%20%231
-vless://af5eac96-e478-488a-bc8c-45269d7e8847@dorado.yokkastars.com:40443?sni=deepl.com&flow=xtls-rprx-vision&fp=chrome&security=tls#%F0%9F%87%AE%F0%9F%87%B3%5Bwww.v2nodes.com%5D%20vless-IN-1...%20%234
-vless://c18b978e-1c4e-415c-8bea-07942b563a64@13.200.106.232:443?sni=shuma.ccwu.cc&type=ws&host=shuma.ccwu.cc&path=/fp=chromesecurity=tls#%F0%9F%87%AE%F0%9F%87%B3%5Bwww.v2nodes.com%5D%20vless-IN-3...
-vless://d90087c3-54f5-4283-a13f-615260c8b0c7@139.84.177.239:443?sni=googleapis.com&flow=xtls-rprx-vision&fp=chrome&security=tls#%F0%9F%87%AE%F0%9F%87%B3%5Bwww.v2nodes.com%5D%20vless-IN-1...
+vless://9e3132b8-b595-444a-833a-2de44789f9d7@20.219.46.208:8443?sni=shephe.dpdns.org&type=ws&host=shephe.dpdns.org&path=/fp=chrome&security=tls#%F0%9F%87%AE%F0%9F%87%B3%5Bwww.v2nodes.com%5D%20vless-IN-3...%20%232
+vless://9e3132b8-b595-444a-833a-2de44789f9d7@20.219.46.208:8443?sni=shephe.dpdns.org&type=ws&host=shephe.dpdns.org&path=/fp=chromesecurity=tls#%F0%9F%87%AE%F0%9F%87%B3%5Bwww.v2nodes.com%5D%20vless-IN-3...%20%231
+vless://d90087c3-54f5-4283-a13f-615260c8b0c7@139.84.176.185:443?sni=googleapis.com&flow=xtls-rprx-vision&fp=chrome&security=tls#%F0%9F%87%AE%F0%9F%87%B3%20%E5%8D%B0%E5%BA%A6%20%7C%20IND%20%231
+vless://e99ba96d-dec8-42eb-be53-19e71eef7cab@5.253.42.164:40443?sni=deepl.com&flow=xtls-rprx-vision&fp=firefox&security=tls#%F0%9F%87%AE%F0%9F%87%B3%5Bwww.v2nodes.com%5D%20vless-IN-1...%20%233

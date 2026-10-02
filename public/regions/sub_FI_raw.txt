@@ -1,9 +1,5 @@
 hysteria2://xf2ak19a4uajprxg@giftcard.gateway-stream.com:52090?insecure=0&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#Telegram%20%F0%9F%86%94%40cnetvpn%20%F0%9F%87%AB%F0%9F%87%AE
 ss://YWVzLTEyOC1nY206ZjkzMDBhOWJmMzlhZTAzNDdjM2EzYmZiYzRkZDc3NTQ=@77.83.247.207:18285#%F0%9F%87%AB%F0%9F%87%AE%5Bwww.v2nodes.com%5D%20ss-FI-1203...
-vless://03446511-2806-0021-b02f-f10d2d3a33c6@5.61.91.221:443?sni=cdn-up.perecbass.ru&flow=xtls-rprx-vision&fp=firefox&security=tls#%F0%9F%87%AB%F0%9F%87%AE%5Bwww.v2nodes.com%5D%20vless-FI-1...%20%234
-vless://1c332eae-7e02-4acd-996d-4eb3e652401c@prep.wwwinternetvideo.click:443?sni=yandex.ru&flow=xtls-rprx-vision&fp=chrome&security=tls#%F0%9F%87%AB%F0%9F%87%AE%5Bwww.v2nodes.com%5D%20vless-FI-1...%20%232
-vless://47f79fc1-0646-40e8-8a58-73e85d183d5a@144.31.27.215:43000?sni=144.31.27.215&flow=xtls-rprx-vision&fp=chrome&security=tls#%F0%9F%87%AB%F0%9F%87%AE%5Bwww.v2nodes.com%5D%20vless-FI-1...%20%231
-vless://67eb6b17-7797-4ded-bf52-423c4c5f6cbd@87.239.249.137:443?sni=www.foxsports.com&flow=xtls-rprx-vision&fp=chrome&security=tls#%F0%9F%87%AB%F0%9F%87%AE%5Bwww.v2nodes.com%5D%20vless-FI-1...%20%233
-vless://8df2e661-6f46-471b-9133-7fc13a0daa35@65.109.28.164:443?sni=web.eitaa.com&flow=xtls-rprx-vision&fp=chrome&security=tls#%F0%9F%87%AB%F0%9F%87%AE%5Bwww.v2nodes.com%5D%20vless-FI-1...
-vless://aded66f1-de12-4c3c-af9e-a21d6e7d9c96@staging.lastilhame.monster:443?sni=www.foxsports.com&flow=xtls-rprx-vision&fp=chrome&security=tls#%F0%9F%87%AB%F0%9F%87%AE%5Bwww.v2nodes.com%5D%20vless-FI-1...%20%236
-vless://fad0b9a6-187d-4fcc-96fc-498bc5b3135a@server.slavkiti.monster:443?sni=www.foxsports.com&flow=xtls-rprx-vision&fp=chrome&security=tls#%F0%9F%87%AB%F0%9F%87%AE%5Bwww.v2nodes.com%5D%20vless-FI-1...%20%235
+vless://1c332eae-7e02-4acd-996d-4eb3e652401c@prep.wwwinternetvideo.click:443?sni=yandex.ru&flow=xtls-rprx-vision&fp=chrome&security=tls#%F0%9F%87%AB%F0%9F%87%AE%5Bwww.v2nodes.com%5D%20vless-FI-1...
+vless://67eb6b17-7797-4ded-bf52-423c4c5f6cbd@87.239.249.137:443?sni=www.foxsports.com&flow=xtls-rprx-vision&fp=chrome&security=tls#%F0%9F%87%AB%F0%9F%87%AE%5Bwww.v2nodes.com%5D%20vless-FI-1...%20%231
+vless://aded66f1-de12-4c3c-af9e-a21d6e7d9c96@staging.lastilhame.monster:443?sni=www.foxsports.com&flow=xtls-rprx-vision&fp=chrome&security=tls#%F0%9F%87%AB%F0%9F%87%AE%5Bwww.v2nodes.com%5D%20vless-FI-1...%20%232

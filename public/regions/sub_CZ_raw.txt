@@ -1,1 +1,1 @@
-vless://7a8d2c3f-d6dd-0004-81d8-cff23d8364ee@13.143.181.220:443?sni=msk1.maxtelemost.com&flow=xtls-rprx-vision-udp443&fp=safari&security=tls#%F0%9F%87%A8%F0%9F%87%BFCZ_1%7C1.2MB/s
+hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.127.142:8443?insecure=1&sni=hop-germany-september.dynuddns.com#%F0%9F%87%A8%F0%9F%87%BF%20%E6%8D%B7%E5%85%8B%20%7C%20CZE%20%231
