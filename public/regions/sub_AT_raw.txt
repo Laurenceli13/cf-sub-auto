@@ -1,2 +1,3 @@
 vless://bc221702-dd43-4642-a203-24d8d6a81165@159.195.253.15:8443?allowInsecure=0&sni=au1.pad-sservice.lat&type=ws&host=au1.pad-service.com&path=/au1fp=safari&security=tls#%F0%9F%87%A6%F0%9F%87%B9%5Bwww.v2nodes.com%5D%20vless-AT-1...
-vless://edde565e-41f5-400e-84ea-7b87a3e84488@152.53.1.40:443?allowInsecure=1&sni=at.quattro-tech.ru&flow=xtls-rprx-vision&fp=chrome&security=tls#%F0%9F%87%A6%F0%9F%87%B9%5Bwww.v2nodes.com%5D%20vless-AT-1...%20%231
+vless://fdc48be3-a615-41ac-8bd1-ed844c931048@173.242.63.235:8443?sni=edgetunnel-4uw.pages.dev&type=ws&host=edgetunnel-4uw.pages.dev&path=/fp=chrome&security=tls#%F0%9F%87%A6%F0%9F%87%B9%5Bwww.v2nodes.com%5D%20vless-AT-3...%20%235
+vless://fdc48be3-a615-41ac-8bd1-ed844c931048@173.242.63.235:8443?sni=edgetunnel-4uw.pages.dev&type=ws&host=edgetunnel-4uw.pages.dev&path=/fp=chromesecurity=tls#%F0%9F%87%A6%F0%9F%87%B9%5Bwww.v2nodes.com%5D%20vless-AT-3...%20%234

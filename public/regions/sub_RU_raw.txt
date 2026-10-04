@@ -1,9 +1,8 @@
-vless://0dca2cfe-98eb-4f9d-9a47-cf87510c558b@72.4.65.116:443?sni=assets-de2.pleiades.codes&type=grpc&serviceName=cdn.v1.AssetService&fp=chrome&security=tls#%F0%9F%87%B7%F0%9F%87%BA%5Bwww.v2nodes.com%5D%20vless-RU-1...%20%232
-vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@45.152.113.206:443?sni=1.ru.oncloudnineservicestreang.com&flow=xtls-rprx-vision&fp=firefox&security=tls#%F0%9F%87%B7%F0%9F%87%BA%5Bwww.v2nodes.com%5D%20vless-RU-1...%20%233
-vless://94def50e-5f3c-4e4c-9719-3325f42d2131@31.76.34.216:443?sni=ru-c-1.minzt.su&flow=xtls-rprx-vision&fp=chrome&security=tls#%F0%9F%87%B7%F0%9F%87%BA%20%E4%BF%84%E7%BD%97%E6%96%AF%20%7C%20RUS%20%232
-vless://94def50e-5f3c-4e4c-9719-3325f42d2131@31.76.34.216:443?sni=ru-c-1.minzt.su&flow=xtls-rprx-vision&fp=chrome&security=tls#%F0%9F%87%B7%F0%9F%87%BA%5Bwww.v2nodes.com%5D%20vless-RU-1...
+vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@45.152.113.206:443?sni=1.ru.oncloudnineservicestreang.com&flow=xtls-rprx-vision&fp=chrome&security=tls#%F0%9F%87%B7%F0%9F%87%BA%5Bwww.v2nodes.com%5D%20vless-RU-1...%20%233
+vless://94def50e-5f3c-4e4c-9719-3325f42d2131@31.76.34.216:443?sni=ru-c-1.minzt.su&flow=xtls-rprx-vision&fp=chrome&security=tls#%F0%9F%87%B7%F0%9F%87%BA%5Bwww.v2nodes.com%5D%20vless-RU-1...%20%231
 vless://bc5ec86c-3e65-4272-994c-59a924c72a68@fbsv6.guardora.pro:443?allowInsecure=0&sni=fbsv6.guardora.pro&alpn=http/1.1&type=ws&host=fbsv6.guardora.pro&path=/wsfp=chrome&security=tls#%F0%9F%87%B7%F0%9F%87%BA%5Bwww.v2nodes.com%5D%20vless-RU-1...%20%234
-vless://c2bbf90c-7f13-47dd-b68d-f0bd38b6b3c8@randomquaint.net:2053?sni=randomquaint.net&fp=chrome&security=tls#%F0%9F%87%B7%F0%9F%87%BA%20%E4%BF%84%E7%BD%97%E6%96%AF%20%7C%20RUS%20%231
-vless://c90395e6-2140-47ad-a54d-9b166729d3ef@xsru1.ddnsfree.com:443?sni=xsru1.ddnsfree.com&type=grpc&serviceName=grpc-ru&fp=random&security=tls#%F0%9F%87%B7%F0%9F%87%BA%5Bwww.v2nodes.com%5D%20vless-RU-1...%20%235
-vless://f778d2eb-1bec-4d19-b0bf-0a5e39feed4f@45.93.201.119:443?sni=vir2albridge.com&type=grpc&serviceName=moktana.net.v1.StreamService&fp=random&security=tls#%F0%9F%87%B7%F0%9F%87%BA%5Bwww.v2nodes.com%5D%20vless-RU-1...%20%231
-vless://f9613819-d2fe-4b3a-a2e6-40c184c6854c@194.87.143.165:8443?sni=wsru1.wba-pn.ru&type=ws&host=194.87.143.165&path=/fp=random&security=tls#%F0%9F%87%B7%F0%9F%87%BA%5Bwww.v2nodes.com%5D%20vless-RU-1...%20%236
+vless://c90395e6-2140-47ad-a54d-9b166729d3ef@xsru1.ddnsfree.com:443?sni=xsru1.ddnsfree.com&type=grpc&serviceName=grpc-ru&fp=random&security=tls#%F0%9F%87%B7%F0%9F%87%BA%5Bwww.v2nodes.com%5D%20vless-RU-1...%20%236
+vless://cb0ccf90-0e8f-4621-b042-4e35c797de2b@2.26.80.235:443?sni=dl.google.com&flow=xtls-rprx-vision&fp=safari&security=tls#%F0%9F%87%B7%F0%9F%87%BA%5Bwww.v2nodes.com%5D%20vless-RU-1...
+vless://d4e7bb0a-ad2c-4030-b2e0-7bb6840b04f5@144.31.190.230:8443?sni=ozon.ru&flow=xtls-rprx-vision&fp=random&security=tls#%F0%9F%87%B7%F0%9F%87%BA%5Bwww.v2nodes.com%5D%20vless-RU-1...%20%235
+vless://f778d2eb-1bec-4d19-b0bf-0a5e39feed4f@45.93.201.119:443?sni=vir2albridge.com&type=grpc&serviceName=moktana.net.v1.StreamService&fp=random&security=tls#%F0%9F%87%B7%F0%9F%87%BA%5Bwww.v2nodes.com%5D%20vless-RU-1...%20%232
+vless://f9613819-d2fe-4b3a-a2e6-40c184c6854c@194.87.143.165:8443?sni=wsru1.wba-pn.ru&type=ws&host=194.87.143.165&path=/fp=random&security=tls#%F0%9F%87%B7%F0%9F%87%BA%5Bwww.v2nodes.com%5D%20vless-RU-1...%20%237
