@@ -1,1 +1,1 @@
-vless://0c40bce9-8710-4820-8f22-0742b61df999@34.165.56.30:443?sni=www.cloudflare.com&fp=chrome&security=tls#%F0%9F%87%AE%F0%9F%87%B1%20%E4%BB%A5%E8%89%B2%E5%88%97%20%7C%20ISR%20%231
+vless://d342d11e-d224-4463-b982-532309285094@185.253.75.119:443?sni=ccc.010304.xyz&type=ws&host=ccc.010304.xyz&path=/fp=chromesecurity=tls#%F0%9F%87%AE%F0%9F%87%B1%5Bwww.v2nodes.com%5D%20vless-IL-1...%20%232
