@@ -1,2 +1,1 @@
-hysteria2://b42d90fa667942aebc734d60@159.13.42.167:20000,20000-30000?insecure=1&sni=rmgyvpn.rest&obfs=salamander&obfs-password=b42d90fa667942aebc734d60#%F0%9F%87%A6%F0%9F%87%BA%20%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%20%7C%20AUS
-vless://f49d04d6-aaa7-4013-b323-bc35b78230db@117.55.233.87:443?sni=s3ws.ragingbull.de5.net&type=ws&host=s3ws.ragingbull.de5.net&path=/wsrb7k2mfp=chrome&security=tls#%F0%9F%87%A6%F0%9F%87%BA%20%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%20%7C%20AUS%20%231
+vless://a14b736b-a92a-48d6-a596-5d31f7378ded@51.161.204.242:443?sni=www.cloudflare.com&flow=xtls-rprx-vision&fp=chrome&security=tls#%F0%9F%87%A6%F0%9F%87%BA%20%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%20%7C%20AUS%20%231

@@ -1,8 +1,7 @@
-trojan://Telegram_healer_config@104.21.70.21:443?sni=bjsa2ygfitzjtho8ucze29xf2m2q9c.g3fiajpf0erm9k3x6ww-yegzl2.workers.dev&alpn=http/1.1&type=ws&host=bjsa2ygfitzjtho8ucze29xf2m2q9c.g3fiajpf0erm9k3x6ww-yegzl2.workers.dev&path=/tr/J6IJuAAWkqyiEt8UkeRnVdLlkLIGukLr%3Fed%3D2560#%F0%9F%87%AD%F0%9F%87%B0%5Bwww.v2nodes.com%5D%20trojan-HK-...
-trojan://UX82473651@strong-haddock.rooster465.autos:443?sni=strong-haddock.rooster465.autos#%F0%9F%87%AD%F0%9F%87%B0%5Bwww.v2nodes.com%5D%20trojan-HK-...%20%231
+hysteria2://6ddb6a68-d5f5-ca30-3943-cf0c9876d50c@116.49.85.111:443?insecure=1&sni=9358b4b1-tmveo0-u6l8xy-g43g.hk3.hyhuawei.com#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%20%7C%20HKG%20%231
+hysteria2://6ddb6a68-d5f5-ca30-3943-cf0c9876d50c@bff4b219-tmkao0-tnnrly-g43g.hk3.hyhuawei.com:443?insecure=1&sni=bff4b219-tmkao0-tnnrly-g43g.hk3.hyhuawei.com#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%20%7C%20HKG%20%233
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptNW5zZWR2ZGN6eDZ4MDZl@telegramx.khp25.com:1080#%F0%9F%87%AD%F0%9F%87%B0%5Bwww.v2nodes.com%5D%20ss-HK-1576...
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwbm8wZTJrZWppMmdzZmVh@telegram.khp25.com:1080#%F0%9F%87%AD%F0%9F%87%B0%5Bwww.v2nodes.com%5D%20ss-HK-1585...
 vless://07cb07b9-0c4d-46c1-a15a-b147511b6b07@195.58.144.56:11907?allowInsecure=0&alpn=h2%2Chttp/1.1&fp=chrome&security=tls#%F0%9F%87%AD%F0%9F%87%B0%5Bwww.v2nodes.com%5D%20vless-HK-1...%20%231
-vless://51a0af77-a60c-4d9b-81a4-f50e1b38d90b@122.10.119.252:443?sni=cf3.schzyc.cc.cd&type=ws&host=cf3.schzyc.cc.cd&path=/proxyip=ProxyIP.CMLiussss.netfp=chrome&security=tls#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%20%7C%20HKG%20%232
 vless://91ad30e9-ab06-4b4c-9fb9-1c2aa97d8b3a@43.99.93.77:443?sni=www.apple.com&flow=xtls-rprx-vision&fp=chrome&security=tls#%F0%9F%87%AD%F0%9F%87%B0%5Bwww.v2nodes.com%5D%20vless-HK-1...
-vless://928e6cce-8ced-4243-9a48-a6642edd09b0@47.238.210.5:13779?sni=tesla.com&fp=chrome&security=tls#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%20%7C%20HKG%20%238
-vless://928e6cce-8ced-4243-9a48-a6642edd09b0@47.238.210.5:13779?sni=tesla.com&fp=chrome&security=tls#%F0%9F%87%AD%F0%9F%87%B0%5Bwww.v2nodes.com%5D%20vless-HK-1...%20%232
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@175.29.23.179:443?sni=fzo5i.ir46.90k.hh.ov0.kdns.fr&type=ws&host=fzo5i.ir46.90k.hh.ov0.kdns.fr&path=/glasspanel/guest000_0_5de14443985f/security=tls#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%20%7C%20HKG%20%231
+vless://928e6cce-8ced-4243-9a48-a6642edd09b0@47.238.210.5:13779?sni=tesla.com&fp=chrome&security=tls#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%20%7C%20HKG%20%237

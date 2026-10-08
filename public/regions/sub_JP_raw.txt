@@ -1,4 +1,7 @@
-hysteria2://5d0a6445-a30d-4522-bb1f-94f1d3ad63be@rb.mangshe.xyz:2060?insecure=1&sni=rb.mangshe.xyz#%F0%9F%87%AF%F0%9F%87%B5JP_2%7C2.9MB/s
+hysteria2://5d0a6445-a30d-4522-bb1f-94f1d3ad63be@rb.mangshe.xyz:2060?insecure=1&sni=127.0.0.1#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%20%7C%20JPN%20%231
+hysteria2://5d0a6445-a30d-4522-bb1f-94f1d3ad63be@rb.mangshe.xyz:2060?insecure=1&sni=127.0.0.1#%F0%9F%87%AF%F0%9F%87%B5JP_1%7C1.1MB%2Fs
+hysteria2://u63SxILNwtrQZ7Y1ZrFaZfsA@8.211.175.236:8443?insecure=1&sni=bing.com#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%20%7C%20JPN%20%232
+ss://YWVzLTI1Ni1nY206dVdHM25pc3FQd3F2TUVBMQ==@150.251.158.144:8388#%F0%9F%87%AF%F0%9F%87%B5%5Bwww.v2nodes.com%5D%20ss-JP-1588...
 trojan://UX82473651@accurate-frog.rooster465.autos:443?sni=accurate-frog.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5%5Bwww.v2nodes.com%5D%20trojan-JP-...%20%232
 trojan://UX82473651@assuring-skink.rooster465.autos:443?sni=assuring-skink.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5%5Bwww.v2nodes.com%5D%20trojan-JP-...%20%2314
 trojan://UX82473651@brief-glider.rooster465.autos:443?sni=brief-glider.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5%5Bwww.v2nodes.com%5D%20trojan-JP-...%20%2316
@@ -16,8 +19,4 @@ trojan://UX82473651@prime-corgi.rooster465.autos:443?sni=prime-corgi.rooster465.
 trojan://UX82473651@promoted-rattler.rooster465.autos:443?sni=promoted-rattler.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5%5Bwww.v2nodes.com%5D%20trojan-JP-...%20%2312
 trojan://UX82473651@winning-marten.rooster465.autos:443?sni=winning-marten.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5%5Bwww.v2nodes.com%5D%20trojan-JP-...%20%236
 trojan://e26a229d-e8f2-4ff9-8c7d-58a9d83ee437@45.32.52.173:8886?allowInsecure=1&sni=45.32.52.173#%F0%9F%87%AF%F0%9F%87%B5%5Bwww.v2nodes.com%5D%20trojan-JP-...
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@saas.sin.fan:443?security=tls&type=ws&path=%2Ffdip%3Dsstp%3A%2F%2Fvpn%3Avpn%40vpn748359672.opengw.net%3A1458%3Fed%3D2560&host=snip.edgeoneai.cc.cd&packetEncoding=xudp&alpn=h3%2Ch2&sni=snip.edgeoneai.cc.cd&fp=chrome&encryption=none#%F0%9F%87%AF%F0%9F%87%B5JP_1%7C5.0MB%2Fs
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@saas.sin.fan:443?sni=snip.edgeoneai.cc.cd&alpn=h3%2Ch2&type=ws&host=snip.edgeoneai.cc.cd&path=/fdip=sstp://vpn:vpn@vpn748359672.opengw.net:1458?ed=2560fp=chrome&security=tls#%F0%9F%87%AF%F0%9F%87%B5JP_1%7C2.7MB/s
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@saas.sin.fan:443?sni=snip.edgeoneai.cc.cd&alpn=h3%2Ch2&type=ws&host=snip.edgeoneai.cc.cd&path=/fdip=sstp://vpn:vpn@vpn748359672.opengw.net:1458?ed=2560fp=chrome&security=tls#%F0%9F%87%AF%F0%9F%87%B5JP_1%7C4.7MB/s
 vless://5b01dc2d-6892-49b8-8289-3f73a32e00e4@cn.uxuan.cfd:443?sni=digjp.murphyweb.top&type=ws&host=digjp.murphyweb.top&path=/9b8cb96f0fdf/57654fd6b8b4n2M4bV6cC8xX0zZ1aQ3w/e532fbf9-cc5f-4da4-9bb1-66c16ec49137fp=chrome&security=tls#%F0%9F%87%AF%F0%9F%87%B5%5Bwww.v2nodes.com%5D%20vless-JP-1...
-vless://e01fcb68-3112-49da-b85d-dffb799cfc9b@156.246.88.125:26518?sni=github.com&flow=xtls-rprx-vision&fp=chrome&security=tls#%F0%9F%87%AF%F0%9F%87%B5%5Bwww.v2nodes.com%5D%20vless-JP-1...%20%231
