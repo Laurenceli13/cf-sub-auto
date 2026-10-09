@@ -1,11 +1,9 @@
 trojan://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@77.74.123.106:4443?allowInsecure=1&sni=grape-test-italy.dynuddns.net#%F0%9F%87%B8%F0%9F%87%AA%5Bwww.v2nodes.com%5D%20trojan-SE-...%20%231
-vless://10394279-283c-4ab8-8529-f1e0a4c61bc8@185.207.66.8:443?sni=hexagonicfield.com&type=grpc&serviceName=moktana.net.v1.StreamService&fp=random&security=tls#%F0%9F%87%B8%F0%9F%87%AA%5Bwww.v2nodes.com%5D%20vless-SE-9...
 vless://11aabba0-5fd1-4f15-8068-74c1a466cefc@193.163.203.170:443?sni=yandex.ru&flow=xtls-rprx-vision&fp=chrome&security=tls#%F0%9F%87%B8%F0%9F%87%AA%5Bwww.v2nodes.com%5D%20vless-SE-1...%20%237
-vless://203d434a-2a92-45df-8973-ca80434ecf73@163.245.43.50:443?sni=se-twitch.global-cdn.org&type=grpc&serviceName=content.v1.Feed&fp=chrome&security=tls#%F0%9F%87%B8%F0%9F%87%AA%5Bwww.v2nodes.com%5D%20vless-SE-1...
-vless://2412bd96-925b-43f2-81d1-0ed4f0793699@31.207.7.74:443?sni=pkg.go.dev&flow=xtls-rprx-vision&fp=chrome&security=tls#%F0%9F%87%B8%F0%9F%87%AA%5Bwww.v2nodes.com%5D%20vless-SE-1...%20%235
-vless://5d16ac22-6eea-426f-b778-6f4c2961faef@45.132.176.225:9881?sni=dl.google.com&type=grpc&serviceName=&fp=random&security=tls#%F0%9F%87%B8%F0%9F%87%AA%20%E7%91%9E%E5%85%B8%20%7C%20SWE%20%231
-vless://5d16ac22-6eea-426f-b778-6f4c2961faef@45.132.176.225:9881?sni=dl.google.com&type=grpc&serviceName=grpc-tunnel&fp=random&security=tls#%F0%9F%87%B8%F0%9F%87%AA%20%E7%91%9E%E5%85%B8%20%7C%20SWE
+vless://203d434a-2a92-45df-8973-ca80434ecf73@163.245.43.50:443?allowInsecure=0&sni=se-twitch.global-cdn.org&type=grpc&serviceName=content.v1.Feed&fp=chrome&security=tls#%F0%9F%87%B8%F0%9F%87%AA%5Bwww.v2nodes.com%5D%20vless-SE-1...
+vless://2412bd96-925b-43f2-81d1-0ed4f0793699@31.207.7.74:443?sni=pkg.go.dev&flow=xtls-rprx-vision&fp=firefox&security=tls#%F0%9F%87%B8%F0%9F%87%AA%5Bwww.v2nodes.com%5D%20vless-SE-1...%20%235
+vless://318c935d-c195-41d3-99ad-9bbcfdab3386@de2.srv.vbuste.ru:443?sni=de2.srv.vbuste.ru&flow=xtls-rprx-vision&fp=chrome&security=tls#%F0%9F%87%B8%F0%9F%87%AA%5Bwww.v2nodes.com%5D%20vless-SE-1...%20%231
 vless://6e05822a-e9da-4135-a9db-71aa07a944af@94.143.231.146:443?allowInsecure=0&sni=sub.merky.top&type=ws&host=sub.merky.top&path=/merky-connect/de6/fp=chrome&security=tls#%F0%9F%87%B8%F0%9F%87%AA%5Bwww.v2nodes.com%5D%20vless-SE-1...%20%234
 vless://87fd990d-ca93-440a-bbd4-e8281c4a0910@132.243.231.12:443?sni=d3-se1.cloud-cdn.xyz&flow=xtls-rprx-vision&fp=chrome&security=tls#%F0%9F%87%B8%F0%9F%87%AA%5Bwww.v2nodes.com%5D%20vless-SE-1...%20%232
 vless://87fd990d-ca93-440a-bbd4-e8281c4a0910@132.243.231.4:443?sni=d3-se1.cloud-cdn.xyz&flow=xtls-rprx-vision&fp=chrome&security=tls#%F0%9F%87%B8%F0%9F%87%AA%5Bwww.v2nodes.com%5D%20vless-SE-1...%20%233
-vless://fc00adfb-232a-46ce-8b93-0c70e516aa8a@62.60.159.81:2053?sni=www.samsung.com&type=grpc&serviceName=grpce5bb9e71&fp=safari&security=tls#%F0%9F%87%B8%F0%9F%87%AA%5Bwww.v2nodes.com%5D%20vless-SE-1...%20%236
+vless://fc00adfb-232a-46ce-8b93-0c70e516aa8a@62.60.159.81:2053?sni=www.samsung.com&type=grpc&serviceName=grpce5bb9e71&fp=chrome&security=tls#%F0%9F%87%B8%F0%9F%87%AA%5Bwww.v2nodes.com%5D%20vless-SE-1...%20%236
