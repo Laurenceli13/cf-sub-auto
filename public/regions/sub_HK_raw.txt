@@ -1,10 +1,9 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptNW5zZWR2ZGN6eDZ4MDZl@telegramx.khp25.com:1080#%F0%9F%87%AD%F0%9F%87%B0%5Bwww.v2nodes.com%5D%20ss-HK-1576...
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwbm8wZTJrZWppMmdzZmVh@telegram.khp25.com:1080#%F0%9F%87%AD%F0%9F%87%B0%5Bwww.v2nodes.com%5D%20ss-HK-1585...
-trojan://16db1e7c-975c-4b8d-9317-13b49e55404a@brookseek.trafficmanager.net:16102?sni=teambition-file.oss-cn-zhangjiakou.aliyuncs.com&allowInsecure=1&type=tcp#%F0%9F%87%AD%F0%9F%87%B0HK_1%7C1.9MB%2Fs
-trojan://16db1e7c-975c-4b8d-9317-13b49e55404a@brookseek.trafficmanager.net:16105?sni=teambition-file.oss-cn-zhangjiakou.aliyuncs.com&allowInsecure=1&type=tcp#%F0%9F%87%AD%F0%9F%87%B0HK_2%7C1.4MB%2Fs
 trojan://UX82473651@strong-haddock.rooster465.autos:443?sni=strong-haddock.rooster465.autos#%F0%9F%87%AD%F0%9F%87%B0%5Bwww.v2nodes.com%5D%20trojan-HK-...
-vless://41a7af38-0bb1-4493-aa8d-634af0c2548b@82.29.36.250:443?sni=aws.amazon.com&flow=xtls-rprx-vision&fp=chrome&security=tls#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%20%7C%20HKG%20%231
-vless://5b01dc2d-6892-49b8-8289-3f73a32e00e4@3696b38bsg.murphyweb.sbs:32134?sni=buylite.music.apple.com&flow=xtls-rprx-vision&fp=chrome&security=tls#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%20%7C%20HKG%20%233
-vless://928e6cce-8ced-4243-9a48-a6642edd09b0@47.238.210.5:13779?sni=tesla.com&fp=chrome&security=tls#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%20%7C%20HKG%20%232
-vless://c1c04450-bf71-4049-ad0c-9cf6d94d9f1f@103.180.20.108:8443?sni=ty986gfazs.cainiaohub.xyz&type=ws&host=ty986gfazs.cainiaohub.xyz&path=/81574b6b-c9d7-44a0-b83d-dad56e8cb530fp=chrome&security=tls#%F0%9F%87%AD%F0%9F%87%B0%5Bwww.v2nodes.com%5D%20vless-HK-1...%20%232
-vless://da8aa4cc-4f76-4248-a289-41f25713b6e2@tg.juntham.cn:443?sni=tg.juntham.cn&type=ws&host=tg.juntham.cn&path=/fp=chrome&security=tls#%F0%9F%87%AD%F0%9F%87%B0%5Bwww.v2nodes.com%5D%20vless-HK-1...
+vless://07cb07b9-0c4d-46c1-a15a-b147511b6b07@195.58.144.56:11907?allowInsecure=0&alpn=h2%2Chttp/1.1&fp=chrome&security=tls#%F0%9F%87%AD%F0%9F%87%B0%5Bwww.v2nodes.com%5D%20vless-HK-1...
+vless://928e6cce-8ced-4243-9a48-a6642edd09b0@47.238.210.5:13779?sni=tesla.com&fp=chrome&security=tls#%F0%9F%87%AD%F0%9F%87%B0%5Bwww.v2nodes.com%5D%20vless-HK-1...%20%232
+vless://c1c04450-bf71-4049-ad0c-9cf6d94d9f1f@103.148.73.173:8443?sni=ty986gfazs.cainiaohub.xyz&type=ws&host=ty986gfazs.cainiaohub.xyz&path=/81574b6b-c9d7-44a0-b83d-dad56e8cb530fp=chrome&security=tls#%F0%9F%87%AD%F0%9F%87%B0%5Bwww.v2nodes.com%5D%20vless-HK-1...%20%233
+vless://ce3de0e0-9a00-4735-9a89-ebacbb669472@go.7777799999.shop:23005?sni=www.icloud.com&flow=xtls-rprx-vision&fp=safari&security=tls#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%20%7C%20HKG%20%237
+vless://e6df2095-a73c-4043-8693-8d5a03686870@188.114.97.6:443?allowInsecure=0&sni=lucasjow.us.ci&alpn=http/1.1&type=ws&host=lucasjow.us.ci&path=/cart/docs/www/proxyip=108.160.132.132?ed#Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NETfp=chrome&security=tls#%F0%9F%87%AD%F0%9F%87%B0%5Bwww.v2nodes.com%5D%20vless-HK-1...%20%231
+vless://fe0721ac-c577-4938-b7ca-8ab5f43bb8da@156.224.77.171:9443?sni=www.amazon.com&flow=xtls-rprx-vision&fp=random&security=tls#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%20%7C%20HKG%20%234

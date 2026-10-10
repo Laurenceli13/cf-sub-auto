@@ -1,6 +1,2 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplOEtnUzhmRDB5RHFZRnBnTjRHNXBpQ090OWFGeXFBMw==@132.243.175.144:8388#%F0%9F%87%A8%F0%9F%87%AD%5Bwww.v2nodes.com%5D%20ss-CH-1573...
-vless://4f4ba283-2dd7-4eda-9211-63ae357373cf@188.120.236.239:2096?sni=id.vk.com&type=grpc&serviceName=&fp=safari&security=tls#%F0%9F%87%A8%F0%9F%87%AD%20%E7%91%9E%E5%A3%AB%20%7C%20CHE%20%231
-vless://4f4ba283-2dd7-4eda-9211-63ae357373cf@188.120.236.239:2096?sni=id.vk.com&type=grpc&serviceName=vless-grpc-reality&fp=safari&security=tls#%F0%9F%87%A8%F0%9F%87%AD%20%E7%91%9E%E5%A3%AB%20%7C%20CHE
-vless://4f4ba283-2dd7-4eda-9211-63ae357373cf@81.94.148.104:2096?sni=id.vk.com&type=grpc&serviceName=&fp=random&security=tls#%F0%9F%87%A8%F0%9F%87%AD%20%E7%91%9E%E5%A3%AB%20%7C%20CHE%20%232
-vless://4f4ba283-2dd7-4eda-9211-63ae357373cf@81.94.148.104:2096?sni=id.vk.com&type=grpc&serviceName=vless-grpc-reality&fp=random&security=tls#%F0%9F%87%A8%F0%9F%87%AD%20%E7%91%9E%E5%A3%AB%20%7C%20CHE%202
 vless://c0dd6d59-1573-43af-8b70-1470b2632a6d@208.69.78.217:2053?sni=www.apple.com&fp=chrome&security=tls#%F0%9F%87%A8%F0%9F%87%AD%5Bwww.v2nodes.com%5D%20vless-CH-1...
