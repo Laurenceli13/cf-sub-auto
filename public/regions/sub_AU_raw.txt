@@ -1,1 +1,4 @@
-hysteria2://b42d90fa667942aebc734d60@137.23.2.56:20000,20000-30000?insecure=1&sni=rmgyvpn.rest&obfs=salamander&obfs-password=b42d90fa667942aebc734d60#%F0%9F%87%A6%F0%9F%87%BA%20%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%20%7C%20AUS
+hysteria2://a34f3990b69f44bfa0d32385@140.238.198.229:20000,20000-30000?insecure=1&sni=rmgyvpn.rest&obfs=salamander&obfs-password=a34f3990b69f44bfa0d32385#%F0%9F%87%A6%F0%9F%87%BA%20%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%20%7C%20AUS
+hysteria2://b42d90fa667942aebc734d60@137.23.2.56:20000,20000-30000?insecure=1&sni=rmgyvpn.rest&obfs=salamander&obfs-password=b42d90fa667942aebc734d60#%F0%9F%87%A6%F0%9F%87%BA%20%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%20%7C%20AUS%202
+vless://524dd22d-9f8c-4cc4-9e12-f427f497dff4@117.55.194.110:709?security=reality&type=tcp&packetEncoding=xudp&sni=www.kayak.com&fp=firefox&flow=xtls-rprx-vision&sid=42b7393d3e94e4c7&pbk=YQGxuBmerdc9w64ESEpkvU7BzpqPTmQ_YhVSYypnEnU&encryption=none#%F0%9F%87%A6%F0%9F%87%BAAU_1%7C1.3MB%2Fs
+vless://524dd22d-9f8c-4cc4-9e12-f427f497dff4@117.55.194.110:709?sni=www.kayak.com&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#%F0%9F%87%A6%F0%9F%87%BAAU_1%7C1.3MB/s

@@ -1,1 +1,1 @@
-vless://51e493d4-b275-45e0-a714-e014f40b3c32@207.175.190.56:443?sni=www.cloudflare.com&fp=chrome&security=tls#%F0%9F%87%A7%F0%9F%87%AABE_1%7C1.8MB/s
+ss://YWVzLTEyOC1nY206MjU4MWNlYmItZTQ1Mi00ZWUzLTg4NDktM2NkMzU4YmY5Mzk0@ruot.ayucloudservices.nl:35034#%F0%9F%87%A7%F0%9F%87%AA%20%E6%AF%94%E5%88%A9%E6%97%B6%20%7C%20BEL%20%231
