@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T06:18:52Z",
+  "updated": "2026-10-13T06:58:32Z",
   "total_nodes": 100,
   "v2ray_nodes": 100,
   "hysteria_nodes": 0,
@@ -14,9 +14,9 @@
       "emoji": "🇩🇪",
       "count": 0
     },
-    "FR": {
-      "name": "法国",
-      "emoji": "🇫🇷",
+    "NL": {
+      "name": "荷兰",
+      "emoji": "🇳🇱",
       "count": 0
     },
     "US": {
@@ -29,9 +29,19 @@
       "emoji": "🇸🇬",
       "count": 0
     },
-    "NL": {
-      "name": "荷兰",
-      "emoji": "🇳🇱",
+    "GB": {
+      "name": "英国",
+      "emoji": "🇬🇧",
+      "count": 0
+    },
+    "FR": {
+      "name": "法国",
+      "emoji": "🇫🇷",
+      "count": 0
+    },
+    "FI": {
+      "name": "芬兰",
+      "emoji": "🇫🇮",
       "count": 0
     },
     "JP": {
@@ -44,16 +54,6 @@
       "emoji": "🇰🇷",
       "count": 0
     },
-    "FI": {
-      "name": "芬兰",
-      "emoji": "🇫🇮",
-      "count": 0
-    },
-    "GB": {
-      "name": "英国",
-      "emoji": "🇬🇧",
-      "count": 0
-    },
     "PL": {
       "name": "波兰",
       "emoji": "🇵🇱",
@@ -64,14 +64,14 @@
       "emoji": "🇨🇦",
       "count": 0
     },
+    "TR": {
+      "name": "土耳其",
+      "emoji": "🇹🇷",
+      "count": 0
+    },
     "SE": {
       "name": "瑞典",
       "emoji": "🇸🇪",
-      "count": 0
-    },
-    "HK": {
-      "name": "香港",
-      "emoji": "🇭🇰",
       "count": 0
     },
     "RU": {
@@ -79,19 +79,14 @@
       "emoji": "🇷🇺",
       "count": 0
     },
+    "HK": {
+      "name": "香港",
+      "emoji": "🇭🇰",
+      "count": 0
+    },
     "CH": {
       "name": "瑞士",
       "emoji": "🇨🇭",
-      "count": 0
-    },
-    "TR": {
-      "name": "土耳其",
-      "emoji": "🇹🇷",
-      "count": 0
-    },
-    "IE": {
-      "name": "爱尔兰",
-      "emoji": "🇮🇪",
       "count": 0
     },
     "IT": {
@@ -99,24 +94,9 @@
       "emoji": "🇮🇹",
       "count": 0
     },
-    "ZA": {
-      "name": "南非",
-      "emoji": "🇿🇦",
-      "count": 0
-    },
-    "RO": {
-      "name": "罗马尼亚",
-      "emoji": "🇷🇴",
-      "count": 0
-    },
-    "TW": {
-      "name": "台湾",
-      "emoji": "🇹🇼",
-      "count": 0
-    },
-    "ID": {
-      "name": "印尼",
-      "emoji": "🇮🇩",
+    "IE": {
+      "name": "爱尔兰",
+      "emoji": "🇮🇪",
       "count": 0
     },
     "IN": {
@@ -124,29 +104,19 @@
       "emoji": "🇮🇳",
       "count": 0
     },
-    "ES": {
-      "name": "西班牙",
-      "emoji": "🇪🇸",
+    "RO": {
+      "name": "罗马尼亚",
+      "emoji": "🇷🇴",
       "count": 0
     },
-    "AE": {
-      "name": "阿联酋",
-      "emoji": "🇦🇪",
+    "AU": {
+      "name": "澳大利亚",
+      "emoji": "🇦🇺",
       "count": 0
     },
-    "TH": {
-      "name": "泰国",
-      "emoji": "🇹🇭",
-      "count": 0
-    },
-    "MY": {
-      "name": "马来西亚",
-      "emoji": "🇲🇾",
-      "count": 0
-    },
-    "CL": {
-      "name": "智利",
-      "emoji": "🇨🇱",
+    "ZA": {
+      "name": "南非",
+      "emoji": "🇿🇦",
       "count": 0
     },
     "MX": {
@@ -159,9 +129,24 @@
       "emoji": "🇦🇹",
       "count": 0
     },
-    "UA": {
-      "name": "乌克兰",
-      "emoji": "🇺🇦",
+    "ID": {
+      "name": "印尼",
+      "emoji": "🇮🇩",
+      "count": 0
+    },
+    "TW": {
+      "name": "台湾",
+      "emoji": "🇹🇼",
+      "count": 0
+    },
+    "AE": {
+      "name": "阿联酋",
+      "emoji": "🇦🇪",
+      "count": 0
+    },
+    "ES": {
+      "name": "西班牙",
+      "emoji": "🇪🇸",
       "count": 0
     },
     "BR": {
@@ -174,9 +159,19 @@
       "emoji": "🇳🇴",
       "count": 0
     },
-    "BE": {
-      "name": "比利时",
-      "emoji": "🇧🇪",
+    "TH": {
+      "name": "泰国",
+      "emoji": "🇹🇭",
+      "count": 0
+    },
+    "CL": {
+      "name": "智利",
+      "emoji": "🇨🇱",
+      "count": 0
+    },
+    "MY": {
+      "name": "马来西亚",
+      "emoji": "🇲🇾",
       "count": 0
     },
     "MD": {
@@ -194,9 +189,19 @@
       "emoji": "🇨🇿",
       "count": 0
     },
+    "UA": {
+      "name": "乌克兰",
+      "emoji": "🇺🇦",
+      "count": 0
+    },
     "IL": {
       "name": "以色列",
       "emoji": "🇮🇱",
+      "count": 0
+    },
+    "VN": {
+      "name": "越南",
+      "emoji": "🇻🇳",
       "count": 0
     }
   }
