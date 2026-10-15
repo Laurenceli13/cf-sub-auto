@@ -1,1 +1,1 @@
-vless://d5556fce-cc34-4df9-b1ff-755b02a3fc9a@b15ea486.bilibiliapp.cn:443?sni=8a7e40bf.m3u8.awdhhc.pay.cfcndns.pp.ua&alpn=h2&flow=xtls-rprx-vision&fp=chrome&security=tls#%F0%9F%87%BB%F0%9F%87%B3%20%E8%B6%8A%E5%8D%97%20%7C%20VNM%20%231
+vless://fc12fb20-4380-11ec-8c97-d707e267af0b@hk03.ccdn3.work:769?sni=i1.hdslb.com&flow=xtls-rprx-vision&fp=chrome&security=tls#%F0%9F%87%BB%F0%9F%87%B3%20%E8%B6%8A%E5%8D%97%20%7C%20VNM%20%231

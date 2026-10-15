@@ -1,14 +1,7 @@
-hysteria2://7e68e32f-8015-4f37-9082-70e8b0b58043@54.180.251.134:443?insecure=1&sni=www.bing.com#%F0%9F%87%B0%F0%9F%87%B7%20%E9%9F%A9%E5%9B%BD%20%7C%20KOR%20%231
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTY4ZTMyZi04MDE1LTRmMzctOTA4Mi03MGU4YjBiNTgwNDM=@13.125.180.150:8443#%F0%9F%87%B0%F0%9F%87%B7%20%E9%9F%A9%E5%9B%BD%20%7C%20KOR%20%231
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTY4ZTMyZi04MDE1LTRmMzctOTA4Mi03MGU4YjBiNTgwNDM=@54.180.251.134:8443#%F0%9F%87%B0%F0%9F%87%B7%20%E9%9F%A9%E5%9B%BD%20%7C%20KOR%20%232
+hysteria2://7e68e32f-8015-4f37-9082-70e8b0b58043@3.38.168.170:443?insecure=1&sni=www.bing.com#%F0%9F%87%B0%F0%9F%87%B7%20%E9%9F%A9%E5%9B%BD%20%7C%20KOR%20%231
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTY4ZTMyZi04MDE1LTRmMzctOTA4Mi03MGU4YjBiNTgwNDM=@3.38.168.170:8443#%F0%9F%87%B0%F0%9F%87%B7%20%E9%9F%A9%E5%9B%BD%20%7C%20KOR%20%232
 trojan://AA885B42-133C-3828-FB69-E45105C06092@63182sh8-4d7b.aws-agent.net:11171?allowInsecure=1&sni=m.ctrip.com#%E9%9F%A9%E5%9B%BD%7C%40ripaojiedian
-trojan://Trojan%4082164024@kr.tronsg.com:443?allowInsecure=1&sni=kr.tronsg.com#%F0%9F%87%B0%F0%9F%87%B7KR_1%7C2.2MB/s
-trojan://UX82473651@central-jawfish.rooster465.autos:443?allowInsecure=0&sni=central-jawfish.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20trojan-KR-...%20%235
 trojan://UX82473651@cunning-grub.rooster465.autos:443?sni=cunning-grub.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20trojan-KR-...
 trojan://UX82473651@fancy-skink.rooster465.autos:443?sni=fancy-skink.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20trojan-KR-...%20%231
 trojan://UX82473651@glorious-lark.rooster465.autos:443?sni=glorious-lark.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20trojan-KR-...%20%232
-trojan://UX82473651@inviting-rabbit.rooster465.autos:443?sni=inviting-rabbit.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20trojan-KR-...%20%233
-trojan://UX82473651@pure-kodiak.rooster465.autos:443?allowInsecure=0&sni=pure-kodiak.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20trojan-KR-...%20%234
-trojan://UX82473651@working-tomcat.rooster465.autos:443?sni=working-tomcat.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20trojan-KR-...%20%236
-vless://319d5ffb-57e8-4bbd-ac0c-5d55d0c253de@47.80.19.173:2053?sni=gateway.icloud.com&flow=xtls-rprx-vision&fp=chrome&security=tls#%F0%9F%87%B0%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20vless-KR-1...
-vless://7e68e32f-8015-4f37-9082-70e8b0b58043@13.125.180.150:443?sni=az2.rtps.cell-1.prod.ap-northeast-2.prod.connect.aws.a2z.com&flow=xtls-rprx-vision&fp=chrome&security=tls#%F0%9F%87%B0%F0%9F%87%B7%20%E9%9F%A9%E5%9B%BD%20%7C%20KOR%20%232
+vless://7e68e32f-8015-4f37-9082-70e8b0b58043@3.38.168.170:443?sni=anjen.net&flow=xtls-rprx-vision&fp=chrome&security=tls#%F0%9F%87%B0%F0%9F%87%B7%20%E9%9F%A9%E5%9B%BD%20%7C%20KOR%20%233
