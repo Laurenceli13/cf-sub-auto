@@ -1,5 +1,6 @@
+vless://7060231d-b9ba-495f-a218-bf427940cf3e@18.100.47.39:443?#%F0%9F%87%AA%F0%9F%87%B8%20%E8%A5%BF%E7%8F%AD%E7%89%99%20%7C%20ESP%20%231
 vless://e6df2095-a73c-4043-8693-8d5a03686870@31.57.190.17:443?#%F0%9F%87%AA%F0%9F%87%B8%5Bwww.v2nodes.com%5D%20vless-ES-5...%20%231
-vless://e6df2095-a73c-4043-8693-8d5a03686870@31.57.190.17:443?allowInsecure=0&sni=lucasjow.us.ci&alpn=http/1.1&type=ws&host=lucasjow.us.ci&path=/cart/docs/www/proxyip=108.160.132.132fp=unsafe&security=tls#%F0%9F%87%AA%F0%9F%87%B8%5Bwww.v2nodes.com%5D%20vless-ES-4...%20%235
+vless://e6df2095-a73c-4043-8693-8d5a03686870@31.57.190.17:443?allowInsecure=0&sni=lucasjow.us.ci&alpn=http/1.1&type=ws&host=lucasjow.us.ci&path=/cart/docs/www/proxyip=108.160.132.132fp=unsafe&security=tls#%F0%9F%87%AA%F0%9F%87%B8%5Bwww.v2nodes.com%5D%20vless-ES-4...%20%234
 vless://e6df2095-a73c-4043-8693-8d5a03686870@31.57.190.17:443?allowInsecure=0&sni=lucasjow.us.ci&alpn=http/1.1&type=ws&host=lucasjow.us.ci&path=/cart/docs/www/proxyip=108.160.132.132fp=unsafesecurity=tls#%F0%9F%87%AA%F0%9F%87%B8%5Bwww.v2nodes.com%5D%20vless-ES-2...
-vless://e6df2095-a73c-4043-8693-8d5a03686870@31.57.190.49:443?sni=lucasjow.us.ci&alpn=http/1.1&type=ws&host=lucasjow.us.ci&path=/cart/docs/www/proxyip=108.160.132.132fp=unsafe&security=tls#%F0%9F%87%AA%F0%9F%87%B8%5Bwww.v2nodes.com%5D%20vless-ES-4...%20%234
-vless://ead0dd61-d398-40ad-80d6-a0e1e516d7d3@212.227.235.66:2053?sni=www.apple.com&fp=firefox&security=tls#%F0%9F%87%AA%F0%9F%87%B8%5Bwww.v2nodes.com%5D%20vless-ES-1...%20%231
+vless://e6df2095-a73c-4043-8693-8d5a03686870@31.57.190.49:443?sni=lucasjow.us.ci&alpn=http/1.1&type=ws&host=lucasjow.us.ci&path=/cart/docs/www/proxyip=108.160.132.132fp=unsafe&security=tls#%F0%9F%87%AA%F0%9F%87%B8%5Bwww.v2nodes.com%5D%20vless-ES-4...%20%233
+vless://ead0dd61-d398-40ad-80d6-a0e1e516d7d3@212.227.235.66:2053?sni=www.apple.com&fp=chrome&security=tls#%F0%9F%87%AA%F0%9F%87%B8%5Bwww.v2nodes.com%5D%20vless-ES-1...%20%232
