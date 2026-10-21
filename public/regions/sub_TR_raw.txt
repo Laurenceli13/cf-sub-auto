@@ -1,4 +1,5 @@
-vless://0eed6293-8cf1-4e77-ac10-9c3d50d0b2f8@151.241.226.201:2053?sni=www.apple.com&fp=firefox&security=tls#%F0%9F%87%B9%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20vless-TR-1...%20%232
-vless://f55e9aba-7b14-4f6f-b59a-d5b3d45c9309@62.60.233.157:8444?sni=github.com&type=grpc&serviceName=&fp=chrome&security=tls#%F0%9F%87%B9%F0%9F%87%B7%20%E5%9C%9F%E8%80%B3%E5%85%B6%20%7C%20TUR%20%231
-vless://f55e9aba-7b14-4f6f-b59a-d5b3d45c9309@62.60.233.157:8444?sni=github.com&type=grpc&serviceName=GunService&fp=chrome&security=tls#%F0%9F%87%B9%F0%9F%87%B7%20%E5%9C%9F%E8%80%B3%E5%85%B6%20%7C%20TUR
-vless://f55e9aba-7b14-4f6f-b59a-d5b3d45c9309@62.60.233.157:8444?sni=github.com&type=grpc&serviceName=GunService&fp=chrome&security=tls#%F0%9F%87%B9%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20vless-TR-1...%20%231
+ss://YWVzLTI1Ni1nY206QnpHNE9pZGtMQmlqVDA0WUdJeVZNWEJkOWVTLWNhVmk=@Tak.zqpm.ir:8989#%F0%9F%87%B9%F0%9F%87%B7%20%E5%9C%9F%E8%80%B3%E5%85%B6%20%7C%20TUR%20%231
+vless://0eed6293-8cf1-4e77-ac10-9c3d50d0b2f8@151.241.226.201:2053?sni=www.apple.com&fp=firefox&security=tls#%F0%9F%87%B9%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20vless-TR-1...%20%231
+vless://25e16692-d097-4e69-9e2d-8415609c1968@78.135.73.47:443?sni=www.datadoghq.com&flow=xtls-rprx-vision&fp=chrome&security=tls#%F0%9F%87%B9%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20vless-TR-1...
+vless://a346c521-7a7f-452b-9356-a4893feb5982@62.133.63.45:8444?sni=github.com&type=grpc&serviceName=&fp=firefox&security=tls#%F0%9F%87%B9%F0%9F%87%B7%20%E5%9C%9F%E8%80%B3%E5%85%B6%20%7C%20TUR%20%231
+vless://a346c521-7a7f-452b-9356-a4893feb5982@62.133.63.45:8444?sni=github.com&type=grpc&serviceName=GunService&fp=firefox&security=tls#%F0%9F%87%B9%F0%9F%87%B7%20%E5%9C%9F%E8%80%B3%E5%85%B6%20%7C%20TUR

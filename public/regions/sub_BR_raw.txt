@@ -1,1 +1,2 @@
-hysteria2://CyG0RFxMjzs41uQD4OLuHQ%3D%3D@147.15.108.14:20000,20000-30000?insecure=1&sni=rmgyvpn.rest&obfs=salamander&obfs-password=CyG0RFxMjzs41uQD4OLuHQ==#%F0%9F%87%A7%F0%9F%87%B7%20%E5%B7%B4%E8%A5%BF%20%7C%20BRA
+vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform118.golnamakcert.top:80?type=ws&host=platform118.halalkhor.info&path=/platform118#%F0%9F%87%A7%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20vless-BR-1...%20%236
+vless://e6df2095-a73c-4043-8693-8d5a03686870@188.114.97.6:443?allowInsecure=0&sni=lucasjow.us.ci&alpn=http/1.1&type=ws&host=lucasjow.us.ci&path=/cart/docs/www/proxyip=108.160.132.132?ed#Telegram---TOOTFARANGIfp=chrome&security=tls#%F0%9F%87%A7%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20vless-BR-4...
