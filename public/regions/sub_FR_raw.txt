@@ -10,11 +10,14 @@ trojan://humanity@45.130.125.160:443?allowInsecure=0&sni=www.calmlunch.com&type=
 trojan://humanity@45.87.41.18:443?allowInsecure=0&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=/assignment#%F0%9F%87%AB%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20trojan-FR-...%20%233
 trojan://humanity@www.calmlunch.com:443?sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=/assignment#%F0%9F%87%AB%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20trojan-FR-...%20%234
 vless://2bdcf0ac-f84e-471f-98dc-a1807acab1cb@redcloudport-bidarbash.sbs:443?sni=redcloudport-bidarbash.sbs&type=ws&host=redcloudport-bidarbash.sbs&path=/zoodifp=chrome&security=tls#%F0%9F%87%AB%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20vless-FR-1...%20%231
+vless://55d6b5ed-359b-4e4f-b568-e5affed702c9@8.6.112.0:443?sni=polshaov.ochmaybrooooo.online&alpn=http/1.1&type=ws&host=polshaov.ochmaybrooooo.online&path=/fp=chrome&security=tls#%F0%9F%87%AB%F0%9F%87%B7%20%E6%B3%95%E5%9B%BD%20%7C%20FRA%20%231
 vless://81dc0b61-f9fe-4ad6-8b4e-b8c067b73712@152.228.139.33:35108?sni=www.nvidia.com&type=grpc&serviceName=grpc-common3&fp=chrome&security=tls#%F0%9F%87%AB%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20vless-FR-1...%20%233
+vless://XpnTeam-34@199.232.78.170:443?sni=cdn.akamai.steamstatic.com&type=ws&host=Appxdn.global.ssl.fastly.net&path=/fp=chrome&security=tls#%F0%9F%87%AB%F0%9F%87%B7FR_1%7C2.0MB/s
 vless://aaec4e42-a095-44b6-a239-f16d234a0798@137.74.16.237:443?sni=www.icloud.com&flow=xtls-rprx-vision&fp=chrome&security=tls#%F0%9F%87%AB%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20vless-FR-1...%20%232
-vless://ab4f3e97-27ba-496a-8133-9d7ca285fcba@8.6.112.0:443?security=tls&type=ws&path=%2F&host=polshaov.ochmaybrooooo.online&packetEncoding=xudp&alpn=http%2F1.1&sni=polshaov.ochmaybrooooo.online&fp=android#%F0%9F%87%AB%F0%9F%87%B7FR_3%7C1.8MB%2Fs
-vless://ab4f3e97-27ba-496a-8133-9d7ca285fcba@8.6.112.0:443?sni=polshaov.ochmaybrooooo.online&alpn=http/1.1&type=ws&host=polshaov.ochmaybrooooo.online&path=/fp=android&security=tls#%F0%9F%87%AB%F0%9F%87%B7FR_3%7C1.8MB/s
 vless://b320eba7-5380-4bd1-b5e6-32daab16066f@fr-d.duckray.co.uk:3443?encryption=none&type=grpc&mode=gun&security=reality&sni=api.github.com&fp=random&pbk=Ps_w7KP3VFrZv1niWfX3synmJq_d2c7sVSckxa3sgio#%F0%9F%87%AB%F0%9F%87%B7%20France
 vless://b81b4d1b-7f20-48f1-82dc-d24bef898cab@161.97.160.224:443?sni=passport.yandex.ru&flow=xtls-rprx-vision&fp=chrome&security=tls#%F0%9F%87%AB%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20vless-FR-1...%20%234
 vless://bf16ee0c-8b3c-41e4-ab3a-8b48033c404e@51.77.217.70:2053?sni=www.apple.com&fp=chrome&security=tls#%F0%9F%87%AB%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20vless-FR-1...%20%235
 vless://c3571d81-38bd-44a8-9b75-5af8a125fc42@speedtest.org:8443?sni=pbsjv.megalionzone-vexina.sbs&alpn=http/1.1&type=ws&host=pbsjv.megalionzone-vexina.sbs&path=/balafp=chrome&security=tls#%F0%9F%87%AB%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20vless-FR-1...
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.140.13:22223?#%F0%9F%87%AB%F0%9F%87%B7%20%E6%B3%95%E5%9B%BD%20%7C%20FRA%20%231
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.180.76.81:22224?#%F0%9F%87%AB%F0%9F%87%B7%20%E6%B3%95%E5%9B%BD%20%7C%20FRA%20%233
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.38.228:22224?#%F0%9F%87%AB%F0%9F%87%B7%20%E6%B3%95%E5%9B%BD%20%7C%20FRA%20%232

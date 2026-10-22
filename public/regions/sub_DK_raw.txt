@@ -1,1 +1,1 @@
-vless://74f5426b-19d9-4567-a7ff-865aa4c87cca@pub-odro27lpfz.mydevelopertool.xyz:443?security=reality&encryption=none&pbk=8AUF38jwIBefT5bVE-_bDTmOvGKxSQ59hnmVJF2pwSw&headerType=none&fp=chrome&spx=/887354a7793d8f1&type=tcp&flow=xtls-rprx-vision&sni=sni-odro27lpfz.mydevelopertool.xyz&sid=4ddb92f0ea089707#%E4%B8%B9%E9%BA%A6+V2CROSS.COM
+vless://5d7b401c-78fa-4254-872e-6d42bf7e75ec@212.147.234.124:443?sni=vp5.1145678.xyz&type=ws&host=vp5.1145678.xyz&path=/pic/rankfp=chrome&security=tls#%F0%9F%87%A9%F0%9F%87%B0%20%E4%B8%B9%E9%BA%A6%20%7C%20DNK%20%231
