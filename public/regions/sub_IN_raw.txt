@@ -1,5 +1,7 @@
+ss://YWVzLTI1Ni1nY206R0Vkb2VlcUxadGtKUmdTYQ==@139.84.166.47:8388#%F0%9F%87%AE%F0%9F%87%B3%5Bwww.v2nodes.com%5D%20ss-IN-1561...
+trojan://Trojan%4082164024@in.tronsg.com:443?allowInsecure=1&sni=in.tronsg.com#%F0%9F%87%AE%F0%9F%87%B3%20%E5%8D%B0%E5%BA%A6%20%7C%20IND%20%231
 vless://1d4e18bd-1f26-4915-b35a-7ace4826e76a@194.61.31.126:2053?sni=www.apple.com&fp=chrome&security=tls#%F0%9F%87%AE%F0%9F%87%B3%5Bwww.v2nodes.com%5D%20vless-IN-1...%20%233
 vless://405b964e-a2d2-454f-aaaa-711cc218897c@hydra.yokkastars.com:40443?#%F0%9F%87%AE%F0%9F%87%B3%5Bwww.v2nodes.com%5D%20vless-IN
 vless://68512eac-cd53-4de3-8d1e-08f6e04af1a9@13.140.56.100:14430?sni=13.140.56.100&type=ws&host=13.140.56.100&path=/vless#%F0%9F%87%AE%F0%9F%87%B3%5Bwww.v2nodes.com%5D%20vless-IN-1...%20%231
-vless://af5eac96-e478-488a-bc8c-45269d7e8847@dorado.yokkastars.com:40443?#%F0%9F%87%AE%F0%9F%87%B3%5Bwww.v2nodes.com%5D%20vless-IN-1...%20%232
+vless://af5eac96-e478-488a-bc8c-45269d7e8847@dorado.yokkastars.com:40443?sni=deepl.com&flow=xtls-rprx-vision&fp=chrome&security=tls#%F0%9F%87%AE%F0%9F%87%B3%5Bwww.v2nodes.com%5D%20vless-IN-1...%20%232
 vless://c7c27192-60a5-4ce1-b613-95270d82309d@5.253.29.254:10443?sni=5.253.29.254#%F0%9F%87%AE%F0%9F%87%B3%5Bwww.v2nodes.com%5D%20vless-IN-1...
