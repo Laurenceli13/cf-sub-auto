@@ -1,2 +1,5 @@
-vless://7072eeba-94fd-4fb3-92f2-a4506dd84cd8@45.74.159.238:443?sni=trend.eidoslab.link&flow=xtls-rprx-vision&fp=firefox&security=tls#%F0%9F%87%B9%F0%9F%87%B7%20%E5%9C%9F%E8%80%B3%E5%85%B6%20%7C%20TUR%20%231
+vless://25e16692-d097-4e69-9e2d-8415609c1968@78.135.73.47:443?sni=www.datadoghq.com&flow=xtls-rprx-vision&fp=firefox&security=tls#%F0%9F%87%B9%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20vless-TR-1...%20%231
+vless://680e92ac-1688-49e0-af96-7327fbc30ce8@193.223.104.151:443?sni=abuse.ozon.ru&flow=xtls-rprx-vision&fp=chrome&security=tls#%F0%9F%87%B9%F0%9F%87%B7%20%E5%9C%9F%E8%80%B3%E5%85%B6%20%7C%20TUR%20%231
 vless://a346c521-7a7f-452b-9356-a4893feb5982@62.133.63.45:8444?sni=github.com&type=grpc&serviceName=GunService&fp=chrome&security=tls#%F0%9F%87%B9%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20vless-TR-1...
+vless://bcf07b50-9da7-44dc-a955-43302f12e1e5@193.160.140.157:443?sni=ai.ozon.ru&flow=xtls-rprx-vision&fp=firefox&security=tls#%F0%9F%87%B9%F0%9F%87%B7%20%E5%9C%9F%E8%80%B3%E5%85%B6%20%7C%20TUR%20%232
+vless://bcf07b50-9da7-44dc-a955-43302f12e1e5@37.235.249.18:443?sni=abuse.ozon.ru&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#%F0%9F%87%B9%F0%9F%87%B7TR_1%7C2.2MB/s
