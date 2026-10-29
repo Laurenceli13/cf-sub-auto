@@ -1,0 +1,1 @@
+hysteria2://Telegram@179.61.138.145:443?insecure=1&sni=de2.jey.cc.cd&obfs=salamander&obfs-password=Telegram@vpnjey#Telegram%40vpnjey%20%234
