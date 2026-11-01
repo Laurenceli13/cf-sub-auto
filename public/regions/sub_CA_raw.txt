@@ -7,8 +7,12 @@ ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.222.136.236:8882#%F0%9F%87%A8%F0%9F
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.79.49.116:8882#%F0%9F%87%A8%F0%9F%87%A6%5Bwww.v2nodes.com%5D%20ss-CA-1545...%20%231
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.12.127:445#%F0%9F%87%A8%F0%9F%87%A6%5Bwww.v2nodes.com%5D%20ss-CA-1538...
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.141.125:445#%F0%9F%87%A8%F0%9F%87%A6%5Bwww.v2nodes.com%5D%20ss-CA-1559...
-vless://0b418782-e023-447e-ba99-e66b84ff118d@213.152.165.203:2093?#%F0%9F%87%A8%F0%9F%87%A6%5Bwww.v2nodes.com%5D%20vless-CA-1...%20%231
-vless://13bf9403-22d1-4221-939b-f6606c423139@66.163.113.238:443?sni=steamcommunity.com&flow=xtls-rprx-vision&fp=chrome&security=tls#%F0%9F%87%A8%F0%9F%87%A6%5Bwww.v2nodes.com%5D%20vless-CA-1...
-vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@178.83.45.226:8080?#%F0%9F%87%A8%F0%9F%87%A6%5Bwww.v2nodes.com%5D%20vless-CA-1...%20%234
-vless://ca52e2b6-fb9f-4dac-b6dc-49da9923f251@209.200.246.148:443?sni=www.cloudflare.com&flow=xtls-rprx-vision&fp=firefox&security=tls#%F0%9F%87%A8%F0%9F%87%A6%5Bwww.v2nodes.com%5D%20vless-CA-1...%20%232
-vless://dc620cd6-a9d8-4a0f-8f18-006b895db77e@66.70.179.198:2053?sni=www.cloudflare.com&fp=firefox&security=tls#%F0%9F%87%A8%F0%9F%87%A6%5Bwww.v2nodes.com%5D%20vless-CA-1...%20%233
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.152:443?sni=learn.connectingpeoplewithgreatjobs.com#%F0%9F%87%A8%F0%9F%87%A6%5Bwww.v2nodes.com%5D%20trojan-CA-...%20%233
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.48:443?sni=courses.connectingpeoplewithgreatjobs.com#%F0%9F%87%A8%F0%9F%87%A6%5Bwww.v2nodes.com%5D%20trojan-CA-...%20%236
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.89:443?#%F0%9F%87%A8%F0%9F%87%A6%5Bwww.v2nodes.com%5D%20trojan-CA-...%20%234
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.89:443?sni=www.connectingpeoplewithgreatjobs.com#%F0%9F%87%A8%F0%9F%87%A6%5Bwww.v2nodes.com%5D%20trojan-CA-...%20%235
+trojan://5t6i121em5lkmsmk@ca001.zestapp778.com:46977?sni=ca001.zestapp778.com#%F0%9F%87%A8%F0%9F%87%A6%5Bwww.v2nodes.com%5D%20trojan-CA-...%20%237
+vless://13bf9403-22d1-4221-939b-f6606c423139@66.163.113.238:443?sni=steamcommunity.com&flow=xtls-rprx-vision&fp=edge&security=tls#%F0%9F%87%A8%F0%9F%87%A6%5Bwww.v2nodes.com%5D%20vless-CA-1...
+vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@168.222.43.53:8080?#%F0%9F%87%A8%F0%9F%87%A6%5Bwww.v2nodes.com%5D%20vless-CA-1...%20%233
+vless://ca52e2b6-fb9f-4dac-b6dc-49da9923f251@209.200.246.148:443?sni=www.cloudflare.com&flow=xtls-rprx-vision&fp=firefox&security=tls#%F0%9F%87%A8%F0%9F%87%A6%5Bwww.v2nodes.com%5D%20vless-CA-1...%20%231
+vless://dc620cd6-a9d8-4a0f-8f18-006b895db77e@66.70.179.198:2053?sni=www.cloudflare.com&fp=firefox&security=tls#%F0%9F%87%A8%F0%9F%87%A6%5Bwww.v2nodes.com%5D%20vless-CA-1...%20%232
