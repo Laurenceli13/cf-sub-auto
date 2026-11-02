@@ -1,1 +1,2 @@
-hysteria2://https%3A%2F%2Fxship.top@starlink-ft.251313.xyz:443?insecure=1&security=tls&sni=xship.top#%E7%BE%8E%E5%9B%BD+%E5%BE%97%E5%85%8B%E8%90%A8%E6%96%AF%E5%B7%9E
+hysteria2://63e1b9462d708b56d5d5a0267cffecdc@88.216.195.188:443?sni=promo3.goonars.com#%F0%9F%87%BA%F0%9F%87%B8US-%F0%9F%9A%80%40VPNine1
+hysteria2://3be5bdf034cd9dc2c152d5d57bd2db7f@179.255.107.182:443?insecure=1&alpn=h3&sni=bing.com&obfs=salamander&obfs-password=5c8f1a3e7b2d9046c1f8a5e3b7d04f2a#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20%7C%20USA%2014
