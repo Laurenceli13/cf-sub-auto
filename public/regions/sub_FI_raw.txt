@@ -1,8 +1,7 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4MkE2QXN5Wi1yQWxsejB3YktIeldB@178.253.16.185:8388#%F0%9F%87%AB%F0%9F%87%AE%5Bwww.v2nodes.com%5D%20ss-FI-1606...
 trojan://b17e9b52db9623bd6c16eea3d7adb5b3@ench-snet-app.w-ctrip.cn:41184?allowInsecure=1&sni=cm.g.doubleclick.net#%F0%9F%87%AB%F0%9F%87%AE%5Bwww.v2nodes.com%5D%20trojan-FI-...
 vless://09f30c46-3964-41ce-882a-72aee83ddd42@hw6.divarkhaghazi.com:465?#%F0%9F%87%AB%F0%9F%87%AE%5Bwww.v2nodes.com%5D%20vless-FI-1...%20%233
 vless://20dd9433-389e-4573-ba7b-689619cf13da@31.77.199.147:4443?sni=images.unsplash.com&flow=xtls-rprx-vision&fp=chrome&security=tls#%F0%9F%87%AB%F0%9F%87%AE%5Bwww.v2nodes.com%5D%20vless-FI-1...%20%236
-vless://59b0d30e-9b29-4fda-a35c-b2901ec32db7@45.144.234.157:14430?sni=45.144.234.157&type=ws&host=45.144.234.157&path=/vless#%F0%9F%87%AB%F0%9F%87%AE%5Bwww.v2nodes.com%5D%20vless-FI-1...%20%238
+vless://59b0d30e-9b29-4fda-a35c-b2901ec32db7@45.144.234.157:14430?type=ws&host=45.144.234.157&path=/vless#%F0%9F%87%AB%F0%9F%87%AE%5Bwww.v2nodes.com%5D%20vless-FI-1...%20%238
 vless://67eb6b17-7797-4ded-bf52-423c4c5f6cbd@87.239.249.137:443?sni=www.foxsports.com&flow=xtls-rprx-vision&fp=chrome&security=tls#%F0%9F%87%AB%F0%9F%87%AE%5Bwww.v2nodes.com%5D%20vless-FI-1...%20%239
 vless://75b517db-1f97-4bda-a479-863d988c31a0@92.242.165.11:2083?sni=speedtestmark.com&alpn=http/1.1&type=ws&path=/vless-wsfp=firefox&security=tls#%F0%9F%87%AB%F0%9F%87%AE%5Bwww.v2nodes.com%5D%20vless-FI-1...%20%231
 vless://924e20da-fcad-4e7e-8113-c62d27a0d01e@hw3.divarkhaghazi.com:465?#%F0%9F%87%AB%F0%9F%87%AE%5Bwww.v2nodes.com%5D%20vless-FI-1...%20%234

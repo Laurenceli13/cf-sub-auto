@@ -1,1 +1,2 @@
-hysteria2://63e1b9462d708b56d5d5a0267cffecdc@88.216.195.188:443?sni=promo3.goonars.com#%E2%9A%A196%40oneclickvpnkeys
+hysteria2://70043bfa-d6fb-4980-b27e-773e9e8b2004@141.0.187.15:443?sni=crt.onecloudstream.com#%E2%8F%B31%40oneclickvpnkeys
+hysteria2://Telegram@179.61.138.145:443?insecure=1&sni=de2.jey.cc.cd&obfs=salamander&obfs-password=Telegram@vpnjey#Telegram%40vpnjey%20%234
