@@ -1,2 +1,3 @@
+hysteria2://41d4f8b3-2a45-4531-a33b-938e2eebb939@oh.sbbz.tech:443?sni=oh.sbbz.tech&obfs=salamander&obfs-password=sbxbz19890604#%F0%9F%87%BA%F0%9F%87%B8US-%F0%9F%9A%80%40VPNine1
 hysteria2://70043bfa-d6fb-4980-b27e-773e9e8b2004@141.0.187.15:443?sni=crt.onecloudstream.com#%E2%8F%B31%40oneclickvpnkeys
 hysteria2://Telegram@179.61.138.145:443?insecure=1&sni=de2.jey.cc.cd&obfs=salamander&obfs-password=Telegram@vpnjey#Telegram%40vpnjey%20%234
