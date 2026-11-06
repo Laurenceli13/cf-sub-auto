@@ -1,10 +1,7 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2MWMtaTVTU0ZYUDhuNGcxV2JjMEw5Z1g4Mng1TzJRYQ==@dns27.m3hrzd.ir:1355#%F0%9F%87%B7%F0%9F%87%BA%5Bwww.v2nodes.com%5D%20ss-RU-1614...
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWVmxBZmY3N0NuQVU0M0FvYzVqMTVZ@90.156.203.62:5112#%F0%9F%87%B7%F0%9F%87%BA%5Bwww.v2nodes.com%5D%20ss-RU-1163...
-vless://03929684-0dcf-4add-bb02-2b2ba09d10a2@tfhx4tjzmy39benjh0hg.sellerape.cc:443?sni=tfhx4tjzmy39benjh0hg.sellerape.cc&flow=xtls-rprx-vision&fp=firefox&security=tls#%F0%9F%87%B7%F0%9F%87%BA%20%E4%BF%84%E7%BD%97%E6%96%AF%20%7C%20RUS%20%231
 vless://04edf721-b2b7-4a80-9fbd-c949438c58c9@45.151.71.145:443?allowInsecure=0&sni=abuse.ozon.ru&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#RU_speednode_0030
-vless://07680ffb-0666-4836-b6ad-ec0de62bc38f@app-tw-113.statsmarket-wb.com:443?#%F0%9F%87%B7%F0%9F%87%BA%5Bwww.v2nodes.com%5D%20vless-RU-1...%20%231
-vless://32b5ca9b-3f81-4031-965d-e8b074216e8d@201.24.121.243:443?allowInsecure=0&sni=kk-ru24a1.testkknegr.online&alpn=h2&type=grpc&serviceName=vlgrpc&fp=chrome&security=tls#%F0%9F%87%B7%F0%9F%87%BA%5Bwww.v2nodes.com%5D%20vless-RU-1...%20%232
-vless://40c4274f-3e4f-4c7b-ae5c-d87645a6e899@217.19.122.156:443?allowInsecure=0&sni=vzvt1tpiml.rucdncomp.pro&type=ws&host=vzvt1tpiml.rucdncomp.pro&path=/service/telemetry/e6dc0bd08cb1/security=tls#%F0%9F%87%B7%F0%9F%87%BA%5Bwww.v2nodes.com%5D%20vless-RU-1...
+vless://32b5ca9b-3f81-4031-965d-e8b074216e8d@201.24.121.243:443?allowInsecure=0&sni=kk-ru24a1.testkknegr.online&alpn=h2&type=grpc&serviceName=vlgrpc&fp=chrome&security=tls#%F0%9F%87%B7%F0%9F%87%BA%5Bwww.v2nodes.com%5D%20vless-RU-1...
 vless://680e92ac-1688-49e0-af96-7327fbc30ce8@45.151.71.159:443?allowInsecure=0&sni=gb.ozon.ru&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#RU_speednode_0032
 vless://680e92ac-1688-49e0-af96-7327fbc30ce8@45.151.71.167:443?allowInsecure=0&sni=abuse.ozon.ru&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#RU_speednode_0036
 vless://bcf07b50-9da7-44dc-a955-43302f12e1e5@147.45.46.183:443?allowInsecure=0&sni=gb.ozon.ru&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#RU_speednode_0035
@@ -12,5 +9,8 @@ vless://bcf07b50-9da7-44dc-a955-43302f12e1e5@147.45.47.117:443?allowInsecure=0&s
 vless://bcf07b50-9da7-44dc-a955-43302f12e1e5@147.45.47.119:443?allowInsecure=0&sni=ozon.ru&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#RU_speednode_0029
 vless://bcf07b50-9da7-44dc-a955-43302f12e1e5@37.235.249.12:443?allowInsecure=0&sni=gb.ozon.ru&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#RU_speednode_0037
 vless://bcf07b50-9da7-44dc-a955-43302f12e1e5@45.151.71.176:443?allowInsecure=0&sni=gb.ozon.ru&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#RU_speednode_0033
-vless://c90395e6-2140-47ad-a54d-9b166729d3ef@xsru1.ddnsfree.com:443?sni=xsru1.ddnsfree.com&type=grpc&serviceName=grpc-ru&fp=random&security=tls#%F0%9F%87%B7%F0%9F%87%BA%5Bwww.v2nodes.com%5D%20vless-RU-1...%20%233
+vless://c90395e6-2140-47ad-a54d-9b166729d3ef@xsru1.ddnsfree.com:443?sni=xsru1.ddnsfree.com&type=grpc&serviceName=&fp=random&security=tls#%F0%9F%87%B7%F0%9F%87%BA%20%E4%BF%84%E7%BD%97%E6%96%AF%20%7C%20RUS%20%232
+vless://c90395e6-2140-47ad-a54d-9b166729d3ef@xsru1.ddnsfree.com:443?sni=xsru1.ddnsfree.com&type=grpc&serviceName=grpc-ru&fp=random&security=tls#%F0%9F%87%B7%F0%9F%87%BA%20%E4%BF%84%E7%BD%97%E6%96%AF%20%7C%20RUS%202
+vless://c90395e6-2140-47ad-a54d-9b166729d3ef@xssite.webredirect.org:443?sni=xssite.webredirect.org&type=grpc&serviceName=&fp=chrome&security=tls#%F0%9F%87%B7%F0%9F%87%BA%20%E4%BF%84%E7%BD%97%E6%96%AF%20%7C%20RUS%20%231
+vless://c90395e6-2140-47ad-a54d-9b166729d3ef@xssite.webredirect.org:443?sni=xssite.webredirect.org&type=grpc&serviceName=grpc-ru&fp=chrome&security=tls#%F0%9F%87%B7%F0%9F%87%BA%20%E4%BF%84%E7%BD%97%E6%96%AF%20%7C%20RUS
 vless://d0c8aa8d-a535-432a-b521-21f0e561f643@92.42.201.107:443?allowInsecure=0&sni=node-slo02.rkitman.ru&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#RU_speednode_0034
