@@ -1,3 +1,3 @@
+vless://455cfdc6-9abf-4e40-863f-5ff6cc63457c@staging.lastilhame.monster:443?sni=www.microsoft.com&flow=xtls-rprx-vision&fp=chrome&security=tls#%F0%9F%87%BA%F0%9F%87%A6%5Bwww.v2nodes.com%5D%20vless-UA-1...%20%233
 vless://5de0c218-0138-45d8-94d2-c2c3f37a1a6d@83.147.18.75:443?sni=www.bing.com&flow=xtls-rprx-vision&fp=chrome&security=tls#%F0%9F%87%BA%F0%9F%87%A6%5Bwww.v2nodes.com%5D%20vless-UA-1...%20%237
-vless://d8b58872-cc25-4bb2-badb-b86399c075fa@31.222.235.81:443?sni=www.cloudflare.com&fp=chrome&security=tls#%F0%9F%87%BA%F0%9F%87%A6%5Bwww.v2nodes.com%5D%20vless-UA-1...%20%232
-vless://de38389f-5651-4f2f-8276-5aabf3b861c9@104.253.216.227:443?sni=www.hollywoodreporter.com&flow=xtls-rprx-vision&fp=firefox&security=tls#%F0%9F%87%BA%F0%9F%87%A6%5Bwww.v2nodes.com%5D%20vless-UA-1...%20%233
+vless://d8b58872-cc25-4bb2-badb-b86399c075fa@netx.smrtai.top:443?sni=www.cloudflare.com&fp=chrome&security=tls#%F0%9F%87%BA%F0%9F%87%A6%5Bwww.v2nodes.com%5D%20vless-UA-1...%20%232
