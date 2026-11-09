@@ -2,8 +2,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWVmxBZmY3N0NuQVU0M0FvYzVqMTVZ@90.156.203.62:
 ss://YWVzLTEyOC1nY206ODcyMmRlNTZiNmMwYjNmNmE0ZDAxY2Y5MWMwN2U2YWE=@38.60.223.125:13108#%F0%9F%87%B7%F0%9F%87%BA%5Bwww.v2nodes.com%5D%20ss-RU-1617...
 ss://YWVzLTI1Ni1nY206Y0NNSmdKVEEzQkE0ODlZVVlyRnE3WEhYU2lTcFdsTGE=@46.17.47.58:18443#%F0%9F%87%B7%F0%9F%87%BA%5Bwww.v2nodes.com%5D%20ss-RU-1616...
 vless://04edf721-b2b7-4a80-9fbd-c949438c58c9@45.151.71.145:443?allowInsecure=0&sni=abuse.ozon.ru&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#RU_speednode_0030
-vless://13e6bdfd-d51b-4e57-a40e-b88784cba8bd@9900edx.msk2.h1clayd.click:443?security=reality&type=xhttp&path=%2Fee321f6e0f15&packetEncoding=xudp&sni=9900edx.msk2.h1clayd.click&fp=chrome&sid=0b10c773673c6438&pbk=yMB1YpMhoF4j800rMjlWy97QAwvNwHwjuH1qKNSGfCA&mode=auto&encryption=none#%F0%9F%87%B7%F0%9F%87%BARU_1%7C1.1MB%2Fs
-vless://13e6bdfd-d51b-4e57-a40e-b88784cba8bd@9900edx.msk2.h1clayd.click:443?sni=9900edx.msk2.h1clayd.click&fp=chrome&security=tls#%F0%9F%87%B7%F0%9F%87%BARU_1%7C1.1MB/s
 vless://32b5ca9b-3f81-4031-965d-e8b074216e8d@201.24.121.243:443?sni=kk-ru24a1.testkknegr.online&alpn=h2&type=grpc&serviceName=vlgrpc&fp=chrome&security=tls#%F0%9F%87%B7%F0%9F%87%BA%5Bwww.v2nodes.com%5D%20vless-RU-1...
 vless://680e92ac-1688-49e0-af96-7327fbc30ce8@45.151.71.159:443?allowInsecure=0&sni=gb.ozon.ru&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#RU_speednode_0032
 vless://680e92ac-1688-49e0-af96-7327fbc30ce8@45.151.71.167:443?allowInsecure=0&sni=abuse.ozon.ru&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#RU_speednode_0036
@@ -14,5 +12,4 @@ vless://bcf07b50-9da7-44dc-a955-43302f12e1e5@37.235.249.12:443?allowInsecure=0&s
 vless://bcf07b50-9da7-44dc-a955-43302f12e1e5@45.151.71.176:443?allowInsecure=0&sni=gb.ozon.ru&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#RU_speednode_0033
 vless://c90395e6-2140-47ad-a54d-9b166729d3ef@xsru1.ddnsfree.com:443?sni=xsru1.ddnsfree.com&type=grpc&serviceName=&fp=random&security=tls#%F0%9F%87%B7%F0%9F%87%BA%20%E4%BF%84%E7%BD%97%E6%96%AF%20%7C%20RUS%20%231
 vless://c90395e6-2140-47ad-a54d-9b166729d3ef@xsru1.ddnsfree.com:443?sni=xsru1.ddnsfree.com&type=grpc&serviceName=grpc-ru&fp=random&security=tls#%F0%9F%87%B7%F0%9F%87%BA%20%E4%BF%84%E7%BD%97%E6%96%AF%20%7C%20RUS
-vless://c90395e6-2140-47ad-a54d-9b166729d3ef@xsru2.freeddns.org:443?sni=xsru2.freeddns.org&type=ws&host=xsru2.freeddns.org&path=/wsrufp=chrome&security=tls#%F0%9F%87%B7%F0%9F%87%BA%20%E4%BF%84%E7%BD%97%E6%96%AF%20%7C%20RUS%20%232
 vless://d0c8aa8d-a535-432a-b521-21f0e561f643@92.42.201.107:443?allowInsecure=0&sni=node-slo02.rkitman.ru&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#RU_speednode_0034
