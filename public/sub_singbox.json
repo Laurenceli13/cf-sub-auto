@@ -1,194 +1,46 @@
 {
   "outbounds": [
     {
-      "tag": "🇺🇸[www.v2nodes.com] vless-US-1... #3",
-      "server": "23.227.38.99",
+      "tag": "🇺🇸 美国 | USA #2",
+      "server": "104.21.0.87",
       "server_port": 443,
       "type": "vless",
-      "uuid": "9efd3f19-c7cb-4fa9-8d66-0598043597dc",
+      "uuid": "4e4f1f70-5e56-4a76-bb9d-db087f4690c4",
       "flow": "",
       "transport": {
         "type": "ws",
-        "path": "/imagesfp=safari",
+        "path": "/tyxywsfp=chrome",
         "headers": {
-          "Host": "uuu-2-8uuu.ccc3cosmo.top"
+          "Host": "jp3.yohototo.top"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "uuu-2-8uuu.ccc3cosmo.top"
+        "server_name": "jp3.yohototo.top"
       }
     },
     {
-      "tag": "🇺🇸 美国 | USA #19",
-      "server": "104.17.70.171",
+      "tag": "🇯🇵[www.v2nodes.com] vless-JP-1... #4",
+      "server": "104.21.70.228",
       "server_port": 443,
       "type": "vless",
-      "uuid": "8fa3f00f-f499-4705-9aa7-2ec6f91c6fa2",
+      "uuid": "4e4f1f70-5e56-4a76-bb9d-db087f4690c4",
       "flow": "",
       "transport": {
         "type": "ws",
-        "path": "/f/210/5dffe1d758f42a4ef48f733cfp=chrome",
+        "path": "/tyxywsfp=firefox",
         "headers": {
-          "Host": "node.plutocore.vip"
+          "Host": "jp3.yohototo.top"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "node.plutocore.vip"
-      }
-    },
-    {
-      "tag": "🇩🇪[www.v2nodes.com] vless-DE-1... #9",
-      "server": "188.114.99.157",
-      "server_port": 8443,
-      "type": "vless",
-      "uuid": "9443badf-414f-4b12-b19a-7cc2c7431163",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/manfp=firefox",
-        "headers": {
-          "Host": "moz.ar-marz.fun"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "moz.ar-marz.fun"
-      }
-    },
-    {
-      "tag": "🇺🇸 美国 | USA #10",
-      "server": "104.16.92.202",
-      "server_port": 443,
-      "type": "vless",
-      "uuid": "8fa3f00f-f499-4705-9aa7-2ec6f91c6fa2",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/f/210/5dffe1d758f42a4ef48f733cfp=chrome",
-        "headers": {
-          "Host": "node.plutocore.vip"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "node.plutocore.vip"
-      }
-    },
-    {
-      "tag": "🇸🇬[www.v2nodes.com] vless-SG-1...",
-      "server": "216.24.57.40",
-      "server_port": 8880,
-      "type": "vless",
-      "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "vms.lifetime28.workers.dev"
-        }
-      }
-    },
-    {
-      "tag": "🇺🇸 美国 | USA #13",
-      "server": "104.17.193.40",
-      "server_port": 443,
-      "type": "vless",
-      "uuid": "8fa3f00f-f499-4705-9aa7-2ec6f91c6fa2",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/f/210/5dffe1d758f42a4ef48f733cfp=chrome",
-        "headers": {
-          "Host": "node.plutocore.vip"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "node.plutocore.vip"
-      }
-    },
-    {
-      "tag": "🇺🇸 美国 | USA #4",
-      "server": "8.35.211.188",
-      "server_port": 8443,
-      "type": "vless",
-      "uuid": "2b181a3a-c001-4145-845a-5d43a43837d5",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/fp=chrome",
-        "headers": {
-          "Host": "vpn-1fj.pages.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "vpn-1fj.pages.dev"
-      }
-    },
-    {
-      "tag": "🇺🇸 美国 | USA #1",
-      "server": "104.18.151.172",
-      "server_port": 443,
-      "type": "vless",
-      "uuid": "8fa3f00f-f499-4705-9aa7-2ec6f91c6fa2",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/f/210/5dffe1d758f42a4ef48f733cfp=chrome",
-        "headers": {
-          "Host": "node.plutocore.vip"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "node.plutocore.vip"
-      }
-    },
-    {
-      "tag": "🇺🇸 美国 | USA #7",
-      "server": "104.16.12.16",
-      "server_port": 443,
-      "type": "vless",
-      "uuid": "8fa3f00f-f499-4705-9aa7-2ec6f91c6fa2",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/f/210/5dffe1d758f42a4ef48f733cfp=chrome",
-        "headers": {
-          "Host": "node.plutocore.vip"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "node.plutocore.vip"
+        "server_name": "jp3.yohototo.top"
       }
     },
     {
       "tag": "🇨🇦[www.v2nodes.com] vless-CA-1... #3",
-      "server": "188.164.248.151",
-      "server_port": 2096,
-      "type": "vless",
-      "uuid": "9f534ac4-3c58-4a16-8b74-13dff09a0cf1",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/item/mfp=chrome",
-        "headers": {
-          "Host": "d39333476.pages.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "d39333476.pages.dev"
-      }
-    },
-    {
-      "tag": "🇨🇦[www.v2nodes.com] vless-CA-1... #2",
-      "server": "162.159.198.1",
+      "server": "172.67.74.177",
       "server_port": 443,
       "type": "vless",
       "uuid": "99c5b713-dedf-4a10-8070-916ff3f49b0e",
@@ -206,248 +58,36 @@
       }
     },
     {
-      "tag": "🇨🇦[www.v2nodes.com] vless-CA-1...",
-      "server": "172.67.74.177",
-      "server_port": 2083,
-      "type": "vless",
-      "uuid": "d342d11e-d424-4583-b36e-524ab1f0afa4",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/fp=chrome",
-        "headers": {
-          "Host": "wk1.f1w.de5.net"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "wk1.f1w.de5.net"
-      }
-    },
-    {
-      "tag": "🏳[www.v2nodes.com] vless- #14",
-      "server": "141.193.213.10",
-      "server_port": 443,
-      "type": "vless",
-      "uuid": "977b814d-d9e0-4889-bb71-98d6bfb8f462",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/sg-amzfp=chrome",
-        "headers": {
-          "Host": "partner.catchplay.com.r3xxe.eu.cc"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "partner.catchplay.com.r3xxe.eu.cc"
-      }
-    },
-    {
-      "tag": "🇺🇸 美国 | USA #3",
-      "server": "104.18.1.1",
+      "tag": "🇳🇱NL_12|2.0MB/s",
+      "server": "199.68.156.221",
       "server_port": 2087,
-      "type": "vless",
-      "uuid": "4859c235-2530-4062-9a0b-ea859cbbf861",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/fp=ios",
-        "headers": {
-          "Host": "1.proxy2.us.ci."
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "1.proxy2.us.ci.",
-        "alpn": [
-          "h3,h2,http/1.1"
-        ]
-      }
-    },
-    {
-      "tag": "🇺🇸 美国 | USA #8",
-      "server": "104.17.162.3",
-      "server_port": 443,
-      "type": "vless",
-      "uuid": "8fa3f00f-f499-4705-9aa7-2ec6f91c6fa2",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/f/210/5dffe1d758f42a4ef48f733cfp=chrome",
-        "headers": {
-          "Host": "node.plutocore.vip"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "node.plutocore.vip"
-      }
-    },
-    {
-      "tag": "🇺🇸 美国 | USA #11",
-      "server": "104.18.255.167",
-      "server_port": 443,
-      "type": "vless",
-      "uuid": "8fa3f00f-f499-4705-9aa7-2ec6f91c6fa2",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/f/210/5dffe1d758f42a4ef48f733cfp=chrome",
-        "headers": {
-          "Host": "node.plutocore.vip"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "node.plutocore.vip"
-      }
-    },
-    {
-      "tag": "🇺🇸 美国 | USA #14",
-      "server": "104.16.105.166",
-      "server_port": 443,
-      "type": "vless",
-      "uuid": "8fa3f00f-f499-4705-9aa7-2ec6f91c6fa2",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/f/210/5dffe1d758f42a4ef48f733cfp=chrome",
-        "headers": {
-          "Host": "node.plutocore.vip"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "node.plutocore.vip"
-      }
-    },
-    {
-      "tag": "🇺🇸 美国 | USA #2",
-      "server": "104.17.139.37",
-      "server_port": 443,
-      "type": "vless",
-      "uuid": "8fa3f00f-f499-4705-9aa7-2ec6f91c6fa2",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/f/210/5dffe1d758f42a4ef48f733cfp=chrome",
-        "headers": {
-          "Host": "node.plutocore.vip"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "node.plutocore.vip"
-      }
-    },
-    {
-      "tag": "🇺🇸 美国 | USA #17",
-      "server": "104.16.253.99",
-      "server_port": 443,
-      "type": "vless",
-      "uuid": "8fa3f00f-f499-4705-9aa7-2ec6f91c6fa2",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/f/210/5dffe1d758f42a4ef48f733cfp=chrome",
-        "headers": {
-          "Host": "node.plutocore.vip"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "node.plutocore.vip"
-      }
-    },
-    {
-      "tag": "巴西圣保罗+CloudFlare节点",
-      "server": "188.114.96.0",
-      "server_port": 2096,
       "type": "trojan",
-      "password": "vP%21XvZBNdw.e%2AddSgmH%21",
+      "password": "QzVKeGlc2qYRxyzWb3xZFjHbqY2JmOfZ",
       "transport": {
         "type": "ws",
-        "path": "/tr/lqCTAonDgcErIZylZuNyy?ed=2560",
+        "path": "/wss",
         "headers": {
-          "Host": "188.114.96.0"
+          "Host": "199.68.156.221"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "N0Q4xprJ2d4X4pRCQ29l8JkcZd0.paGES.DeV"
+        "server_name": "nexoastra.xnetaro.ir"
       }
     },
     {
-      "tag": "🇺🇸US_16|2.3MB/s",
-      "server": "190.93.244.166",
-      "server_port": 2096,
-      "type": "vless",
-      "uuid": "b2853d19-fada-44dc-8d44-967d1af122e0",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/eyJqdW5rIjoiWmFzVk5rd2siLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iXX0=fp=chrome",
-        "headers": {
-          "Host": "wqa3miojjr8fyozhiui--su3-ucg1gdx.pages.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "wqa3miojjr8fyozhiui--su3-ucg1gdx.pages.dev"
-      }
-    },
-    {
-      "tag": "🇨🇦[www.v2nodes.com] vless-CA-1... #2",
-      "server": "8.35.211.73",
-      "server_port": 2087,
-      "type": "vless",
-      "uuid": "9f534ac4-3c58-4a16-8b74-13dff09a0cf1",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/resourcefp=chrome",
-        "headers": {
-          "Host": "d39333476.pages.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "d39333476.pages.dev"
-      }
-    },
-    {
-      "tag": "🇨🇦[www.v2nodes.com] vless-CA-1...",
-      "server": "104.21.70.21",
-      "server_port": 8080,
-      "type": "vless",
-      "uuid": "a8b1d666-d3ba-4b17-90c4-ba7514c74f78",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/xiron",
-        "headers": {
-          "Host": "xstack.mahanfixe.workers.dev"
-        }
-      }
-    },
-    {
-      "tag": "🇯🇵[www.v2nodes.com] vless-JP-1... #2",
-      "server": "104.18.42.98",
+      "tag": "🇨🇦[www.v2nodes.com] vless-CA-1... #4",
+      "server": "104.18.21.69",
       "server_port": 443,
       "type": "vless",
-      "uuid": "4e4f1f70-5e56-4a76-bb9d-db087f4690c4",
+      "uuid": "99c5b713-dedf-4a10-8070-916ff3f49b0e",
       "flow": "",
       "transport": {
         "type": "ws",
-        "path": "/tyxywsfp=chrome",
+        "path": "/fp=chromefp=chromesecurity=tls",
         "headers": {
-          "Host": "jp3.yohototo.top"
+          "Host": "fs.qicai99.com"
         }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "jp3.yohototo.top"
       }
     },
     {
@@ -470,192 +110,26 @@
       }
     },
     {
-      "tag": "🇺🇸 美国 | USA #15",
-      "server": "104.19.219.230",
-      "server_port": 443,
+      "tag": "🇺🇸US_12|1.1MB/s",
+      "server": "104.18.162.1",
+      "server_port": 8443,
       "type": "vless",
-      "uuid": "2ea2719c-23e1-4cde-b192-c8652d55d9e5",
+      "uuid": "1662f377-776b-4e49-90d6-dd5b2c7920c8",
       "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/wsfp=chrome",
-        "headers": {
-          "Host": "cfnode-11ivy8.pages.dev"
-        }
-      },
       "tls": {
         "enabled": true,
-        "server_name": "cfnode-11ivy8.pages.dev"
-      }
-    },
-    {
-      "tag": "🇺🇸 美国 | USA #12",
-      "server": "104.17.140.83",
-      "server_port": 443,
-      "type": "vless",
-      "uuid": "8fa3f00f-f499-4705-9aa7-2ec6f91c6fa2",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/f/210/5dffe1d758f42a4ef48f733cfp=chrome",
-        "headers": {
-          "Host": "node.plutocore.vip"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "node.plutocore.vip"
-      }
-    },
-    {
-      "tag": "🇺🇸 美国 | USA #21",
-      "server": "104.17.147.208",
-      "server_port": 443,
-      "type": "vless",
-      "uuid": "258ca28a-d982-4a40-b620-7c1c81108060",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/?ed=2048fp=chrome",
-        "headers": {
-          "Host": "b.rack.sxsc.dpdns.org"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "b.rack.sxsc.dpdns.org",
+        "server_name": "3m.818567.xyz",
         "alpn": [
-          "h3"
+          "h2,http/1.1"
         ]
       }
     },
     {
-      "tag": "🇵🇱PL_2|2.2MB/s",
-      "server": "151.101.36.253",
-      "server_port": 443,
-      "type": "vless",
-      "uuid": "67cd3349-f789-4cbb-8b91-4b6b1654ce7c",
-      "flow": "",
-      "tls": {
-        "enabled": true,
-        "server_name": "accounts.fastly.com",
-        "alpn": [
-          "h3"
-        ]
-      }
-    },
-    {
-      "tag": "🇩🇪 德国 | DEU #4",
-      "server": "199.232.239.239",
-      "server_port": 443,
-      "type": "vless",
-      "uuid": "5a4db896-caab-4b9c-f747-52ce95b0f9ad",
-      "flow": "",
-      "tls": {
-        "enabled": true,
-        "server_name": "community.fastly.steamstatic.com",
-        "alpn": [
-          "h2"
-        ]
-      }
-    },
-    {
-      "tag": "🇫🇷[www.v2nodes.com] vless-FR-1... #1",
-      "server": "199.232.78.120",
-      "server_port": 443,
-      "type": "vless",
-      "uuid": "14fcb437-5561-413c-9eff-55424855e7d7",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/fp=chrome",
-        "headers": {
-          "Host": "fraboijji.global.ssl.fastly.net."
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "cdn.akamai.steamstatic.com"
-      }
-    },
-    {
-      "tag": "🇩🇪DE_7|1.3MB/s",
-      "server": "tally.so",
-      "server_port": 2082,
-      "type": "vless",
-      "uuid": "975955b1-0521-49d9-97ad-eed2e626a30f",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/?ed=2560",
-        "headers": {
-          "Host": "roOz-ryo1kZgj-v1.rOoz-67c.woRKers.deV"
-        }
-      }
-    },
-    {
-      "tag": "🇸🇬 新加坡 | SGP #2",
-      "server": "141.193.213.21",
-      "server_port": 2083,
-      "type": "vless",
-      "uuid": "e388c123-dd1b-462c-b0d7-fa6af6aa0296",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/fp=chrome",
-        "headers": {
-          "Host": "zeni.zcstore.org"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "zeni.zcstore.org"
-      }
-    },
-    {
-      "tag": "🏳[www.v2nodes.com] vless- #15",
-      "server": "146.75.59.186",
-      "server_port": 443,
-      "type": "vless",
-      "uuid": "64ce5faf-427b-4dd1-926c-6b7ced6b8c38",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/fp=chrome",
-        "headers": {
-          "Host": "copy_az_channel_NUFiLTER_6i.global.ssl.fastly.net."
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "cdn.akamai.steamstatic.com"
-      }
-    },
-    {
-      "tag": "🇸🇬 新加坡 | SGP #1",
-      "server": "141.193.213.20",
-      "server_port": 2083,
-      "type": "vless",
-      "uuid": "e388c123-dd1b-462c-b0d7-fa6af6aa0296",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/fp=chrome",
-        "headers": {
-          "Host": "zeni.zcstore.org"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "zeni.zcstore.org"
-      }
-    },
-    {
-      "tag": "🇺🇸[www.v2nodes.com] vless-US-1... #9",
+      "tag": "🇺🇸[www.v2nodes.com] vless-US-1... #16",
       "server": "199.232.78.160",
       "server_port": 443,
       "type": "vless",
-      "uuid": "64ce5faf-427b-4dd1-926c-6b7ced6b8c38",
+      "uuid": "97e0ea78-67ae-4984-8a14-a7d1a51e58de",
       "flow": "",
       "transport": {
         "type": "ws",
@@ -670,17 +144,25 @@
       }
     },
     {
-      "tag": "🇺🇸[www.v2nodes.com] vless-US-1... #10",
-      "server": "146.75.57.111",
+      "tag": "🇩🇪[www.v2nodes.com] vless-DE-1... #10",
+      "server": "103.31.4.75",
+      "server_port": 8443,
+      "type": "vless",
+      "uuid": "9443badf-414f-4b12-b19a-7cc2c7431163",
+      "flow": ""
+    },
+    {
+      "tag": "🇫🇷 法国 | FRA #1",
+      "server": "199.232.78.120",
       "server_port": 443,
       "type": "vless",
-      "uuid": "64ce5faf-427b-4dd1-926c-6b7ced6b8c38",
+      "uuid": "8d2cbffd-43d0-458d-906b-7c54b7b51f38",
       "flow": "",
       "transport": {
         "type": "ws",
         "path": "/fp=chrome",
         "headers": {
-          "Host": "copy_az_channel_NUFiLTER_7i.global.ssl.fastly.net."
+          "Host": "fraboijji.global.ssl.fastly.net."
         }
       },
       "tls": {
@@ -689,22 +171,61 @@
       }
     },
     {
-      "tag": "🇫🇷 法国 | FRA #1",
-      "server": "151.101.36.2",
+      "tag": "🇩🇪 德国 | DEU #3",
+      "server": "199.232.239.239",
       "server_port": 443,
       "type": "vless",
-      "uuid": "67cd3349-f789-4cbb-8b91-4b6b1654ce7c",
+      "uuid": "79cbf934-bc53-4a3a-9b8e-85b8ebc665f0",
       "flow": "",
       "tls": {
         "enabled": true,
-        "server_name": "accounts.fastly.com",
+        "server_name": "community.fastly.steamstatic.com",
         "alpn": [
-          "h3"
+          "h2"
         ]
       }
     },
     {
-      "tag": "🇺🇸[www.v2nodes.com] vless-US-1... #1",
+      "tag": "🇳🇱[www.v2nodes.com] vless-NL-1...",
+      "server": "199.232.78.159",
+      "server_port": 443,
+      "type": "vless",
+      "uuid": "8d2cbffd-43d0-458d-906b-7c54b7b51f38",
+      "flow": ""
+    },
+    {
+      "tag": "🇬🇧[www.v2nodes.com] vless-GB-1...",
+      "server": "146.75.59.186",
+      "server_port": 443,
+      "type": "vless",
+      "uuid": "8d2cbffd-43d0-458d-906b-7c54b7b51f38",
+      "flow": "",
+      "transport": {
+        "type": "ws",
+        "path": "/fp=chrome",
+        "headers": {
+          "Host": "ukoijji.global.ssl.fastly.net"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "cdn.akamai.steamstatic.com"
+      }
+    },
+    {
+      "tag": "🇳🇱NL_13|3.8MB/s",
+      "server": "167.82.76.31",
+      "server_port": 443,
+      "type": "vless",
+      "uuid": "d5a5c345-e307-45ce-abf4-2bb8131adc86",
+      "flow": "",
+      "tls": {
+        "enabled": true,
+        "server_name": "cdn.akamai.steamstatic.com"
+      }
+    },
+    {
+      "tag": "🇺🇸[www.v2nodes.com] vless-US-1... #9",
       "server": "216.152.155.189",
       "server_port": 443,
       "type": "vless",
@@ -735,90 +256,16 @@
       }
     },
     {
-      "tag": "🇺🇸 美国 | USA #16",
-      "server": "cfnode-11ivy8.pages.dev",
+      "tag": "🇨🇦[www.v2nodes.com] vless-CA-1... #6",
+      "server": "209.200.246.148",
       "server_port": 443,
       "type": "vless",
-      "uuid": "2ea2719c-23e1-4cde-b192-c8652d55d9e5",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/fp=chrome",
-        "headers": {
-          "Host": "cfnode-11ivy8.pages.dev"
-        }
-      },
+      "uuid": "ca52e2b6-fb9f-4dac-b6dc-49da9923f251",
+      "flow": "xtls-rprx-vision",
       "tls": {
         "enabled": true,
-        "server_name": "cfnode-11ivy8.pages.dev"
+        "server_name": "www.cloudflare.com"
       }
-    },
-    {
-      "tag": "🇨🇦[www.v2nodes.com] trojan-CA-... #4",
-      "server": "216.152.147.79",
-      "server_port": 443,
-      "type": "trojan",
-      "password": "0ab6c98dae3b48e8b9c4a776b6c9c19a",
-      "tls": {
-        "enabled": true,
-        "server_name": "blog.connectingpeoplewithgreatjobs.com"
-      }
-    },
-    {
-      "tag": "🇳🇱 荷兰 | NLD #1",
-      "server": "node.plutocore.vip",
-      "server_port": 443,
-      "type": "vless",
-      "uuid": "8fa3f00f-f499-4705-9aa7-2ec6f91c6fa2",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/f/210/97ee7c9e25d450dda9af5ff8fp=chrome",
-        "headers": {
-          "Host": "node.plutocore.vip"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "node.plutocore.vip"
-      }
-    },
-    {
-      "tag": "🇨🇦[www.v2nodes.com] trojan-CA-... #3",
-      "server": "216.152.147.93",
-      "server_port": 443,
-      "type": "trojan",
-      "password": "0ab6c98dae3b48e8b9c4a776b6c9c19a",
-      "tls": {
-        "enabled": true,
-        "server_name": "216.152.147.93"
-      }
-    },
-    {
-      "tag": "🏳[www.v2nodes.com] trojan-",
-      "server": "www.speedtest.org",
-      "server_port": 443,
-      "type": "trojan",
-      "password": "humanity",
-      "transport": {
-        "type": "ws",
-        "path": "/assignment",
-        "headers": {
-          "Host": "www.speedtest.org"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "www.ignitelimit.com"
-      }
-    },
-    {
-      "tag": "🇨🇦[www.v2nodes.com] ss-CA-1545...",
-      "server": "51.79.49.116",
-      "server_port": 8882,
-      "type": "shadowsocks",
-      "method": "aes-256-gcm",
-      "password": "kDWvXYZoTBcGkC4"
     },
     {
       "tag": "🇨🇦[www.v2nodes.com] trojan-CA-... #5",
@@ -832,53 +279,14 @@
       }
     },
     {
-      "tag": "日本4|@ripaojiedian",
-      "server": "cdn-jp.skyvora.app",
-      "server_port": 8443,
-      "type": "vless",
-      "uuid": "76825bbe-3ad2-4156-b9ed-a5bdfcc93bd3",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/pmcxbjzdau6flow=",
-        "headers": {
-          "Host": "cdn-jp.skyvora.app"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "cdn-jp.skyvora.app"
-      }
-    },
-    {
-      "tag": "🇺🇸 美国 | USA #3",
-      "server": "192.177.26.55",
+      "tag": "🇨🇦[www.v2nodes.com] trojan-CA-... #6",
+      "server": "216.152.147.152",
       "server_port": 443,
-      "type": "vless",
-      "uuid": "7ad63b26-bf70-4872-8fab-ebaf73a1e19d",
-      "flow": "xtls-rprx-vision",
+      "type": "trojan",
+      "password": "0ab6c98dae3b48e8b9c4a776b6c9c19a",
       "tls": {
         "enabled": true,
-        "server_name": "repo-16.topp-con.xyz"
-      }
-    },
-    {
-      "tag": "🇩🇪DE_11|2.0MB/s",
-      "server": "support.zoom.us.vltj.qzz.io",
-      "server_port": 443,
-      "type": "vless",
-      "uuid": "506e4a91-1d05-5683-b84c-2113f673cb19",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/id-pusatfp=chrome",
-        "headers": {
-          "Host": "support.zoom.us.vltj.qzz.io"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "support.zoom.us.vltj.qzz.io"
+        "server_name": "216.152.147.152"
       }
     },
     {
@@ -893,42 +301,14 @@
       }
     },
     {
-      "tag": "🇨🇦[www.v2nodes.com] ss-CA-1559... #1",
-      "server": "51.79.85.185",
-      "server_port": 8118,
-      "type": "shadowsocks",
-      "method": "aes-256-gcm",
-      "password": "cdBIDV42DCwnfIN"
-    },
-    {
-      "tag": "🇺🇸US_15|1.8MB/s",
-      "server": "www.visa.com",
-      "server_port": 8443,
-      "type": "vless",
-      "uuid": "226279dd-28b2-4b61-96be-a2a0b1afd522",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/?TELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI?ed=2560fp=chrome",
-        "headers": {
-          "Host": "hk.zhaoqing.city"
-        }
-      },
+      "tag": "🇨🇦[www.v2nodes.com] trojan-CA-... #4",
+      "server": "216.152.147.79",
+      "server_port": 443,
+      "type": "trojan",
+      "password": "0ab6c98dae3b48e8b9c4a776b6c9c19a",
       "tls": {
         "enabled": true,
-        "server_name": "hk.zhaoqing.city"
-      }
-    },
-    {
-      "tag": "🇨🇦[www.v2nodes.com] vless-CA-1... #4",
-      "server": "66.70.179.198",
-      "server_port": 2053,
-      "type": "vless",
-      "uuid": "dc620cd6-a9d8-4a0f-8f18-006b895db77e",
-      "flow": "",
-      "tls": {
-        "enabled": true,
-        "server_name": "www.cloudflare.com"
+        "server_name": "blog.connectingpeoplewithgreatjobs.com"
       }
     },
     {
@@ -951,37 +331,6 @@
       }
     },
     {
-      "tag": "香港4|@ripaojiedian",
-      "server": "cdn-hk.skyvora.app",
-      "server_port": 8443,
-      "type": "vless",
-      "uuid": "3b8896fd-ba38-4da7-b365-d0f01f37aa40",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/zmeadqv620kflow=",
-        "headers": {
-          "Host": "cdn-hk.skyvora.app"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "cdn-hk.skyvora.app"
-      }
-    },
-    {
-      "tag": "🇺🇸 美国 | USA #7",
-      "server": "200.102.179.69",
-      "server_port": 443,
-      "type": "vless",
-      "uuid": "7592ca5c-b352-4562-8856-a9c936a3331b",
-      "flow": "",
-      "tls": {
-        "enabled": true,
-        "server_name": "dmbdnpctq8hjxx.hat.onl"
-      }
-    },
-    {
       "tag": "美国4|@ripaojiedian",
       "server": "cdn-us.skyvora.app",
       "server_port": 8443,
@@ -1001,6 +350,40 @@
       }
     },
     {
+      "tag": "香港4|@ripaojiedian",
+      "server": "cdn-hk.skyvora.app",
+      "server_port": 8443,
+      "type": "vless",
+      "uuid": "3b8896fd-ba38-4da7-b365-d0f01f37aa40",
+      "flow": "",
+      "transport": {
+        "type": "ws",
+        "path": "/zmeadqv620kflow=",
+        "headers": {
+          "Host": "cdn-hk.skyvora.app"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "cdn-hk.skyvora.app"
+      }
+    },
+    {
+      "tag": "🇨🇦[www.v2nodes.com] vless-CA-1... #2",
+      "server": "fs.qicai99.com",
+      "server_port": 443,
+      "type": "vless",
+      "uuid": "99c5b713-dedf-4a10-8070-916ff3f49b0e",
+      "flow": "",
+      "transport": {
+        "type": "ws",
+        "path": "/security=tls",
+        "headers": {
+          "Host": "fs.qicai99.com"
+        }
+      }
+    },
+    {
       "tag": "美国3|@ripaojiedian",
       "server": "38.145.220.39",
       "server_port": 2053,
@@ -1013,32 +396,35 @@
       }
     },
     {
-      "tag": "🇺🇸US_3|2.4MB/s",
-      "server": "145.79.187.28",
+      "tag": "🇨🇦[www.v2nodes.com] ss-CA-1559... #1",
+      "server": "51.79.85.185",
+      "server_port": 8118,
+      "type": "shadowsocks",
+      "method": "aes-256-gcm",
+      "password": "cdBIDV42DCwnfIN"
+    },
+    {
+      "tag": "🇨🇦[www.v2nodes.com] trojan-CA-... #2",
+      "server": "216.152.147.93",
       "server_port": 443,
-      "type": "vless",
-      "uuid": "c059d2b8-d7d6-4873-b5e8-2c5f6cd908bb",
-      "flow": "",
+      "type": "trojan",
+      "password": "0ab6c98dae3b48e8b9c4a776b6c9c19a",
       "tls": {
         "enabled": true,
-        "server_name": "api.savesafe.info"
+        "server_name": "216.152.147.93"
       }
     },
     {
-      "tag": "🇨🇦[www.v2nodes.com] ss-CA-1546... #1",
-      "server": "51.222.155.32",
-      "server_port": 5003,
-      "type": "shadowsocks",
-      "method": "aes-256-gcm",
-      "password": "g5MeD6Ft3CWlJId"
-    },
-    {
-      "tag": "🇨🇦[www.v2nodes.com] ss-CA-1557...",
-      "server": "51.222.136.236",
-      "server_port": 8882,
-      "type": "shadowsocks",
-      "method": "aes-256-gcm",
-      "password": "kDWvXYZoTBcGkC4"
+      "tag": "🇨🇦[www.v2nodes.com] vless-CA-1... #7",
+      "server": "66.70.179.198",
+      "server_port": 2053,
+      "type": "vless",
+      "uuid": "dc620cd6-a9d8-4a0f-8f18-006b895db77e",
+      "flow": "",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.cloudflare.com"
+      }
     },
     {
       "tag": "美国|@ripaojiedian",
@@ -1053,55 +439,62 @@
       }
     },
     {
-      "tag": "🇨🇦[www.v2nodes.com] ss-CA-1545...",
-      "server": "51.79.64.198",
-      "server_port": 8119,
-      "type": "shadowsocks",
-      "method": "aes-256-gcm",
-      "password": "cdBIDV42DCwnfIN"
-    },
-    {
-      "tag": "🇺🇸[www.v2nodes.com] vless-US-1...",
-      "server": "143.246.62.191",
-      "server_port": 8443,
+      "tag": "🇩🇪 德国 | DEU #3",
+      "server": "check-host.net",
+      "server_port": 2053,
       "type": "vless",
-      "uuid": "eb8c97f7-a154-4442-91b0-54c0d055ad0b",
+      "uuid": "d133dd1c-3084-46c3-ba6e-aa3597c43cc1",
       "flow": "",
       "tls": {
         "enabled": true,
-        "server_name": "github.githubassets.com"
+        "server_name": "n8.hyby.ir",
+        "alpn": [
+          "h2,http/1.1"
+        ]
       }
     },
     {
-      "tag": "🇩🇪 德国 | DEU #2",
-      "server": "visa.com.sg",
-      "server_port": 443,
+      "tag": "日本4|@ripaojiedian",
+      "server": "cdn-jp.skyvora.app",
+      "server_port": 8443,
       "type": "vless",
-      "uuid": "8fa3f00f-f499-4705-9aa7-2ec6f91c6fa2",
+      "uuid": "76825bbe-3ad2-4156-b9ed-a5bdfcc93bd3",
       "flow": "",
       "transport": {
         "type": "ws",
-        "path": "/f/210/5dffe1d758f42a4ef48f733cfp=chrome",
+        "path": "/pmcxbjzdau6flow=",
         "headers": {
-          "Host": "node.plutocore.vip"
+          "Host": "cdn-jp.skyvora.app"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "node.plutocore.vip"
+        "server_name": "cdn-jp.skyvora.app"
       }
     },
     {
-      "tag": "🇺🇸[www.v2nodes.com] vless-US-1... #11",
-      "server": "136.176.65.251",
-      "server_port": 443,
-      "type": "vless",
-      "uuid": "39826f32-f5ca-42a5-ab33-188f7d199478",
-      "flow": "xtls-rprx-vision",
-      "tls": {
-        "enabled": true,
-        "server_name": "www.apple.com"
-      }
+      "tag": "🇨🇦[www.v2nodes.com] ss-CA-1546...",
+      "server": "51.222.155.113",
+      "server_port": 5601,
+      "type": "shadowsocks",
+      "method": "aes-256-gcm",
+      "password": "Y6R9pAtvxxzmGC"
+    },
+    {
+      "tag": "🇨🇦[www.v2nodes.com] ss-CA-1555...",
+      "server": "15.235.121.109",
+      "server_port": 8080,
+      "type": "shadowsocks",
+      "method": "chacha20-ietf-poly1305",
+      "password": "575hiopq2h28yao6"
+    },
+    {
+      "tag": "🇨🇦[www.v2nodes.com] ss-CA-1557...",
+      "server": "51.222.136.236",
+      "server_port": 8882,
+      "type": "shadowsocks",
+      "method": "aes-256-gcm",
+      "password": "kDWvXYZoTBcGkC4"
     },
     {
       "tag": "🇨🇦[www.v2nodes.com] ss-CA-1558...",
@@ -1112,39 +505,35 @@
       "password": "Y6R9pAtvxxzmGC"
     },
     {
-      "tag": "🇺🇸[www.v2nodes.com] vless-US-1... #12",
-      "server": "148.135.86.162",
-      "server_port": 10000,
+      "tag": "🇨🇦[www.v2nodes.com] ss-CA-1559...",
+      "server": "51.222.141.125",
+      "server_port": 445,
+      "type": "shadowsocks",
+      "method": "aes-256-gcm",
+      "password": "zDNVedRFPQexG9v"
+    },
+    {
+      "tag": "🇺🇸 美国 | USA #3",
+      "server": "156.229.167.109",
+      "server_port": 8443,
       "type": "vless",
-      "uuid": "327b1113-049e-4256-8d72-8815643dbb65",
-      "flow": "xtls-rprx-vision",
+      "uuid": "eb8c97f7-a154-4442-91b0-54c0d055ad0b",
+      "flow": "",
       "tls": {
         "enabled": true,
-        "server_name": "addons.mozilla.org"
+        "server_name": "github.githubassets.com"
       }
     },
     {
-      "tag": "🇺🇸US_14|3.2MB/s",
-      "server": "23.141.204.204",
+      "tag": "🇺🇸 美国 | USA #1",
+      "server": "200.102.179.69",
       "server_port": 443,
       "type": "vless",
-      "uuid": "b6058894-f212-4926-9e19-f65713cca4a4",
-      "flow": "xtls-rprx-vision-udp443",
+      "uuid": "7592ca5c-b352-4562-8856-a9c936a3331b",
+      "flow": "",
       "tls": {
         "enabled": true,
-        "server_name": "www.cogentco.com"
-      }
-    },
-    {
-      "tag": "🇺🇸[www.v2nodes.com] vless-US-1...",
-      "server": "212.103.62.233",
-      "server_port": 443,
-      "type": "vless",
-      "uuid": "a715374a-a745-4800-889b-0c864fad5ca0",
-      "flow": "xtls-rprx-vision",
-      "tls": {
-        "enabled": true,
-        "server_name": "www.apple.com"
+        "server_name": "dmbdnpctq8hjxx.hat.onl"
       }
     },
     {
@@ -1160,8 +549,8 @@
       }
     },
     {
-      "tag": "🇺🇸 美国 | USA #5",
-      "server": "156.229.167.109",
+      "tag": "🇺🇸[www.v2nodes.com] vless-US-1... #8",
+      "server": "143.246.62.191",
       "server_port": 8443,
       "type": "vless",
       "uuid": "eb8c97f7-a154-4442-91b0-54c0d055ad0b",
@@ -1172,83 +561,7 @@
       }
     },
     {
-      "tag": "🇺🇸 美国 | USA #6",
-      "server": "198.247.127.131",
-      "server_port": 443,
-      "type": "vless",
-      "uuid": "59548d2d-5d7c-4328-aa81-0d5614da0c1b",
-      "flow": "xtls-rprx-vision",
-      "tls": {
-        "enabled": true,
-        "server_name": "addons.mozilla.org"
-      }
-    },
-    {
-      "tag": "🇺🇸[www.v2nodes.com] vless-US-1... #2",
-      "server": "199.7.140.201",
-      "server_port": 443,
-      "type": "vless",
-      "uuid": "a52ac672-0f5f-4070-b8fd-6b5685fc8004",
-      "flow": "",
-      "tls": {
-        "enabled": true,
-        "server_name": "www.cloudflare.com"
-      }
-    },
-    {
-      "tag": "🇳🇱 荷兰 | NLD #5",
-      "server": "mortreze45678-production.up.railway.app",
-      "server_port": 443,
-      "type": "vless",
-      "uuid": "12df41f8-c668-4f92-b56a-8e1ea4193b83",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/api/JWVPy1fp=chrome",
-        "headers": {
-          "Host": "mortreze45678-production.up.railway.app"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "mortreze45678-production.up.railway.app",
-        "alpn": [
-          "http/1.1"
-        ]
-      }
-    },
-    {
-      "tag": "🇳🇱NL_1|2.0MB/s",
-      "server": "whitepanel-ui-production-8f6a54a4.up.railway.app",
-      "server_port": 443,
-      "type": "vless",
-      "uuid": "f690892b-745f-47fa-3f2b-8f7729e47d0a",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/ws/f690892b-745f-47fa-3f2b-8f7729e47d0a",
-        "headers": {
-          "Host": "whitepanel-ui-production-8f6a54a4.up.railway.app"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "whitepanel-ui-production-8f6a54a4.up.railway.app",
-        "alpn": [
-          "http/1.1"
-        ]
-      }
-    },
-    {
-      "tag": "🇨🇦[www.v2nodes.com] ss-CA-1559...",
-      "server": "51.222.141.125",
-      "server_port": 445,
-      "type": "shadowsocks",
-      "method": "aes-256-gcm",
-      "password": "zDNVedRFPQexG9v"
-    },
-    {
-      "tag": "🇺🇸US_10|1.5MB/s",
+      "tag": "🇺🇸 美国 | USA #2",
       "server": "162.35.101.177",
       "server_port": 443,
       "type": "vless",
@@ -1260,30 +573,34 @@
       }
     },
     {
-      "tag": "🇨🇦[www.v2nodes.com] ss-CA-1546...",
-      "server": "51.222.155.113",
-      "server_port": 5601,
-      "type": "shadowsocks",
-      "method": "aes-256-gcm",
-      "password": "Y6R9pAtvxxzmGC"
-    },
-    {
-      "tag": "🇳🇱 荷兰 | NLD #4",
-      "server": "cfnew.pypgmail.de5.net",
+      "tag": "🇺🇸[www.v2nodes.com] vless-US-1... #6",
+      "server": "198.247.127.131",
       "server_port": 443,
       "type": "vless",
-      "uuid": "8c94dfd8-52dd-451c-8c85-26770cd41768",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/fp=chrome",
-        "headers": {
-          "Host": "cfnew.pypgmail.de5.net"
-        }
-      },
+      "uuid": "59548d2d-5d7c-4328-aa81-0d5614da0c1b",
+      "flow": "xtls-rprx-vision",
       "tls": {
         "enabled": true,
-        "server_name": "cfnew.pypgmail.de5.net"
+        "server_name": "addons.mozilla.org"
+      }
+    },
+    {
+      "tag": "🇲🇽[www.v2nodes.com] ss-MX-1564...",
+      "server": "64.177.90.30",
+      "server_port": 8388,
+      "type": "shadowsocks",
+      "method": "aes-256-gcm",
+      "password": "BWyPPTusFKhGgzKh"
+    },
+    {
+      "tag": "🇳🇬[www.v2nodes.com] trojan-NG-... #1",
+      "server": "sclass-01.catcat321.com",
+      "server_port": 20103,
+      "type": "trojan",
+      "password": "d7563108-615c-4338-a7bd-77f359869a4a",
+      "tls": {
+        "enabled": true,
+        "server_name": "hk.catxstar.com"
       }
     },
     {
@@ -1295,15 +612,20 @@
       "password": "881cf39affc5286799a585f1acd24d11"
     },
     {
-      "tag": "🇳🇬 尼日利亚 | NGA #2",
-      "server": "sclass-c2.catcat321.com",
-      "server_port": 20051,
-      "type": "trojan",
-      "password": "d9064589-74af-432a-9390-5d8a9da281bf",
-      "tls": {
-        "enabled": true,
-        "server_name": "hk.catxstar.com"
-      }
+      "tag": "🇬🇧[www.v2nodes.com] ss-GB-1247...",
+      "server": "94.156.250.148",
+      "server_port": 7001,
+      "type": "shadowsocks",
+      "method": "aes-256-gcm",
+      "password": "RexnBgU7EV5ADxG"
+    },
+    {
+      "tag": "🇬🇧[www.v2nodes.com] ss-GB-1616... #1",
+      "server": "198.244.202.215",
+      "server_port": 19999,
+      "type": "shadowsocks",
+      "method": "aes-256-gcm",
+      "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
     },
     {
       "tag": "🇬🇧[www.v2nodes.com] ss-GB-1451...",
@@ -1314,18 +636,54 @@
       "password": "shadowsocks"
     },
     {
-      "tag": "🇳🇱 荷兰 | NLD #5",
-      "server": "94.241.172.107",
-      "server_port": 443,
+      "tag": "🇬🇧[www.v2nodes.com] vless-GB-1... #5",
+      "server": "51.89.194.151",
+      "server_port": 2053,
       "type": "vless",
-      "uuid": "4777d90d-265b-4927-a0d1-63f36ed1421c",
+      "uuid": "8e790f25-1d71-4601-9fb0-d503931dcfca",
       "flow": "",
       "tls": {
         "enabled": true,
-        "server_name": "94.241.172.107",
-        "alpn": [
-          "h2,http/1.1"
-        ]
+        "server_name": "www.apple.com"
+      }
+    },
+    {
+      "tag": "🇳🇬 尼日利亚 | NGA #1",
+      "server": "sclass-b1.catcat321.com",
+      "server_port": 20051,
+      "type": "trojan",
+      "password": "d7563108-615c-4338-a7bd-77f359869a4a",
+      "tls": {
+        "enabled": true,
+        "server_name": "hk.catxstar.com"
+      }
+    },
+    {
+      "tag": "🇪🇸[www.v2nodes.com] vless-ES-1...",
+      "server": "68.221.177.135",
+      "server_port": 2083,
+      "type": "vless",
+      "uuid": "52a5a29f-c162-411a-8a37-a3f11b0dc537",
+      "flow": ""
+    },
+    {
+      "tag": "🇬🇧[www.v2nodes.com] ss-GB-1616...",
+      "server": "198.244.201.129",
+      "server_port": 19999,
+      "type": "shadowsocks",
+      "method": "aes-256-gcm",
+      "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+    },
+    {
+      "tag": "🇺🇦[www.v2nodes.com] vless-UA-1... #6",
+      "server": "83.147.18.75",
+      "server_port": 443,
+      "type": "vless",
+      "uuid": "5de0c218-0138-45d8-94d2-c2c3f37a1a6d",
+      "flow": "xtls-rprx-vision",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.bing.com"
       }
     },
     {
@@ -1337,15 +695,70 @@
       "password": "8nrpt2il04ptci2j"
     },
     {
-      "tag": "🇹🇷[www.v2nodes.com] vless-TR-1...",
-      "server": "185.246.155.91",
-      "server_port": 10103,
+      "tag": "🇹🇷 土耳其 | TUR #1",
+      "server": "sclass-b1.catcat321.com",
+      "server_port": 20028,
+      "type": "trojan",
+      "password": "d7563108-615c-4338-a7bd-77f359869a4a",
+      "tls": {
+        "enabled": true,
+        "server_name": "hk.catxstar.com"
+      }
+    },
+    {
+      "tag": "🏳[www.v2nodes.com] vless- #3",
+      "server": "195.72.166.251",
+      "server_port": 443,
+      "type": "vless",
+      "uuid": "64c05afc-ce81-4ba0-b697-afa04da1427e",
+      "flow": "xtls-rprx-vision",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.lloydsbankinggroup.com"
+      }
+    },
+    {
+      "tag": "🇬🇧[www.v2nodes.com] ss-GB-1615... #1",
+      "server": "38.114.120.221",
+      "server_port": 19999,
+      "type": "shadowsocks",
+      "method": "aes-256-gcm",
+      "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+    },
+    {
+      "tag": "🇬🇧[www.v2nodes.com] vless-GB-1... #1",
+      "server": "136.176.68.34",
+      "server_port": 443,
       "type": "vless",
       "uuid": "dbf3f074-3b18-43f3-b82a-debd8c879c69",
       "flow": "xtls-rprx-vision",
       "tls": {
         "enabled": true,
         "server_name": "www.apple.com"
+      }
+    },
+    {
+      "tag": "🇳🇱[www.v2nodes.com] vless-NL-1... #9",
+      "server": "89.105.195.150",
+      "server_port": 443,
+      "type": "vless",
+      "uuid": "1653818d-532e-46be-b825-384107fb7c3a",
+      "flow": "",
+      "tls": {
+        "enabled": true,
+        "server_name": "images.mediacorphub.org"
+      }
+    },
+    {
+      "tag": "🇯🇵 日本 | JPN #3",
+      "server": "185.178.208.140",
+      "server_port": 443,
+      "type": "vless",
+      "uuid": "5be144a2-75d3-476a-badb-fa57336617e5",
+      "flow": "",
+      "tls": {
+        "enabled": true,
+        "server_name": "kfx7q.bakarova-top.ru"
       }
     },
     {
@@ -1365,54 +778,12 @@
       "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
     },
     {
-      "tag": "🇬🇧[www.v2nodes.com] vless-GB-1... #1",
-      "server": "136.176.68.34",
-      "server_port": 443,
+      "tag": "🇳🇱[www.v2nodes.com] vless-NL-1... #5",
+      "server": "206.166.251.70",
+      "server_port": 52901,
       "type": "vless",
-      "uuid": "dbf3f074-3b18-43f3-b82a-debd8c879c69",
-      "flow": "xtls-rprx-vision",
-      "tls": {
-        "enabled": true,
-        "server_name": "www.apple.com"
-      }
-    },
-    {
-      "tag": "🇬🇧[www.v2nodes.com] vless-GB-1... #5",
-      "server": "195.72.166.251",
-      "server_port": 443,
-      "type": "vless",
-      "uuid": "64c05afc-ce81-4ba0-b697-afa04da1427e",
-      "flow": "xtls-rprx-vision",
-      "tls": {
-        "enabled": true,
-        "server_name": "www.lloydsbankinggroup.com"
-      }
-    },
-    {
-      "tag": "🇫🇷[www.v2nodes.com] vless-FR-1... #2",
-      "server": "89.187.7.4",
-      "server_port": 2166,
-      "type": "vless",
-      "uuid": "e1862eef-e3f2-4e27-b0a5-ddf8df384af9",
-      "flow": "",
-      "transport": {
-        "type": "ws",
-        "path": "/Telegram=@AmyraxVPN",
-        "headers": {
-          "Host": "89.187.7.4"
-        }
-      }
-    },
-    {
-      "tag": "波兰+V2CROSS.COM",
-      "server": "sclass-01.catcat321.com",
-      "server_port": 20103,
-      "type": "trojan",
-      "password": "d7563108-615c-4338-a7bd-77f359869a4a",
-      "tls": {
-        "enabled": true,
-        "server_name": "hk.catxstar.com"
-      }
+      "uuid": "510a4a35-54ac-41fa-a972-8d010995c8f7",
+      "flow": ""
     },
     {
       "tag": "🇩🇪[www.v2nodes.com] vless-DE-1... #12",
@@ -1427,31 +798,270 @@
       }
     },
     {
-      "tag": "🇳🇱[www.v2nodes.com] vless-NL-1... #1",
-      "server": "206.166.251.70",
-      "server_port": 52901,
-      "type": "vless",
-      "uuid": "510a4a35-54ac-41fa-a972-8d010995c8f7",
-      "flow": ""
-    },
-    {
-      "tag": "🇳🇱[www.v2nodes.com] vless-NL-1... #4",
-      "server": "104.222.183.180",
+      "tag": "🇬🇧[www.v2nodes.com] vless-GB-1... #4",
+      "server": "130.12.242.106",
       "server_port": 443,
       "type": "vless",
-      "uuid": "a1cf2f59-ffe0-4cb3-8c68-e6abf44726fc",
+      "uuid": "bc058e69-0444-4c7b-98da-bd67f0b143da",
       "flow": "xtls-rprx-vision",
       "tls": {
         "enabled": true,
-        "server_name": "www.tradingview.com"
+        "server_name": "deepl.com"
       }
     },
     {
-      "tag": "🇬🇧[www.v2nodes.com] vless-GB-1... #7",
-      "server": "51.89.194.151",
+      "tag": "🇹🇷[www.v2nodes.com] vless-TR-1... #1",
+      "server": "185.246.155.91",
+      "server_port": 10103,
+      "type": "vless",
+      "uuid": "dbf3f074-3b18-43f3-b82a-debd8c879c69",
+      "flow": "xtls-rprx-vision",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.apple.com"
+      }
+    },
+    {
+      "tag": "🇳🇱[www.v2nodes.com] ss-NL-1618...",
+      "server": "156.67.120.205",
+      "server_port": 51628,
+      "type": "shadowsocks",
+      "method": "chacha20-ietf-poly1305",
+      "password": "29ZZXVa34x7sC48w9FKQ54UKHiJJGTVgKFppBRgviLrVCAYVVyKZdD3obbpjCyk31V5b2G2d7xzqmaPBFdcheCVB9UQ4ZghF"
+    },
+    {
+      "tag": "🇳🇱[www.v2nodes.com] ss-NL-1620...",
+      "server": "104.222.183.180",
+      "server_port": 47195,
+      "type": "shadowsocks",
+      "method": "chacha20-ietf-poly1305",
+      "password": "DYVqFDnYoMquRQunXC1xd2FyuDhd7JWs5jtf2eb7VkKLzXgZv8pt8gY1e91TT71V762zRX7MWW4HmjavanYdUF9bij8gG8AP"
+    },
+    {
+      "tag": "🇳🇱 荷兰 | NLD #1",
+      "server": "93.152.215.172",
+      "server_port": 443,
+      "type": "vless",
+      "uuid": "6db6b948-655f-4f68-a9e7-865050e05b31",
+      "flow": "xtls-rprx-vision",
+      "tls": {
+        "enabled": true,
+        "server_name": "93.152.215.172"
+      }
+    },
+    {
+      "tag": "🇬🇧[www.v2nodes.com] vless-GB-1... #3",
+      "server": "34.39.80.57",
+      "server_port": 50818,
+      "type": "vless",
+      "uuid": "408c814e-f70a-4d16-b3b3-8182bb70211d",
+      "flow": "",
+      "transport": {
+        "type": "ws",
+        "path": "/GunServicefp=chrome",
+        "headers": {
+          "Host": "34.39.80.57"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "yingguo.rymaker.cn"
+      }
+    },
+    {
+      "tag": "🇫🇷[www.v2nodes.com] ss-FR-1615... #4",
+      "server": "167.17.64.22",
+      "server_port": 19999,
+      "type": "shadowsocks",
+      "method": "aes-256-gcm",
+      "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+    },
+    {
+      "tag": "🇫🇷[www.v2nodes.com] ss-FR-1615...",
+      "server": "38.109.228.110",
+      "server_port": 19999,
+      "type": "shadowsocks",
+      "method": "aes-256-gcm",
+      "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+    },
+    {
+      "tag": "🇮🇷[www.v2nodes.com] vless-IR-1... #3",
+      "server": "198.16.113.221",
+      "server_port": 8443,
+      "type": "vless",
+      "uuid": "98a24806-141a-43d3-b094-bd66c4eb93b8",
+      "flow": "xtls-rprx-vision",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.apple.com"
+      }
+    },
+    {
+      "tag": "🇮🇱 以色列 | ISR #1",
+      "server": "79.182.39.131",
+      "server_port": 443,
+      "type": "vless",
+      "uuid": "cda0862a-0f87-4be9-8ed8-1d0c9e382839",
+      "flow": "",
+      "tls": {
+        "enabled": true,
+        "server_name": "717252g.nl8.h1clayd.click"
+      }
+    },
+    {
+      "tag": "🏳[www.v2nodes.com] vless- #9",
+      "server": "2.59.183.167",
+      "server_port": 443,
+      "type": "vless",
+      "uuid": "301d514e-4aa0-47b0-ba44-a0cb891cd52f",
+      "flow": "",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.samsung.com"
+      }
+    },
+    {
+      "tag": "🇫🇷[www.v2nodes.com] ss-FR-1616...",
+      "server": "23.162.152.22",
+      "server_port": 19999,
+      "type": "shadowsocks",
+      "method": "aes-256-gcm",
+      "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+    },
+    {
+      "tag": "🇳🇱[www.v2nodes.com] ss-NL-1622...",
+      "server": "194.87.233.93",
+      "server_port": 46190,
+      "type": "shadowsocks",
+      "method": "chacha20-ietf-poly1305",
+      "password": "2Ef8X21WALqK7H6N8A78j5WYtzZ999PP8rF8DaLsb5LLyDLQpf5dGVAjdA3mj1wudigKXTt5heYU9jmaBbfxXBJJAqhPHkxe"
+    },
+    {
+      "tag": "🇫🇷[www.v2nodes.com] vless-FR-1... #4",
+      "server": "89.187.7.4",
+      "server_port": 2166,
+      "type": "vless",
+      "uuid": "e1862eef-e3f2-4e27-b0a5-ddf8df384af9",
+      "flow": "",
+      "transport": {
+        "type": "ws",
+        "path": "/Telegram=@AmyraxVPN",
+        "headers": {
+          "Host": "89.187.7.4"
+        }
+      }
+    },
+    {
+      "tag": "🇫🇷[www.v2nodes.com] ss-FR-1615... #3",
+      "server": "167.17.64.175",
+      "server_port": 19999,
+      "type": "shadowsocks",
+      "method": "aes-256-gcm",
+      "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+    },
+    {
+      "tag": "🇮🇷[www.v2nodes.com] vless-IR-1...",
+      "server": "198.16.113.218",
+      "server_port": 8443,
+      "type": "vless",
+      "uuid": "98a24806-141a-43d3-b094-bd66c4eb93b8",
+      "flow": "xtls-rprx-vision",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.apple.com"
+      }
+    },
+    {
+      "tag": "🇮🇷[www.v2nodes.com] vless-IR-1... #1",
+      "server": "198.16.113.222",
+      "server_port": 8443,
+      "type": "vless",
+      "uuid": "98a24806-141a-43d3-b094-bd66c4eb93b8",
+      "flow": "xtls-rprx-vision",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.apple.com"
+      }
+    },
+    {
+      "tag": "🇮🇷[www.v2nodes.com] vless-IR-1... #2",
+      "server": "198.16.113.220",
+      "server_port": 8443,
+      "type": "vless",
+      "uuid": "98a24806-141a-43d3-b094-bd66c4eb93b8",
+      "flow": "xtls-rprx-vision",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.apple.com"
+      }
+    },
+    {
+      "tag": "🇩🇪[www.v2nodes.com] ss-DE-1615...",
+      "server": "193.108.119.3",
+      "server_port": 19999,
+      "type": "shadowsocks",
+      "method": "aes-256-gcm",
+      "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+    },
+    {
+      "tag": "🇫🇷[www.v2nodes.com] vless-FR-1... #5",
+      "server": "212.69.86.159",
+      "server_port": 8447,
+      "type": "vless",
+      "uuid": "52030136-eee3-4675-baae-a50f17b2bb8b",
+      "flow": "",
+      "tls": {
+        "enabled": true,
+        "server_name": "github.com"
+      }
+    },
+    {
+      "tag": "🇳🇱[www.v2nodes.com] vless-NL-1... #6",
+      "server": "50.7.178.197",
+      "server_port": 8443,
+      "type": "vless",
+      "uuid": "3f5e89d5-591f-4ac9-b071-b05680b573c3",
+      "flow": "",
+      "tls": {
+        "enabled": true,
+        "server_name": "fr2.gacvpn.site"
+      }
+    },
+    {
+      "tag": "❓Other_1|2.8MB/s",
+      "server": "195.63.128.21",
+      "server_port": 2443,
+      "type": "vless",
+      "uuid": "fa937345-6d3e-4ff4-8127-1a836987a0db",
+      "flow": "xtls-rprx-vision-udp443",
+      "tls": {
+        "enabled": true,
+        "server_name": "germany.cloudhouse1.ru"
+      }
+    },
+    {
+      "tag": "Telegram@vpnjey #1",
+      "server": "179.61.138.145",
+      "server_port": 443,
+      "type": "hysteria2",
+      "password": "Telegram",
+      "tls": {
+        "enabled": true,
+        "server_name": "de2.jey.cc.cd"
+      },
+      "up_mbps": 50,
+      "down_mbps": 100,
+      "obfs": {
+        "type": "salamander",
+        "password": "Telegram@vpnjey"
+      }
+    },
+    {
+      "tag": "🇪🇸[www.v2nodes.com] vless-ES-1... #3",
+      "server": "212.227.235.66",
       "server_port": 2053,
       "type": "vless",
-      "uuid": "8e790f25-1d71-4601-9fb0-d503931dcfca",
+      "uuid": "ead0dd61-d398-40ad-80d6-a0e1e516d7d3",
       "flow": "",
       "tls": {
         "enabled": true,
@@ -1459,33 +1069,12 @@
       }
     },
     {
-      "tag": "@vpnbaz",
-      "server": "130.49.161.70",
-      "server_port": 443,
-      "type": "hysteria2",
-      "password": "p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR",
-      "tls": {
-        "enabled": true,
-        "server_name": "hy2.aspidnet.xyz"
-      },
-      "up_mbps": 50,
-      "down_mbps": 100,
-      "obfs": {
-        "type": "salamander",
-        "password": "rG07s3COMIEvdnQipRyWzx_H_2xygNC3"
-      }
-    },
-    {
-      "tag": "🇳🇱[www.v2nodes.com] vless-NL-1... #6",
-      "server": "89.105.195.150",
-      "server_port": 443,
-      "type": "vless",
-      "uuid": "1653818d-532e-46be-b825-384107fb7c3a",
-      "flow": "",
-      "tls": {
-        "enabled": true,
-        "server_name": "images.mediacorphub.org"
-      }
+      "tag": "🇺🇸[www.v2nodes.com] ss-US-1620...",
+      "server": "23.230.52.119",
+      "server_port": 42878,
+      "type": "shadowsocks",
+      "method": "chacha20-ietf-poly1305",
+      "password": "ijoUwfdnkz7mX4pWdkSpmEixTZCt2TRm1JDr4BSaBAWkLxYGoXBHXadFKY5D5ZfoVTwqsx46jCmEUDnQUizJDYrM7B5anhnu"
     },
     {
       "tag": "🇳🇱[www.v2nodes.com] ss-NL-1616...",
@@ -1494,8 +1083,101 @@
       "type": "shadowsocks",
       "method": "chacha20-ietf-poly1305",
       "password": "hCgbUnMaoAfSgvE8IKdnGu"
+    },
+    {
+      "tag": "🇨🇭 瑞士 | CHE #1",
+      "server": "194.87.109.106",
+      "server_port": 443,
+      "type": "vless",
+      "uuid": "d9274255-edf4-4944-bc62-6ef35cd2de40",
+      "flow": "",
+      "tls": {
+        "enabled": true,
+        "server_name": "currant.asynchronous.site",
+        "alpn": [
+          "h2,http/1.1"
+        ]
+      }
+    },
+    {
+      "tag": "🇩🇪[www.v2nodes.com] vless-DE-1... #9",
+      "server": "159.195.207.238",
+      "server_port": 49313,
+      "type": "vless",
+      "uuid": "855c7aaa-e7d6-463e-971e-d36032744428",
+      "flow": ""
+    },
+    {
+      "tag": "🇫🇮[www.v2nodes.com] vless-FI-1... #1",
+      "server": "146.103.118.189",
+      "server_port": 443,
+      "type": "vless",
+      "uuid": "ce698f0c-a8ec-474a-b5d8-3be8032deeb8",
+      "flow": ""
+    },
+    {
+      "tag": "🇩🇪[www.v2nodes.com] vless-DE-1... #7",
+      "server": "150.251.143.253",
+      "server_port": 443,
+      "type": "vless",
+      "uuid": "4201786b-d99b-4147-a5f0-20d47acddb81",
+      "flow": "xtls-rprx-vision",
+      "tls": {
+        "enabled": true,
+        "server_name": "4935e4t.de25.h1clayd.click"
+      }
+    },
+    {
+      "tag": "🇳🇴[www.v2nodes.com] ss-NO-1220...",
+      "server": "185.213.23.63",
+      "server_port": 990,
+      "type": "shadowsocks",
+      "method": "chacha20-ietf-poly1305",
+      "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44="
+    },
+    {
+      "tag": "🇪🇸[www.v2nodes.com] trojan-ES-... #6",
+      "server": "66.163.118.62",
+      "server_port": 443,
+      "type": "trojan",
+      "password": "0ab6c98dae3b48e8b9c4a776b6c9c19a",
+      "tls": {
+        "enabled": true,
+        "server_name": "66.163.118.62"
+      }
+    },
+    {
+      "tag": "🇪🇸[www.v2nodes.com] trojan-ES-... #2",
+      "server": "66.163.118.115",
+      "server_port": 443,
+      "type": "trojan",
+      "password": "0ab6c98dae3b48e8b9c4a776b6c9c19a",
+      "tls": {
+        "enabled": true,
+        "server_name": "66.163.118.115"
+      }
+    },
+    {
+      "tag": "🇫🇷[www.v2nodes.com] ss-FR-1615... #2",
+      "server": "172.99.189.142",
+      "server_port": 19999,
+      "type": "shadowsocks",
+      "method": "aes-256-gcm",
+      "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+    },
+    {
+      "tag": "德国2|@ripaojiedian",
+      "server": "50.7.86.214",
+      "server_port": 2053,
+      "type": "vless",
+      "uuid": "746c7209-49e1-494e-9ad1-a630d48ed26d",
+      "flow": "xtls-rprx-vision",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.apple.com"
+      }
     }
   ],
-  "updated": "2026-11-13T07:03:09.508258",
+  "updated": "2026-11-14T06:52:36.847848",
   "count": 100
 }
