@@ -1,0 +1,1 @@
+vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@79.182.39.131:443?sni=717252g.nl8.h1clayd.click&type=grpc&serviceName=&fp=firefox&security=tls#%F0%9F%87%A7%F0%9F%87%BE%20BY_32%20%231
