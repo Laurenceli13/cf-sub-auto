@@ -1,13 +1,13 @@
 {
-  "updated": "2026-11-15T06:57:18Z",
+  "updated": "2026-11-16T07:02:48Z",
   "total_nodes": 100,
-  "v2ray_nodes": 99,
-  "hysteria_nodes": 1,
+  "v2ray_nodes": 98,
+  "hysteria_nodes": 2,
   "regions": {
     "OTHER": {
       "name": "其他",
       "emoji": "🌐",
-      "count": 99
+      "count": 100
     },
     "DE": {
       "name": "德国",
@@ -29,29 +29,9 @@
       "emoji": "🇸🇬",
       "count": 0
     },
-    "RU": {
-      "name": "俄罗斯",
-      "emoji": "🇷🇺",
-      "count": 0
-    },
-    "FR": {
-      "name": "法国",
-      "emoji": "🇫🇷",
-      "count": 0
-    },
-    "IT": {
-      "name": "意大利",
-      "emoji": "🇮🇹",
-      "count": 0
-    },
     "CA": {
       "name": "加拿大",
       "emoji": "🇨🇦",
-      "count": 0
-    },
-    "ES": {
-      "name": "西班牙",
-      "emoji": "🇪🇸",
       "count": 0
     },
     "GB": {
@@ -59,14 +39,29 @@
       "emoji": "🇬🇧",
       "count": 0
     },
+    "FR": {
+      "name": "法国",
+      "emoji": "🇫🇷",
+      "count": 0
+    },
+    "ES": {
+      "name": "西班牙",
+      "emoji": "🇪🇸",
+      "count": 0
+    },
     "JP": {
       "name": "日本",
       "emoji": "🇯🇵",
       "count": 0
     },
-    "SE": {
-      "name": "瑞典",
-      "emoji": "🇸🇪",
+    "RU": {
+      "name": "俄罗斯",
+      "emoji": "🇷🇺",
+      "count": 0
+    },
+    "IT": {
+      "name": "意大利",
+      "emoji": "🇮🇹",
       "count": 0
     },
     "TR": {
@@ -74,19 +69,14 @@
       "emoji": "🇹🇷",
       "count": 0
     },
-    "PL": {
-      "name": "波兰",
-      "emoji": "🇵🇱",
-      "count": 0
-    },
-    "HK": {
-      "name": "香港",
-      "emoji": "🇭🇰",
-      "count": 0
-    },
     "FI": {
       "name": "芬兰",
       "emoji": "🇫🇮",
+      "count": 0
+    },
+    "SE": {
+      "name": "瑞典",
+      "emoji": "🇸🇪",
       "count": 0
     },
     "CH": {
@@ -94,9 +84,24 @@
       "emoji": "🇨🇭",
       "count": 0
     },
+    "HK": {
+      "name": "香港",
+      "emoji": "🇭🇰",
+      "count": 0
+    },
+    "PL": {
+      "name": "波兰",
+      "emoji": "🇵🇱",
+      "count": 0
+    },
     "KR": {
       "name": "韩国",
       "emoji": "🇰🇷",
+      "count": 0
+    },
+    "AU": {
+      "name": "澳大利亚",
+      "emoji": "🇦🇺",
       "count": 0
     },
     "IN": {
@@ -109,24 +114,9 @@
       "emoji": "🇦🇹",
       "count": 0
     },
-    "AU": {
-      "name": "澳大利亚",
-      "emoji": "🇦🇺",
-      "count": 0
-    },
-    "RO": {
-      "name": "罗马尼亚",
-      "emoji": "🇷🇴",
-      "count": 0
-    },
     "AE": {
       "name": "阿联酋",
       "emoji": "🇦🇪",
-      "count": 0
-    },
-    "NZ": {
-      "name": "新西兰",
-      "emoji": "🇳🇿",
       "count": 0
     },
     "UA": {
@@ -134,9 +124,24 @@
       "emoji": "🇺🇦",
       "count": 0
     },
-    "TW": {
-      "name": "台湾",
-      "emoji": "🇹🇼",
+    "NZ": {
+      "name": "新西兰",
+      "emoji": "🇳🇿",
+      "count": 0
+    },
+    "TH": {
+      "name": "泰国",
+      "emoji": "🇹🇭",
+      "count": 0
+    },
+    "IL": {
+      "name": "以色列",
+      "emoji": "🇮🇱",
+      "count": 0
+    },
+    "RO": {
+      "name": "罗马尼亚",
+      "emoji": "🇷🇴",
       "count": 0
     },
     "ZA": {
@@ -144,14 +149,14 @@
       "emoji": "🇿🇦",
       "count": 0
     },
+    "MX": {
+      "name": "墨西哥",
+      "emoji": "🇲🇽",
+      "count": 0
+    },
     "BR": {
       "name": "巴西",
       "emoji": "🇧🇷",
-      "count": 0
-    },
-    "TH": {
-      "name": "泰国",
-      "emoji": "🇹🇭",
       "count": 0
     },
     "CZ": {
@@ -164,6 +169,11 @@
       "emoji": "🇳🇴",
       "count": 0
     },
+    "EG": {
+      "name": "埃及",
+      "emoji": "🇪🇬",
+      "count": 0
+    },
     "CL": {
       "name": "智利",
       "emoji": "🇨🇱",
@@ -174,19 +184,19 @@
       "emoji": "🇲🇾",
       "count": 0
     },
-    "MX": {
-      "name": "墨西哥",
-      "emoji": "🇲🇽",
-      "count": 0
-    },
-    "IE": {
-      "name": "爱尔兰",
-      "emoji": "🇮🇪",
+    "PH": {
+      "name": "菲律宾",
+      "emoji": "🇵🇭",
       "count": 0
     },
     "VN": {
       "name": "越南",
       "emoji": "🇻🇳",
+      "count": 0
+    },
+    "TW": {
+      "name": "台湾",
+      "emoji": "🇹🇼",
       "count": 0
     }
   }
