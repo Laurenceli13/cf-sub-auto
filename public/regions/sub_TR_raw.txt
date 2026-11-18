@@ -1,7 +1,5 @@
 trojan://d7563108-615c-4338-a7bd-77f359869a4a@sclass-b1.catcat321.com:20027?allowInsecure=0&sni=hk.catxstar.com#%F0%9F%87%B9%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20trojan-TR-...
 trojan://d7563108-615c-4338-a7bd-77f359869a4a@sclass-b1.catcat321.com:20028?sni=hk.catxstar.com#%F0%9F%87%B9%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20trojan-TR-...%20%231
-vless://0eed6293-8cf1-4e77-ac10-9c3d50d0b2f8@151.241.226.201:2053?sni=www.apple.com&fp=firefox&security=tls#%F0%9F%87%B9%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20vless-TR-1...%20%232
-vless://40ec5509-5da9-44b8-bb25-e6091ac9c6db@143.246.41.216:443?sni=831545x.de28.h1clayd.shop&fp=firefox&security=tls#%F0%9F%87%B9%F0%9F%87%B7%20%E5%9C%9F%E8%80%B3%E5%85%B6%20%7C%20TUR%20%231
-vless://a346c521-7a7f-452b-9356-a4893feb5982@62.133.63.45:8444?sni=github.com&type=grpc&serviceName=GunService&fp=safari&security=tls#%F0%9F%87%B9%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20vless-TR-1...%20%231
-vless://ecc0e60a-f2cc-4266-8353-b228df89730a@45.92.219.47:443?sni=ty.galactichub.online&flow=xtls-rprx-vision&fp=chrome&security=tls#%F0%9F%87%B9%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20vless-TR-1...
+vless://0eed6293-8cf1-4e77-ac10-9c3d50d0b2f8@151.241.226.201:2053?sni=www.apple.com&fp=firefox&security=tls#%F0%9F%87%B9%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20vless-TR-1...%20%231
+vless://a346c521-7a7f-452b-9356-a4893feb5982@62.133.63.45:8444?sni=github.com&type=grpc&serviceName=GunService&fp=safari&security=tls#%F0%9F%87%B9%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20vless-TR-1...
 vless://fd0a5c32-afc0-4d57-b95a-ca6ec8f93e87@193.160.141.27:443?allowInsecure=0&sni=abuse.ozon.ru&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#TR_speednode_0038
