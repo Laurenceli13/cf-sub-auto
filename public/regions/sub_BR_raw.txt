@@ -1,4 +1,2 @@
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.238.104.154:443?#%F0%9F%87%A7%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20trojan-BR-...
 vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@de9.pad-sservice.lat:8443?allowInsecure=0&sni=de9.pad-sservice.lat&type=ws&host=de9.pad-service.com&path=/DE9Wsecurity=tls#BR_speednode_0003
-vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform102.golnamakcert.top:80?type=ws&host=platform102.halalkhor.info&path=/platform102#%F0%9F%87%A7%F0%9F%87%B7%20%E5%B7%B4%E8%A5%BF%20%7C%20BRA%20%231
-vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform103.golnamakcert.top:80?type=ws&host=platform103.halalkhor.info&path=/platform103#%F0%9F%87%A7%F0%9F%87%B7%20%E5%B7%B4%E8%A5%BF%20%7C%20BRA%20%232
