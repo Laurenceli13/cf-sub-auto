@@ -5,12 +5,10 @@ ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@172.99.189.142:19999#%F0%9F%87%AB%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20ss-FR-1615...%20%232
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@23.162.152.22:19999#%F0%9F%87%AB%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20ss-FR-1616...
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@38.109.228.110:19999#%F0%9F%87%AB%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20ss-FR-1615...
+vless://11111111-2222-3333-4444-555555555555@jdxl.cf.090227.xyz:443?sni=notified-rendered-moore-consideration.trycloudflare.com&type=ws&host=notified-rendered-moore-consideration.trycloudflare.com&path=/tg-jiedianxieloufp=chrome&security=tls#%F0%9F%87%AB%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20vless-FR-1...
 vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@ov-france1.09vpn.com:80?sni=ov-france1.09vpn.com&type=ws&host=ov-france1.09vpn.com&path=/vless/#%F0%9F%87%AB%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20vless-FR-1...%20%233
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.10:23576?sni=fuck.rkn&flow=xtls-rprx-vision&fp=chrome&security=tls#%F0%9F%87%AB%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20vless-FR-1...%20%232
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.2:23576?sni=fuck.rkn&flow=xtls-rprx-vision&fp=chrome&security=tls#%F0%9F%87%AB%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20vless-FR-1...%20%234
-vless://6cc745e3-4eb9-46c8-a4a1-85dee7b87edc@138.124.70.41:14430?sni=138.124.70.41&type=ws&host=138.124.70.41&path=/vless#%F0%9F%87%AB%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20vless-FR-1...
 vless://81dc0b61-f9fe-4ad6-8b4e-b8c067b73712@152.228.139.33:35108?sni=www.nvidia.com&type=grpc&serviceName=grpc-common3&fp=firefox&security=tls#%F0%9F%87%AB%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20vless-FR-1...%20%231
-vless://a6142d9d-3f9f-47b7-b7e9-1245dd6a15d6@45.95.98.139:443?security=tls&type=tcp&packetEncoding=none&alpn=h2%2Chttp%2F1.1&sni=45.95.98.130&fp=firefox&flow=xtls-rprx-vision#%F0%9F%87%AB%F0%9F%87%B7FR_1%7C3.7MB%2Fs
-vless://a6142d9d-3f9f-47b7-b7e9-1245dd6a15d6@45.95.98.139:443?sni=45.95.98.130&alpn=h2%2Chttp/1.1&flow=xtls-rprx-vision&fp=firefox&security=tls#%F0%9F%87%AB%F0%9F%87%B7%20%E6%B3%95%E5%9B%BD%20%7C%20FRA%20%231
 vless://b320eba7-5380-4bd1-b5e6-32daab16066f@fr-d.duckray.co.uk:3443?encryption=none&type=grpc&mode=gun&security=reality&sni=api.github.com&fp=random&pbk=Ps_w7KP3VFrZv1niWfX3synmJq_d2c7sVSckxa3sgio#%F0%9F%87%AB%F0%9F%87%B7%20France
 vless://b9bfa54d-bc44-4592-a6d6-89a9665d286f@edge.bookmai.com:443?allowInsecure=1&sni=mother-earth.fyi&flow=xtls-rprx-vision&fp=chrome&security=tls#%E6%B3%95%E5%9B%BD%7C%40ripaojiedian
