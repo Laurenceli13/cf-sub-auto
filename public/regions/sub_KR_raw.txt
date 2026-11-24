@@ -1,3 +1,6 @@
-hysteria2://7e68e32f-8015-4f37-9082-70e8b0b58043@43.203.225.155:443?insecure=1&sni=www.bing.com#%F0%9F%87%B0%F0%9F%87%B7%20%E9%9F%A9%E5%9B%BD%20%7C%20KOR%20%231
+hysteria2://7e68e32f-8015-4f37-9082-70e8b0b58043@13.124.216.73:443?insecure=1&sni=www.bing.com#%F0%9F%87%B0%F0%9F%87%B7%20%E9%9F%A9%E5%9B%BD%20%7C%20KOR%20%231
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTY4ZTMyZi04MDE1LTRmMzctOTA4Mi03MGU4YjBiNTgwNDM=@3.38.213.49:8443#%F0%9F%87%B0%F0%9F%87%B7%20%E9%9F%A9%E5%9B%BD%20%7C%20KOR%20%231
 vless://27c5483f-17f4-48ae-9a04-def53d88440d@152.69.226.63:25555?type=ws&path=/#%F0%9F%87%B0%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20vless-KR-1...
+vless://319d5ffb-57e8-4bbd-ac0c-5d55d0c253de@47.80.19.173:2053?sni=gateway.icloud.com&flow=xtls-rprx-vision&fp=chrome&security=tls#%F0%9F%87%B0%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20vless-KR-1...%20%231
+vless://5807f1c4-b50e-4ec0-8d01-274045da0da5@dddz-4-z.473221.xyz:43118?sni=v1-dy.ixigua.com&flow=xtls-rprx-vision&fp=firefox&security=tls#%F0%9F%87%B0%F0%9F%87%B7%20%E9%9F%A9%E5%9B%BD%20%7C%20KOR%20%232
 vless://b69cf773-da16-486e-afce-a45b94f998b3@131.186.22.95:8443?allowInsecure=1&sni=senflarelink-node-il65vh.pages.dev&type=ws&host=senflarelink-node-il65vh.pages.dev&path=/flow=&fp=chrome&security=tls#%E9%9F%A9%E5%9B%BD%7C%40ripaojiedian
