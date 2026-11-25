@@ -1,1 +1,1 @@
-hysteria2://gf1@185.156.44.99:443?insecure=1&sni=www.amazon.com#%F0%9F%87%B7%F0%9F%87%B4RO-%F0%9F%9A%80%40VPNine1
+vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@193.168.140.175:443?&security=tls&fp=firefox&alpn=http%2F1.1&sni=inlay.merlano.monster&type=ws&headerType=none&host=inlay.merlano.monster&path=%2Fapi%2Fde3%2Fstream#%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A+V2CROSS.COM
