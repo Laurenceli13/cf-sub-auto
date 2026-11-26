@@ -1,1 +1,2 @@
-vless://3a1c6827-72a1-4d1c-9413-44109ff815f4@130.94.2.227:443?sni=navi.bankrate.com&fp=chrome&security=tls#%F0%9F%87%B9%F0%9F%87%B7%20%E5%9C%9F%E8%80%B3%E5%85%B6%20%7C%20TUR%20%231
+vless://56665684-5ac0-4ba9-9d49-8b258fb57974@turkey-ip1.mmdaqaorg.xyz:50738?sni=turkey-ip1.mmdaqaorg.xyz&alpn=h2%2Chttp/1.1&fp=chrome&security=tls#%F0%9F%87%B9%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20vless-TR-1...
+vless://c28b9935-9392-48e9-947a-abad1ad9c933@tr.subscriptionservice.ir:8443?#%F0%9F%87%B9%F0%9F%87%B7TR_1%7C2.8MB/s
