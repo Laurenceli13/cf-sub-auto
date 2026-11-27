@@ -1,4 +1,2 @@
-vless://00799b08-1090-4ed3-bec0-0fa26816a703@72.56.69.70:443?sni=plaksa.bootless.ru&fp=chrome&security=tls#%F0%9F%87%B5%F0%9F%87%B1PL_1%7C2.5MB/s
-vless://b432a23a-acff-425c-bf69-70480cd6ed09@devcdn.icu:443?sni=devcdn.icu&alpn=http/1.1&type=ws&host=devcdn.icu&path=/edge/chunk/b2265efffa29/fp=chrome&security=tls#%F0%9F%87%B5%F0%9F%87%B1%20%E6%B3%A2%E5%85%B0%20%7C%20POL%20%231
 vless://d7121b33-e335-4921-bb00-4c0b157e7fc1@94.183.167.172:443?sni=s8k4.scan-cdn.com&fp=chrome&security=tls#%F0%9F%87%B5%F0%9F%87%B1%5Bwww.v2nodes.com%5D%20vless-PL-1...
 vless://d7d724b5-17ce-4f3c-877d-dfbf0f07afa1@150.251.113.34:443?allowInsecure=1&sni=www.cloudflare.com&flow=xtls-rprx-vision&fp=chrome&security=tls#%F0%9F%87%B5%F0%9F%87%B1%5Bwww.v2nodes.com%5D%20vless-PL-1...%20%231
