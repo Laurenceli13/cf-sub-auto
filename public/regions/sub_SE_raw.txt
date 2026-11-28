@@ -3,3 +3,5 @@ vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@185.247.224.206:443?sni=accessfoote
 vless://80de563a-cac8-40ea-8cb0-4cb082dd92f9@5.178.109.174:14430?type=ws&host=5.178.109.174&path=/vless#%F0%9F%87%B8%F0%9F%87%AA%5Bwww.v2nodes.com%5D%20vless-SE-1...%20%233
 vless://9f749472-c636-4c5a-af51-7f8feefaac81@ws.dhafhdtjdti.site:2053?sni=ws.dhafhdtjdti.site&type=ws&host=ws.dhafhdtjdti.site&path=/fp=chrome&security=tls#%F0%9F%87%B8%F0%9F%87%AA%5Bwww.v2nodes.com%5D%20vless-SE-1...
 vless://b2fe1fa4-6a79-4938-a3f4-63b54ae7f16b@138.124.86.230:48115?sni=138-124-86-230.sslip.io&type=grpc&serviceName=138-124-86-230-sslip-io&fp=firefox&security=tls#%F0%9F%87%B8%F0%9F%87%AA%5Bwww.v2nodes.com%5D%20vless-SE-1...%20%232
+vless://ba373a70-295f-482d-a471-8bc17b54e23b@79.141.174.144:443?sni=seb.899themes.pro&type=grpc&serviceName=&fp=firefox&security=tls#%F0%9F%87%B8%F0%9F%87%AA%20%E7%91%9E%E5%85%B8%20%7C%20SWE%20%231
+vless://ba373a70-295f-482d-a471-8bc17b54e23b@79.141.174.144:443?sni=seb.899themes.pro&type=grpc&serviceName=neurex&fp=firefox&security=tls#%F0%9F%87%B8%F0%9F%87%AA%20%E7%91%9E%E5%85%B8%20%7C%20SWE

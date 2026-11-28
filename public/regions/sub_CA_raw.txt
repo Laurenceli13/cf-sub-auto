@@ -4,6 +4,10 @@ ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.79.85.185:8118#%F0%9F%87%A8%F0%9F%8
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.222.136.236:8882#%F0%9F%87%A8%F0%9F%87%A6%5Bwww.v2nodes.com%5D%20ss-CA-1557...
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.12.127:445#%F0%9F%87%A8%F0%9F%87%A6%5Bwww.v2nodes.com%5D%20ss-CA-1538...
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.141.125:445#%F0%9F%87%A8%F0%9F%87%A6%5Bwww.v2nodes.com%5D%20ss-CA-1559...
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.152:443?#%F0%9F%87%A8%F0%9F%87%A6%5Bwww.v2nodes.com%5D%20trojan-CA-...%20%235
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.152:443?#%F0%9F%87%A8%F0%9F%87%A6%5Bwww.v2nodes.com%5D%20trojan-CA-...%20%236
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.74:443?#%F0%9F%87%A8%F0%9F%87%A6%5Bwww.v2nodes.com%5D%20trojan-CA-...%20%234
-vless://989d58b8-d2ea-4d28-b5ff-0f3cd078f2cf@www.gov.se:8080?sni=www.gov.se&type=ws&host=sdf23g-billowing-moon-348e.mzm468gc.workers.dev&path=/#%F0%9F%87%A8%F0%9F%87%A6%5Bwww.v2nodes.com%5D%20vless-CA
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.79:443?allowInsecure=0&sni=blog.connectingpeoplewithgreatjobs.com#%F0%9F%87%A8%F0%9F%87%A6%5Bwww.v2nodes.com%5D%20trojan-CA-...%20%235
+vless://ba373a70-295f-482d-a471-8bc17b54e23b@79.141.166.81:443?sni=hazelforge.xyz&type=grpc&serviceName=&fp=firefox&security=tls#%F0%9F%87%A8%F0%9F%87%A6%20%E5%8A%A0%E6%8B%BF%E5%A4%A7%20%7C%20CAN%20%231
+vless://ba373a70-295f-482d-a471-8bc17b54e23b@79.141.166.81:443?sni=hazelforge.xyz&type=grpc&serviceName=neurex&fp=firefox&security=tls#%F0%9F%87%A8%F0%9F%87%A6%20%E5%8A%A0%E6%8B%BF%E5%A4%A7%20%7C%20CAN
+vless://bf14dc50-e9f2-49fd-8642-620446edeafb@www.visa.com:2083?sni=v4-77j.pages.dev&type=ws&host=v4-77j.pages.dev&path=/fp=chrome&security=tls#%F0%9F%87%A8%F0%9F%87%A6%5Bwww.v2nodes.com%5D%20vless-CA-1...%20%231
+vless://ca52e2b6-fb9f-4dac-b6dc-49da9923f251@209.200.246.148:443?sni=www.cloudflare.com&flow=xtls-rprx-vision&fp=firefox&security=tls#%F0%9F%87%A8%F0%9F%87%A6%5Bwww.v2nodes.com%5D%20vless-CA-1...%20%235
